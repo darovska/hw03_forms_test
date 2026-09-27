@@ -1,0 +1,118 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <meta name="description" content="International Investment Trend Radar — редакционный радар трендов, SEO-кластеров и инфоповодов." />
+  <title>International Investment — Trend Radar</title>
+  <link rel="stylesheet" href="./styles.css" />
+</head>
+<body>
+  <main class="page-shell">
+    <header class="topbar">
+      <div>
+        <a class="brand" href="https://internationalinvestment.biz/" target="_blank" rel="noreferrer">International Investment</a>
+        <p class="eyebrow">Editorial Intelligence</p>
+      </div>
+      <a id="reportLink" class="report-link" target="_blank" rel="noreferrer">Полный отчет ↗</a>
+    </header>
+
+    <section class="hero">
+      <div>
+        <p class="eyebrow">Trend Radar</p>
+        <h1>Что стоит брать в работу сейчас</h1>
+        <p class="hero-copy">Редакционные тренды недели: сила сигнала, потенциал темы и поисковый хвост в одном радаре.</p>
+      </div>
+      <div class="period-card">
+        <span>Период</span>
+        <strong id="period">—</strong>
+        <small id="updatedAt">Обновлено: —</small>
+      </div>
+    </section>
+
+    <section class="stats" aria-label="Сводка">
+      <article><span>Трендов</span><strong id="trendCount">—</strong></article>
+      <article><span>Высокий приоритет</span><strong id="highCount">—</strong></article>
+      <article><span>SEO-кластеров</span><strong id="clusterCount">—</strong></article>
+    </section>
+
+    <section class="controls" aria-label="Фильтры">
+      <div class="filter-group">
+        <span>Категория</span>
+        <div id="categoryFilters" class="chips"></div>
+      </div>
+      <label class="priority-control">
+        <span>Приоритет</span>
+        <select id="priorityFilter">
+          <option value="all">Все</option>
+          <option value="high">Высокий</option>
+          <option value="medium">Средний</option>
+          <option value="low">Низкий</option>
+        </select>
+      </label>
+    </section>
+
+    <section class="radar-panel">
+      <div class="section-head">
+        <div>
+          <p class="eyebrow">Radar</p>
+          <h2>Сила тренда × редакционный потенциал</h2>
+        </div>
+        <div class="legend">
+          <span><i class="dot dot-seo"></i>Размер = SEO-потенциал</span>
+          <span><i class="dot dot-active"></i>Кликните по пузырю</span>
+        </div>
+      </div>
+
+      <div class="radar-wrap">
+        <svg id="radar" viewBox="0 0 1000 620" role="img" aria-labelledby="radarTitle radarDesc">
+          <title id="radarTitle">Радар трендов International Investment</title>
+          <desc id="radarDesc">По горизонтали — редакционный потенциал, по вертикали — сила тренда, размер пузыря — SEO-потенциал.</desc>
+        </svg>
+      </div>
+
+      <aside id="trendDetail" class="trend-detail" aria-live="polite">
+        <p class="muted">Выберите пузырь на радаре или карточку тренда ниже.</p>
+      </aside>
+    </section>
+
+    <section class="work-now">
+      <div class="section-head">
+        <div>
+          <p class="eyebrow">Action</p>
+          <h2>Брать в работу сейчас</h2>
+        </div>
+      </div>
+      <div id="workNowGrid" class="work-grid"></div>
+    </section>
+
+    <section>
+      <div class="section-head">
+        <div>
+          <p class="eyebrow">Signals</p>
+          <h2>Все тренды недели</h2>
+        </div>
+        <span id="visibleCount" class="muted"></span>
+      </div>
+      <div id="trendCards" class="trend-grid"></div>
+    </section>
+
+    <section class="seo-section">
+      <div class="section-head">
+        <div>
+          <p class="eyebrow">SEO</p>
+          <h2>Кластеры для системной работы</h2>
+        </div>
+      </div>
+      <div id="seoClusters" class="seo-grid"></div>
+    </section>
+
+    <footer>
+      <span>International Investment Trend Radar</span>
+      <span id="footerUpdate">—</span>
+    </footer>
+  </main>
+
+  <script src="./app.js" defer></script>
+</body>
+</html>
