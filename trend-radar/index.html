@@ -18,8 +18,9 @@
     </header>
 
     <nav class="view-tabs" aria-label="Разделы радара">
-      <button id="currentTab" class="view-tab is-active" type="button" data-view="current">Текущая сводка</button>
-      <button id="historyTab" class="view-tab" type="button" data-view="history">История</button>
+      <button class="view-tab is-active" type="button" data-view="current">Текущая сводка</button>
+      <button class="view-tab" type="button" data-view="history">История</button>
+      <button class="view-tab" type="button" data-view="sources">Источники мониторинга</button>
     </nav>
 
     <div id="currentView">
@@ -69,14 +70,9 @@
             <span><i class="dot dot-active"></i>Кликните по пузырю</span>
           </div>
         </div>
-
         <div class="radar-wrap">
-          <svg id="radar" viewBox="0 0 1000 620" role="img" aria-labelledby="radarTitle radarDesc">
-            <title id="radarTitle">Радар трендов International Investment</title>
-            <desc id="radarDesc">По горизонтали — редакционный потенциал, по вертикали — сила тренда, размер пузыря — SEO-потенциал.</desc>
-          </svg>
+          <svg id="radar" viewBox="0 0 1000 620" role="img" aria-label="Радар трендов"></svg>
         </div>
-
         <aside id="trendDetail" class="trend-detail" aria-live="polite">
           <p class="muted">Выберите пузырь на радаре или карточку тренда ниже.</p>
         </aside>
@@ -84,20 +80,14 @@
 
       <section class="work-now">
         <div class="section-head">
-          <div>
-            <p class="eyebrow">Action</p>
-            <h2>Брать в работу сейчас</h2>
-          </div>
+          <div><p class="eyebrow">Action</p><h2>Брать в работу сейчас</h2></div>
         </div>
         <div id="workNowGrid" class="work-grid"></div>
       </section>
 
       <section>
         <div class="section-head">
-          <div>
-            <p class="eyebrow">Signals</p>
-            <h2>Все тренды недели</h2>
-          </div>
+          <div><p class="eyebrow">Signals</p><h2>Все тренды недели</h2></div>
           <span id="visibleCount" class="muted"></span>
         </div>
         <div id="trendCards" class="trend-grid"></div>
@@ -105,10 +95,7 @@
 
       <section class="seo-section">
         <div class="section-head">
-          <div>
-            <p class="eyebrow">SEO</p>
-            <h2>Кластеры для системной работы</h2>
-          </div>
+          <div><p class="eyebrow">SEO</p><h2>Кластеры для системной работы</h2></div>
         </div>
         <div id="seoClusters" class="seo-grid"></div>
       </section>
@@ -116,13 +103,23 @@
 
     <section id="historyView" class="history-view" hidden>
       <div class="history-hero">
-        <div>
-          <p class="eyebrow">Archive</p>
-          <h1>История трендрадара</h1>
-          <p class="hero-copy">Короткие недельные саммари сохраняются здесь. Основная текущая сводка при обновлении не стирается: предыдущая неделя переносится в архив.</p>
-        </div>
+        <p class="eyebrow">Archive</p>
+        <h1>История трендрадара</h1>
+        <p class="hero-copy">Короткие недельные саммари сохраняются здесь. Предыдущая неделя не стирается при обновлении.</p>
       </div>
       <div id="historyList" class="history-list"></div>
+    </section>
+
+    <section id="sourcesView" class="history-view" hidden>
+      <div class="history-hero">
+        <p class="eyebrow">Monitoring</p>
+        <h1>Источники мониторинга</h1>
+        <p class="hero-copy">Постоянный пул для поиска ранних сигналов и проверки цифр. Медиа и отраслевые издания находят сюжет, первичные источники подтверждают данные.</p>
+      </div>
+      <div class="source-principle">
+        <strong>Правило радара:</strong> вторичный источник может дать сигнал, но ключевые цифры и изменения правил по возможности подтверждаются первичным источником.
+      </div>
+      <div id="sourceGroups" class="source-groups"></div>
     </section>
 
     <footer>
