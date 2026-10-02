@@ -21,6 +21,7 @@ async function init(){
   renderSeo();
   renderHistory();
   renderSources();
+  renderSeoSignals();
   renderAll();
 }
 
@@ -29,6 +30,7 @@ function switchView(view){
   document.querySelector("#currentView").hidden=view!=="current";
   document.querySelector("#historyView").hidden=view!=="history";
   document.querySelector("#sourcesView").hidden=view!=="sources";
+  document.querySelector("#seoView").hidden=view!=="seo";
   document.querySelectorAll(".view-tab").forEach(function(btn){btn.classList.toggle("is-active",btn.dataset.view===view)});
 }
 
@@ -163,6 +165,31 @@ function renderHistory(){
     const card=document.createElement("article");
     card.className="history-card";
     card.innerHTML='<div class="history-card-head"><div><p class="eyebrow">Неделя</p><h2>'+esc(h.period)+'</h2></div><span class="muted">Сохранено: '+esc(h.savedAt||h.updatedAt||"—")+'</span></div><p class="summary">'+esc(h.summary)+'</p><div class="history-points">'+points+'</div><div class="history-links">'+report+'</div>';
+    w.appendChild(card);
+  });
+}
+
+function renderSeoSignals(){
+  const w=document.querySelector("#seoSignalList");
+  if(!w) return;
+  const seo=state.data.seoSignals||{};
+  const queries=seo.queries||[];
+  document.querySelector("#seoUpdatedAt").textContent=seo.updatedAt?"Обновлено: "+seo.updatedAt:"Данные SEO пока не загружены";
+  document.querySelector("#seoQueryCount").textContent=queries.length;
+  const pages=new Set(queries.map(function(q){return q.url}).filter(Boolean));
+  document.querySelector("#seoPageCount").textContent=pages.size;
+  document.querySelector("#seoOpportunityCount").textContent=queries.filter(function(q){return q.opportunity===true}).length;
+  w.innerHTML="";
+  if(!queries.length){
+    w.innerHTML='<div class="seo-empty">Интерфейс готов. Для числовых метрик нужны выгрузки из Яндекс Вебмастера и/или Google Search Console: query, page, impressions, clicks, CTR, average position за 7 и 28 дней.</div>';
+    return;
+  }
+  queries.forEach(function(q){
+    const card=document.createElement("article");
+    card.className="seo-signal-card";
+    const action=q.action||"Наблюдать";
+    const fmt=function(v,suffix){return (v===null||v===undefined||v==="")?"—":String(v)+(suffix||"")};
+    card.innerHTML='<div class="seo-signal-card-head"><div><h3>'+esc(q.query||q.cluster||"SEO-сигнал")+'</h3><div class="url">'+esc(q.url||"Страница еще не назначена")+'</div></div><div class="badges">'+(q.opportunity?'<span class="badge growing">Возможность</span>':'')+'<span class="badge">'+esc(q.source||"SEO")+'</span></div></div><div class="seo-metrics"><div class="seo-metric"><span>Показы 7д</span><strong>'+fmt(q.impressions7)+'</strong></div><div class="seo-metric"><span>Показы 28д</span><strong>'+fmt(q.impressions28)+'</strong></div><div class="seo-metric"><span>Клики 7д</span><strong>'+fmt(q.clicks7)+'</strong></div><div class="seo-metric"><span>CTR</span><strong>'+fmt(q.ctr,"%")+'</strong></div><div class="seo-metric"><span>Позиция</span><strong>'+fmt(q.position)+'</strong></div><div class="seo-metric"><span>Δ 7/28</span><strong>'+fmt(q.delta,"%")+'</strong></div></div><div class="seo-action"><span>Что делать</span>'+esc(action)+'</div>';
     w.appendChild(card);
   });
 }
