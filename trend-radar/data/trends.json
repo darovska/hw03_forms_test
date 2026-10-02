@@ -390,6 +390,13 @@
       "description": "Турпоток, загрузка, ADR/RevPAR, новые отели, сделки и авиасообщение.",
       "sources": [
         {
+          "name": "TravelDailyNews",
+          "url": "https://www.traveldailynews.com/blog/",
+          "use": "Ежедневные сигналы по турпотоку, авиасообщению, гостиницам, новым проектам, destination marketing и статистике путешествий; сильные цифры перепроверять по первичному источнику.",
+          "priority": "core",
+          "role": "signal"
+        },
+        {
           "name": "Skift",
           "url": "https://skift.com/",
           "use": "Туристический спрос, авиарынок, гостиничные бренды, travel tech и инвестиционные тренды.",
@@ -511,6 +518,125 @@
           "use": "Дубай: сделки с недвижимостью, регистрационные данные и активность рынка.",
           "priority": "core",
           "role": "verification"
+        },
+        {
+          "name": "Statistics Portugal (INE)",
+          "url": "https://www.ine.pt/",
+          "use": "Португалия: жилье и строительство, туризм, население, миграция, доходы и экономика.",
+          "priority": "core",
+          "role": "verification"
+        },
+        {
+          "name": "ELSTAT",
+          "url": "https://www.statistics.gr/en/home",
+          "use": "Греция: жилье и строительство, туризм, цены, население и экономика.",
+          "priority": "core",
+          "role": "verification"
+        },
+        {
+          "name": "Statistics Finland",
+          "url": "https://stat.fi/en",
+          "use": "Финляндия: жилье, аренда, строительство, население, туризм и экономика.",
+          "priority": "core",
+          "role": "verification"
+        },
+        {
+          "name": "Statistics Austria",
+          "url": "https://www.statistik.at/en/",
+          "use": "Австрия: цены на жилье и аренду, строительство, население, туризм и экономика.",
+          "priority": "core",
+          "role": "verification"
+        },
+        {
+          "name": "Croatian Bureau of Statistics",
+          "url": "https://dzs.gov.hr/",
+          "use": "Хорватия: туризм, жилье и строительство, цены, население и экономика.",
+          "priority": "core",
+          "role": "verification"
+        },
+        {
+          "name": "Czech Statistical Office",
+          "url": "https://www.czso.cz/",
+          "use": "Чехия: жилье, строительство, туризм, население, занятость и экономика.",
+          "priority": "core",
+          "role": "verification"
+        },
+        {
+          "name": "Statistics Estonia",
+          "url": "https://www.stat.ee/en",
+          "use": "Эстония: недвижимость, строительство, население, туризм, инвестиции и экономика.",
+          "priority": "core",
+          "role": "verification"
+        },
+        {
+          "name": "Official Statistics of Latvia",
+          "url": "https://stat.gov.lv/en",
+          "use": "Латвия: жилье, строительство, миграция, туризм и экономика.",
+          "priority": "core",
+          "role": "verification"
+        },
+        {
+          "name": "NSI Bulgaria",
+          "url": "https://www.nsi.bg/en",
+          "use": "Болгария: жилье и строительство, туризм, население, цены и экономика.",
+          "priority": "core",
+          "role": "verification"
+        },
+        {
+          "name": "Statistical Office of Serbia",
+          "url": "https://www.stat.gov.rs/en-US/",
+          "use": "Сербия: цены новостроек, разрешения на строительство, туризм, население и экономика.",
+          "priority": "core",
+          "role": "verification"
+        },
+        {
+          "name": "MONSTAT",
+          "url": "https://www.monstat.org/eng/index.php",
+          "use": "Черногория: туризм, строительство, цены, население и экономика.",
+          "priority": "core",
+          "role": "verification"
+        },
+        {
+          "name": "INE Spain",
+          "url": "https://www.ine.es/",
+          "use": "Испания: жилье, аренда, туризм, население, миграция и экономика.",
+          "priority": "core",
+          "role": "verification"
+        },
+        {
+          "name": "UK ONS",
+          "url": "https://www.ons.gov.uk/",
+          "use": "Великобритания: жилье, аренда, строительство, миграция, туризм и макроэкономика.",
+          "priority": "core",
+          "role": "verification"
+        },
+        {
+          "name": "Ireland CSO",
+          "url": "https://www.cso.ie/en/",
+          "use": "Ирландия: жилье, цены, строительство, население, миграция и туризм.",
+          "priority": "core",
+          "role": "verification"
+        },
+        {
+          "name": "SingStat",
+          "url": "https://www.singstat.gov.sg/",
+          "use": "Сингапур: экономика, население, туризм, торговля и инвестиции.",
+          "priority": "core",
+          "role": "verification"
+        },
+        {
+          "name": "Australian Bureau of Statistics",
+          "url": "https://www.abs.gov.au/",
+          "use": "Австралия: жилье, строительство, население, миграция, туризм и экономика.",
+          "priority": "core",
+          "role": "verification"
+        },
+        {
+          "name": "UAE Federal Competitiveness and Statistics Centre",
+          "url": "https://fcsc.gov.ae/",
+          "use": "ОАЭ: население, экономика, туризм и национальные статистические показатели; для сделок Дубая дополнительно использовать Dubai Land Department.",
+          "priority": "core",
+          "role": "verification"
         }
       ]
     }
@@ -522,5 +648,9 @@
       "googleSearchConsole": "not_loaded"
     },
     "queries": []
+  },
+  "sourcePolicy": {
+    "dynamicCountryStats": true,
+    "rule": "Если в текущем трендрадаре или публикациях International Investment появляется страна, которой нет в списке локальных источников, найти ее официальный государственный статистический орган и релевантный регулятор/реестр недвижимости, проверить официальный домен и добавить их в мониторинг как verification-источники."
   }
 }
