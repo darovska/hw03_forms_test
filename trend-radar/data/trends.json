@@ -514,5 +514,13 @@
         }
       ]
     }
-  ]
+  ],
+  "seoSignals": {
+    "updatedAt": "",
+    "sourceStatus": {
+      "yandexWebmaster": "not_loaded",
+      "googleSearchConsole": "not_loaded"
+    },
+    "queries": []
+  }
 }
