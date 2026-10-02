@@ -20,6 +20,7 @@ async function init(){
   document.querySelector("#priorityFilter").addEventListener("change",function(e){state.priority=e.target.value;renderAll()});
   renderSeo();
   renderHistory();
+  renderSources();
   renderAll();
 }
 
@@ -27,6 +28,7 @@ function switchView(view){
   state.view=view;
   document.querySelector("#currentView").hidden=view!=="current";
   document.querySelector("#historyView").hidden=view!=="history";
+  document.querySelector("#sourcesView").hidden=view!=="sources";
   document.querySelectorAll(".view-tab").forEach(function(btn){btn.classList.toggle("is-active",btn.dataset.view===view)});
 }
 
@@ -162,6 +164,26 @@ function renderHistory(){
     card.className="history-card";
     card.innerHTML='<div class="history-card-head"><div><p class="eyebrow">Неделя</p><h2>'+esc(h.period)+'</h2></div><span class="muted">Сохранено: '+esc(h.savedAt||h.updatedAt||"—")+'</span></div><p class="summary">'+esc(h.summary)+'</p><div class="history-points">'+points+'</div><div class="history-links">'+report+'</div>';
     w.appendChild(card);
+  });
+}
+
+function renderSources(){
+  const w=document.querySelector("#sourceGroups");
+  if(!w) return;
+  w.innerHTML="";
+  const groups=state.data.monitoringSources||[];
+  groups.forEach(function(group){
+    const section=document.createElement("section");
+    section.className="source-group";
+    const cards=(group.sources||[]).map(function(s){
+      const tags=[];
+      if(s.priority==="core") tags.push('<span class="source-tag core">core</span>');
+      if(s.role==="verification") tags.push('<span class="source-tag verify">проверка</span>');
+      if(s.priority==="support") tags.push('<span class="source-tag support">support</span>');
+      return '<article class="source-card"><div class="source-card-top"><h3><a href="'+s.url+'" target="_blank" rel="noreferrer">'+esc(s.name)+' ↗</a></h3></div><p>'+esc(s.use)+'</p><div class="source-meta">'+tags.join("")+'</div></article>';
+    }).join("");
+    section.innerHTML='<div class="source-group-head"><h2>'+esc(group.title)+'</h2><p>'+esc(group.description||"")+'</p></div><div class="source-grid">'+cards+'</div>';
+    w.appendChild(section);
   });
 }
 
