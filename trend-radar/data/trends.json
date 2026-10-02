@@ -287,5 +287,232 @@
       ],
       "reportUrl": "https://docs.google.com/document/d/18giQ5Xoz9jWced6FSLORfh6ddOOfVTaB3GGdy7Ljipw/edit"
     }
+  ],
+  "monitoringSources": [
+    {
+      "title": "Деловые СМИ и ранние сигналы",
+      "description": "Ищем крупные сдвиги капитала, ипотечного рынка, девелопмента и регулирования.",
+      "sources": [
+        {
+          "name": "Bloomberg",
+          "url": "https://www.bloomberg.com/",
+          "use": "Глобальные рынки, недвижимость, ставки, девелоперы, distressed assets, крупные сделки и инвестиционный капитал.",
+          "priority": "core",
+          "role": "signal"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/",
+          "use": "Макроэкономика, ставки, рынок жилья, регуляторные решения, корпоративные сделки и международные инвестиции.",
+          "priority": "core",
+          "role": "signal"
+        },
+        {
+          "name": "Financial Times",
+          "url": "https://www.ft.com/",
+          "use": "Крупный капитал, фонды, коммерческая недвижимость, банки, инфраструктура и институциональные инвестиции.",
+          "priority": "core",
+          "role": "signal"
+        }
+      ]
+    },
+    {
+      "title": "Недвижимость и инвестиционные рынки",
+      "description": "Отраслевые сигналы, сделки, доходность, офисы, логистика, жилье и альтернативные классы.",
+      "sources": [
+        {
+          "name": "Prian",
+          "url": "https://prian.ru/",
+          "use": "Быстрые сигналы по зарубежной недвижимости, иностранным покупателям, ценам, ВНЖ и локальным рынкам. Цифры перепроверять по первичному источнику.",
+          "priority": "core",
+          "role": "signal"
+        },
+        {
+          "name": "PropertyEU",
+          "url": "https://propertyeu.info/",
+          "use": "Панъевропейские сделки, фонды, коммерческая недвижимость, инвестиционные объемы и проекты.",
+          "priority": "core",
+          "role": "signal"
+        },
+        {
+          "name": "Bisnow",
+          "url": "https://www.bisnow.com/",
+          "use": "Коммерческая недвижимость, офисы, дата-центры, логистика, гостиницы и девелоперские тренды.",
+          "priority": "support",
+          "role": "signal"
+        },
+        {
+          "name": "MSCI Real Assets",
+          "url": "https://www.msci.com/real-assets",
+          "use": "Институциональные данные по инвестиционной недвижимости, доходности, объемам сделок и капиталу.",
+          "priority": "core",
+          "role": "verification"
+        },
+        {
+          "name": "CBRE Research",
+          "url": "https://www.cbre.com/insights",
+          "use": "Обзоры рынков, инвестиционные объемы, офисы, логистика, жилье и гостиницы.",
+          "priority": "support",
+          "role": "verification"
+        },
+        {
+          "name": "JLL Research",
+          "url": "https://www.jll.com/en-us/insights",
+          "use": "Capital markets, living, hotels, offices, logistics и cross-border investment.",
+          "priority": "support",
+          "role": "verification"
+        },
+        {
+          "name": "Savills Research",
+          "url": "https://www.savills.com/research_articles/255800/0",
+          "use": "Жилье, prime markets, аренда, инвестиции и международные сравнения.",
+          "priority": "support",
+          "role": "verification"
+        },
+        {
+          "name": "Knight Frank Research",
+          "url": "https://www.knightfrank.com/research",
+          "use": "Residential, prime property, wealth migration, города и глобальные индексы.",
+          "priority": "support",
+          "role": "verification"
+        },
+        {
+          "name": "Global Property Guide",
+          "url": "https://www.globalpropertyguide.com/",
+          "use": "Сравнения цен, rental yields, налоги и страновые карточки; использовать как вспомогательный источник.",
+          "priority": "support",
+          "role": "signal"
+        }
+      ]
+    },
+    {
+      "title": "Туризм и гостиничная недвижимость",
+      "description": "Турпоток, загрузка, ADR/RevPAR, новые отели, сделки и авиасообщение.",
+      "sources": [
+        {
+          "name": "Skift",
+          "url": "https://skift.com/",
+          "use": "Туристический спрос, авиарынок, гостиничные бренды, travel tech и инвестиционные тренды.",
+          "priority": "core",
+          "role": "signal"
+        },
+        {
+          "name": "CoStar / STR",
+          "url": "https://www.costar.com/",
+          "use": "Гостиничная загрузка, ADR, RevPAR, pipeline и сделки.",
+          "priority": "core",
+          "role": "verification"
+        },
+        {
+          "name": "UN Tourism",
+          "url": "https://www.unwto.org/",
+          "use": "Международные туристические прибытия, регионы, восстановление потоков и официальная статистика.",
+          "priority": "core",
+          "role": "verification"
+        }
+      ]
+    },
+    {
+      "title": "ВНЖ, миграция и регулирование",
+      "description": "Изменения программ, требования к инвесторам, визовые режимы и правовые ограничения.",
+      "sources": [
+        {
+          "name": "Investment Migration Council",
+          "url": "https://investmentmigration.org/",
+          "use": "Инвестиционная миграция, residence/citizenship by investment, отраслевые исследования и регуляторная повестка.",
+          "priority": "support",
+          "role": "signal"
+        },
+        {
+          "name": "Официальные миграционные и правительственные сайты",
+          "url": "https://europa.eu/",
+          "use": "Финальная проверка условий ВНЖ, виз, налоговых изменений и ограничений перед публикацией.",
+          "priority": "core",
+          "role": "verification"
+        }
+      ]
+    },
+    {
+      "title": "Макроэкономика и официальная статистика",
+      "description": "Подтверждаем цифры и отделяем рыночный шум от устойчивого тренда.",
+      "sources": [
+        {
+          "name": "Eurostat",
+          "url": "https://ec.europa.eu/eurostat/",
+          "use": "Цены на жилье, аренда, туризм, строительство, население, миграция и экономика ЕС.",
+          "priority": "core",
+          "role": "verification"
+        },
+        {
+          "name": "ECB",
+          "url": "https://www.ecb.europa.eu/",
+          "use": "Ставки, кредитование, ипотека, финансовая стабильность и коммерческая недвижимость еврозоны.",
+          "priority": "core",
+          "role": "verification"
+        },
+        {
+          "name": "OECD",
+          "url": "https://www.oecd.org/",
+          "use": "Housing affordability, house price indicators, макроэкономика, миграция и туризм.",
+          "priority": "support",
+          "role": "verification"
+        }
+      ]
+    },
+    {
+      "title": "Страны с высоким приоритетом International Investment",
+      "description": "Локальные первичные данные для рынков, которые сайт покрывает особенно активно.",
+      "sources": [
+        {
+          "name": "GeoStat",
+          "url": "https://www.geostat.ge/",
+          "use": "Грузия: туризм, население, строительство, цены и экономическая статистика.",
+          "priority": "core",
+          "role": "verification"
+        },
+        {
+          "name": "TBC Capital",
+          "url": "https://tbccapital.ge/",
+          "use": "Грузия: Тбилиси и Батуми, жилье, туризм, гостиницы и инвестиционные обзоры.",
+          "priority": "core",
+          "role": "verification"
+        },
+        {
+          "name": "Galt & Taggart",
+          "url": "https://galtandtaggart.com/",
+          "use": "Грузия: недвижимость, туризм, инфраструктура, банки и инвестиции.",
+          "priority": "core",
+          "role": "verification"
+        },
+        {
+          "name": "Israel CBS",
+          "url": "https://www.cbs.gov.il/",
+          "use": "Израиль: сделки, цены, строительство, население и официальная статистика.",
+          "priority": "core",
+          "role": "verification"
+        },
+        {
+          "name": "Bank of Israel",
+          "url": "https://www.boi.org.il/",
+          "use": "Израиль: ипотека, ставки, кредитование и финансовые риски рынка жилья.",
+          "priority": "core",
+          "role": "verification"
+        },
+        {
+          "name": "TurkStat",
+          "url": "https://www.tuik.gov.tr/",
+          "use": "Турция: продажи жилья, иностранные покупатели, инфляция и туризм.",
+          "priority": "core",
+          "role": "verification"
+        },
+        {
+          "name": "Dubai Land Department",
+          "url": "https://dubailand.gov.ae/",
+          "use": "Дубай: сделки с недвижимостью, регистрационные данные и активность рынка.",
+          "priority": "core",
+          "role": "verification"
+        }
+      ]
+    }
   ]
 }
