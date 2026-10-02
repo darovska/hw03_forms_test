@@ -20,6 +20,7 @@
     <nav class="view-tabs" aria-label="Разделы радара">
       <button class="view-tab is-active" type="button" data-view="current">Текущая сводка</button>
       <button class="view-tab" type="button" data-view="history">История</button>
+      <button class="view-tab" type="button" data-view="seo">SEO-сигналы</button>
       <button class="view-tab" type="button" data-view="sources">Источники мониторинга</button>
     </nav>
 
@@ -108,6 +109,30 @@
         <p class="hero-copy">Короткие недельные саммари сохраняются здесь. Предыдущая неделя не стирается при обновлении.</p>
       </div>
       <div id="historyList" class="history-list"></div>
+    </section>
+
+    <section id="seoView" class="history-view" hidden>
+      <div class="history-hero">
+        <p class="eyebrow">Search Intelligence</p>
+        <h1>SEO-сигналы</h1>
+        <p class="hero-copy">Соединяем внешний тренд с тем, что уже происходит в поиске: запросами, страницами, CTR, позициями и динамикой.</p>
+      </div>
+
+      <section class="seo-signal-summary" aria-label="Сводка SEO">
+        <article><span>Запросов в мониторинге</span><strong id="seoQueryCount">—</strong></article>
+        <article><span>Страниц в мониторинге</span><strong id="seoPageCount">—</strong></article>
+        <article><span>Быстрых возможностей</span><strong id="seoOpportunityCount">—</strong></article>
+      </section>
+
+      <div class="source-principle">
+        <strong>Логика:</strong> высокий внешний тренд + растущие показы/позиции = ускоряем публикацию. Высокие показы при слабом CTR = обновляем сниппет и первый экран. Сильный кластер без подходящей страницы = создаем новый хаб.
+      </div>
+
+      <div class="section-head">
+        <div><p class="eyebrow">Queries</p><h2>Поисковые сигналы</h2></div>
+        <span id="seoUpdatedAt" class="muted"></span>
+      </div>
+      <div id="seoSignalList" class="seo-signal-list"></div>
     </section>
 
     <section id="sourcesView" class="history-view" hidden>
