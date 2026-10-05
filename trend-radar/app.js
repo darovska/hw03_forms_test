@@ -22,6 +22,7 @@ async function init(){
   renderHistory();
   renderSources();
   renderSeoSignals();
+  renderCoverage();
   renderAll();
 }
 
@@ -165,6 +166,29 @@ function renderHistory(){
     const card=document.createElement("article");
     card.className="history-card";
     card.innerHTML='<div class="history-card-head"><div><p class="eyebrow">Неделя</p><h2>'+esc(h.period)+'</h2></div><span class="muted">Сохранено: '+esc(h.savedAt||h.updatedAt||"—")+'</span></div><p class="summary">'+esc(h.summary)+'</p><div class="history-points">'+points+'</div><div class="history-links">'+report+'</div>';
+    w.appendChild(card);
+  });
+}
+
+function renderCoverage(){
+  const w=document.querySelector("#coverageGapList");
+  if(!w) return;
+  const coverage=state.data.coverageMonitoring||{};
+  const gaps=coverage.gaps||[];
+  document.querySelector("#coverageUpdatedAt").textContent=coverage.updatedAt?"Обновлено: "+coverage.updatedAt:"Пока без аудита";
+  w.innerHTML="";
+  if(!gaps.length){
+    w.innerHTML='<div class="seo-empty">Матрица покрытия готова. После ближайшего аудита сайта здесь появятся страны и темы, где давно не было профильных обновлений.</div>';
+    return;
+  }
+  gaps.forEach(function(g){
+    const card=document.createElement("article");
+    card.className="coverage-card";
+    const topics=(g.topics||[]).map(function(t){
+      const cls=t.status==="urgent"?" urgent":(t.status==="stale"?" stale":"");
+      return '<span class="coverage-topic'+cls+'">'+esc(t.name)+' · '+esc(t.lastPublished||"нет даты")+'</span>';
+    }).join("");
+    card.innerHTML='<div class="coverage-card-head"><div><h3>'+esc(g.country)+'</h3><div class="coverage-meta">Последнее профильное обновление: '+esc(g.lastUpdate||"не найдено")+'</div></div><span class="badge '+(g.priority==="high"?"high":"medium")+'">'+esc(g.priority==="high"?"Высокий":"Средний")+'</span></div><div class="coverage-topics">'+topics+'</div><div class="coverage-reason">'+esc(g.reason||"Нужна проверка свежих данных и инфоповодов.")+'</div>';
     w.appendChild(card);
   });
 }
