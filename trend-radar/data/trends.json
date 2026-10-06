@@ -1,7 +1,7 @@
 {
   "meta": {
-    "period": "29 сентября – 5 октября 2026",
-    "updatedAt": "5 октября 2026",
+    "period": "30 сентября – 6 октября 2026",
+    "updatedAt": "6 октября 2026",
     "reportUrl": "https://docs.google.com/spreadsheets/d/1-qmLmoo9bImAVilC9TQBe6JaJiwJOla7jBbJMk0PiX0/edit?usp=drivesdk"
   },
   "categories": [
@@ -63,39 +63,43 @@
       "seoPotential": 99,
       "priority": "high",
       "status": "growing",
-      "signal": "Август: Тбилиси 3 388 сделок (+18,9% г/г), $297 млн (+35,2%); Батуми 1 235 сделок (-4,3%), $81 млн (+2,9%), иностранцы 52%.",
-      "why": "Сильный внешний сигнал совпал с поисковой возможностью существующего evergreen: 75 показов, 0 кликов, позиция 9,36.",
-      "editorialAngle": "Обновить существующий материал как сравнение двух рынков: локальный Тбилиси против более международного Батуми.",
+      "signal": "Материал по расхождению рынков Тбилиси и Батуми опубликован 6 октября; теперь главный резерв роста — SEO, перелинковка и продолжение гостиничного/туристического кластера.",
+      "why": "Свежий страновой материал уже закрывает текущий информационный повод, поэтому новый дубликат не нужен.",
+      "editorialAngle": "Следующий материал по Грузии брать только при новом официальном релизе; сейчас усилить связи недвижимости с туризмом, отелями и инфраструктурой.",
       "seoAngle": "Georgia property market 2026; Tbilisi property 2026; Batumi property 2026",
       "socialIdeas": [
         "Грузия — инвестиционный хаб"
       ],
       "sources": [
         {
-          "label": "RECOV / Colliers Georgia",
-          "url": "https://www.recov.ge/en/news"
+          "label": "International Investment — Georgia Property 2026",
+          "url": "https://internationalinvestment.biz/en/georgia/8897-georgia-property-2026-tbilisi-and-batumi-diverge.html"
         }
       ]
     },
     {
       "id": "rental-rules",
-      "title": "Краткосрочная аренда ЕС: спрос растет, темпы замедляются",
+      "title": "Краткосрочная аренда Европы: доход растет, спрос слабеет",
       "category": "Регулирование",
-      "trendStrength": 91,
-      "editorialPotential": 94,
-      "seoPotential": 94,
+      "trendStrength": 95,
+      "editorialPotential": 97,
+      "seoPotential": 96,
       "priority": "high",
       "status": "growing",
-      "signal": "Во II квартале через Airbnb, Booking и Expedia забронировано 258,8 млн ночей, +5,3% г/г и +23,9% к Q2 2024.",
-      "why": "Спрос продолжает расти одновременно с локальными ограничениями, поэтому регулирование все сильнее влияет на реальную доходность.",
-      "editorialAngle": "Показать не рейтинг курортов, а инвестиционную математику: спрос, сезонность, лицензии, налоги и ограничения.",
-      "seoAngle": "short-term rental Europe 2026; Airbnb rules Europe",
+      "signal": "Август: RevPAR +4,3% до €112,74 и ADR +7,5%, но demand nights -3,1%, occupancy -2,1 п.п. до 70,4%. Forward bookings Sep–Dec +2,3%.",
+      "why": "Новый сигнал меняет угол: рост выручки обеспечивают цены, а не расширение спроса. Это важнее простого роста бронирований.",
+      "editorialAngle": "Сравнить рынки, где pricing power компенсирует слабый спрос: Финляндия и север растут, Испания и Хорватия отстают.",
+      "seoAngle": "short-term rental Europe 2026; Airbnb occupancy Europe; RevPAR Europe 2026",
       "socialIdeas": [
         "Греция: налоги и дефицит аренды"
       ],
       "sources": [
         {
-          "label": "Eurostat short-term rentals",
+          "label": "TravelDailyNews / AirDNA August 2026",
+          "url": "https://www.traveldailynews.com/statistics-trends/europes-short-term-rental-market-posts-4-3-revpar-growth-in-august/"
+        },
+        {
+          "label": "Eurostat short-term rentals Q2",
           "url": "https://ec.europa.eu/eurostat/en/web/products-eurostat-news/w/ddn-20261002-1"
         }
       ]
@@ -229,16 +233,16 @@
     },
     {
       "id": "lapland",
-      "title": "Финляндия: рынок снова хуже ЕС",
+      "title": "Финляндия: жилье падает, туристический спрос ускоряется",
       "category": "Недвижимость",
-      "trendStrength": 87,
-      "editorialPotential": 92,
-      "seoPotential": 91,
+      "trendStrength": 91,
+      "editorialPotential": 95,
+      "seoPotential": 94,
       "priority": "high",
       "status": "growing",
-      "signal": "Eurostat Q2: цены на жилье -2,7% г/г против -2,0% в Q1; это самый слабый годовой результат среди стран ЕС с данными.",
-      "why": "Финляндия все сильнее расходится с южной и восточной Европой и дает отдельный страновой угол.",
-      "editorialAngle": "Почему Финляндия остается в минусе, пока ЕС дорожает: цены, аренда, кредит и региональный спрос.",
+      "signal": "Eurostat: жилье -2,7% г/г во II квартале. AirDNA: summer demand +7,2%, forward bookings Sep–Dec +22,6% — самый сильный рост среди европейских рынков в выборке.",
+      "why": "Расхождение недвижимости и туристического спроса дает более сильный инвестиционный сюжет, чем отдельный обзор цен на жилье.",
+      "editorialAngle": "Почему рынок жилья Финляндии слабый, а краткосрочный туристический спрос ускоряется: Хельсинки, Лапландия, сезонность и доходность.",
       "seoAngle": "Finland property market 2026",
       "socialIdeas": [
         "Финляндия: инвестор покупает, житель арендует"
@@ -247,6 +251,10 @@
         {
           "label": "Eurostat Q2 HPI",
           "url": "https://ec.europa.eu/eurostat/en/web/products-euro-indicators/w/2-01102026-bp"
+        },
+        {
+          "label": "TravelDailyNews / AirDNA",
+          "url": "https://www.traveldailynews.com/statistics-trends/europes-short-term-rental-market-posts-4-3-revpar-growth-in-august/"
         }
       ]
     },
@@ -303,6 +311,29 @@
         "Дата-центры — долгий тренд"
       ],
       "sources": []
+    },
+    {
+      "id": "austria-tourism",
+      "title": "Австрия: туристический спрос стабилен после сильного лета",
+      "category": "Туризм",
+      "trendStrength": 82,
+      "editorialPotential": 85,
+      "seoPotential": 79,
+      "priority": "medium",
+      "status": "growing",
+      "signal": "Statistics Austria 6 октября финализировала августовскую статистику; предварительный срез: 117,89 млн ночевок Jan–Aug (+1,5% г/г), 21,33 млн в августе — примерно без изменения.",
+      "why": "Страна давно не была самостоятельным туристическим приоритетом радара, а официальный релиз дает повод проверить гостиничный рынок и инвестиции.",
+      "editorialAngle": "Австрия после рекордного начала лета: спрос остается высоким, но август показывает стабилизацию. Проверить ADR/RevPAR, регионы и hotel pipeline.",
+      "seoAngle": "Austria tourism 2026; Austria hotel market 2026; hotel investment Austria",
+      "socialIdeas": [
+        "Австрийский туризм удерживает высокий уровень после рекордного начала лета"
+      ],
+      "sources": [
+        {
+          "label": "Statistics Austria",
+          "url": "https://www.statistik.at/en/statistics/tourism-and-transport/tourism/accommodation/arrivals-overnight-stays"
+        }
+      ]
     }
   ],
   "seoClusters": [
@@ -859,5 +890,46 @@
       "Не предлагать материал только ради частоты публикаций, если существенного обновления рынка нет."
     ],
     "gaps": []
+  },
+  "dailyUpdate": {
+    "date": "6 октября 2026",
+    "items": [
+      {
+        "label": "Новый официальный релиз",
+        "title": "Австрия: летний туризм держится у рекордов",
+        "signal": "Statistics Austria сегодня финализировала августовскую статистику. Предварительный срез показывал 117,89 млн ночевок за январь–август (+1,5% г/г), 63,31 млн с мая по август (+2,3%) и 21,33 млн ночевок в августе — примерно на уровне прошлого года.",
+        "action": "Проверить, когда последний раз отдельно обновляли Австрию по туризму/отелям. Если есть пробел покрытия — материал про устойчивый спрос при замедлении августа.",
+        "source": "Statistics Austria",
+        "url": "https://www.statistik.at/en/statistics/tourism-and-transport/tourism/accommodation/arrivals-overnight-stays",
+        "priority": "medium"
+      },
+      {
+        "label": "Сильный рыночный сигнал",
+        "title": "Краткосрочная аренда Европы растет за счет цены, а не спроса",
+        "signal": "В августе RevPAR краткосрочной аренды вырос на 4,3% до €112,74 при росте ADR на 7,5%, но спрос снизился на 3,1%, а загрузка — на 2,1 п.п. до 70,4%. Forward bookings на сентябрь–декабрь были выше прошлого года на 2,3%.",
+        "action": "Поднять в приоритет сравнительный материал: где доход растет из-за цены, а где реально растет спрос; отдельно Финляндия, Чехия, Польша и слабая Хорватия.",
+        "source": "TravelDailyNews / AirDNA",
+        "url": "https://www.traveldailynews.com/statistics-trends/europes-short-term-rental-market-posts-4-3-revpar-growth-in-august/",
+        "priority": "high"
+      },
+      {
+        "label": "Покрытие закрыто сегодня",
+        "title": "Грузия: свежий материал по Тбилиси и Батуми уже опубликован",
+        "signal": "Сегодня на International Investment вышел новый разбор рынка Грузии: Тбилиси ускорился по сделкам, Батуми показывает более международную и туристическую модель спроса.",
+        "action": "Не писать дубликат. Следующий шаг — перелинковка с Georgia hub, туризмом, гостиничным сектором и SEO-страницей по недвижимости Грузии.",
+        "source": "International Investment",
+        "url": "https://internationalinvestment.biz/en/georgia/8897-georgia-property-2026-tbilisi-and-batumi-diverge.html",
+        "priority": "high"
+      },
+      {
+        "label": "Финансирование",
+        "title": "Европейская недвижимость остается в среде дорогого кредита",
+        "signal": "После сентябрьского повышения ставок ЕЦБ на 25 б.п. Bloomberg отмечает снижение срочности ожиданий новых немедленных повышений, но стоимость финансирования остается высокой и чувствительной к инфляции.",
+        "action": "Использовать стоимость капитала как обязательный контекст в материалах по доходности недвижимости и коммерческим сделкам в еврозоне.",
+        "source": "Bloomberg / ECB",
+        "url": "https://bloomberg.com/news/articles/2026-10-03/fed-ecb-minutes-to-show-inflation-fears-as-hike-bets-fade",
+        "priority": "medium"
+      }
+    ]
   }
 }
