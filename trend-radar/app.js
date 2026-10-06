@@ -23,6 +23,7 @@ async function init(){
   renderSources();
   renderSeoSignals();
   renderCoverage();
+  renderDailyUpdate();
   renderAll();
 }
 
@@ -166,6 +167,26 @@ function renderHistory(){
     const card=document.createElement("article");
     card.className="history-card";
     card.innerHTML='<div class="history-card-head"><div><p class="eyebrow">Неделя</p><h2>'+esc(h.period)+'</h2></div><span class="muted">Сохранено: '+esc(h.savedAt||h.updatedAt||"—")+'</span></div><p class="summary">'+esc(h.summary)+'</p><div class="history-points">'+points+'</div><div class="history-links">'+report+'</div>';
+    w.appendChild(card);
+  });
+}
+
+function renderDailyUpdate(){
+  const w=document.querySelector("#dailyUpdateList");
+  if(!w) return;
+  const daily=state.data.dailyUpdate||{};
+  document.querySelector("#dailyUpdatedAt").textContent=daily.date?"Срез: "+daily.date:"";
+  const items=daily.items||[];
+  w.innerHTML="";
+  if(!items.length){
+    w.innerHTML='<div class="seo-empty">Сегодняшних новых сигналов пока нет.</div>';
+    return;
+  }
+  items.forEach(function(item){
+    const card=document.createElement("article");
+    card.className="daily-update-card";
+    const source=item.url?'<a href="'+item.url+'" target="_blank" rel="noreferrer">'+esc(item.source||"Источник")+' ↗</a>':"";
+    card.innerHTML='<div class="badges"><span class="badge '+(item.priority==="high"?"high":"medium")+'">'+esc(item.label||"Новый сигнал")+'</span></div><h3>'+esc(item.title)+'</h3><p>'+esc(item.signal)+'</p><div class="today-action">'+esc(item.action||"Наблюдать")+'</div><div style="margin-top:10px">'+source+'</div>';
     w.appendChild(card);
   });
 }
