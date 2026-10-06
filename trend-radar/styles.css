@@ -25,3 +25,11 @@
 .coverage-topic.stale{background:#f5ead6;color:#8a5a00}.coverage-topic.urgent{background:#f7e3e3;color:#9b2c2c}
 .coverage-reason{margin-top:12px;border-left:3px solid var(--accent);padding-left:10px;font-size:13px;line-height:1.45}
 @media(max-width:900px){.coverage-grid{grid-template-columns:1fr}}
+
+.today-section{margin:18px 0;background:var(--panel);border:1px solid var(--line);border-radius:20px;padding:22px}
+.daily-update-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:12px}
+.daily-update-card{background:#fbfcfc;border:1px solid var(--line);border-radius:14px;padding:16px}
+.daily-update-card h3{margin-bottom:8px}.daily-update-card p{color:var(--muted);line-height:1.5;margin-bottom:10px}
+.daily-update-card .today-action{border-left:3px solid var(--accent);padding-left:10px;color:var(--ink);font-size:13px}
+.daily-update-card a{color:var(--accent);text-decoration:none;font-size:12px}
+@media(max-width:900px){.daily-update-grid{grid-template-columns:1fr}}
