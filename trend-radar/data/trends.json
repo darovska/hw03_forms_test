@@ -1,7 +1,7 @@
 {
   "meta": {
     "period": "30 сентября – 6 октября 2026",
-    "updatedAt": "6 октября 2026",
+    "updatedAt": "9 октября 2026",
     "reportUrl": "https://docs.google.com/spreadsheets/d/1-qmLmoo9bImAVilC9TQBe6JaJiwJOla7jBbJMk0PiX0/edit?usp=drivesdk"
   },
   "categories": [
@@ -13,6 +13,137 @@
     "Инвестиции"
   ],
   "trends": [
+    {
+      "id": "arctic-digital-nomads-2027",
+      "title": "Arctic Digital Nomads снова открыл набор",
+      "category": "ВНЖ и миграция",
+      "trendStrength": 86,
+      "editorialPotential": 90,
+      "seoPotential": 97,
+      "priority": "high",
+      "status": "growing",
+      "signal": "Открыт новый набор Arctic Digital Nomads Grant: 1–3 месяца бесплатного жилья и coworking в Норвегии, Исландии или на Фарерах; дедлайн 15 октября.",
+      "why": "Старый материал International Investment уже ранжируется по запросу arctic digital nomads примерно в топ-5, поэтому свежий апдейт может быстро усилить органический трафик.",
+      "editorialAngle": "Обновить существующий URL 2025 года: условия 2027 grant, дедлайн, география, что оплачивают и что требуется от участника.",
+      "seoAngle": "Arctic Digital Nomads 2027; digital nomad grant Norway Iceland Faroe Islands; remote work grant Europe",
+      "socialIdeas": [
+        "Жилье и coworking в Арктике бесплатно: набор снова открыт"
+      ],
+      "sources": [
+        {
+          "label": "Arctic Digital Nomads official grant",
+          "url": "https://arcticdigitalnomads.com/grant/"
+        }
+      ]
+    },
+    {
+      "id": "ai-travel-discovery",
+      "title": "AI уже влияет на выбор поездки сильнее, чем на бронирование",
+      "category": "Туризм",
+      "trendStrength": 93,
+      "editorialPotential": 94,
+      "seoPotential": 92,
+      "priority": "high",
+      "status": "growing",
+      "signal": "Skift: AI участвует примерно в 21% touchpoints на стадии вдохновения, но лишь в 6% на стадии бронирования; 71% путешественников готовы использовать AI для идей, но доверие падает ближе к оплате.",
+      "why": "Это напрямую связано с видимостью International Investment и гостиничных/туристических объектов в ChatGPT, Gemini и AI Mode.",
+      "editorialAngle": "Не создавать еще одну короткую новость: обновить существующий AI-travel материал в большой evergreen про то, как отели и destinations попадают в AI-рекомендации и что модели считывают с сайта.",
+      "seoAngle": "AI travel search 2026; ChatGPT hotel search; AI hotel recommendations; AI travel planning",
+      "socialIdeas": [
+        "ИИ уже выбирает направление поездки, но пока редко нажимает кнопку «купить»"
+      ],
+      "sources": [
+        {
+          "label": "Skift Transatlantic Summit pre-read",
+          "url": "https://skift.com/2026/10/08/skift-transatlantic-summit-five-decisions-in-the-room/"
+        },
+        {
+          "label": "Skift AI agents and hotels",
+          "url": "https://newsletters.skift.com/p/hotels-vs-the-ai-agents"
+        }
+      ]
+    },
+    {
+      "id": "uk-student-housing-reset",
+      "title": "Студенческое жилье: safe haven начинает трещать",
+      "category": "Инвестиции",
+      "trendStrength": 90,
+      "editorialPotential": 95,
+      "seoPotential": 90,
+      "priority": "high",
+      "status": "growing",
+      "signal": "Крупнейший британский оператор Unite снизил среднюю аренду впервые за десятилетия вне пандемии: спрос международных студентов ослаб, а в отдельных городах выросло предложение.",
+      "why": "PBSA остается институциональным фаворитом, но свежая операционная статистика показывает, что дефицит предложения больше нельзя считать универсальным.",
+      "editorialAngle": "Разобрать, где student housing остается защитным активом, а где affordability и международный спрос уже ограничивают рост.",
+      "seoAngle": "student housing investment 2026; PBSA Europe 2026; UK student accommodation; student housing rents",
+      "socialIdeas": [
+        "Почему даже студенческое жилье перестало быть автоматическим safe haven"
+      ],
+      "sources": [
+        {
+          "label": "The Times / Unite student rents",
+          "url": "https://www.thetimes.com/business/companies-markets/article/uks-biggest-student-landlord-forced-cut-rents-pg8g5709m"
+        },
+        {
+          "label": "PBSA affordability test",
+          "url": "https://www.mcdermottlaw.com/insights/beyond-purpose-built-student-accommodation-the-affordability-test-for-europes-safest-real-estate-story/"
+        }
+      ]
+    },
+    {
+      "id": "romania-capital-2026",
+      "title": "Румыния: иностранный капитал растет, квартиры расходятся по городам",
+      "category": "Недвижимость",
+      "trendStrength": 91,
+      "editorialPotential": 96,
+      "seoPotential": 92,
+      "priority": "high",
+      "status": "growing",
+      "signal": "Недвижимость стала вторым крупнейшим направлением накопленного иностранного капитала в Румынии: €22,1 млрд на конец 2025 года. В сентябре 2026 средняя цена квартир почти не изменилась, но Бухарест вырос, а Брашов резко скорректировался.",
+      "why": "International Investment давно не делал большого свежего странового материала по Румынии, а рынок дает одновременно инвестиционный и потребительский сюжет.",
+      "editorialAngle": "Румыния 2026: иностранный капитал, Бухарест против Клужа и Брашова, цены, ликвидность, сроки продажи и инвестиционный спрос.",
+      "seoAngle": "Romania real estate market 2026; Bucharest property prices 2026; Romania property investment; foreign investment Romania",
+      "socialIdeas": [
+        "Почему иностранный капитал выбирает Румынию, когда рынок квартир становится более избирательным"
+      ],
+      "sources": [
+        {
+          "label": "Cushman & Wakefield Echinox / Romania FDI",
+          "url": "https://www.romania-insider.com/business/cushman-wakefield-echinox-real-estate-becomes-romanias-second-largest"
+        },
+        {
+          "label": "Property Forum / Romania apartments September 2026",
+          "url": "https://www.property-forum.eu/news/romanian-apartment-market-shows-signs-of-cooling/22210"
+        }
+      ]
+    },
+    {
+      "id": "europe-repricing-q3",
+      "title": "Европа: дорогой капитал снова давит на цены активов",
+      "category": "Инвестиции",
+      "trendStrength": 96,
+      "editorialPotential": 98,
+      "seoPotential": 94,
+      "priority": "high",
+      "status": "growing",
+      "signal": "Green Street: европейская коммерческая недвижимость подешевела примерно на 1% за квартал; industrial -2,1%, residential -2,0%, self-storage -1,9%, offices -1,7%, тогда как data centres, retail и hotels держатся лучше.",
+      "why": "Это новый Q3-сигнал после летнего восстановления: стоимость капитала снова влияет на оценки сильнее, чем рост арендных потоков в части сегментов.",
+      "editorialAngle": "Сравнить классы активов: почему отели и дата-центры держатся, а жилье, логистика и офисы снова попали под давление ставок.",
+      "seoAngle": "European commercial real estate 2026; European property prices 2026; cap rates Europe; hotel investment; data centre investment",
+      "socialIdeas": [
+        "Какие классы недвижимости Европы выдерживают дорогой капитал"
+      ],
+      "sources": [
+        {
+          "label": "Green Street European Commercial Property Price Index",
+          "url": "https://www.greenstreet.com/its-happening/"
+        },
+        {
+          "label": "Savills European Investment Nowcast Q3 2026",
+          "url": "https://www.savills.com/research_articles/255800/394882-0"
+        }
+      ]
+    },
     {
       "id": "eu-housing",
       "title": "Европа: рост жилья замедляется, разрыв сохраняется",
@@ -865,7 +996,7 @@
     "rule": "Если в текущем трендрадаре или публикациях International Investment появляется страна, которой нет в списке локальных источников, найти ее официальный государственный статистический орган и релевантный регулятор/реестр недвижимости, проверить официальный домен и добавить их в мониторинг как verification-источники."
   },
   "coverageMonitoring": {
-    "updatedAt": "",
+    "updatedAt": "9 октября 2026",
     "auditWindowDays": 90,
     "freshnessRules": {
       "freshMaxDays": 14,
@@ -889,46 +1020,80 @@
       "Для стран без свежего материала проверять monitoringSources, Eurostat и национальный государственный статорган.",
       "Не предлагать материал только ради частоты публикаций, если существенного обновления рынка нет."
     ],
-    "gaps": []
+    "gaps": [
+      {
+        "country": "Румыния",
+        "theme": "Недвижимость / инвестиции",
+        "status": "urgent",
+        "reason": "Свежий FDI-сигнал и расхождение городских рынков; большой страновой материал давно не обновлялся."
+      },
+      {
+        "country": "Великобритания / Европа",
+        "theme": "Student housing / PBSA",
+        "status": "high",
+        "reason": "Свежий контртренд по аренде и международному спросу; нужен общеевропейский анализ."
+      },
+      {
+        "country": "Северная Европа",
+        "theme": "Digital nomads / relocation",
+        "status": "high",
+        "reason": "Открыт набор Arctic Digital Nomads 2027; существующий URL уже получает поисковую видимость."
+      },
+      {
+        "country": "Европа",
+        "theme": "Коммерческая недвижимость / стоимость капитала",
+        "status": "high",
+        "reason": "Q3 repricing обновляет картину после летнего восстановления."
+      }
+    ]
   },
   "dailyUpdate": {
-    "date": "6 октября 2026",
+    "date": "9 октября 2026",
     "items": [
       {
-        "label": "Новый официальный релиз",
-        "title": "Австрия: летний туризм держится у рекордов",
-        "signal": "Statistics Austria сегодня финализировала августовскую статистику. Предварительный срез показывал 117,89 млн ночевок за январь–август (+1,5% г/г), 63,31 млн с мая по август (+2,3%) и 21,33 млн ночевок в августе — примерно на уровне прошлого года.",
-        "action": "Проверить, когда последний раз отдельно обновляли Австрию по туризму/отелям. Если есть пробел покрытия — материал про устойчивый спрос при замедлении августа.",
-        "source": "Statistics Austria",
-        "url": "https://www.statistik.at/en/statistics/tourism-and-transport/tourism/accommodation/arrivals-overnight-stays",
-        "priority": "medium"
-      },
-      {
-        "label": "Сильный рыночный сигнал",
-        "title": "Краткосрочная аренда Европы растет за счет цены, а не спроса",
-        "signal": "В августе RevPAR краткосрочной аренды вырос на 4,3% до €112,74 при росте ADR на 7,5%, но спрос снизился на 3,1%, а загрузка — на 2,1 п.п. до 70,4%. Forward bookings на сентябрь–декабрь были выше прошлого года на 2,3%.",
-        "action": "Поднять в приоритет сравнительный материал: где доход растет из-за цены, а где реально растет спрос; отдельно Финляндия, Чехия, Польша и слабая Хорватия.",
-        "source": "TravelDailyNews / AirDNA",
-        "url": "https://www.traveldailynews.com/statistics-trends/europes-short-term-rental-market-posts-4-3-revpar-growth-in-august/",
+        "label": "Главный инвестиционный сигнал",
+        "title": "Европейская недвижимость снова переоценивается из-за дорогого капитала",
+        "signal": "Green Street фиксирует квартальное снижение цен коммерческой недвижимости примерно на 1%; сильнее всего просели industrial, residential, self-storage и offices, а hotels, retail и data centres держатся лучше.",
+        "action": "Новый сравнительный материал с таблицей по классам активов и объяснением роли ставок, cap rates и NOI.",
+        "source": "Green Street / Savills",
+        "url": "https://www.greenstreet.com/its-happening/",
         "priority": "high"
       },
       {
-        "label": "Покрытие закрыто сегодня",
-        "title": "Грузия: свежий материал по Тбилиси и Батуми уже опубликован",
-        "signal": "Сегодня на International Investment вышел новый разбор рынка Грузии: Тбилиси ускорился по сделкам, Батуми показывает более международную и туристическую модель спроса.",
-        "action": "Не писать дубликат. Следующий шаг — перелинковка с Georgia hub, туризмом, гостиничным сектором и SEO-страницей по недвижимости Грузии.",
-        "source": "International Investment",
-        "url": "https://internationalinvestment.biz/en/georgia/8897-georgia-property-2026-tbilisi-and-batumi-diverge.html",
+        "label": "Пробел покрытия",
+        "title": "Румыния снова заслуживает отдельного странового хаба",
+        "signal": "Недвижимость — второй крупнейший накопленный FDI-сектор страны (€22,1 млрд), а сентябрь показывает сильное расхождение цен и ликвидности между Бухарестом, Брашовом, Клужем и другими городами.",
+        "action": "Написать большой Romania Property 2026 с инвестиционным и пользовательским интентом.",
+        "source": "Cushman & Wakefield Echinox / Property Forum",
+        "url": "https://www.romania-insider.com/business/cushman-wakefield-echinox-real-estate-becomes-romanias-second-largest",
         "priority": "high"
       },
       {
-        "label": "Финансирование",
-        "title": "Европейская недвижимость остается в среде дорогого кредита",
-        "signal": "После сентябрьского повышения ставок ЕЦБ на 25 б.п. Bloomberg отмечает снижение срочности ожиданий новых немедленных повышений, но стоимость финансирования остается высокой и чувствительной к инфляции.",
-        "action": "Использовать стоимость капитала как обязательный контекст в материалах по доходности недвижимости и коммерческим сделкам в еврозоне.",
-        "source": "Bloomberg / ECB",
-        "url": "https://bloomberg.com/news/articles/2026-10-03/fed-ecb-minutes-to-show-inflation-fears-as-hike-bets-fade",
-        "priority": "medium"
+        "label": "Контртренд",
+        "title": "PBSA перестает быть безусловным safe haven",
+        "signal": "Великобритания: Unite снижает среднюю аренду, спрос международных студентов ослаб, часть университетских городов испытывает локальный oversupply.",
+        "action": "Сделать европейский аналитический материал вместо еще одной новости об отдельной сделке.",
+        "source": "The Times / PBSA research",
+        "url": "https://www.thetimes.com/business/companies-markets/article/uks-biggest-student-landlord-forced-cut-rents-pg8g5709m",
+        "priority": "high"
+      },
+      {
+        "label": "AI visibility",
+        "title": "AI становится каналом discovery, но пока не booking",
+        "signal": "AI участвует примерно в 21% touchpoints на стадии вдохновения и лишь в 6% на стадии бронирования.",
+        "action": "Обновить существующий AI-travel evergreen и добавить structured answers, FAQ, таблицы, первичные источники и определения сущностей.",
+        "source": "Skift",
+        "url": "https://skift.com/2026/10/08/skift-transatlantic-summit-five-decisions-in-the-room/",
+        "priority": "high"
+      },
+      {
+        "label": "SEO quick win",
+        "title": "Arctic Digital Nomads 2027 — обновить уже ранжирующийся URL",
+        "signal": "Официально открыт новый набор на 2027 год; старый материал уже ранжируется по релевантному long-tail запросу.",
+        "action": "Не создавать новый URL: обновить дату, дедлайн, условия, title/description, FAQ и англоязычную версию.",
+        "source": "Arctic Digital Nomads",
+        "url": "https://arcticdigitalnomads.com/grant/",
+        "priority": "high"
       }
     ]
   }
