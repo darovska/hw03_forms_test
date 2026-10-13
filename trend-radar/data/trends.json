@@ -14,6 +14,133 @@
   ],
   "trends": [
     {
+      "id": "great-wealth-transfer-property-2026",
+      "title": "Наследование $84 трлн меняет географию элитной недвижимости",
+      "category": "Недвижимость",
+      "trendStrength": 88,
+      "editorialPotential": 96,
+      "seoPotential": 92,
+      "priority": "high",
+      "status": "growing",
+      "signal": "Savills: около $84 трлн капитала может перейти между поколениями в ближайшие два десятилетия; новая генерация состоятельных владельцев более мобильна и чаще распределяет жизнь и активы между несколькими юрисдикциями.",
+      "why": "International Investment писал о wealth hubs раньше, но новый материал можно строить не как очередной рейтинг, а как структурный тренд: наследники меняют требования к недвижимости, налогам, образованию, wellness и multi-jurisdiction living.",
+      "editorialAngle": "Какие рынки выиграют от Great Wealth Transfer: Лондон, Монако, Дубай, Абу-Даби, Альпы, Южная Европа; почему turnkey, безопасность, wellness и школы становятся важнее просто адреса.",
+      "seoAngle": "Great Wealth Transfer real estate; next generation wealth hubs; luxury property 2026; HNWI property investment",
+      "socialIdeas": [
+        "$84 трлн переходят наследникам — куда уйдут деньги в недвижимости"
+      ],
+      "sources": [
+        {
+          "label": "Savills Spotlight on Wealth Trends 2026",
+          "url": "https://www.savills.com/research_articles/255800/394812-0/spotlight-on-wealth-trends--the-great-wealth-transfer-and-next-generation-wealth"
+        },
+        {
+          "label": "Savills EMEA wealth hubs 2026",
+          "url": "https://www.savills.com/research_articles/254204/394817-0/wealth-trends--europe--the-middle-east-and-africa"
+        }
+      ]
+    },
+    {
+      "id": "uk-hotel-tax-capex-2026",
+      "title": "Налоги в Британии уже отменяют гостиничные инвестиции",
+      "category": "Инвестиции",
+      "trendStrength": 91,
+      "editorialPotential": 93,
+      "seoPotential": 90,
+      "priority": "high",
+      "status": "update_existing",
+      "signal": "Whitbread 13 октября заявил, что рост налогов и расходов заставил сократить запланированные гостиничные инвестиции. Компания одновременно снижает growth capex на £1 млрд и перестраивает портфель вокруг Premier Inn.",
+      "why": "Это фактическое продолжение январской темы International Investment о налоговом давлении: теперь есть измеримый инвестиционный эффект, а не только предупреждения отрасли.",
+      "editorialAngle": "Обновить существующий материал про UK hotel taxes: какие проекты и капзатраты режут операторы, как business rates влияют на hotel development и почему asset-light/value-add становится привлекательнее.",
+      "seoAngle": "UK hotel investment 2026; UK hospitality taxes; Premier Inn investment; hotel business rates UK",
+      "socialIdeas": [
+        "Налоговая реформа Британии начала отменять новые отели"
+      ],
+      "sources": [
+        {
+          "label": "Whitbread interim results 13 October 2026",
+          "url": "https://www.tradingview.com/news/reuters.com%2C2026-10-13%3Anewsml_RSM6369Ya%3A0-reg-whitbread-plc-whitbread-interim-results/"
+        },
+        {
+          "label": "Reuters / Whitbread strategy",
+          "url": "https://live.euronext.com/en/financial-news/premier-inn-owner-whitbread-backs-turnaround-plan-urges-vote-against-corvex-seat"
+        }
+      ]
+    },
+    {
+      "id": "ees-schengen-six-months-2026",
+      "title": "Schengen EES остается источником многокилометровых очередей спустя полгода",
+      "category": "Туризм",
+      "trendStrength": 93,
+      "editorialPotential": 94,
+      "seoPotential": 96,
+      "priority": "high",
+      "status": "update_existing",
+      "signal": "ACI EUROPE и A4E 12 октября: ожидание на границе регулярно превышает 2 часа, в пиковых случаях достигает 5 часов; отрасль предлагает 6 изменений системы.",
+      "why": "International Investment уже подробно писал об EES, поэтому новый URL не нужен. Свежий сигнал — проблемы не исчезли после полного внедрения, а отрасль требует структурной реформы.",
+      "editorialAngle": "Обновить сильный существующий EES URL: что сломано спустя полгода, где теряются стыковки и какие шесть изменений требуют аэропорты и авиакомпании.",
+      "seoAngle": "EES queues 2026; Schengen EES delays; Europe airport queues; Entry Exit System 2026",
+      "socialIdeas": [
+        "Новая граница ЕС: до пяти часов в очереди спустя полгода"
+      ],
+      "sources": [
+        {
+          "label": "ACI EUROPE / A4E EES six-point plan",
+          "url": "https://aci-europe.org/media-room/620-no-end-to-schengen-ees-disruption-unless-the-commission-and-member-states-fix-structural-issues.html"
+        }
+      ]
+    },
+    {
+      "id": "europe-aviation-capacity-oct-2026",
+      "title": "Европейская авиация смещается на восток и в low-cost",
+      "category": "Туризм",
+      "trendStrength": 95,
+      "editorialPotential": 98,
+      "seoPotential": 94,
+      "priority": "high",
+      "status": "growing",
+      "signal": "OAG: в октябре европейская емкость +2% г/г, но Восточная/Центральная Европа +7,4%; low-cost +5,1% при почти нулевом росте mainline. Wizz Air +23,1%; Италия +7,2%. Направление Европа–Ближний Восток -10,6%, Европа–Азия +11,7%.",
+      "why": "Это прямой индикатор будущего турпотока, hotel demand и инвестиционной привлекательности направлений. Рост распределяется крайне неравномерно.",
+      "editorialAngle": "Какие страны и города получают дополнительный турпоток благодаря новым креслам: Италия, CEE, Испания; почему Middle East теряет capacity и Asia возвращается.",
+      "seoAngle": "Europe airline capacity 2026; European tourism 2026; Wizz Air growth; Eastern Europe tourism; low cost airlines Europe",
+      "socialIdeas": [
+        "Куда авиакомпании реально добавляют кресла в Европе"
+      ],
+      "sources": [
+        {
+          "label": "OAG European aviation data October 2026",
+          "url": "https://www.oag.com/european-aviation-data"
+        },
+        {
+          "label": "OAG airline capacity statistics October 2026",
+          "url": "https://www.oag.com/airline-frequency-and-capacity-statistics"
+        }
+      ]
+    },
+    {
+      "id": "germany-hotel-smaller-deals-q3-2026",
+      "title": "Германия: гостиничный капитал уходит в небольшие value-add сделки",
+      "category": "Инвестиции",
+      "trendStrength": 94,
+      "editorialPotential": 96,
+      "seoPotential": 91,
+      "priority": "high",
+      "status": "growing",
+      "signal": "CBRE 13 октября: инвестиции в гостиницы Германии за 9 месяцев — около €1,1 млрд, на 33% ниже г/г. Сделок стало больше, но крупных транзакций меньше; 48,7% объема пришлось на value-add.",
+      "why": "Это свежий Q3-сигнал, который уточняет общеевропейскую картину: инвесторы не уходят из отелей, а меняют размер сделки, географию и стратегию.",
+      "editorialAngle": "Почему рынок Германии перешел от крупных гостиничных портфелей к небольшим объектам вне главных центров и реконструкциям; что это говорит о риске и доходности.",
+      "seoAngle": "Germany hotel investment 2026; German hotel market Q3 2026; hotel value add Europe; hotel transactions Germany",
+      "socialIdeas": [
+        "Отели Германии покупают чаще, но на меньшие чеки"
+      ],
+      "sources": [
+        {
+          "label": "CBRE Germany hotel investment Q1-Q3 2026",
+          "url": "https://www.cbre.ae/press-releases/smaller-transactions-dominate-market-activity-in-the-first-nine-months-of-2026"
+        }
+      ]
+    },
+    {
       "id": "eu-housing-implementation-oct14",
       "title": "ЕС переходит от плана доступного жилья к упрощению строительства",
       "category": "Регулирование",
@@ -607,6 +734,22 @@
     {
       "title": "EU housing reform",
       "description": "Housing supply, permitting, finance, second homes и short-term rentals; обновлять по итогам 14 октября."
+    },
+    {
+      "title": "European aviation capacity",
+      "description": "Low-cost, CEE, Italy and changing long-haul corridors; use capacity as leading indicator for tourism/hotel demand."
+    },
+    {
+      "title": "Germany hotels / value-add",
+      "description": "Smaller hotel transactions, secondary locations, refurbishment and value-add strategies."
+    },
+    {
+      "title": "Schengen EES",
+      "description": "Keep one canonical evergreen and update it with queues, operational fixes and regulatory changes."
+    },
+    {
+      "title": "Next-generation wealth",
+      "description": "Great Wealth Transfer, multi-jurisdiction living, prime property, taxes, schools, wellness and lifestyle hubs."
     }
   ],
   "history": [
@@ -1187,6 +1330,24 @@
     "gaps": [
       {
         "country": "Европа",
+        "theme": "Next-generation wealth / prime residential",
+        "status": "high",
+        "reason": "Great Wealth Transfer дает новый структурный угол для luxury property и multi-jurisdiction living."
+      },
+      {
+        "country": "Европа",
+        "theme": "Aviation capacity / tourism demand",
+        "status": "urgent",
+        "reason": "OAG October показывает сильную ротацию capacity в CEE, low-cost и Азию; это leading indicator для туризма и гостиниц."
+      },
+      {
+        "country": "Германия",
+        "theme": "Hotel investment / value-add",
+        "status": "high",
+        "reason": "Свежий Q3 CBRE: объем упал, но число сделок выросло; рынок сместился к smaller/value-add."
+      },
+      {
+        "country": "Европа",
         "theme": "Healthcare / senior living real estate",
         "status": "urgent",
         "reason": "Новый сильный CBRE-сигнал и почти пустой тематический кластер."
@@ -1214,6 +1375,51 @@
   "dailyUpdate": {
     "date": "13 октября 2026",
     "items": [
+      {
+        "label": "Вечерний инвестиционный сигнал",
+        "title": "Германия: больше гостиничных сделок, но меньше крупных чеков",
+        "signal": "Q1-Q3 hotel investment около €1,1 млрд (-33% г/г); 48,7% объема — value-add.",
+        "action": "Новый материал про смену стратегии гостиничного капитала в Германии.",
+        "source": "CBRE",
+        "url": "https://www.cbre.ae/press-releases/smaller-transactions-dominate-market-activity-in-the-first-nine-months-of-2026",
+        "priority": "high"
+      },
+      {
+        "label": "Туризм / leading indicator",
+        "title": "Low-cost и Восточная Европа забирают рост авиапредложения",
+        "signal": "CEE capacity +7,4%, low-cost +5,1%, Wizz +23,1%; Европа–Ближний Восток -10,6%, Европа–Азия +11,7%.",
+        "action": "Сделать data-driven материал о том, куда перераспределяется будущий турпоток.",
+        "source": "OAG",
+        "url": "https://www.oag.com/european-aviation-data",
+        "priority": "high"
+      },
+      {
+        "label": "SEO update",
+        "title": "EES: очереди до пяти часов спустя полгода",
+        "signal": "ACI EUROPE/A4E требуют шесть структурных изменений системы.",
+        "action": "Обновить существующий EES URL, новый не создавать.",
+        "source": "ACI EUROPE / A4E",
+        "url": "https://aci-europe.org/media-room/620-no-end-to-schengen-ees-disruption-unless-the-commission-and-member-states-fix-structural-issues.html",
+        "priority": "high"
+      },
+      {
+        "label": "Инвестиционный follow-up",
+        "title": "UK hotel taxes уже режут capex",
+        "signal": "Whitbread подтвердил сокращение роста и investment capex под давлением налогов и издержек.",
+        "action": "Обновить январскую статью про hotel taxes и связать с текущей стратегией Premier Inn.",
+        "source": "Whitbread / Reuters",
+        "url": "https://live.euronext.com/en/financial-news/premier-inn-owner-whitbread-backs-turnaround-plan-urges-vote-against-corvex-seat",
+        "priority": "high"
+      },
+      {
+        "label": "Evergreen / viral",
+        "title": "$84 трлн наследства меняют luxury property",
+        "signal": "Great Wealth Transfer усиливает multi-jurisdiction living и спрос на prime residential hubs.",
+        "action": "Новый аналитический материал, не рейтинг городов.",
+        "source": "Savills",
+        "url": "https://www.savills.com/research_articles/255800/394812-0/spotlight-on-wealth-trends--the-great-wealth-transfer-and-next-generation-wealth",
+        "priority": "high"
+      },
       {
         "label": "Новый инвестиционный кластер",
         "title": "Healthcare real estate выходит в приоритет",
