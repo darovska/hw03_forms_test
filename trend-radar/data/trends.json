@@ -1,7 +1,7 @@
 {
   "meta": {
-    "period": "7–13 октября 2026",
-    "updatedAt": "13 октября 2026",
+    "period": "14–16 октября 2026",
+    "updatedAt": "16 октября 2026",
     "reportUrl": "https://docs.google.com/spreadsheets/d/1-qmLmoo9bImAVilC9TQBe6JaJiwJOla7jBbJMk0PiX0/edit?usp=drivesdk"
   },
   "categories": [
@@ -13,6 +13,106 @@
     "Инвестиции"
   ],
   "trends": [
+    {
+      "id": "southern-europe-megafund-2026",
+      "title": "Южная Европа получает крупнейший специализированный фонд недвижимости",
+      "category": "Инвестиции",
+      "trendStrength": 92,
+      "editorialPotential": 94,
+      "seoPotential": 90,
+      "priority": "high",
+      "status": "update_existing",
+      "signal": "Azora закрыла Southern Europe Opportunities III: €1,6 млрд основного капитала плюс €450 млн co-investment, суммарная инвестиционная емкость около €4,5 млрд для Испании, Португалии, Италии и Греции.",
+      "why": "Это сильное подтверждение уже замеченного в радаре перетока капитала в Southern Europe, но новый общий обзор может дублировать опубликованный 12 октября материал о новой карте инвестиций Европы.",
+      "editorialAngle": "Добавить кейс Azora в существующий Europe capital-rotation материал и показать, куда именно пойдут €4,5 млрд: living, hospitality, logistics, offices, urban assets и data centres.",
+      "seoAngle": "Southern Europe real estate investment 2026; Spain Portugal Italy Greece property investment; Azora fund",
+      "socialIdeas": [
+        "€4,5 млрд капитала нацелились на недвижимость Южной Европы"
+      ],
+      "sources": [
+        {
+          "label": "Azora Southern Europe Opportunities III",
+          "url": "https://www.azora.com/en/blog/azora-closes-the-largest-real-estate-fund-dedicated-to-southern-europe/"
+        },
+        {
+          "label": "International Investment — Europe capital map",
+          "url": "https://internationalinvestment.biz/en/business/8915-investors-are-redrawing-europes-property-map.html"
+        }
+      ]
+    },
+    {
+      "id": "germany-building-permits-aug-2026",
+      "title": "Германия: разрешения на строительство растут, дефицит остается",
+      "category": "Недвижимость",
+      "trendStrength": 91,
+      "editorialPotential": 90,
+      "seoPotential": 94,
+      "priority": "high",
+      "status": "update_existing",
+      "signal": "Destatis 16 октября: в августе разрешено 20 600 квартир, +6,8% г/г. За январь–август — 169 400, +12,1%; в новых многоквартирных домах +14,5%.",
+      "why": "Это самый свежий официальный supply-сигнал по Германии. Но International Investment уже писал 10 октября о возврате капитала и улучшении permitting, поэтому отдельный URL создаст каннибализацию.",
+      "editorialAngle": "Обновить существующую статью новыми данными за август и объяснить разрыв между ростом разрешений и фактическим вводом жилья.",
+      "seoAngle": "Germany building permits 2026; Germany housing shortage; Germany new housing 2026; German property market",
+      "socialIdeas": [
+        "Германия выдает больше разрешений, но жилья быстро больше не станет"
+      ],
+      "sources": [
+        {
+          "label": "Destatis building permits August 2026",
+          "url": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/10/PD26_370_3111.html"
+        },
+        {
+          "label": "International Investment — German housing",
+          "url": "https://internationalinvestment.biz/en/business/8926-international-capital-returns-to-german-housing.html"
+        }
+      ]
+    },
+    {
+      "id": "eu-first-tourism-policy-nov4-2026",
+      "title": "ЕС готовит первую общую туристическую политику",
+      "category": "Туризм",
+      "trendStrength": 96,
+      "editorialPotential": 98,
+      "seoPotential": 93,
+      "priority": "high",
+      "status": "watch",
+      "signal": "16 октября еврокомиссар Апостолос Тзитзикостас объявил: первая общеевропейская туристическая политика будет представлена 4 ноября. В фокусе — диверсификация направлений и рынков, connectivity, кадры, цифровизация, инвестиции и устойчивость.",
+      "why": "Для ЕС это новый уровень координации туризма. Документ может затронуть перегруженные направления, острова, транспорт, инвестиции, кадры и цифровые платформы.",
+      "editorialAngle": "Сейчас — короткий preview только при необходимости; 4 ноября — обязательный большой материал с разбором правил и последствий для отелей, инвесторов и направлений.",
+      "seoAngle": "EU tourism policy 2026; European tourism strategy; EU tourism 2027; tourism investment Europe",
+      "socialIdeas": [
+        "ЕС впервые готовит единую туристическую политику"
+      ],
+      "sources": [
+        {
+          "label": "TravelDailyNews / Commissioner Tzitzikostas",
+          "url": "https://www.traveldailynews.com/meetings-events/first-eu-tourism-policy-to-be-presented-on-4-november/"
+        }
+      ]
+    },
+    {
+      "id": "construction-costs-new-normal-2026",
+      "title": "Дорогая стройка становится новой нормой для недвижимости",
+      "category": "Инвестиции",
+      "trendStrength": 97,
+      "editorialPotential": 99,
+      "seoPotential": 95,
+      "priority": "high",
+      "status": "growing",
+      "signal": "JLL 15 октября: глобальные строительные затраты уже на 25–30% выше уровня 2021 года; новая годовая база роста — 3–6%, а tender prices в 2027 году могут прибавить еще 3,1–4,2%.",
+      "why": "Это меняет экономику девелопмента по всем классам активов. Data centres и industrial легче переваривают рост затрат, а офисы, retail и часть жилья требуют постоянного пересчета feasibility.",
+      "editorialAngle": "Почему девелоперы больше не могут ждать возвращения дешевой стройки; какие активы выдерживают рост себестоимости, где выигрывают реконструкция, conversion и value-add.",
+      "seoAngle": "construction costs 2026; real estate development costs; construction inflation 2027; property development viability; renovation vs new build",
+      "socialIdeas": [
+        "Дешевой стройки больше не будет: что это меняет для недвижимости"
+      ],
+      "sources": [
+        {
+          "label": "JLL Global Construction Costs Index 2026",
+          "url": "https://www.jll.com/en-us/newsroom/global-construction-cost-index"
+        }
+      ]
+    },
     {
       "id": "great-wealth-transfer-property-2026",
       "title": "Наследование $84 трлн меняет географию элитной недвижимости",
@@ -75,7 +175,7 @@
       "editorialPotential": 94,
       "seoPotential": 96,
       "priority": "high",
-      "status": "update_existing",
+      "status": "covered",
       "signal": "ACI EUROPE и A4E 12 октября: ожидание на границе регулярно превышает 2 часа, в пиковых случаях достигает 5 часов; отрасль предлагает 6 изменений системы.",
       "why": "International Investment уже подробно писал об EES, поэтому новый URL не нужен. Свежий сигнал — проблемы не исчезли после полного внедрения, а отрасль требует структурной реформы.",
       "editorialAngle": "Обновить сильный существующий EES URL: что сломано спустя полгода, где теряются стыковки и какие шесть изменений требуют аэропорты и авиакомпании.",
@@ -198,7 +298,7 @@
       "editorialPotential": 95,
       "seoPotential": 91,
       "priority": "high",
-      "status": "growing",
+      "status": "covered",
       "signal": "Skyscanner: Индия стала крупнейшим рынком сервиса по пользователям; поиски выросли на 22% г/г, а доля международных redirect выросла примерно с 20% три года назад до 48%.",
       "why": "Рост международного спроса из Индии может менять турпотоки в ОАЭ, Юго-Восточной Азии, Европе и Грузии.",
       "editorialAngle": "Куда поедет новый индийский средний класс, как цена и валютный курс меняют выбор направления, какие рынки выигрывают.",
@@ -221,7 +321,7 @@
       "editorialPotential": 97,
       "seoPotential": 94,
       "priority": "high",
-      "status": "growing",
+      "status": "covered",
       "signal": "CBRE: европейские инвестиции в healthcare real estate достигли €23,2 млрд в 2025 году; объем сделок H1 2026 вырос на 27% г/г, 50% капитала — трансграничный.",
       "why": "Старение населения и дефицит специализированных объектов создают долгосрочный спрос; кластер почти не закрыт на International Investment.",
       "editorialAngle": "Объяснить, почему care homes, senior living, clinics и rehabilitation становятся институциональным активом; сравнить Германию, Италию, Испанию и Финляндию.",
@@ -267,7 +367,7 @@
       "editorialPotential": 94,
       "seoPotential": 92,
       "priority": "high",
-      "status": "covered_partial",
+      "status": "covered",
       "signal": "Skift: AI участвует примерно в 21% touchpoints на стадии вдохновения, но лишь в 6% на стадии бронирования; 71% путешественников готовы использовать AI для идей, но доверие падает ближе к оплате.",
       "why": "International Investment уже опубликовал материал об AI adoption в отелях; следующий шаг — отдельный evergreen про AI discovery/search, только если он не дублирует существующий URL.",
       "editorialAngle": "Не создавать еще одну короткую новость: обновить существующий AI-travel материал в большой evergreen про то, как отели и destinations попадают в AI-рекомендации и что модели считывают с сайта.",
@@ -1303,7 +1403,7 @@
     "rule": "Если в текущем трендрадаре или публикациях International Investment появляется страна, которой нет в списке локальных источников, найти ее официальный государственный статистический орган и релевантный регулятор/реестр недвижимости, проверить официальный домен и добавить их в мониторинг как verification-источники."
   },
   "coverageMonitoring": {
-    "updatedAt": "13 октября 2026",
+    "updatedAt": "16 октября 2026",
     "auditWindowDays": 90,
     "freshnessRules": {
       "freshMaxDays": 14,
@@ -1329,140 +1429,68 @@
     ],
     "gaps": [
       {
-        "country": "Европа",
-        "theme": "Next-generation wealth / prime residential",
-        "status": "high",
-        "reason": "Great Wealth Transfer дает новый структурный угол для luxury property и multi-jurisdiction living."
-      },
-      {
-        "country": "Европа",
-        "theme": "Aviation capacity / tourism demand",
+        "country": "Глобально / Европа",
+        "theme": "Construction costs / development viability",
         "status": "urgent",
-        "reason": "OAG October показывает сильную ротацию capacity в CEE, low-cost и Азию; это leading indicator для туризма и гостиниц."
-      },
-      {
-        "country": "Германия",
-        "theme": "Hotel investment / value-add",
-        "status": "high",
-        "reason": "Свежий Q3 CBRE: объем упал, но число сделок выросло; рынок сместился к smaller/value-add."
-      },
-      {
-        "country": "Европа",
-        "theme": "Healthcare / senior living real estate",
-        "status": "urgent",
-        "reason": "Новый сильный CBRE-сигнал и почти пустой тематический кластер."
-      },
-      {
-        "country": "Италия",
-        "theme": "Tourism workforce housing",
-        "status": "high",
-        "reason": "Staff House перешла к новым спискам получателей; есть сильный стык туризма, жилья и операционных затрат."
-      },
-      {
-        "country": "Индия / глобально",
-        "theme": "Outbound tourism",
-        "status": "high",
-        "reason": "Свежий рост международного travel intent и крупный новый источник спроса."
+        "reason": "JLL 15 октября фиксирует постоянную новую базу строительной инфляции 3–6%; нужен отдельный аналитический материал."
       },
       {
         "country": "ЕС",
-        "theme": "Housing regulation / supply",
+        "theme": "First EU Tourism Policy",
         "status": "high",
-        "reason": "14 октября — implementation dialogue; обновить существующий материал сразу после итогов."
+        "reason": "16 октября объявлена дата первой общей туристической политики ЕС — 4 ноября; поставить в календарь обязательный follow-up."
+      },
+      {
+        "country": "Германия",
+        "theme": "Housing supply / permits",
+        "status": "high",
+        "reason": "Destatis 16 октября: permits +12,1% за январь–август; обновить существующий Germany housing URL."
+      },
+      {
+        "country": "Южная Европа",
+        "theme": "Cross-border capital / value-add",
+        "status": "high",
+        "reason": "Azora подтверждает структурный переток институционального капитала в Испанию, Португалию, Италию и Грецию; лучше усилить существующий Europe capital-rotation URL."
       }
     ]
   },
   "dailyUpdate": {
-    "date": "13 октября 2026",
+    "date": "16 октября 2026",
     "items": [
       {
-        "label": "Вечерний инвестиционный сигнал",
-        "title": "Германия: больше гостиничных сделок, но меньше крупных чеков",
-        "signal": "Q1-Q3 hotel investment около €1,1 млрд (-33% г/г); 48,7% объема — value-add.",
-        "action": "Новый материал про смену стратегии гостиничного капитала в Германии.",
-        "source": "CBRE",
-        "url": "https://www.cbre.ae/press-releases/smaller-transactions-dominate-market-activity-in-the-first-nine-months-of-2026",
+        "label": "Главный новый инвестиционный сигнал",
+        "title": "Строительная инфляция стала постоянной частью экономики проектов",
+        "signal": "JLL: +25–30% к стоимости стройки с 2021 года; новая годовая база 3–6%, в 2027 tender prices еще +3,1–4,2%.",
+        "action": "Новый большой материал: какие классы недвижимости еще выдерживают новую себестоимость.",
+        "source": "JLL",
+        "url": "https://www.jll.com/en-us/newsroom/global-construction-cost-index",
         "priority": "high"
       },
       {
-        "label": "Туризм / leading indicator",
-        "title": "Low-cost и Восточная Европа забирают рост авиапредложения",
-        "signal": "CEE capacity +7,4%, low-cost +5,1%, Wizz +23,1%; Европа–Ближний Восток -10,6%, Европа–Азия +11,7%.",
-        "action": "Сделать data-driven материал о том, куда перераспределяется будущий турпоток.",
-        "source": "OAG",
-        "url": "https://www.oag.com/european-aviation-data",
+        "label": "Новый policy-watch",
+        "title": "ЕС представит первую общую туристическую политику 4 ноября",
+        "signal": "В фокусе connectivity, skills, digital, investment, diversification и resilience.",
+        "action": "Поставить follow-up на 4 ноября; сейчас при необходимости короткий preview.",
+        "source": "European Commissioner / TravelDailyNews",
+        "url": "https://www.traveldailynews.com/meetings-events/first-eu-tourism-policy-to-be-presented-on-4-november/",
         "priority": "high"
       },
       {
         "label": "SEO update",
-        "title": "EES: очереди до пяти часов спустя полгода",
-        "signal": "ACI EUROPE/A4E требуют шесть структурных изменений системы.",
-        "action": "Обновить существующий EES URL, новый не создавать.",
-        "source": "ACI EUROPE / A4E",
-        "url": "https://aci-europe.org/media-room/620-no-end-to-schengen-ees-disruption-unless-the-commission-and-member-states-fix-structural-issues.html",
+        "title": "Германия: разрешения на жилье +12,1%",
+        "signal": "169 400 разрешений за январь–август; multifamily +14,5%.",
+        "action": "Обновить существующий Germany housing URL, новый не создавать.",
+        "source": "Destatis",
+        "url": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/10/PD26_370_3111.html",
         "priority": "high"
       },
       {
-        "label": "Инвестиционный follow-up",
-        "title": "UK hotel taxes уже режут capex",
-        "signal": "Whitbread подтвердил сокращение роста и investment capex под давлением налогов и издержек.",
-        "action": "Обновить январскую статью про hotel taxes и связать с текущей стратегией Premier Inn.",
-        "source": "Whitbread / Reuters",
-        "url": "https://live.euronext.com/en/financial-news/premier-inn-owner-whitbread-backs-turnaround-plan-urges-vote-against-corvex-seat",
-        "priority": "high"
-      },
-      {
-        "label": "Evergreen / viral",
-        "title": "$84 трлн наследства меняют luxury property",
-        "signal": "Great Wealth Transfer усиливает multi-jurisdiction living и спрос на prime residential hubs.",
-        "action": "Новый аналитический материал, не рейтинг городов.",
-        "source": "Savills",
-        "url": "https://www.savills.com/research_articles/255800/394812-0/spotlight-on-wealth-trends--the-great-wealth-transfer-and-next-generation-wealth",
-        "priority": "high"
-      },
-      {
-        "label": "Новый инвестиционный кластер",
-        "title": "Healthcare real estate выходит в приоритет",
-        "signal": "€23,2 млрд инвестиций в 2025 году; H1 2026 +27% г/г; 50% капитала — трансграничный.",
-        "action": "Подготовить большой evergreen по medical real estate и senior living.",
-        "source": "CBRE",
-        "url": "https://www.cbre.com/insights/reports/european-healthcare-2026",
-        "priority": "high"
-      },
-      {
-        "label": "Свежий туристический спрос",
-        "title": "Индия становится глобальным outbound-рынком",
-        "signal": "Поиски Skyscanner +22% г/г; международная доля redirect выросла примерно до 48%.",
-        "action": "Сделать материал о направлениях, которые выигрывают от нового индийского спроса.",
-        "source": "Skift / Skyscanner",
-        "url": "https://skift.com/2026/10/12/india-is-now-skyscanners-biggest-market-and-nearly-half-its-searches-go-abroad/",
-        "priority": "high"
-      },
-      {
-        "label": "Housing + hospitality",
-        "title": "Италия субсидирует staff housing для туризма",
-        "signal": "9 октября опубликован новый список получателей Staff House Title II.",
-        "action": "Сделать анализ housing shortage для работников туризма и операционной экономики отелей.",
-        "source": "Italian Ministry of Tourism",
-        "url": "https://www.ministeroturismo.gov.it/sostegno-alle-staff-house/",
-        "priority": "high"
-      },
-      {
-        "label": "Завтрашний триггер",
-        "title": "14 октября — новый этап жилищной реформы ЕС",
-        "signal": "Implementation dialogue по барьерам для нового жилья.",
-        "action": "После итогов обновить существующий URL, не создавать дубль.",
-        "source": "International Investment / EC agenda",
-        "url": "https://internationalinvestment.biz/en/real-estate/8905-eu-prepares-new-rules-to-expand-housing-supply.html",
-        "priority": "high"
-      },
-      {
-        "label": "SEO quick wins",
-        "title": "GSC подтверждает резерв в уже ранжирующихся страницах",
-        "signal": "Thailand long-tail: 1 441 показ, позиция 4,87, CTR 0%; Arctic Digital Nomads: 326 показов, позиция 4,62.",
-        "action": "Продолжить модель 50% новых материалов / 50% апдейтов сильных URL.",
-        "source": "Google Search Console",
-        "url": "",
+        "label": "Capital rotation confirmation",
+        "title": "€4,5 млрд инвестиционной емкости на Южную Европу",
+        "signal": "Azora закрыла крупнейший специализированный фонд Southern Europe; почти 30 институциональных инвесторов из 16 стран.",
+        "action": "Добавить как сильный кейс в Europe capital-rotation материал, не делать еще один общий обзор.",
+        "source": "Azora",
+        "url": "https://www.azora.com/en/blog/azora-closes-the-largest-real-estate-fund-dedicated-to-southern-europe/",
         "priority": "high"
       }
     ]
