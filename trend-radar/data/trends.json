@@ -1,7 +1,7 @@
 {
   "meta": {
-    "period": "14–16 октября 2026",
-    "updatedAt": "16 октября 2026",
+    "period": "14–17 октября 2026",
+    "updatedAt": "17 октября 2026",
     "reportUrl": "https://docs.google.com/spreadsheets/d/1-qmLmoo9bImAVilC9TQBe6JaJiwJOla7jBbJMk0PiX0/edit?usp=drivesdk"
   },
   "categories": [
@@ -13,6 +13,137 @@
     "Инвестиции"
   ],
   "trends": [
+    {
+      "id": "germany-investment-market-q3-oct16",
+      "title": "Германия стабилизировалась, но капитал все еще требует скидку",
+      "category": "Инвестиции",
+      "trendStrength": 90,
+      "editorialPotential": 89,
+      "seoPotential": 91,
+      "priority": "medium",
+      "status": "update_existing",
+      "signal": "CBRE 16 октября: общий объем инвестиций в немецкую недвижимость за 9 месяцев достиг €23,2 млрд и лишь немного превысил прошлогодний уровень; bid-ask gap сохраняется, финансирование снова дорожает.",
+      "why": "Сигнал полезен как подтверждение того, что Германия остается выборочным рынком, но отдельная новая статья может пересекаться с материалом о немецком жилье и общеевропейской ротации капитала.",
+      "editorialAngle": "Добавить общий Q3-контекст в Germany housing / Europe capital map, а не создавать еще одну общую страницу.",
+      "seoAngle": "Germany real estate investment 2026; Germany property market Q3 2026; German commercial real estate",
+      "socialIdeas": [
+        "Деньги в Германии есть — но инвесторы все еще ждут правильную цену"
+      ],
+      "sources": [
+        {
+          "label": "CBRE Germany Investment Market Q3 2026",
+          "url": "https://www.cbre.com/insights/figures/germany-investment-market-q3-2026"
+        },
+        {
+          "label": "International Investment — Germany housing",
+          "url": "https://internationalinvestment.biz/en/business/8926-international-capital-returns-to-german-housing.html"
+        }
+      ]
+    },
+    {
+      "id": "agentic-travel-booking-2026",
+      "title": "ИИ-агенты начинают бронировать поездки вместо пользователя",
+      "category": "Туризм",
+      "trendStrength": 97,
+      "editorialPotential": 98,
+      "seoPotential": 97,
+      "priority": "high",
+      "status": "growing",
+      "signal": "Skift 15 октября описывает уже работающие agentic travel flows, где агент ищет, сравнивает, бронирует и оплачивает поездку в чате; отрасль при этом еще не готова к новому распределению трафика и комиссий.",
+      "why": "Это следующий этап после AI discovery: речь уже не о рекомендации отеля, а о передаче агенту самой транзакции.",
+      "editorialAngle": "Чем agentic booking отличается от ChatGPT-поиска; кто потеряет прямой трафик, какие данные и API нужны отелям и OTA, как изменятся комиссии и loyalty.",
+      "seoAngle": "AI travel agents 2026; agentic travel booking; AI booking hotels; ChatGPT travel booking; AI agents tourism",
+      "socialIdeas": [
+        "ИИ уже не советует поездку — он ее бронирует"
+      ],
+      "sources": [
+        {
+          "label": "Skift Research — The Agents Are Here",
+          "url": "https://newsletters.skift.com/p/the-agents-are-here-and-almost-no-one-is-ready"
+        },
+        {
+          "label": "International Investment — independent hotels and AI visibility",
+          "url": "https://internationalinvestment.biz/en/tourism/8940-why-ai-cannot-see-most-independent-hotels.html"
+        }
+      ]
+    },
+    {
+      "id": "malta-tourism-intensity-2025-release-2026",
+      "title": "На Мальте туристов местами больше, чем жителей",
+      "category": "Туризм",
+      "trendStrength": 96,
+      "editorialPotential": 98,
+      "seoPotential": 93,
+      "priority": "high",
+      "status": "growing",
+      "signal": "NSO Malta 15 октября: annual tourism intensity выросла до 8,7 туриста на 100 жителей; в августе в San Ġiljan показатель достиг 143 туристов на 100 жителей.",
+      "why": "Официальные locality-level данные превращают overtourism из абстрактной темы в измеримый показатель нагрузки на жилье, инфраструктуру и гостиничный рынок.",
+      "editorialAngle": "Мальта как экстремальный кейс tourism intensity: где туристов больше жителей, что это означает для аренды, отелей, инфраструктуры и регулирования.",
+      "seoAngle": "Malta overtourism 2026; Malta tourism intensity; St Julian's tourists residents; Malta tourism pressure",
+      "socialIdeas": [
+        "143 туриста на 100 жителей: как выглядит пик сезона на Мальте"
+      ],
+      "sources": [
+        {
+          "label": "NSO Malta Tourism Intensity 2025",
+          "url": "https://nso.gov.mt/tourism-intensity-2025/"
+        },
+        {
+          "label": "International Investment — EU tourism intensity",
+          "url": "https://internationalinvestment.biz/en/greece/8657-south-aegean-leads-eu-tourism-intensity.html"
+        }
+      ]
+    },
+    {
+      "id": "stockholm-industrial-to-housing-3200-2026",
+      "title": "Стокгольм превращает промышленные площадки в 3 200 квартир",
+      "category": "Недвижимость",
+      "trendStrength": 94,
+      "editorialPotential": 97,
+      "seoPotential": 92,
+      "priority": "high",
+      "status": "growing",
+      "signal": "Hines 16 октября запустила первую инвестицию нового европейского value-add фонда: платформа в Стокгольме потенциально даст около 3 200 квартир на двух бывших промышленных площадках.",
+      "why": "Это наглядный европейский кейс решения дефицита жилья через rezoning, brownfield conversion и институциональный капитал.",
+      "editorialAngle": "Почему дефицит жилья делает бывшие промышленные земли новым residential asset class; сравнить Стокгольм с Мадридом и Дюссельдорфом.",
+      "seoAngle": "Stockholm housing 2026; Sweden housing shortage; industrial to residential conversion; brownfield housing Europe; Hines Stockholm",
+      "socialIdeas": [
+        "Бывшие промзоны Стокгольма превращают в тысячи квартир"
+      ],
+      "sources": [
+        {
+          "label": "Hines HEREP IV Stockholm living platform",
+          "url": "https://www.hines.com/news/hines-launches-fourth-european-value-add-fund-with-stockholm-living-investment"
+        }
+      ]
+    },
+    {
+      "id": "greece-golden-visa-enforcement-oct17-2026",
+      "title": "Греция начнет отзывать Golden Visa за обход правил",
+      "category": "ВНЖ и миграция",
+      "trendStrength": 99,
+      "editorialPotential": 99,
+      "seoPotential": 99,
+      "priority": "high",
+      "status": "growing",
+      "signal": "Министр миграции Греции Танос Плеврис заявил 15 октября, что Golden Visa будут отзывать при скрытых возвратах части цены покупки и при обходе запрета на краткосрочную аренду через субаренду.",
+      "why": "Это меняет риск-профиль уже купленных объектов: вопрос теперь не только в пороге инвестиций, но и в последующем использовании недвижимости и структуре сделки.",
+      "editorialAngle": "Отдельная новость с четкими примерами нарушений + обновление evergreen Property Residency 2026: когда именно инвестор рискует потерять ВНЖ.",
+      "seoAngle": "Greece Golden Visa 2026; Golden Visa revoked Greece; Greece short term rental Golden Visa; Greece property residency rules",
+      "socialIdeas": [
+        "Греция начнет отбирать Golden Visa за обход правил"
+      ],
+      "sources": [
+        {
+          "label": "ERT News / Thanos Plevris",
+          "url": "https://www.ertnews.gr/eidiseis/th-pleyris-tha-afaireitai-i-golden-visa-an-diapistonontai-symfonies-ekptosis-kai-paraviasi-tis-apagoreysis-vraxyxronias-misthosis/"
+        },
+        {
+          "label": "International Investment — Property Residency 2026",
+          "url": "https://internationalinvestment.biz/en/real-estate/8895-property-residency-in-2026-what-still-works.html"
+        }
+      ]
+    },
     {
       "id": "southern-europe-megafund-2026",
       "title": "Южная Европа получает крупнейший специализированный фонд недвижимости",
@@ -1403,7 +1534,7 @@
     "rule": "Если в текущем трендрадаре или публикациях International Investment появляется страна, которой нет в списке локальных источников, найти ее официальный государственный статистический орган и релевантный регулятор/реестр недвижимости, проверить официальный домен и добавить их в мониторинг как verification-источники."
   },
   "coverageMonitoring": {
-    "updatedAt": "16 октября 2026",
+    "updatedAt": "17 октября 2026",
     "auditWindowDays": 90,
     "freshnessRules": {
       "freshMaxDays": 14,
@@ -1429,69 +1560,84 @@
     ],
     "gaps": [
       {
-        "country": "Глобально / Европа",
-        "theme": "Construction costs / development viability",
+        "country": "Греция",
+        "theme": "Golden Visa enforcement",
         "status": "urgent",
-        "reason": "JLL 15 октября фиксирует постоянную новую базу строительной инфляции 3–6%; нужен отдельный аналитический материал."
+        "reason": "Свежая позиция министра: отзыв ВНЖ за скрытые rebates и обход STR-запрета; нужен отдельный материал и апдейт evergreen."
       },
       {
-        "country": "ЕС",
-        "theme": "First EU Tourism Policy",
+        "country": "Швеция",
+        "theme": "Brownfield-to-housing / institutional living",
         "status": "high",
-        "reason": "16 октября объявлена дата первой общей туристической политики ЕС — 4 ноября; поставить в календарь обязательный follow-up."
+        "reason": "Hines запускает платформу до 3 200 квартир в supply-constrained Stockholm; сильный conversion/value-add кейс."
+      },
+      {
+        "country": "Мальта",
+        "theme": "Tourism intensity / overtourism",
+        "status": "high",
+        "reason": "NSO опубликовал locality-level показатель 143 туриста на 100 жителей в San Ġiljan в августе."
+      },
+      {
+        "country": "Глобально / Европа",
+        "theme": "Agentic travel booking",
+        "status": "urgent",
+        "reason": "AI переходит от discovery к транзакции; отдельный SEO/AI-кластер, не закрытый материалом про видимость отелей."
       },
       {
         "country": "Германия",
-        "theme": "Housing supply / permits",
-        "status": "high",
-        "reason": "Destatis 16 октября: permits +12,1% за январь–август; обновить существующий Germany housing URL."
-      },
-      {
-        "country": "Южная Европа",
-        "theme": "Cross-border capital / value-add",
-        "status": "high",
-        "reason": "Azora подтверждает структурный переток институционального капитала в Испанию, Португалию, Италию и Грецию; лучше усилить существующий Europe capital-rotation URL."
+        "theme": "Q3 investment pricing",
+        "status": "watch",
+        "reason": "€23,2 млрд за 9М; рынок стабилен на низком уровне и сохраняет bid-ask gap — использовать для апдейта существующих страниц."
       }
     ]
   },
   "dailyUpdate": {
-    "date": "16 октября 2026",
+    "date": "17 октября 2026",
     "items": [
       {
-        "label": "Главный новый инвестиционный сигнал",
-        "title": "Строительная инфляция стала постоянной частью экономики проектов",
-        "signal": "JLL: +25–30% к стоимости стройки с 2021 года; новая годовая база 3–6%, в 2027 tender prices еще +3,1–4,2%.",
-        "action": "Новый большой материал: какие классы недвижимости еще выдерживают новую себестоимость.",
-        "source": "JLL",
-        "url": "https://www.jll.com/en-us/newsroom/global-construction-cost-index",
+        "label": "Главный regulatory сигнал",
+        "title": "Греция начнет отзывать Golden Visa за обход правил",
+        "signal": "Под угрозой разрешения при скрытом возврате части цены и обходе запрета short-term rental через субаренду.",
+        "action": "Отдельная новость + обновить Property Residency 2026.",
+        "source": "ERT News",
+        "url": "https://www.ertnews.gr/eidiseis/th-pleyris-tha-afaireitai-i-golden-visa-an-diapistonontai-symfonies-ekptosis-kai-paraviasi-tis-apagoreysis-vraxyxronias-misthosis/",
         "priority": "high"
       },
       {
-        "label": "Новый policy-watch",
-        "title": "ЕС представит первую общую туристическую политику 4 ноября",
-        "signal": "В фокусе connectivity, skills, digital, investment, diversification и resilience.",
-        "action": "Поставить follow-up на 4 ноября; сейчас при необходимости короткий preview.",
-        "source": "European Commissioner / TravelDailyNews",
-        "url": "https://www.traveldailynews.com/meetings-events/first-eu-tourism-policy-to-be-presented-on-4-november/",
+        "label": "Housing / value-add",
+        "title": "Стокгольм: 3 200 квартир вместо промышленных площадок",
+        "signal": "Hines HEREP IV начал с одной из крупнейших rezoning/development платформ региона.",
+        "action": "Новый аналитический материал про industrial-to-residential conversion.",
+        "source": "Hines",
+        "url": "https://www.hines.com/news/hines-launches-fourth-european-value-add-fund-with-stockholm-living-investment",
         "priority": "high"
       },
       {
-        "label": "SEO update",
-        "title": "Германия: разрешения на жилье +12,1%",
-        "signal": "169 400 разрешений за январь–август; multifamily +14,5%.",
-        "action": "Обновить существующий Germany housing URL, новый не создавать.",
-        "source": "Destatis",
-        "url": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/10/PD26_370_3111.html",
+        "label": "Tourism / viral",
+        "title": "На Мальте в пик сезона туристов больше, чем жителей",
+        "signal": "San Ġiljan: 143 туриста на 100 жителей в августе; annual tourism intensity страны выросла до 8,7.",
+        "action": "Новый Malta-specific материал или сильный апдейт tourism intensity evergreen.",
+        "source": "NSO Malta",
+        "url": "https://nso.gov.mt/tourism-intensity-2025/",
         "priority": "high"
       },
       {
-        "label": "Capital rotation confirmation",
-        "title": "€4,5 млрд инвестиционной емкости на Южную Европу",
-        "signal": "Azora закрыла крупнейший специализированный фонд Southern Europe; почти 30 институциональных инвесторов из 16 стран.",
-        "action": "Добавить как сильный кейс в Europe capital-rotation материал, не делать еще один общий обзор.",
-        "source": "Azora",
-        "url": "https://www.azora.com/en/blog/azora-closes-the-largest-real-estate-fund-dedicated-to-southern-europe/",
+        "label": "AI distribution",
+        "title": "ИИ-агенты переходят от советов к бронированию",
+        "signal": "Agentic flows уже умеют искать, сравнивать, бронировать и оплачивать поездки в чате.",
+        "action": "Новый материал про agentic booking и угрозу прямому трафику/OTA-модели.",
+        "source": "Skift Research",
+        "url": "https://newsletters.skift.com/p/the-agents-are-here-and-almost-no-one-is-ready",
         "priority": "high"
+      },
+      {
+        "label": "Update existing",
+        "title": "Германия: общий рынок стабилен, но цены еще не сошлись",
+        "signal": "€23,2 млрд за 9 месяцев, bid-ask gap и более дорогое финансирование сохраняются.",
+        "action": "Усилить Germany housing / Europe capital map, новый URL не создавать.",
+        "source": "CBRE",
+        "url": "https://www.cbre.com/insights/figures/germany-investment-market-q3-2026",
+        "priority": "medium"
       }
     ]
   }
