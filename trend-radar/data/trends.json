@@ -1,8 +1,9 @@
 {
   "meta": {
-    "period": "12–18 октября 2026",
-    "updatedAt": "19 октября 2026",
-    "reportUrl": "https://github.com/darovska/hw03_forms_test/blob/main/trend-radar/reports/2026-10-19-weekly-trendwatch.md"
+    "period": "12–21 октября 2026",
+    "updatedAt": "21 октября 2026",
+    "reportUrl": "https://github.com/darovska/hw03_forms_test/blob/main/trend-radar/reports/2026-10-19-weekly-trendwatch.md",
+    "editorialNote": "21 октября: свежие источники для новых черновиков; измерения GSC/GA4 не обновлялись по данному действию, CMS публикация приостановлена до обновления админки."
   },
   "categories": [
     "Все",
@@ -14,6 +15,60 @@
   ],
   "trends": [
     {
+      "id": "eu-government-debt-q2-2026-oct21",
+      "title": "Госдолг еврозоны вырос до 88,8% ВВП",
+      "category": "Инвестиции",
+      "trendStrength": 90,
+      "editorialPotential": 94,
+      "seoPotential": 91,
+      "priority": "high",
+      "status": "draft_ready",
+      "signal": "Eurostat 21 октября: Q2 2026 debt/GDP 88,8% в еврозоне, 82,9% в ЕС; Греция 140,8%, Италия 139,9%, Франция 119,1%.",
+      "why": "Свежие сравнимые официальные данные; создан редакционный RU/EN Google Doc, CMS отключена.",
+      "editorialAngle": "Сравнить рынки и риски без механического вывода об ипотечных ставках.",
+      "seoAngle": "EU debt 2026; euro area debt Q2; government debt to GDP",
+      "socialIdeas": [
+        "Как госдолг связан с бюджетами городов и недвижимостью"
+      ],
+      "sources": [
+        {
+          "label": "Eurostat 21 October 2026",
+          "url": "https://ec.europa.eu/eurostat/en/web/products-euro-indicators/w/2-21102026-bp"
+        },
+        {
+          "label": "II RU/EN draft",
+          "url": "https://docs.google.com/document/d/1nh1jXWMXQI5ivBlEHWpqUdzuvN83HyQZQd0VhVarpUk/edit"
+        }
+      ]
+    },
+    {
+      "id": "spain-investment-record-q3-2026-oct21",
+      "title": "Инвестиции в недвижимость Испании достигли €16,4 млрд",
+      "category": "Недвижимость",
+      "trendStrength": 93,
+      "editorialPotential": 94,
+      "seoPotential": 91,
+      "priority": "high",
+      "status": "draft_ready",
+      "signal": "CBRE в публикации Cinco Días 21 октября: инвестиции в недвижимость Испании январь–сентябрь 2026 €16,4 млрд, +25% г/г; living €5,86 млрд; гостиницы €2,92 млрд.",
+      "why": "Свежий релиз, в проверенной очереди Google Drive точного дубля по дате не обнаружено; создан RU/EN Google Doc.",
+      "editorialAngle": "Раскрыть структуру инвестиций и осторожно сравнить брендовые гостиничные резиденции Грузии без обещаний доходности.",
+      "seoAngle": "Spain real estate investment 2026; CBRE Spain hotel investment",
+      "socialIdeas": [
+        "Почему инвесторы выбирают жилье и отели Испании"
+      ],
+      "sources": [
+        {
+          "label": "Cinco Días / CBRE 21 October 2026",
+          "url": "https://cincodias.elpais.com/companias/2026-10-21/la-inversion-inmobiliaria-alcanza-los-16400-millones-hasta-septiembre-un-25-mas.html"
+        },
+        {
+          "label": "II RU/EN draft",
+          "url": "https://docs.google.com/document/d/1p1CX5nVprYUsPxOcL-xlGREykOabMxGseykE_gyI8cA/edit"
+        }
+      ]
+    },
+    {
       "id": "eu-government-debt-deficit-oct20-watch",
       "title": "20 октября Eurostat обновит карту госдолга и дефицита ЕС",
       "category": "Инвестиции",
@@ -21,9 +76,9 @@
       "editorialPotential": 94,
       "seoPotential": 91,
       "priority": "high",
-      "status": "watch",
+      "status": "superseded",
       "signal": "20 октября Eurostat публикует вторую нотификацию по дефициту и госдолгу за 2025 год, а также квартальные показатели долга и дефицита за Q2 2026.",
-      "why": "Релиз может дать сильный сравнительный материал по странам с наименьшим и наибольшим фискальным пространством перед новыми расходами на жилье, инфраструктуру и туризм.",
+      "why": "Заменен фактическим релизом Eurostat от 21 октября по Q2 2026; не создавать дубль.",
       "editorialAngle": "После релиза сравнить страны ЕС: debt/GDP, deficit/GDP, изменение за год и инвестиционный вывод. До публикации цифры не прогнозировать.",
       "seoAngle": "EU debt 2026; government deficit Europe 2026; debt to GDP Europe; fiscal risk Europe",
       "socialIdeas": [
