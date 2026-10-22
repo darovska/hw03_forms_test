@@ -1,9 +1,9 @@
 {
   "meta": {
-    "period": "12–21 октября 2026",
-    "updatedAt": "21 октября 2026",
-    "reportUrl": "https://github.com/darovska/hw03_forms_test/blob/main/trend-radar/reports/2026-10-19-weekly-trendwatch.md",
-    "editorialNote": "21 октября: свежие источники для новых черновиков; измерения GSC/GA4 не обновлялись по данному действию, CMS публикация приостановлена до обновления админки."
+    "period": "19–22 октября 2026",
+    "updatedAt": "22 октября 2026",
+    "reportUrl": "https://github.com/darovska/hw03_forms_test/blob/main/trend-radar/reports/2026-10-22-trendwatch.md",
+    "editorialNote": "22 октября: проверены новые первичные источники NBIM/Ares, Savills, Covivio Hotels, ONS и Eurostat. Три RU/EN Google Docs готовы с реальными изображениями; CMS не меняли. GSC/GA4 и ZeroGPT не запускали."
   },
   "categories": [
     "Все",
@@ -14,6 +14,167 @@
     "Инвестиции"
   ],
   "trends": [
+    {
+      "id": "nbim-ares-europe-logistics-oct21-2026",
+      "title": "Норвежский фонд направит €1,5 млрд в логистику Европы",
+      "category": "Инвестиции",
+      "trendStrength": 92,
+      "editorialPotential": 94,
+      "seoPotential": 89,
+      "priority": "high",
+      "status": "draft_ready",
+      "signal": "NBIM 21 октября: подписано 20 октября; обязательство по капиталу €1,5 млрд, участие NBIM 96%, инвестиции в логистику Западной и Южной Европы включая Великобританию.",
+      "why": "Новое институциональное партнерство; отдельная новость от уже опубликованного общего обзора складов. RU/EN Google Doc готов с изображениями.",
+      "editorialAngle": "Разграничить капитал, который фонд обязался предоставить, и завершенные покупки; показать роль Marq Logistics и качество активов.",
+      "seoAngle": "NBIM Ares 2026 logistics; €1.5bn European warehouses; sovereign wealth fund",
+      "socialIdeas": [
+        "Почему Norges Bank выбирает склады Европы",
+        "NBIM €1,5 млрд: обязательство, а не покупки"
+      ],
+      "sources": [
+        {
+          "label": "NBIM, 21 October 2026",
+          "url": "https://www.nbim.no/en/news-and-insights/the-press/press-releases/2026/fund-forms-new-logistics-partnership-in-europe/"
+        },
+        {
+          "label": "RU/EN draft",
+          "url": "https://docs.google.com/document/d/1dB7R8kmELbgoqnsM0MgvCpvg4VBFA0exrqbYgp9E56s/edit"
+        }
+      ]
+    },
+    {
+      "id": "savills-europe-office-crossborder-oct21-2026",
+      "title": "Иностранцы занимают 39% европейских офисных сделок",
+      "category": "Инвестиции",
+      "trendStrength": 88,
+      "editorialPotential": 91,
+      "seoPotential": 90,
+      "priority": "high",
+      "status": "draft_ready",
+      "signal": "Savills 21 октября: cross-border share 39% в 2026 YTD против 36% в полном 2025; prime CBD office yield Q3 2026 5,1%, +13 б. п. квартал к кварталу.",
+      "why": "Новый европейский инвестиционный срез, не повтор обзора офисов CEE. Документ RU/EN и четыре изображения готовы.",
+      "editorialAngle": "Сравнить сделки трансграничного капитала и изменение ставок доходности по городам, отличить yield от фактического возврата.",
+      "seoAngle": "European office investment 2026; cross-border 39%; Savills yields 5.1%",
+      "socialIdeas": [
+        "Почему международные фонды снова покупают офисы",
+        "Где офисные yield выросли, а где снизились"
+      ],
+      "sources": [
+        {
+          "label": "Savills, 21 October 2026",
+          "url": "https://www.savills.com/insight-and-opinion/savills-news/395789/savills--european-office-cross-border-activity-continues-to-pick-up"
+        },
+        {
+          "label": "RU/EN draft",
+          "url": "https://docs.google.com/document/d/1PBaW4ePIX015ikI1zPQc54FUdw8RffZIh9ZXTO6Dz4E/edit"
+        }
+      ]
+    },
+    {
+      "id": "covivio-hotels-revpar-oct21-2026",
+      "title": "Covivio Hotels: выручка +4,7%, RevPAR Испании +7,1%",
+      "category": "Туризм",
+      "trendStrength": 92,
+      "editorialPotential": 95,
+      "seoPotential": 93,
+      "priority": "high",
+      "status": "draft_ready",
+      "signal": "Covivio Hotels 21 октября: 9M2026 revenue +4,7% current scope, +2,0% like-for-like; country-level RevPAR Испания +7,1%, Италия +6,7%, Бельгия -1,1%.",
+      "why": "Свежий regulated release и отдельная инвестиционно-гостиничная аналитика; RU/EN Google Doc и четыре изображения готовы.",
+      "editorialAngle": "Разделить доходы владельца и рыночный RevPAR. Сопоставить контракты, реконструкции и инвестиционные риски; Грузия только в уместном контексте.",
+      "seoAngle": "Covivio Hotels 2026 revenue; European RevPAR September 2026; Spain hotels",
+      "socialIdeas": [
+        "Почему выручка гостиниц растет быстрее наращивания сопоставимых продаж",
+        "Испания и Италия против Бельгии по RevPAR"
+      ],
+      "sources": [
+        {
+          "label": "Covivio Hotels regulated release, 21 October",
+          "url": "https://www.webdisclosure.com/press-release/covivio-hotels-epa-covh-covivio-hotels-revenues-up-47-at-end-september-2026-hfwvtdwPaTd"
+        },
+        {
+          "label": "RU/EN draft",
+          "url": "https://docs.google.com/document/d/1u309o5JsGJBj_wHEu9tECAi-8iPMBGSc-ORpGAOZSis/edit"
+        }
+      ]
+    },
+    {
+      "id": "ons-uk-housing-rents-oct21-2026",
+      "title": "Жилье Лондона дешевеет, аренда Британии растет",
+      "category": "Недвижимость",
+      "trendStrength": 89,
+      "editorialPotential": 94,
+      "seoPotential": 90,
+      "priority": "high",
+      "status": "update_existing",
+      "signal": "ONS 21 октября: UK private rents +3,8% до £1406 за сентябрь, house prices +0,9% к августу 2025, Лондон -2,2%; источник с предварительными оценками.",
+      "why": "Есть URL по британскому рынку жилья; обновить существующую статью /britannia/8154, а не создавать отдельную без анализа дублей.",
+      "editorialAngle": "Новая статистика жилья и аренды по разным месяцам, сравнительная динамика внутри страны.",
+      "seoAngle": "UK house prices August 2026; UK rents September 2026; London flats",
+      "socialIdeas": [
+        "Почему аренда растет, когда продажи жилья тормозят"
+      ],
+      "sources": [
+        {
+          "label": "ONS October 2026 housing and rents",
+          "url": "https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/privaterentandhousepricesuk/october2026"
+        },
+        {
+          "label": "Existing II page to update",
+          "url": "https://internationalinvestment.biz/britannia/8154-zhile-britanii-terjaet-cenu.html"
+        }
+      ]
+    },
+    {
+      "id": "uk-prime-rents-yields-savills-oct19-2026",
+      "title": "Лондонские арендные квартиры приносят больше при падении цен",
+      "category": "Недвижимость",
+      "trendStrength": 84,
+      "editorialPotential": 87,
+      "seoPotential": 87,
+      "priority": "medium",
+      "status": "watch",
+      "signal": "Savills 19 октября: prime central London rent +1,1% QoQ, +1,9% YoY, one-bed prime flat average yields 5,8%; регуляторное давление сокращает предложение.",
+      "why": "Возможная отдельная аналитика после точного SEO-аудита опубликованных London/Renters Rights страниц; пока watch без дубля.",
+      "editorialAngle": "Не смешивать prime-market yields и общенациональную арендную инфляцию ONS.",
+      "seoAngle": "Prime central London rents Q3 2026; Savills one bedroom yields",
+      "socialIdeas": [
+        "Почему small prime London flats дают более высокую доходность"
+      ],
+      "sources": [
+        {
+          "label": "Savills prime lettings release 19 October",
+          "url": "https://www.savills.co.uk/insight-and-opinion/savills-news/395751/landlord-caution-squeezes-rental-supply-as-yields-strengthen"
+        }
+      ]
+    },
+    {
+      "id": "eurostat-eu-deficit-2025-final-oct21-2026",
+      "title": "Годовой дефицит ЕС 3,1%: дополнить материал о госдолге",
+      "category": "Инвестиции",
+      "trendStrength": 85,
+      "editorialPotential": 90,
+      "seoPotential": 86,
+      "priority": "medium",
+      "status": "update_existing",
+      "signal": "Eurostat 21 октября: 2025 government deficit euro area 3,0% GDP, EU 3,1%; отдельный статистический период от квартального долга Q2 2026.",
+      "why": "Существует Google Doc за Q2 2026 по госдолгу, обновить/дополнить с явной датой, не создавать дубликат.",
+      "editorialAngle": "Различать debt stock и fiscal deficit, годовой/квартальный ряд.",
+      "seoAngle": "Eurostat deficit 2025; European debt Q2 2026",
+      "socialIdeas": [
+        "Госдолг и дефицит: почему это разные показатели"
+      ],
+      "sources": [
+        {
+          "label": "Eurostat 2025 deficit, 21 October",
+          "url": "https://ec.europa.eu/eurostat/en/web/products-euro-indicators/w/2-21102026-ap"
+        },
+        {
+          "label": "Prepared II debt draft",
+          "url": "https://docs.google.com/document/d/1nh1jXWMXQI5ivBlEHWpqUdzuvN83HyQZQd0VhVarpUk/edit"
+        }
+      ]
+    },
     {
       "id": "eu-government-debt-q2-2026-oct21",
       "title": "Госдолг еврозоны вырос до 88,8% ВВП",
@@ -1286,6 +1447,19 @@
         "Туризм Мальта"
       ],
       "reportUrl": "https://docs.google.com/spreadsheets/d/1-qmLmoo9bImAVilC9TQBe6JaJiwJOla7jBbJMk0PiX0/edit?usp=drivesdk"
+    },
+    {
+      "period": "19–22 октября 2026",
+      "endDate": "2026-10-22",
+      "savedAt": "22 октября 2026",
+      "summary": "Новое институциональное логистическое партнерство NBIM и Ares, трансграничный офисный капитал и гостиничная отчетность Covivio. ONS и Eurostat требуют обновления существующих URL.",
+      "keyPoints": [
+        "NBIM: €1,5 млрд equity, 96% доля в складской платформе.",
+        "Savills: 39% cross-border office investments 2026 YTD, prime yield 5,1%.",
+        "Covivio Hotels: revenue +4,7% current, +2% like-for-like.",
+        "ONS UK и Eurostat annual deficit — обновление существующих материалов, не новые URL."
+      ],
+      "reportUrl": "https://github.com/darovska/hw03_forms_test/blob/main/trend-radar/reports/2026-10-22-trendwatch.md"
     }
   ],
   "monitoringSources": [
@@ -1949,78 +2123,60 @@
     ]
   },
   "dailyUpdate": {
-    "date": "19 октября 2026",
+    "date": "22 октября 2026",
     "items": [
       {
-        "label": "SEO update",
-        "title": "Британия: ипотека снова давит на сделки",
-        "signal": "Rightmove: asking prices +1% м/м, sales agreed -8% г/г, средняя 2-year fixed mortgage 5,55%.",
-        "action": "Обновить существующий UK housing URL, новый не создавать.",
-        "source": "Reuters / Rightmove",
-        "url": "https://www.investing.com/news/economy-news/uk-housing-market-showing-signs-of-mortgage-rates-impact-rightmove-says-4956121",
+        "label": "Новый материал",
+        "title": "NBIM и Ares €1,5 млрд для складов Европы",
+        "signal": "21 октября NBIM объявил €1,5 млрд equity commitment и участие 96%.",
+        "action": "RU/EN Google Doc готов; не публиковать до отдельного CMS этапа.",
+        "source": "NBIM",
+        "url": "https://docs.google.com/document/d/1dB7R8kmELbgoqnsM0MgvCpvg4VBFA0exrqbYgp9E56s/edit",
         "priority": "high"
       },
       {
-        "label": "Migration / tourism update",
-        "title": "Италия–Испания: взаимные проверки продлены",
-        "signal": "Испания сохраняет меры до 22 октября; стороны обсуждают замену внутренних проверок другим механизмом.",
-        "action": "Обновить существующий Schengen URL.",
-        "source": "Reuters",
-        "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/10/16/italy-prolongs-schengen-suspension-with-spain-talks-loom",
+        "label": "Новый материал",
+        "title": "Европейские офисы: 39% трансграничных сделок",
+        "signal": "Savills Q3 prime CBD yield 5,1%, +13 б. п.",
+        "action": "RU/EN Google Doc готов; выбрать страновые ссылки после CMS.",
+        "source": "Savills",
+        "url": "https://docs.google.com/document/d/1PBaW4ePIX015ikI1zPQc54FUdw8RffZIh9ZXTO6Dz4E/edit",
         "priority": "high"
       },
       {
-        "label": "Завтрашний релиз",
-        "title": "Eurostat: госдолг и дефицит ЕС — 20 октября",
-        "signal": "Вторая нотификация 2025 + квартальные debt/deficit Q2 2026.",
-        "action": "После публикации выбрать страны с самым сильным изменением и сделать сравнительный материал.",
+        "label": "Новый материал",
+        "title": "Covivio Hotels +4,7% выручки",
+        "signal": "LFL +2%; Испания RevPAR +7,1% (рыночный показатель).",
+        "action": "RU/EN Google Doc готов; не смешивать revenue с RevPAR.",
+        "source": "Covivio Hotels",
+        "url": "https://docs.google.com/document/d/1u309o5JsGJBj_wHEu9tECAi-8iPMBGSc-ORpGAOZSis/edit",
+        "priority": "high"
+      },
+      {
+        "label": "Обновить",
+        "title": "ONS Британия: аренда £1 406 и цены жилья +0,9%",
+        "signal": "Сентябрьская аренда UK +3,8%, августовские цены Лондона -2,2%.",
+        "action": "Обновить существующий UK housing URL /britannia/8154 после чтения текущего текста.",
+        "source": "ONS",
+        "url": "https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/privaterentandhousepricesuk/october2026",
+        "priority": "high"
+      },
+      {
+        "label": "Обновить",
+        "title": "Eurostat EU deficit 2025",
+        "signal": "EA 3,0% и EU 3,1% от ВВП — годовые данные.",
+        "action": "Дополнить материал про долг, не заменяя Q2 2026 debt figures.",
         "source": "Eurostat",
-        "url": "https://ec.europa.eu/eurostat/en/news/release-calendar?theme=2",
-        "priority": "high"
+        "url": "https://ec.europa.eu/eurostat/en/web/products-euro-indicators/w/2-21102026-ap",
+        "priority": "medium"
       },
       {
-        "label": "Новое сравнение ЕС",
-        "title": "Eurostat: Хорватия 24,5 туристической ночевки на жителя",
-        "signal": "2025: ЕС 3,1 млрд ночевок (+4,1%), Мальта 21,7, Кипр 19,4, ЕС 7,0.",
-        "action": "Новая сравнительная статья без дублирования Malta-only.",
-        "source": "Eurostat",
-        "url": "https://ec.europa.eu/eurostat/en/web/products-eurostat-news/w/ddn-20261016-1",
-        "priority": "high"
-      },
-      {
-        "label": "Обновить существующий URL",
-        "title": "Ирландия: жилье растет на 5,1%, Дублин отстает",
-        "signal": "CSO август: Дублин +3,9%, остальная Ирландия +6,2%.",
-        "action": "Обновить Ireland 17% overvalued URL и добавить региональный график.",
-        "source": "CSO Ireland",
-        "url": "https://www.cso.ie/en/releasesandpublications/ep/p-rppi/residentialpropertypriceindexaugust2026/",
-        "priority": "high"
-      },
-      {
-        "label": "Регулирование",
-        "title": "Ирландия вводит реестр STR — проект закона",
-        "signal": "6 октября опубликован Bill; TravelDailyNews вернулся к нему 15 октября; декабрьские сроки зависят от принятия закона.",
-        "action": "Новый Ireland explainer и обновление европейского обзора Airbnb.",
-        "source": "Irish Department of Enterprise",
-        "url": "https://www.enterprise.gov.ie/en/news-and-events/department-news/2026/october/20261006.html",
-        "priority": "high"
-      },
-      {
-        "label": "Отели",
-        "title": "Милан: событийный скачок гостиничной выручки",
-        "signal": "CoStar сентябрь: загрузка 84,2%, ADR €310,04, RevPAR €261,17.",
-        "action": "Новая гостиничная аналитика с оговоркой об event premium.",
-        "source": "CoStar/STR",
-        "url": "https://www.costar.com/es-la/productos/str-benchmark/recursos/notas-de-prensa/milan-hotel-room-rates-approached-all-time-high-thanks-grand-prix-and-fashion-week",
-        "priority": "high"
-      },
-      {
-        "label": "Макроэкономика",
-        "title": "Еврозона: инфляция 3,8% повышает риск дорогого финансирования",
-        "signal": "Eurostat сентябрь: 3,8% против 3,2% в августе.",
-        "action": "Дополнить европейский housing/investment хаб, ставки проверять по ECB.",
-        "source": "Eurostat",
-        "url": "https://ec.europa.eu/eurostat/en/web/products-euro-indicators/w/2-16102026-ap",
+        "label": "Отложено",
+        "title": "Лондон: prime rental yield 5,8% в one-bed flats",
+        "signal": "Savills 19 октября: prime central London rent +1,1% QoQ.",
+        "action": "Проверить SEO-каннибализацию существующих London pages.",
+        "source": "Savills",
+        "url": "https://www.savills.co.uk/insight-and-opinion/savills-news/395751/landlord-caution-squeezes-rental-supply-as-yields-strengthen",
         "priority": "medium"
       }
     ]
