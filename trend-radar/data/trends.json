@@ -3,7 +3,7 @@
     "period": "19–23 октября 2026",
     "updatedAt": "23 октября 2026",
     "reportUrl": "https://github.com/darovska/hw03_forms_test/blob/main/trend-radar/reports/2026-10-23-trendwatch.md",
-    "editorialNote": "Evening dedup run Oct 23: completed NEW RU EN prime London lettings and Vienna city Sept nights/Aug revenue, each SEO/FAQ, four embedded image objects, six multilingual social drafts; marked Italy Staff House, Ireland short-let register, EU aviation, Eurostat tourism intensity and Austria Jan-Aug as covered; existing Germany hotel CBRE draft identified without duplicate. CMS and socials not published; no ZeroGPT/GSC."
+    "editorialNote": "Late 23 Oct additional batch: Azora Southern Europe Opportunities III and Hilton-Scandic Nordics agreement; 2 new original RU/EN Google Docs with SEO, 4 embedded image objects and six social teasers each. Misleading figures corrected (Azora fund vs capacity, Hilton planned vs built). Six stale radar topics marked already covered; three existing Drive drafts discovered. CMS unchanged, no ZeroGPT/GSC/GA4."
   },
   "categories": [
     "Все",
@@ -14,6 +14,41 @@
     "Инвестиции"
   ],
   "trends": [
+    {
+      "id": "hilton-scandic-nordic-agreement-oct19-2026",
+      "title": "Hilton и Scandic развивают отели в четырех странах",
+      "category": "Туризм",
+      "trendStrength": 91,
+      "editorialPotential": 94,
+      "seoPotential": 93,
+      "priority": "high",
+      "status": "draft_ready",
+      "social_ready": true,
+      "decision": "new",
+      "editorial_stage": "docs_ready_not_submitted",
+      "signal": "Hilton/Scandic official 19 Oct: multi-year framework Sweden Norway Denmark Finland, first named new property 284-room Hilton at Scanport near Copenhagen Airport, planned 2029; Scandic operator as Hilton franchisee. No mass rebranding.",
+      "why": "A new agreement not yet duplicated in public II articles or accessible Drive queue. Full RU/EN native Google Doc, SEO, four embedded images and six platform-language teasers verified. Hotel construction and loyalty benefits remain conditional / undisclosed.",
+      "editorialAngle": "Separate hotel brand, operating company and property investor; the 284-room project is not evidence of hundreds of confirmed new hotels.",
+      "seoAngle": "Hilton Scandic Nordics development agreement 2026, Copenhagen airport Hilton 284 rooms 2029",
+      "image_count": 4,
+      "socialIdeas": [
+        "Four countries, one announced hotel and no Scandic mass rebranding"
+      ],
+      "sources": [
+        {
+          "label": "Scandic official 19 Oct",
+          "url": "https://www.scandichotelsgroup.com/media/press-releases/2026/scandic-and-hilton-sign-new-nordics-strategic-agreement/"
+        },
+        {
+          "label": "Hilton official 19 Oct",
+          "url": "https://stories.hilton.com/emea/releases/hilton-and-scandic-sign-new-nordics-strategic-agreement"
+        },
+        {
+          "label": "RU/EN document with images and 6 social posts",
+          "url": "https://docs.google.com/document/d/1PWHkKxC2c1N1i5pTb-BGcpgq3fW5sEYMM7F4_o7H_ic/edit"
+        }
+      ]
+    },
     {
       "id": "vienna-september-2026-hotel-nights-august-revenue",
       "title": "Вена: ночевки +4% в сентябре, выручка −5% в августе",
@@ -600,9 +635,9 @@
       "editorialPotential": 92,
       "seoPotential": 90,
       "priority": "medium",
-      "status": "growing",
+      "status": "draft_ready",
       "signal": "Eurostat 16 октября: сентябрьская инфляция еврозоны 3,8% г/г против 3,2% в августе; Румыния 6,5%, Литва 6,1%, Болгария 5,6%, Швеция 1,0%.",
-      "why": "Макросигнал для недвижимости, но прямые прогнозы ипотечных ставок без данных ECB не подтверждены.",
+      "why": "Макросигнал для недвижимости, но прямые прогнозы ипотечных ставок без данных ECB не подтверждены. Existing RU/EN Google Doc identified 23 Oct; no duplicate draft. Social package not yet verified.",
       "editorialAngle": "Обновить существующие EU housing/capital market обзоры, новый общий URL не создавать.",
       "seoAngle": "eurozone inflation September 2026; European property financing",
       "socialIdeas": [
@@ -613,8 +648,13 @@
         {
           "label": "Eurostat inflation, 16 October",
           "url": "https://ec.europa.eu/eurostat/en/web/products-euro-indicators/w/2-16102026-ap"
+        },
+        {
+          "label": "Existing RU EN draft",
+          "url": "https://docs.google.com/document/d/1RpsqC-_LnxmSkYy7K3hThhqv9H8c3jL9LrthlkdkI0s/edit"
         }
-      ]
+      ],
+      "social_ready": false
     },
     {
       "id": "milan-hotels-costar-oct14",
@@ -624,9 +664,9 @@
       "editorialPotential": 92,
       "seoPotential": 90,
       "priority": "high",
-      "status": "growing",
+      "status": "covered",
       "signal": "CoStar/STR 14 октября: Милан сентябрь occupancy 84,2% (+1,6% г/г), ADR €310,04 (+7,2%), RevPAR €261,17 (+8,9%). Formula 1 и Fashion Week.",
-      "why": "Событийный рост гостиничной выручки нельзя приравнивать к годовой доходности или росту NOI.",
+      "why": "Событийный рост гостиничной выручки нельзя приравнивать к годовой доходности или росту NOI. Review 23 Oct: website already contains core event/figures in https://internationalinvestment.biz/tourism/8963-gran-pri-i-moda-razognali-ceny-otelej-milana.html; do not recreate.",
       "editorialAngle": "Новая аналитика: эффект крупных мероприятий на ADR и RevPAR.",
       "seoAngle": "Milan hotel ADR September 2026; RevPAR F1 Fashion Week",
       "socialIdeas": [
@@ -638,7 +678,8 @@
           "label": "CoStar/STR, 14 October",
           "url": "https://www.costar.com/es-la/productos/str-benchmark/recursos/notas-de-prensa/milan-hotel-room-rates-approached-all-time-high-thanks-grand-prix-and-fashion-week"
         }
-      ]
+      ],
+      "covered_url": "https://internationalinvestment.biz/tourism/8963-gran-pri-i-moda-razognali-ceny-otelej-milana.html"
     },
     {
       "id": "ireland-short-let-bill-oct2026",
@@ -725,9 +766,9 @@
       "editorialPotential": 98,
       "seoPotential": 97,
       "priority": "high",
-      "status": "growing",
+      "status": "covered",
       "signal": "Skift 13 октября: в исследовании 27 360 AI-ответов о 659 отелях Барселоны независимые отели в 8 раз чаще сетевых оставались неизвестными для ИИ. Google Reviews влияют на узнаваемость, 51% опрошенных опасаются неточности AI travel advice; актуальное уточнение тренда, не отдельное повторное событие.",
-      "why": "Это следующий этап после AI discovery: речь уже не о рекомендации отеля, а о передаче агенту самой транзакции.",
+      "why": "Это следующий этап после AI discovery: речь уже не о рекомендации отеля, а о передаче агенту самой транзакции. Review 23 Oct: website already contains core event/figures in https://internationalinvestment.biz/en/tourism/8934-ai-search-for-travel-2026-how-ai-chooses-hotels.html; do not recreate.",
       "editorialAngle": "Чем agentic booking отличается от ChatGPT-поиска; кто потеряет прямой трафик, какие данные и API нужны отелям и OTA, как изменятся комиссии и loyalty.",
       "seoAngle": "AI travel agents 2026; agentic travel booking; AI booking hotels; ChatGPT travel booking; AI agents tourism",
       "socialIdeas": [
@@ -746,7 +787,8 @@
           "label": "Skift Data + AI Summit Europe, 13 October",
           "url": "https://skift.com/2026/10/13/skift-data-ai-summit-europe-2026-ai-is-ubiquitous-yet-still-unconquered/"
         }
-      ]
+      ],
+      "covered_url": "https://internationalinvestment.biz/en/tourism/8934-ai-search-for-travel-2026-how-ai-chooses-hotels.html"
     },
     {
       "id": "malta-tourism-intensity-2025-release-2026",
@@ -783,9 +825,9 @@
       "editorialPotential": 97,
       "seoPotential": 92,
       "priority": "high",
-      "status": "growing",
+      "status": "covered",
       "signal": "Hines 16 октября запустила первую инвестицию нового европейского value-add фонда: платформа в Стокгольме потенциально даст около 3 200 квартир на двух бывших промышленных площадках.",
-      "why": "Это наглядный европейский кейс решения дефицита жилья через rezoning, brownfield conversion и институциональный капитал.",
+      "why": "Это наглядный европейский кейс решения дефицита жилья через rezoning, brownfield conversion и институциональный капитал. Review 23 Oct: website already contains core event/figures in https://internationalinvestment.biz/real-estate/8974-promzony-stokgolma-mogut-dat-3-200-kvartir.html; do not recreate.",
       "editorialAngle": "Почему дефицит жилья делает бывшие промышленные земли новым residential asset class; сравнить Стокгольм с Мадридом и Дюссельдорфом.",
       "seoAngle": "Stockholm housing 2026; Sweden housing shortage; industrial to residential conversion; brownfield housing Europe; Hines Stockholm",
       "socialIdeas": [
@@ -796,7 +838,8 @@
           "label": "Hines HEREP IV Stockholm living platform",
           "url": "https://www.hines.com/news/hines-launches-fourth-european-value-add-fund-with-stockholm-living-investment"
         }
-      ]
+      ],
+      "covered_url": "https://internationalinvestment.biz/real-estate/8974-promzony-stokgolma-mogut-dat-3-200-kvartir.html"
     },
     {
       "id": "greece-golden-visa-enforcement-oct17-2026",
@@ -806,9 +849,9 @@
       "editorialPotential": 99,
       "seoPotential": 99,
       "priority": "high",
-      "status": "growing",
+      "status": "covered",
       "signal": "Министр миграции Греции Танос Плеврис заявил 15 октября, что Golden Visa будут отзывать при скрытых возвратах части цены покупки и при обходе запрета на краткосрочную аренду через субаренду.",
-      "why": "Это меняет риск-профиль уже купленных объектов: вопрос теперь не только в пороге инвестиций, но и в последующем использовании недвижимости и структуре сделки.",
+      "why": "Это меняет риск-профиль уже купленных объектов: вопрос теперь не только в пороге инвестиций, но и в последующем использовании недвижимости и структуре сделки. Review 23 Oct: website already contains core event/figures in https://internationalinvestment.biz/en/real-estate/8895-property-residency-in-2026-what-still-works.html; do not recreate.",
       "editorialAngle": "Отдельная новость с четкими примерами нарушений + обновление evergreen Property Residency 2026: когда именно инвестор рискует потерять ВНЖ.",
       "seoAngle": "Greece Golden Visa 2026; Golden Visa revoked Greece; Greece short term rental Golden Visa; Greece property residency rules",
       "socialIdeas": [
@@ -823,34 +866,43 @@
           "label": "International Investment — Property Residency 2026",
           "url": "https://internationalinvestment.biz/en/real-estate/8895-property-residency-in-2026-what-still-works.html"
         }
-      ]
+      ],
+      "covered_url": "https://internationalinvestment.biz/en/real-estate/8895-property-residency-in-2026-what-still-works.html"
     },
     {
       "id": "southern-europe-megafund-2026",
-      "title": "Южная Европа получает крупнейший специализированный фонд недвижимости",
+      "title": "Azora привлекла €2,05 млрд в фонд недвижимости Южной Европы",
       "category": "Инвестиции",
-      "trendStrength": 92,
-      "editorialPotential": 94,
-      "seoPotential": 90,
+      "trendStrength": 90,
+      "editorialPotential": 93,
+      "seoPotential": 91,
       "priority": "high",
-      "status": "update_existing",
-      "signal": "Azora закрыла Southern Europe Opportunities III: €1,6 млрд основного капитала плюс €450 млн co-investment, суммарная инвестиционная емкость около €4,5 млрд для Испании, Португалии, Италии и Греции.",
-      "why": "Это сильное подтверждение уже замеченного в радаре перетока капитала в Southern Europe, но новый общий обзор может дублировать опубликованный 12 октября материал о новой карте инвестиций Европы.",
+      "status": "draft_ready",
+      "signal": "Azora 5 Oct: SEO III main fund €1.6bn, co-investment €450m, total equity raised €2.05bn, estimated investment capacity ~€4.5bn. Fund focus Spain, Portugal, Italy, Greece.",
+      "why": "Separate company-level institutional fund closing rather than another regional macro investment overview. Public II 8915 reviewed; Drive search found no dedicated Azora article. Full RU EN native Google Doc, 4 embedded images, 8 bold FAQ questions and 6 social teasers verified. Distinguish estimated capacity from money raised and deals executed.",
       "editorialAngle": "Добавить кейс Azora в существующий Europe capital-rotation материал и показать, куда именно пойдут €4,5 млрд: living, hospitality, logistics, offices, urban assets и data centres.",
       "seoAngle": "Southern Europe real estate investment 2026; Spain Portugal Italy Greece property investment; Azora fund",
       "socialIdeas": [
-        "€4,5 млрд капитала нацелились на недвижимость Южной Европы"
+        "€4.5bn capacity is not €4.5bn acquired: what Azora actually raised"
       ],
       "sources": [
         {
-          "label": "Azora Southern Europe Opportunities III",
+          "label": "Azora official release 5 Oct 2026",
           "url": "https://www.azora.com/en/blog/azora-closes-the-largest-real-estate-fund-dedicated-to-southern-europe/"
         },
         {
-          "label": "International Investment — Europe capital map",
+          "label": "RU/EN article, images, SEO and 6 social posts",
+          "url": "https://docs.google.com/document/d/17oOpV4FjP7pYU4AaZlkZ7jGxJA8t7IFUB_l7es6pbnk/edit"
+        },
+        {
+          "label": "Existing broader II European investment analysis",
           "url": "https://internationalinvestment.biz/en/business/8915-investors-are-redrawing-europes-property-map.html"
         }
-      ]
+      ],
+      "social_ready": true,
+      "decision": "new_specific_fund",
+      "editorial_stage": "docs_ready_not_submitted",
+      "image_count": 4
     },
     {
       "id": "germany-building-permits-aug-2026",
@@ -910,9 +962,9 @@
       "editorialPotential": 99,
       "seoPotential": 95,
       "priority": "high",
-      "status": "growing",
+      "status": "draft_ready",
       "signal": "JLL 15 октября: глобальные строительные затраты уже на 25–30% выше уровня 2021 года; новая годовая база роста — 3–6%, а tender prices в 2027 году могут прибавить еще 3,1–4,2%.",
-      "why": "Это меняет экономику девелопмента по всем классам активов. Data centres и industrial легче переваривают рост затрат, а офисы, retail и часть жилья требуют постоянного пересчета feasibility.",
+      "why": "Это меняет экономику девелопмента по всем классам активов. Data centres и industrial легче переваривают рост затрат, а офисы, retail и часть жилья требуют постоянного пересчета feasibility. Existing RU/EN Google Doc identified 23 Oct; no duplicate draft. Social package not yet verified.",
       "editorialAngle": "Почему девелоперы больше не могут ждать возвращения дешевой стройки; какие активы выдерживают рост себестоимости, где выигрывают реконструкция, conversion и value-add.",
       "seoAngle": "construction costs 2026; real estate development costs; construction inflation 2027; property development viability; renovation vs new build",
       "socialIdeas": [
@@ -922,8 +974,13 @@
         {
           "label": "JLL Global Construction Costs Index 2026",
           "url": "https://www.jll.com/en-us/newsroom/global-construction-cost-index"
+        },
+        {
+          "label": "Existing RU EN draft",
+          "url": "https://docs.google.com/document/d/18Is5O27I1zGtGzBX1seZQL-7wg2zHzw8FW8lHEaro24/edit"
         }
-      ]
+      ],
+      "social_ready": false
     },
     {
       "id": "great-wealth-transfer-property-2026",
@@ -1214,9 +1271,9 @@
       "editorialPotential": 95,
       "seoPotential": 90,
       "priority": "high",
-      "status": "growing",
+      "status": "covered",
       "signal": "Крупнейший британский оператор Unite снизил среднюю аренду впервые за десятилетия вне пандемии: спрос международных студентов ослаб, а в отдельных городах выросло предложение.",
-      "why": "PBSA остается институциональным фаворитом, но свежая операционная статистика показывает, что дефицит предложения больше нельзя считать универсальным.",
+      "why": "PBSA остается институциональным фаворитом, но свежая операционная статистика показывает, что дефицит предложения больше нельзя считать универсальным. Review 23 Oct: website already contains core event/figures in https://internationalinvestment.biz/real-estate/8929-studencheskoe-zhile-bolshe-ne-garantiruet-rost-arendy.html; do not recreate.",
       "editorialAngle": "Разобрать, где student housing остается защитным активом, а где affordability и международный спрос уже ограничивают рост.",
       "seoAngle": "student housing investment 2026; PBSA Europe 2026; UK student accommodation; student housing rents",
       "socialIdeas": [
@@ -1231,7 +1288,8 @@
           "label": "PBSA affordability test",
           "url": "https://www.mcdermottlaw.com/insights/beyond-purpose-built-student-accommodation-the-affordability-test-for-europes-safest-real-estate-story/"
         }
-      ]
+      ],
+      "covered_url": "https://internationalinvestment.biz/real-estate/8929-studencheskoe-zhile-bolshe-ne-garantiruet-rost-arendy.html"
     },
     {
       "id": "romania-capital-2026",
@@ -1318,9 +1376,9 @@
       "editorialPotential": 78,
       "seoPotential": 82,
       "priority": "high",
-      "status": "growing",
+      "status": "draft_ready",
       "signal": "CSO 13 октября: RPPI август +5,1% г/г после +5,4% в июле; Дублин +3,9%, вне столицы +6,2%; медианная цена €400 тыс.",
-      "why": "Тема остается значимой, но без нового подтверждения не должна занимать редакционный слот.",
+      "why": "Тема остается значимой, но без нового подтверждения не должна занимать редакционный слот. Existing RU/EN Google Doc identified 23 Oct; no duplicate draft. Social package not yet verified.",
       "editorialAngle": "Обновить https://internationalinvestment.biz/en/ireland/8766-irish-homes-are-17-overvalued-as-supply-lags.html вместо нового URL.",
       "seoAngle": "Ireland property market 2026",
       "socialIdeas": [
@@ -1330,8 +1388,13 @@
         {
           "label": "CSO Ireland, 13 October",
           "url": "https://www.cso.ie/en/releasesandpublications/ep/p-rppi/residentialpropertypriceindexaugust2026/"
+        },
+        {
+          "label": "Existing RU EN draft",
+          "url": "https://docs.google.com/document/d/1M-Z7-VlaF1dpJj8Q2EE3z9DgNT88HyPcbgOrTrnuNUs/edit"
         }
-      ]
+      ],
+      "social_ready": false
     },
     {
       "id": "georgia",
@@ -1441,9 +1504,9 @@
       "editorialPotential": 97,
       "seoPotential": 93,
       "priority": "high",
-      "status": "growing",
+      "status": "covered",
       "signal": "Отели реконструируются до открытия Wynn в сентябре 2027; в эмирате 8 197 номеров и еще 5 470 строятся, а текущая загрузка остается мягче прошлогодней.",
-      "why": "Один якорный проект заранее меняет positioning, формат питания и капитальные вложения гостиничного рынка.",
+      "why": "Один якорный проект заранее меняет positioning, формат питания и капитальные вложения гостиничного рынка. Review 23 Oct: website already contains core event/figures in https://internationalinvestment.biz/uae/8898-wynn-menjaet-rynok-nedvizhimosti-ras-jel-hajmy.html; do not recreate.",
       "editorialAngle": "Wynn effect до открытия: реконструкции, premium repositioning, supply pipeline и риск временного избытка предложения.",
       "seoAngle": "Ras Al Khaimah hotels 2026; Wynn Al Marjan Island; hotel investment UAE",
       "socialIdeas": [
@@ -1458,7 +1521,8 @@
           "label": "RAKTDA H1 2026",
           "url": "https://raktda.com/press-release-ras-al-khaimah-welcomes-record-visitors-in-first-half-of-2026-as-landmark-developments-advance/"
         }
-      ]
+      ],
+      "covered_url": "https://internationalinvestment.biz/uae/8898-wynn-menjaet-rynok-nedvizhimosti-ras-jel-hajmy.html"
     },
     {
       "id": "austria-housing",
@@ -1797,6 +1861,19 @@
         "Two RU/EN Docs have four inline images, eight bold FAQ questions and six social texts each.",
         "Existing Germany hotel draft correctly uses €1.01bn German release, whereas English translation body states €1.10bn.",
         "Several false unwritten candidates marked covered after site deduplication."
+      ],
+      "reportUrl": "https://github.com/darovska/hw03_forms_test/blob/main/trend-radar/reports/2026-10-23-trendwatch.md"
+    },
+    {
+      "period": "23 октября 2026 — дополнительный пакет Azora / Hilton",
+      "endDate": "2026-10-23",
+      "savedAt": "23 октября 2026",
+      "summary": "Azora SEO III closes €1.6bn main fund with €450m co-investment, Hilton and Scandic sign four-country hotel development agreement with first 284-room project planned for Copenhagen 2029.",
+      "keyPoints": [
+        "Azora total capital raised €2.05bn but estimated investment capacity €4.5bn; do not confuse them.",
+        "Hilton and Scandic framework in Sweden, Norway, Denmark, Finland. One hotel confirmed for development at Copenhagen Airport, planned 2029.",
+        "Both stories have complete RU/EN, SEO, four embedded images, eight FAQ and six posts on Telegram RU, VK RU, X EN, Facebook RU/EN/HE.",
+        "Deduped Milan CoStar, Hines Stockholm and Greece Golden Visa on public site."
       ],
       "reportUrl": "https://github.com/darovska/hw03_forms_test/blob/main/trend-radar/reports/2026-10-23-trendwatch.md"
     }
@@ -2464,6 +2541,24 @@
   "dailyUpdate": {
     "date": "23 октября 2026",
     "items": [
+      {
+        "label": "NEW / docs + social",
+        "title": "Azora привлекла €2,05 млрд в фонд недвижимости Южной Европы",
+        "signal": "Azora 5 Oct: SEO III main fund €1.6bn, co-investment €450m, total equity raised €2.05bn, estimated investment capacity ~€4.5bn. Fund focus Spain, Portugal, Italy, Greece.",
+        "action": "Native RU/EN Google Doc and 6 social drafts ready, no CMS submission",
+        "source": "Azora 5 Oct",
+        "url": "https://docs.google.com/document/d/17oOpV4FjP7pYU4AaZlkZ7jGxJA8t7IFUB_l7es6pbnk/edit",
+        "priority": "high"
+      },
+      {
+        "label": "NEW / docs + social",
+        "title": "Hilton и Scandic развивают отели в четырех странах",
+        "signal": "Hilton/Scandic official 19 Oct: multi-year framework Sweden Norway Denmark Finland, first named new property 284-room Hilton at Scanport near Copenhagen Airport, planned 2029; Scandic operator as Hilton franchisee. No mass rebranding.",
+        "action": "Native RU/EN Google Doc and 6 social drafts ready, no CMS submission",
+        "source": "Scandic Hilton 19 Oct",
+        "url": "https://docs.google.com/document/d/1PWHkKxC2c1N1i5pTb-BGcpgq3fW5sEYMM7F4_o7H_ic/edit",
+        "priority": "high"
+      },
       {
         "label": "NEW / social ready",
         "title": "Prime-аренда Лондона: 5,8% у однокомнатных квартир",
