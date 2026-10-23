@@ -3,7 +3,7 @@
     "period": "19–23 октября 2026",
     "updatedAt": "23 октября 2026",
     "reportUrl": "https://github.com/darovska/hw03_forms_test/blob/main/trend-radar/reports/2026-10-23-trendwatch.md",
-    "editorialNote": "New viral Airbnb checkout chores policy Oct 20 (effective Nov 20), RU/EN Google Doc and six social announcements, CMS remains disabled."
+    "editorialNote": "Viral editorial extension 23 Oct: two new AirDNA analyses: ten hot European short-term rental city markets shift to Apr/May/Sep (+22.4% avg DAILY demand vs summer); winter average ADR price geography Courchevel €838 vs Skopje €35. Both native RU/EN Docs with four verified image objects, SEO, 8 FAQ and six Telegram/VK/X/FB RU EN Hebrew posts. CMS remains disabled; ZeroGPT/GSC/GA4 not queried."
   },
   "categories": [
     "Все",
@@ -14,6 +14,78 @@
     "Инвестиции"
   ],
   "trends": [
+    {
+      "id": "airdna-hot-cities-shoulder-season-oct22-2026",
+      "title": "В 10 жарких городах Европы межсезонье обогнало лето",
+      "category": "Туризм",
+      "trendStrength": 96,
+      "editorialPotential": 98,
+      "seoPotential": 93,
+      "priority": "high",
+      "status": "draft_ready",
+      "social_ready": true,
+      "decision": "new",
+      "editorial_stage": "docs_ready_not_submitted",
+      "signal": "AirDNA original 15 Oct, updated 22 Oct: 10 hot city short-term rental markets, April/May/Sep average DAILY demand nights +22.4% and ADR +8.8% relative to June-Aug 2026; Seville demand +50.5% and ADR +35.1%. Europe overall shoulder demand -30.2%; this is within-year comparison, NOT YoY growth.",
+      "why": "Distinct from site's Europe-wide 16 Oct short-term rental article #8923 and hotel performance #8906. Google Drive and publicly indexable II pages deduplicated. Full RU EN article created 23 Oct, QA confirms 4 inline images, 8 bold FAQ, six social variants Hebrew included. Strong counterintuitive seasonality / shareable figures. Do not imply summer is over across Europe or hotels.",
+      "editorialAngle": "Counterintuitive climate and cultural city-break shifts: summer isn't the highest-demand month in selected urban rental markets; beach destinations differ. Explain average daily nights measurement.",
+      "seoAngle": "AirDNA 2026 hot cities shoulder season Seville spring autumn vs summer vacation rentals",
+      "image_count": 4,
+      "socialIdeas": [
+        "Лето проиграло Севилье весной: +50,5% спроса на посуточную аренду",
+        "Рим: май 84,8% загрузки, август 59,6%"
+      ],
+      "sources": [
+        {
+          "label": "AirDNA primary research, published Oct 15, updated Oct 22",
+          "url": "https://www.airdna.co/blog/shoulder-season-europe"
+        },
+        {
+          "label": "RU EN Doc + 6 social posts",
+          "url": "https://docs.google.com/document/d/1bV_5qM6NO4Ax-oOeVGluoZvdc3Zw-I3SSUSC5dIwFMk/edit"
+        },
+        {
+          "label": "Existing Europe-wide rental analysis on II #8923",
+          "url": "https://internationalinvestment.biz/en/business/8923-europe-short-term-rentals-revenue-rises-demand-falls.html"
+        }
+      ]
+    },
+    {
+      "id": "airdna-winter-rental-prices-europe-oct22-2026",
+      "title": "Куршевель €838 против Скопье €35: зимняя аренда Европы",
+      "category": "Туризм",
+      "trendStrength": 95,
+      "editorialPotential": 98,
+      "seoPotential": 96,
+      "priority": "high",
+      "status": "draft_ready",
+      "social_ready": true,
+      "decision": "new",
+      "editorial_stage": "docs_ready_not_submitted",
+      "signal": "AirDNA primary Oct 22 winter 2025/26 (Dec-Feb): Courchevel market-average booked-night ADR €838.28, Skopje €35.16 (23.84x); country Andorra €262.99, North Macedonia €37.90 (6.94x). Winter 2026/27 early on-books ADR +21.4% as of Oct 14 is not final inflation.",
+      "why": "New original price geography with cross-country/city differences and winter-vs-offseason nuance. Distinct from Austria 8707 AirROI rental income overview and EU-wide AirDNA rental demand #8923. Drive found no winter-price ranking draft. RU EN doc contains SEO, 4 inline images, 8 bold FAQ, 6 viral but accurate platform posts.",
+      "editorialAngle": "Almost 24x market gap in nightly vacation rental ADR, NOT same apartment type or net investor yields. Distinguish country and city, full winter 2025/26 versus winter 2026/27 booking snapshot.",
+      "seoAngle": "Courchevel €838 Skopje €35 winter short term rental Europe 2026 AirDNA Andorra Lapland",
+      "image_count": 4,
+      "socialIdeas": [
+        "€838 за ночь в Куршевеле против €35 в Скопье",
+        "Андорра почти в семь раз дороже Северной Македонии зимой"
+      ],
+      "sources": [
+        {
+          "label": "AirDNA primary winter report Oct 22",
+          "url": "https://www.airdna.co/blog/cheapest-most-expensive-winter-destinations-europe"
+        },
+        {
+          "label": "RU EN Doc + 6 social posts",
+          "url": "https://docs.google.com/document/d/1UpQKw9hPf7NxKTSDgVnUZ4Za_mFOeVZm9QFjOg6fstY/edit"
+        },
+        {
+          "label": "Existing Austrian vacation rental study #8707",
+          "url": "https://internationalinvestment.biz/en/austria/8707-vienna-leads-rentals-alpine-resorts-earn-more.html"
+        }
+      ]
+    },
     {
       "id": "airbnb-checkout-chores-policy-oct20-2026",
       "title": "Airbnb ограничивает обязательную уборку при выезде с 20 ноября",
@@ -1978,6 +2050,19 @@
         "No CMS or social publication performed."
       ],
       "reportUrl": "https://github.com/darovska/hw03_forms_test/blob/main/trend-radar/reports/2026-10-23-trendwatch.md"
+    },
+    {
+      "period": "23 октября 2026 — вирусный туризм AirDNA",
+      "endDate": "2026-10-23",
+      "savedAt": "23 октября 2026",
+      "summary": "Two viral but fact-grounded Airbnb/short-term rental stories: hot cities shoulder season versus summer, and European winter rental price spread.",
+      "keyPoints": [
+        "AirDNA Apr/May/Sep 2026 versus June-Aug 2026: 10 hot cities +22.4% average daily booked nights and +8.8% ADR; Seville +50.5% demand. This is NOT YoY growth.",
+        "AirDNA winter 2025/26: Courchevel €838.28 vs Skopje €35.16 per booked night; these are different markets and types of accommodation, not a same-apartment price comparison.",
+        "In each native RU/EN Doc 4 inline image objects, 8 bold FAQ and 6 platform-language social drafts verified.",
+        "No CMS write and no social posting; published canonical URLs unresolved."
+      ],
+      "reportUrl": "https://github.com/darovska/hw03_forms_test/blob/main/trend-radar/reports/2026-10-23-trendwatch.md"
     }
   ],
   "monitoringSources": [
@@ -2644,6 +2729,24 @@
     "date": "23 октября 2026",
     "items": [
       {
+        "label": "VIRAL NEW / social ready",
+        "title": "В 10 жарких городах Европы межсезонье обогнало лето",
+        "signal": "AirDNA original 15 Oct, updated 22 Oct: 10 hot city short-term rental markets, April/May/Sep average DAILY demand nights +22.4% and ADR +8.8% relative to June-Aug 2026; Seville demand +50.5% and ADR +35.1%. Europe overall shoulder demand -30.2%; this is within-year comparison, NOT YoY growth.",
+        "action": "RU EN SEO, image cover+locale charts and six social drafts in native Google Doc; no CMS",
+        "source": "AirDNA 15/22 Oct",
+        "url": "https://docs.google.com/document/d/1bV_5qM6NO4Ax-oOeVGluoZvdc3Zw-I3SSUSC5dIwFMk/edit",
+        "priority": "high"
+      },
+      {
+        "label": "VIRAL NEW / social ready",
+        "title": "Куршевель €838 против Скопье €35: зимняя аренда Европы",
+        "signal": "AirDNA primary Oct 22 winter 2025/26 (Dec-Feb): Courchevel market-average booked-night ADR €838.28, Skopje €35.16 (23.84x); country Andorra €262.99, North Macedonia €37.90 (6.94x). Winter 2026/27 early on-books ADR +21.4% as of Oct 14 is not final inflation.",
+        "action": "RU EN SEO, images and six social drafts in native Google Doc; no CMS",
+        "source": "AirDNA 22 Oct",
+        "url": "https://docs.google.com/document/d/1UpQKw9hPf7NxKTSDgVnUZ4Za_mFOeVZm9QFjOg6fstY/edit",
+        "priority": "high"
+      },
+      {
         "label": "NEW / docs + social",
         "title": "Дублин: инвестиции в недвижимость выросли на 29,6%",
         "signal": "JLL 22 Oct 2026: Dublin property investment Q3 €677.4m, 22 deals. 9M €2,119.1m, up 29.6% from €1,635m in 9M 2025. Two major transactions €180m and €160m represent ~50% Q3.",
@@ -2713,24 +2816,6 @@
         "action": "Use RU EN native Doc, CMS disabled; 4 images and 6 social posts ready.",
         "source": "Savills Ireland 19 Oct",
         "url": "https://docs.google.com/document/d/1fKVklmE_-UJQkiNbnaHmagtdRgJFbZSDzmPBhi-zvIM/edit",
-        "priority": "high"
-      },
-      {
-        "label": "UPDATE #8900 / docs_ready + social_ready",
-        "title": "Обновить № 8900: инвесторы выбирают международные гостиничные бренды",
-        "signal": "CBRE survey published May 27 2026, Czech Sep 23: investor preference for global brands 43->53%, independent hotels 40->24%, Prague tied 7th.",
-        "action": "Merge into existing RU EN canonical #8900 only; do not publish new URL.",
-        "source": "CBRE May/Sept 2026",
-        "url": "https://docs.google.com/document/d/1lrp0Oc7GO--KLK5lxgd9DFV_rvjgWZQFH1c9vx8WWS4/edit",
-        "priority": "high"
-      },
-      {
-        "label": "NEW",
-        "title": "Alma и Midstar приобретут пять отелей Дании на 928 номеров",
-        "signal": "Pandox 22 октября: пять отелей, 928 номеров, DKK 1,155 млн underlying property value; арендаторы Scandic и Motel One остаются. Подписано соглашение, закрытие ожидается в Q4.",
-        "action": "RU EN SEO media + six social teasers, no CMS",
-        "source": "Pandox",
-        "url": "https://docs.google.com/document/d/1PKz_QPDKp7BUJJBEb9eqJsje7EJa7hnH2iyqgXBoHOc/edit",
         "priority": "high"
       }
     ]
