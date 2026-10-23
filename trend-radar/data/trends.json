@@ -3,7 +3,7 @@
     "period": "19–23 октября 2026",
     "updatedAt": "23 октября 2026",
     "reportUrl": "https://github.com/darovska/hw03_forms_test/blob/main/trend-radar/reports/2026-10-23-trendwatch.md",
-    "editorialNote": "Additional run 23 Oct: two NEW bilingual articles (Pandox hotel deal and Savills UK grid charges), each with verified cover, two charts and Telegram RU / VK RU / X EN / Facebook RU EN HE social drafts. Social backfill done for Onnec, Irish land and existing NBG. CBRE October republication checked against September release. CMS, ZeroGPT and fresh GSC inactive."
+    "editorialNote": "Additional 23 Oct research and writing: Dublin Q3 logistics analytical RU/EN new Google Doc, CBRE May+Sept hotel preferences editorial update for existing canonical #8900; six social drafts and four images verified in each. Both are EDITORIAL_ONLY; no CMS write, ZeroGPT or new GSC/GA4 metrics."
   },
   "categories": [
     "Все",
@@ -104,53 +104,75 @@
     },
     {
       "id": "cbre-prague-september-release-watch",
-      "title": "Инвесторы чаще выбирают гостиничные бренды, Прага в топ-10",
+      "title": "Обновить № 8900: инвесторы выбирают международные гостиничные бренды",
       "category": "Туризм",
       "trendStrength": 76,
       "editorialPotential": 83,
       "seoPotential": 86,
       "priority": "medium",
       "status": "update_existing",
-      "signal": "CBRE survey 2026: preference for global hotel brands 53% vs 43%; independent hotels 24% vs 40%; Sept Czech release republished Oct 22 Irish site.",
-      "why": "NOT a fresh October survey: CBRE research released May, Czech story September; update existing /real-estate/8900, not news duplicate.",
-      "editorialAngle": "Brand preference, Prague hotel market and changes in operation models.",
-      "seoAngle": "CBRE hotel investor intentions 2026 Prague 53%",
+      "signal": "CBRE survey published May 27 2026, Czech Sep 23: investor preference for global brands 43->53%, independent hotels 40->24%, Prague tied 7th.",
+      "why": "Existing hotel property page 8900 already cites the CBRE over-90% survey and contains Georgia project context; update its RU/EN sections IN PLACE instead of cannibalizing with another URL. Exact placement and 6 social drafts in editorial Google Doc.",
+      "editorialAngle": "Why survey brand preferences shift; Prague ranking; avoid comparing responses with market shares or project returns.",
+      "seoAngle": "European hotel investment 2026 brand preference CBRE 53% Prague Georgia",
       "socialIdeas": [
         "Почему гостиничные бренды вытесняют независимые отели"
       ],
       "sources": [
         {
-          "label": "CBRE Czech, original September",
-          "url": "https://www.cbre.cz/en-gb/press-releases/hotels-confirm-their-resilience"
+          "label": "CBRE full hotel investor survey May 27, 2026",
+          "url": "https://www.cbre.com/insights/reports/european-hotel-investor-intentions-survey-2026"
         },
         {
-          "label": "Existing II story",
-          "url": "https://internationalinvestment.biz/real-estate/8900-oteli-snova-v-prioritete-kapitala.html"
+          "label": "CBRE Prague Sept 23, 2026",
+          "url": "https://www.cbre.cz/en-gb/press-releases/hotels-confirm-their-resilience-over-90-of-investors"
+        },
+        {
+          "label": "RU EN update handoff and six social drafts",
+          "url": "https://docs.google.com/document/d/1lrp0Oc7GO--KLK5lxgd9DFV_rvjgWZQFH1c9vx8WWS4/edit"
         }
-      ]
+      ],
+      "social_ready": true,
+      "editorial_stage": "update_ready_not_submitted",
+      "decision": "update",
+      "existing_url": "https://internationalinvestment.biz/real-estate/8900-oteli-snova-v-prioritete-kapitala.html",
+      "existing_url_en": "https://internationalinvestment.biz/en/real-estate/8900-hotels-return-to-investors-priority-list.html",
+      "image_count": 4
     },
     {
       "id": "savills-dublin-industrial-q3-watch",
-      "title": "Логистика Дублина: аренда площадей выросла на 65%",
+      "title": "Аренда складов Дублина выросла на 65% в Q3 2026",
       "category": "Недвижимость",
       "trendStrength": 82,
       "editorialPotential": 89,
       "seoPotential": 85,
       "priority": "medium",
-      "status": "watch",
-      "signal": "Savills 19 October: 824,400 sq ft Dublin industrial/logistics take-up in Q3, 17 deals, +65% YoY.",
-      "why": "Requires second-layer deduplication with existing Dublin and European logistics coverage before creating another URL.",
-      "editorialAngle": "Take-up of leased space is not real estate investment turnover.",
-      "seoAngle": "Dublin industrial Q3 2026 Savills",
+      "status": "draft_ready",
+      "signal": "Savills Ireland (19 Oct): 824,400 sq ft take-up in Q3, 17 deals, +65% YoY, 1.9m sq ft YTD. Reported 84% SW Dublin share and 1.5% local vacancy from Savills coverage in BusinessPlus/Bisnow.",
+      "why": "Standalone Dublin Q3 2026 analytical story; checked against published Ireland 2025 and pan-European logistics site pages and Drive queue. RU EN SEO + four Google Docs inline images + 6 social texts verified 23 Oct. Source article October 19, not Oct 23 breaking news.",
+      "editorialAngle": "Concentration in South-West, vacancy and rent vs new pipeline; leasing is not asset transaction value.",
+      "seoAngle": "Dublin logistics Q3 2026, 824400 sq ft, vacancy 1.5%, rents 14.75",
       "socialIdeas": [
         "Дублин: спрос на склады резко вырос"
       ],
       "sources": [
         {
-          "label": "Savills Ireland",
+          "label": "Savills Ireland, 19 October 2026",
           "url": "https://www.savills.ie/research-and-news/research.aspx?f=date&p=&page=0&q=&rc=Ireland&t="
+        },
+        {
+          "label": "BusinessPlus secondary reporting of Savills, 19 October",
+          "url": "https://businessplus.ie/news/dublin-industrial-property/"
+        },
+        {
+          "label": "Full RU EN Google Doc with 6 social drafts",
+          "url": "https://docs.google.com/document/d/1fKVklmE_-UJQkiNbnaHmagtdRgJFbZSDzmPBhi-zvIM/edit"
         }
-      ]
+      ],
+      "social_ready": true,
+      "editorial_stage": "docs_ready_new",
+      "decision": "new",
+      "image_count": 4
     },
     {
       "id": "cbre-onnec-infrastructure-oct20-2026",
@@ -1696,6 +1718,19 @@
         "Five bilingual draft packs now include six-channel social copy."
       ],
       "reportUrl": "https://github.com/darovska/hw03_forms_test/blob/main/trend-radar/reports/2026-10-23-trendwatch.md"
+    },
+    {
+      "period": "23 октября 2026 — дополнительный выпуск",
+      "endDate": "2026-10-23",
+      "savedAt": "23 октября 2026",
+      "summary": "По запросу «пиши»: новая аналитика по аренде складов Дублина и обновление опубликованной страницы #8900 по CBRE брендам/Праге; 6 соцсетей на тему.",
+      "keyPoints": [
+        "Savills 19 Oct: Dublin 824,400 sq ft leased, +65%; South-West 84%, vacancy 1.5% according to secondary reporting of Savills.",
+        "CBRE hotel survey May 27 (>70 respondents) and Czech September press release: global brands 43%->53%, independent hotels 40%->24%, Prague tied seventh.",
+        "Both Google Docs have RU/EN, verified four inline images, eight bold FAQ questions and six different social announcements.",
+        "CMS changes disabled and not attempted."
+      ],
+      "reportUrl": "https://github.com/darovska/hw03_forms_test/blob/main/trend-radar/reports/2026-10-23-trendwatch.md"
     }
   ],
   "monitoringSources": [
@@ -2361,6 +2396,24 @@
   "dailyUpdate": {
     "date": "23 октября 2026",
     "items": [
+      {
+        "label": "NEW / docs_ready + social_ready",
+        "title": "Аренда складов Дублина выросла на 65% в Q3 2026",
+        "signal": "Savills Ireland (19 Oct): 824,400 sq ft take-up in Q3, 17 deals, +65% YoY, 1.9m sq ft YTD. Reported 84% SW Dublin share and 1.5% local vacancy from Savills coverage in BusinessPlus/Bisnow.",
+        "action": "Use RU EN native Doc, CMS disabled; 4 images and 6 social posts ready.",
+        "source": "Savills Ireland 19 Oct",
+        "url": "https://docs.google.com/document/d/1fKVklmE_-UJQkiNbnaHmagtdRgJFbZSDzmPBhi-zvIM/edit",
+        "priority": "high"
+      },
+      {
+        "label": "UPDATE #8900 / docs_ready + social_ready",
+        "title": "Обновить № 8900: инвесторы выбирают международные гостиничные бренды",
+        "signal": "CBRE survey published May 27 2026, Czech Sep 23: investor preference for global brands 43->53%, independent hotels 40->24%, Prague tied 7th.",
+        "action": "Merge into existing RU EN canonical #8900 only; do not publish new URL.",
+        "source": "CBRE May/Sept 2026",
+        "url": "https://docs.google.com/document/d/1lrp0Oc7GO--KLK5lxgd9DFV_rvjgWZQFH1c9vx8WWS4/edit",
+        "priority": "high"
+      },
       {
         "label": "NEW",
         "title": "Alma и Midstar приобретут пять отелей Дании на 928 номеров",
