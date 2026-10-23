@@ -3,7 +3,7 @@
     "period": "19–23 октября 2026",
     "updatedAt": "23 октября 2026",
     "reportUrl": "https://github.com/darovska/hw03_forms_test/blob/main/trend-radar/reports/2026-10-23-trendwatch.md",
-    "editorialNote": "Evening 23 Oct follow-up: two new JLL 22 Oct sourced RU/EN articles, Dublin investment Q3 and Belgium industrial property yield; Google Docs created with 4 embedded original images, SEO and 6 social posts for each. CMS disabled; fresh GSC/GA4 and ZeroGPT not run."
+    "editorialNote": "New viral Airbnb checkout chores policy Oct 20 (effective Nov 20), RU/EN Google Doc and six social announcements, CMS remains disabled."
   },
   "categories": [
     "Все",
@@ -14,6 +14,29 @@
     "Инвестиции"
   ],
   "trends": [
+    {
+      "id": "airbnb-checkout-chores-policy-oct20-2026",
+      "title": "Airbnb ограничивает обязательную уборку при выезде с 20 ноября",
+      "category": "Туризм",
+      "trendStrength": 94,
+      "editorialPotential": 96,
+      "seoPotential": 93,
+      "priority": "high",
+      "status": "draft_ready",
+      "social_ready": true,
+      "signal": "Airbnb 20 October: effective Nov 20, 2026 checkout chores policy limits time-intensive cleaning tasks; reasonable tidying remains and cleaning fees not abolished.",
+      "why": "New high-engagement story, official policy verified; no exact Google Drive draft in accessible results. RU/EN article with original editorial illustration, 8 FAQ, 6 social posts in Google Doc.",
+      "sources": [
+        {
+          "label": "Airbnb official policy",
+          "url": "https://www.airbnb.com/resources/hosting-homes/a/important-changes-to-house-rules-21"
+        },
+        {
+          "label": "Google Doc and socials",
+          "url": "https://docs.google.com/document/d/1KG5wPB75o1pavqMAdLgFxmJUA5Hwwk7h6oIwIbDb8uw/edit"
+        }
+      ]
+    },
     {
       "id": "jll-dublin-capital-markets-q3-oct22-2026",
       "title": "Дублин: инвестиции в недвижимость выросли на 29,6%",
