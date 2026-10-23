@@ -114,3 +114,27 @@ Related older site story https://internationalinvestment.biz/en/business/6061-tr
 ### Image, social and publication handoff
 
 Archive /mnt/data/II_Dublin_Belgium_23Oct2026_Images.zip contains six landscape JPEGs (two original conceptual editorial covers and four RU/EN data charts, 1600×900). Charts checked for visual integrity before insertion. Both Google Docs reread and verified 2 H1, 4 inline images, 8 bold FAQ questions, 6 social language labels, 6 internal/primary hyperlinks, no Russian yo, no UTM. Social article URL placeholders remain until CMS canonical readback. EDITORIAL_ONLY, no CMS or social submission, no connected ZeroGPT and no current GSC/GA4 queries.
+
+## Viral editorial batch — 23 October 2026: two AirDNA research stories
+
+### NEW: Summer loses to spring and September in ten hot European cities
+
+AirDNA original publication **15 October**, updated **22 October 2026**. Across 88 large STR markets with >=5,000 available listings, the company selected ten hot summer CITY markets: Seville, Turin, Rome, Florence, Milan, Madrid, Venice, Naples, Lyon and Athens. **April+May+September** vs **June+July+August** 2026: average DAILY booked nights +22.4% and ADR +8.8% in those ten cities, while Europe as a whole had -30.2% daily demand and -13.1% ADR in the same shoulder months. Seville: +50.5% daily booked nights and +35.1% ADR. Rome occupancy May 84.8% versus August 59.6%. Comparison is within 2026 seasons, NOT a year-over-year increase or a claim that summer tourism has ended everywhere. Short-term rental stats do not describe all hotel rooms or owner net yields.
+
+Original primary: https://www.airdna.co/blog/shoulder-season-europe .
+New native RU/EN Google Doc, full article, SEO, eight bold FAQ questions, six social texts Telegram RU + VK RU + X EN + Facebook RU/EN/HE, cover and two localized charts (four inline image objects in Docs): https://docs.google.com/document/d/1bV_5qM6NO4Ax-oOeVGluoZvdc3Zw-I3SSUSC5dIwFMk/edit .
+Related existing site coverage for interlinking: https://internationalinvestment.biz/en/business/8923-europe-short-term-rentals-revenue-rises-demand-falls.html and https://internationalinvestment.biz/en/real-estate/8906-where-europes-hotel-markets-are-growing-fastest.html . There is no exact new 10-city seasonal study in the checked Google Drive editorial queue; existing site-wide August STR article is broader and different in time frame/metrics.
+
+### NEW: Courchevel €838 vs Skopje €35 winter vacation rentals
+
+AirDNA original **22 October 2026**, retrospective **winter 2025/26**, Dec 2025–Feb 2026. Courchevel €838.28 vs Skopje €35.16 average booked nightly ADR in eligible LOCAL markets (23.84x, not same-size rentals); on country level Andorra €262.99 versus North Macedonia €37.90 (6.94x). Top country Switzerland €214.34, Iceland €200.76, Finland €186.86, Austria €181.18. Cortina d'Ampezzo €731.38 with +83.1% previous-year ADR related to February 2026 Olympics. The higher +21.4% Europe-wide average ADR on the books for **winter 2026/27 as of October 14** is only an early-booking snapshot weighted to expensive holiday periods, NOT full-season observed inflation. Do not state highest nightly market ADR equates to guaranteed net property yield or compare the markets as identical apartments.
+
+Primary: https://www.airdna.co/blog/cheapest-most-expensive-winter-destinations-europe .
+Native RU/EN Doc with SEO, four inline images, eight bold FAQ questions and six differentiated social posts: https://docs.google.com/document/d/1UpQKw9hPf7NxKTSDgVnUZ4Za_mFOeVZm9QFjOg6fstY/edit .
+Related existing coverage: https://internationalinvestment.biz/en/austria/8707-vienna-leads-rentals-alpine-resorts-earn-more.html and https://internationalinvestment.biz/en/business/8923-europe-short-term-rentals-revenue-rises-demand-falls.html . No identical winter price guide present in accessible Google Drive queue.
+
+### Verification, images and next CMS step
+
+Both Google Docs were reopened after writing: 2 H1 sections each, four actually inserted inline image objects each (illustrative horizontal cover twice plus data charts RU and EN), eight bold FAQ questions, six organic source/internal links and complete six-channel language matrix including Hebrew. No Russian yo, no UTM and X drafts comply with 280 chars with realistic URL allowance. All media was created for this editorial work. The photo-like Seville cover and illustrated snow village cover are concept art, NOT photos of individual listings or verified property assets. Charts are independent designs with grounded AirDNA values. The six image assets are packaged in /mnt/data/ii_viral_20261023/II_Viral_Tourism_2026_Images.zip.
+
+Do not paste the editorial SEO/social appendices into the public article. Article-link placeholders must remain until a true canonical site URL has been published and checked. **CMS publication remains disabled**, no social posts were sent, ZeroGPT not run and fresh GSC/GA4 metrics were not obtained. SEO priority and viral hook strength are editorial assessments, not verified CTR forecasts.
