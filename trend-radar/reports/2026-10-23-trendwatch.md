@@ -65,3 +65,30 @@ Vienna's September 2026 visitor nights rose 4% YoY to 1.825m. The latest availab
 
 ### Media delivery
 Local packaging: II_London_Vienna_23_Oct_2026_Images.zip with six 1600×900 JPGs (one original editorial cover and two localized charts per article). All image objects verified in Google Docs; original chart labels were corrected to prevent text clipping before readback.
+
+## Additional unworked topics, late 23 October 2026
+
+### NEW: Azora €1.6bn Southern Europe fund, institutional co-investments
+
+Original Azora primary announcement dated 5 October 2026 (not a 23 October event): Southern Europe Opportunities III closed at €1.6bn fund commitments and €450m co-investments, €2.05bn equity raised together; estimated investment capacity ~€4.5bn. Fund targets Spain, Portugal, Italy and Greece. €900m main equity and €350m co-investment commitments are attributed to opportunities; capacity is neither raised cash nor completed purchases. Separate specific fund story, unlike #8915 macro market summary.
+
+Native RU/EN Google Doc with SEO, four verified inline images, eight bold FAQ and six social posts: https://docs.google.com/document/d/17oOpV4FjP7pYU4AaZlkZ7jGxJA8t7IFUB_l7es6pbnk/edit
+Primary: https://www.azora.com/en/blog/azora-closes-the-largest-real-estate-fund-dedicated-to-southern-europe/
+Existing related macro article: https://internationalinvestment.biz/en/business/8915-investors-are-redrawing-europes-property-map.html
+
+### NEW: Hilton and Scandic hotel development in Northern Europe
+
+Primary official Hilton and Scandic releases dated 19 October 2026. Signed multi-year deal covers Sweden, Norway, Denmark, Finland, pursuing separate development opportunities, NOT mass rebranding. First and only named new property: Hilton Hotels & Resorts, 284 rooms in Scanport near Copenhagen Airport, planned opening 2029 subject to remaining conditions; Scandic will operate it as Hilton franchisee. No disclosed build cost, guarantee, other confirmed projects or finalized loyalty benefits. Three existing Hilton Helsinki hotels operated by Scandic show historical collaboration.
+
+Native RU/EN Google Doc with SEO, four inline images and six social texts: https://docs.google.com/document/d/1PWHkKxC2c1N1i5pTb-BGcpgq3fW5sEYMM7F4_o7H_ic/edit
+Primary Scandic: https://www.scandichotelsgroup.com/media/press-releases/2026/scandic-and-hilton-sign-new-nordics-strategic-agreement/
+Primary Hilton: https://stories.hilton.com/emea/releases/hilton-and-scandic-sign-new-nordics-strategic-agreement
+Related published II hotel analysis: https://internationalinvestment.biz/en/real-estate/8906-where-europes-hotel-markets-are-growing-fastest.html
+
+### Deduplication corrections
+
+Marked covered: CoStar Milan September hotel record (site #8963), Hines 3,200 potential Stockholm homes (site #8974), Golden Visa Greece warnings within residency evergreen #8895, Ras al Khaimah Wynn hotel development (site #8898), UK Unite student rent declines (site #8929), AI hotel booking / visibility (site #8934). Found existing RU/EN Google Docs for eurozone inflation, JLL building costs and Irish August housing RPPI; marked draft-ready with social not verified. Do not write redundant versions.
+
+### Social, images and limitations
+
+Each new article has six separate social drafts: Telegram RU, VK RU, X EN, Facebook RU/EN/HE; all drafts contain canonical URL placeholders, never draft URLs as live links. JPG asset archive: II_Azora_Hilton_23_Oct_2026_Images.zip with six horizontal 1600x900 covers and RU/EN data graphics, and both Google Docs include four inline media objects. Cover imagery is editorial conceptual artwork, not actual property photography or a Hilton Scanport rendering. Publication and social posting not performed. CMS disabled, ZeroGPT/GSC/GA4 not checked.
