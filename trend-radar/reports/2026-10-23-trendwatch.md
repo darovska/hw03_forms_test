@@ -31,3 +31,21 @@
 Every new or materially revised article now requires Telegram RU, VK RU, X EN, Facebook RU, Facebook EN, and Facebook Hebrew. Posts are creatively differentiated, fact-checked and use placeholders [[ARTICLE_URL_RU]], [[ARTICLE_URL_EN]], and [[ARTICLE_URL_HE_OR_EN]] until a real CMS canonical is verified. The full copy resides after the editorial-only SEO handoff in each article Google Doc. No posts have been sent or scheduled.
 
 CMS remains editorial-only. No live ZeroGPT or new GSC/GA4 readings. Deduplication used public site and Google Drive drafts; no authenticated CMS article-state check.
+
+## Additional writing cycle — 23 October 2026
+
+### NEW: Dublin industrial and logistics leasing in Q3 2026
+
+- Savills Ireland released report on 19 October: Q3 take-up 824,400 sq ft in 17 deals (+65% y/y), January–September 1.9m sq ft. BusinessPlus and Bisnow secondary reporting of Savills added South-West Dublin at 84% of leased floor area, local vacancy 1.5%, total Dublin vacancy 2.6%, and prime rent €14.75/sq ft/year. Detailed secondary figures have not been independently checked against the original Savills PDF.
+- Deduplication: compared to 2025 Dublin commercial-property coverage and general 2026 European warehouse reports; no same Q3 Dublin news in accessible Google Drive drafts or indexed site. Decision NEW.
+- Full RU/EN Google Doc with four embedded images (two covers and locale-specific original infographic), SEO fields, contextual verified links, FAQ and six social announcements: https://docs.google.com/document/d/1fKVklmE_-UJQkiNbnaHmagtdRgJFbZSDzmPBhi-zvIM/edit
+- Primary source: https://www.savills.ie/research-and-news/research.aspx?f=date&p=&page=0&q=&rc=Ireland&t= . Detailed reporting: https://businessplus.ie/news/dublin-industrial-property/
+
+### UPDATE original URL #8900: CBRE hotel brands and Prague
+
+- The original hotel investor survey dates to 27 May 2026 (more than 70 respondents, fieldwork February 3–March 23); Czech country-localisation released in September. Not breaking October news. Global brand preference rose from 43% in 2025 to 53% in 2026; independent hotels fell 40% to 24%; Prague jointly seventh among European city preferences.
+- The existing page https://internationalinvestment.biz/real-estate/8900-oteli-snova-v-pritete-kapitala.html is NOT the canonical (typo); verified correct canonical is https://internationalinvestment.biz/real-estate/8900-oteli-snova-v-prioritete-kapitala.html , EN https://internationalinvestment.biz/en/real-estate/8900-hotels-return-to-investors-priority-list.html . Keep original H1 and body; insert sections after CBRE introductory paragraph, add four FAQ Q/A per locale and update description; retain existing Georgia/European Village/Wyndham narrative without unsupported extra yield claims.
+- Targeted RU/EN replacement blocks with four embedded images, SEO and six social announcements: https://docs.google.com/document/d/1lrp0Oc7GO--KLK5lxgd9DFV_rvjgWZQFH1c9vx8WWS4/edit
+- Original survey https://www.cbre.com/insights/reports/european-hotel-investor-intentions-survey-2026 ; Prague local press release https://www.cbre.cz/en-gb/press-releases/hotels-confirm-their-resilience-over-90-of-investors
+
+Both documents were verified after writing: four image objects, links, eight bold FAQ questions and exact language matrix Telegram RU, VK RU, X EN, Facebook RU/EN/HE. Google Docs editorial handoffs only; CMS content not submitted, social not posted, detector/GSC not run. Replace post article-URL tokens only after the CMS update is saved and verified.
