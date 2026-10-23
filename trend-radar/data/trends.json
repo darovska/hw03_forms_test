@@ -1,9 +1,9 @@
 {
   "meta": {
-    "period": "19–22 октября 2026",
-    "updatedAt": "22 октября 2026",
-    "reportUrl": "https://github.com/darovska/hw03_forms_test/blob/main/trend-radar/reports/2026-10-22-trendwatch.md",
-    "editorialNote": "22 октября: проверены новые первичные источники NBIM/Ares, Savills, Covivio Hotels, ONS и Eurostat. Три RU/EN Google Docs готовы с реальными изображениями; CMS не меняли. GSC/GA4 и ZeroGPT не запускали."
+    "period": "20–23 октября 2026",
+    "updatedAt": "23 октября 2026",
+    "reportUrl": "https://github.com/darovska/hw03_forms_test/blob/main/trend-radar/reports/2026-10-23-trendwatch.md",
+    "editorialNote": "23 Oct: CBRE Onnec and Savills Ireland development land new RU/EN Google Docs; Dublin office source added to existing draft. CMS off; fresh GSC unavailable."
   },
   "categories": [
     "Все",
@@ -14,6 +14,87 @@
     "Инвестиции"
   ],
   "trends": [
+    {
+      "id": "cbre-onnec-infrastructure-oct20-2026",
+      "title": "CBRE покупает Onnec: £460 млн за сервис дата-центров",
+      "category": "Инвестиции",
+      "trendStrength": 93,
+      "editorialPotential": 94,
+      "seoPotential": 91,
+      "priority": "high",
+      "status": "draft_ready",
+      "signal": "CBRE 20 октября: £460m initial price and earnout to £300m subject to milestones; Onnec data center infrastructure services Europe and APAC.",
+      "why": "Новый Google Doc RU/EN с обложками и FAQ; не недвижимость как портфель зданий.",
+      "editorialAngle": "AI инфраструктура, сервисы дата-центров, разделить первоначальный платеж и earnout.",
+      "seoAngle": "CBRE Onnec acquisition £460m, European data center infrastructure 2026",
+      "socialIdeas": [
+        "Как дата-центры меняют рынок инфраструктурных услуг"
+      ],
+      "sources": [
+        {
+          "label": "CBRE 20 Oct",
+          "url": "https://www.cbre.com/press-releases/cbre-expands-critical-infrastructure-capabilities-europe-asia-pacific-onnec-acquisition"
+        },
+        {
+          "label": "RU EN Doc",
+          "url": "https://docs.google.com/document/d/1YcDjeM_JOjsoUf094pCip3ELrbMLD5eaKukXZJl1HbE/edit"
+        }
+      ]
+    },
+    {
+      "id": "ireland-development-land-q3-oct20-2026",
+      "title": "Ирландия: сделки с землей выросли до €543 млн",
+      "category": "Недвижимость",
+      "trendStrength": 87,
+      "editorialPotential": 91,
+      "seoPotential": 88,
+      "priority": "high",
+      "status": "draft_ready",
+      "signal": "Savills 20 Oct: Jan-Sep 2026 development land €543m vs €337m last year; Q3 €106m across 20 deals, 228 acres.",
+      "why": "Новый RU/EN Google Doc с редакционной диаграммой.",
+      "editorialAngle": "Продажи девелоперской земли ≠ число построенных квартир, разрешений или чистая доходность.",
+      "seoAngle": "Irish development land Q3 2026, Savills €543m, Ireland housing development",
+      "socialIdeas": [
+        "Почему сделки с землей не гарантируют новый ввод жилья"
+      ],
+      "sources": [
+        {
+          "label": "Savills Ireland",
+          "url": "https://www.savills.ie/research-and-news/research.aspx?f=date&p=&page=0&q=&rc=Ireland&t="
+        },
+        {
+          "label": "RU EN Doc",
+          "url": "https://docs.google.com/document/d/1x4vgFTUebB_M4sQJJVI1Z6WGjzDIJjCwN8M53l5mZ2g/edit"
+        }
+      ]
+    },
+    {
+      "id": "dublin-offices-savills-q3-oct22-2026",
+      "title": "Дублин: технологические компании нарастили аренду офисов на 68%",
+      "category": "Недвижимость",
+      "trendStrength": 91,
+      "editorialPotential": 94,
+      "seoPotential": 89,
+      "priority": "high",
+      "status": "draft_updated",
+      "signal": "Savills 22 Oct: Dublin office take-up Q3 462k sq ft/47 deals, tech 189.4k sq ft (+68% YoY), CBD 64% transactions; YTD 1.7m sq ft.",
+      "why": "Обновлен уже существующий редакционный Google Doc про AI и офисы Дублина, отдельный дубль не создавать.",
+      "editorialAngle": "Спрос на офисы AI/tech и география рынка, не путать долю сделок CBD с долей площадей.",
+      "seoAngle": "Dublin offices Q3 2026, tech office leasing Ireland",
+      "socialIdeas": [
+        "Дублин: технологический спрос и аренда"
+      ],
+      "sources": [
+        {
+          "label": "Savills Ireland 22 Oct",
+          "url": "https://www.savills.ie/research-and-news/research.aspx?f=date&p=&page=0&q=&rc=Ireland&t="
+        },
+        {
+          "label": "Updated Google Doc",
+          "url": "https://docs.google.com/document/d/1LljbYvM3foy3bLcIuggPcIpPpBJVXIvUlOWbLboabFg/edit"
+        }
+      ]
+    },
     {
       "id": "nbim-ares-europe-logistics-oct21-2026",
       "title": "Норвежский фонд направит €1,5 млрд в логистику Европы",
@@ -1460,6 +1541,18 @@
         "ONS UK и Eurostat annual deficit — обновление существующих материалов, не новые URL."
       ],
       "reportUrl": "https://github.com/darovska/hw03_forms_test/blob/main/trend-radar/reports/2026-10-22-trendwatch.md"
+    },
+    {
+      "period": "22–23 октября 2026",
+      "endDate": "2026-10-23",
+      "savedAt": "23 октября 2026",
+      "summary": "Новая инфраструктурная сделка CBRE Onnec и девелоперская земля Ирландии; свежая офисная статистика Дублина внесена в существующий черновик.",
+      "keyPoints": [
+        "CBRE Onnec £460m initial plus up to £300m contingent earnout.",
+        "Savills Irish development land €543m Jan-Sep 2026 vs €337m previous year.",
+        "Dublin offices Q3 462k sq ft; tech 189.4k (+68% YoY)."
+      ],
+      "reportUrl": "https://github.com/darovska/hw03_forms_test/blob/main/trend-radar/reports/2026-10-23-trendwatch.md"
     }
   ],
   "monitoringSources": [
@@ -2123,61 +2216,34 @@
     ]
   },
   "dailyUpdate": {
-    "date": "22 октября 2026",
+    "date": "23 октября 2026",
     "items": [
       {
-        "label": "Новый материал",
-        "title": "NBIM и Ares €1,5 млрд для складов Европы",
-        "signal": "21 октября NBIM объявил €1,5 млрд equity commitment и участие 96%.",
-        "action": "RU/EN Google Doc готов; не публиковать до отдельного CMS этапа.",
-        "source": "NBIM",
-        "url": "https://docs.google.com/document/d/1dB7R8kmELbgoqnsM0MgvCpvg4VBFA0exrqbYgp9E56s/edit",
+        "label": "Новая статья",
+        "title": "CBRE покупает Onnec: £460 млн за сервис дата-центров",
+        "signal": "CBRE 20 октября: £460m initial price and earnout to £300m subject to milestones; Onnec data center infrastructure services Europe and APAC.",
+        "action": "RU/EN Google Doc готов, CMS выключена",
+        "source": "CBRE 20 Oct",
+        "url": "https://docs.google.com/document/d/1YcDjeM_JOjsoUf094pCip3ELrbMLD5eaKukXZJl1HbE/edit",
         "priority": "high"
       },
       {
-        "label": "Новый материал",
-        "title": "Европейские офисы: 39% трансграничных сделок",
-        "signal": "Savills Q3 prime CBD yield 5,1%, +13 б. п.",
-        "action": "RU/EN Google Doc готов; выбрать страновые ссылки после CMS.",
-        "source": "Savills",
-        "url": "https://docs.google.com/document/d/1PBaW4ePIX015ikI1zPQc54FUdw8RffZIh9ZXTO6Dz4E/edit",
+        "label": "Новая статья",
+        "title": "Ирландия: сделки с землей выросли до €543 млн",
+        "signal": "Savills 20 Oct: Jan-Sep 2026 development land €543m vs €337m last year; Q3 €106m across 20 deals, 228 acres.",
+        "action": "RU/EN Google Doc готов, CMS выключена",
+        "source": "Savills Ireland",
+        "url": "https://docs.google.com/document/d/1x4vgFTUebB_M4sQJJVI1Z6WGjzDIJjCwN8M53l5mZ2g/edit",
         "priority": "high"
       },
       {
-        "label": "Новый материал",
-        "title": "Covivio Hotels +4,7% выручки",
-        "signal": "LFL +2%; Испания RevPAR +7,1% (рыночный показатель).",
-        "action": "RU/EN Google Doc готов; не смешивать revenue с RevPAR.",
-        "source": "Covivio Hotels",
-        "url": "https://docs.google.com/document/d/1u309o5JsGJBj_wHEu9tECAi-8iPMBGSc-ORpGAOZSis/edit",
+        "label": "Обновление",
+        "title": "Дублин: технологические компании нарастили аренду офисов на 68%",
+        "signal": "Savills 22 Oct: Dublin office take-up Q3 462k sq ft/47 deals, tech 189.4k sq ft (+68% YoY), CBD 64% transactions; YTD 1.7m sq ft.",
+        "action": "Обновлен прежний Google Doc",
+        "source": "Savills Ireland 22 Oct",
+        "url": "https://docs.google.com/document/d/1LljbYvM3foy3bLcIuggPcIpPpBJVXIvUlOWbLboabFg/edit",
         "priority": "high"
-      },
-      {
-        "label": "Обновить",
-        "title": "ONS Британия: аренда £1 406 и цены жилья +0,9%",
-        "signal": "Сентябрьская аренда UK +3,8%, августовские цены Лондона -2,2%.",
-        "action": "Обновить существующий UK housing URL /britannia/8154 после чтения текущего текста.",
-        "source": "ONS",
-        "url": "https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/privaterentandhousepricesuk/october2026",
-        "priority": "high"
-      },
-      {
-        "label": "Обновить",
-        "title": "Eurostat EU deficit 2025",
-        "signal": "EA 3,0% и EU 3,1% от ВВП — годовые данные.",
-        "action": "Дополнить материал про долг, не заменяя Q2 2026 debt figures.",
-        "source": "Eurostat",
-        "url": "https://ec.europa.eu/eurostat/en/web/products-euro-indicators/w/2-21102026-ap",
-        "priority": "medium"
-      },
-      {
-        "label": "Отложено",
-        "title": "Лондон: prime rental yield 5,8% в one-bed flats",
-        "signal": "Savills 19 октября: prime central London rent +1,1% QoQ.",
-        "action": "Проверить SEO-каннибализацию существующих London pages.",
-        "source": "Savills",
-        "url": "https://www.savills.co.uk/insight-and-opinion/savills-news/395751/landlord-caution-squeezes-rental-supply-as-yields-strengthen",
-        "priority": "medium"
       }
     ]
   }
