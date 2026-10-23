@@ -1,9 +1,9 @@
 {
   "meta": {
-    "period": "20–23 октября 2026",
+    "period": "19–23 октября 2026",
     "updatedAt": "23 октября 2026",
     "reportUrl": "https://github.com/darovska/hw03_forms_test/blob/main/trend-radar/reports/2026-10-23-trendwatch.md",
-    "editorialNote": "23 Oct: CBRE Onnec and Savills Ireland development land new RU/EN Google Docs; Dublin office source added to existing draft. CMS off; fresh GSC unavailable."
+    "editorialNote": "Additional run 23 Oct: two NEW bilingual articles (Pandox hotel deal and Savills UK grid charges), each with verified cover, two charts and Telegram RU / VK RU / X EN / Facebook RU EN HE social drafts. Social backfill done for Onnec, Irish land and existing NBG. CBRE October republication checked against September release. CMS, ZeroGPT and fresh GSC inactive."
   },
   "categories": [
     "Все",
@@ -14,6 +14,144 @@
     "Инвестиции"
   ],
   "trends": [
+    {
+      "trendStrength": 88,
+      "editorialPotential": 92,
+      "seoPotential": 90,
+      "priority": "high",
+      "social_ready": true,
+      "id": "pandox-alma-midstar-denmark-oct22-2026",
+      "title": "Alma и Midstar приобретут пять отелей Дании на 928 номеров",
+      "category": "Инвестиции",
+      "status": "draft_ready",
+      "signal": "Pandox 22 октября: пять отелей, 928 номеров, DKK 1,155 млн underlying property value; арендаторы Scandic и Motel One остаются. Подписано соглашение, закрытие ожидается в Q4.",
+      "why": "New verified RU/EN Doc with four images and six social teasers; no draft duplicate found.",
+      "editorialAngle": "Long leases and hotel investments; do not confuse Danish five-hotel valuation with 7-hotel portfolio value.",
+      "seoAngle": "Pandox Alma Midstar Denmark hotels 2026",
+      "socialIdeas": [
+        "Пять гостиниц меняют инвестора, а бренды остаются"
+      ],
+      "sources": [
+        {
+          "label": "Pandox, 22 October",
+          "url": "https://www.pandox.se/media/press-releases/2026/pandox-divests-seven-hotel-properties-in-denmark-and-sweden-for-msek-2-100/"
+        },
+        {
+          "label": "Alma, 22 October",
+          "url": "https://www.mynewsdesk.com/uk/alma-property-partners/pressreleases/alma-and-midstar-acquire-five-danish-hotels-from-pandox-3473685"
+        },
+        {
+          "label": "Article and social RU EN",
+          "url": "https://docs.google.com/document/d/1PKz_QPDKp7BUJJBEb9eqJsje7EJa7hnH2iyqgXBoHOc/edit"
+        }
+      ]
+    },
+    {
+      "trendStrength": 88,
+      "editorialPotential": 92,
+      "seoPotential": 90,
+      "priority": "high",
+      "social_ready": true,
+      "id": "savills-uk-electric-grid-duos-oct21-2026",
+      "title": "Расходы на электросети офисов Британии могут вырасти на 25%",
+      "category": "Недвижимость",
+      "status": "draft_ready",
+      "signal": "Savills Earth 21 октября: прогноз изменений DUoS 2020/21-2027/28 +25% offices, +12% residential, +11% industrial. Не полные счета за электроэнергию.",
+      "why": "Fresh differentiated UK grid cost story; RU/EN Doc with cover, charts and six social teasers.",
+      "editorialAngle": "Electricity network charges, regional variation and property site due diligence.",
+      "seoAngle": "Savills Earth UK DUoS office costs 2027/28",
+      "socialIdeas": [
+        "Почему два одинаковых склада платят за сети по-разному"
+      ],
+      "sources": [
+        {
+          "label": "Savills Earth, 21 October",
+          "url": "https://www.savills.co.uk/research_articles/229130/395550-0/market-in-minutes--property-and-the-distribution-network"
+        },
+        {
+          "label": "Article and social RU EN",
+          "url": "https://docs.google.com/document/d/1NAnBrcUKc0eX30DQ898YfMvhgtcb46ylLfs9TNHgmXs/edit"
+        }
+      ]
+    },
+    {
+      "trendStrength": 88,
+      "editorialPotential": 92,
+      "seoPotential": 90,
+      "priority": "high",
+      "social_ready": true,
+      "id": "georgia-nbg-oct21-existing-draft-social",
+      "title": "Грузия: ставка Нацбанка осталась 8,25%",
+      "category": "Инвестиции",
+      "status": "draft_ready",
+      "signal": "21 Oct NBG 8.25% rate, 2026 growth forecast 7.2%, inflation forecast 5.4%.",
+      "why": "Existing Google Doc from 22 Oct reused, no duplicate; six social posts appended 23 Oct.",
+      "editorialAngle": "Interest rates, macro outlook and property financing, no promises.",
+      "seoAngle": "Georgia interest rate 2026 NBG",
+      "socialIdeas": [
+        "Грузия растет быстрее прогноза, но деньги не дешевле"
+      ],
+      "sources": [
+        {
+          "label": "NBG 21 Oct",
+          "url": "https://nbg.gov.ge/en/media/news/the-national-bank-of-georgia-decided-to-keep-the-monetary-policy-rate-unchanged-at-8-25-3"
+        },
+        {
+          "label": "Existing Doc + social",
+          "url": "https://docs.google.com/document/d/1UjHrsSY2DNPoHt95R8ZIQUStXEbi1hRo1MV5uUykO80/edit"
+        }
+      ]
+    },
+    {
+      "id": "cbre-prague-september-release-watch",
+      "title": "Инвесторы чаще выбирают гостиничные бренды, Прага в топ-10",
+      "category": "Туризм",
+      "trendStrength": 76,
+      "editorialPotential": 83,
+      "seoPotential": 86,
+      "priority": "medium",
+      "status": "update_existing",
+      "signal": "CBRE survey 2026: preference for global hotel brands 53% vs 43%; independent hotels 24% vs 40%; Sept Czech release republished Oct 22 Irish site.",
+      "why": "NOT a fresh October survey: CBRE research released May, Czech story September; update existing /real-estate/8900, not news duplicate.",
+      "editorialAngle": "Brand preference, Prague hotel market and changes in operation models.",
+      "seoAngle": "CBRE hotel investor intentions 2026 Prague 53%",
+      "socialIdeas": [
+        "Почему гостиничные бренды вытесняют независимые отели"
+      ],
+      "sources": [
+        {
+          "label": "CBRE Czech, original September",
+          "url": "https://www.cbre.cz/en-gb/press-releases/hotels-confirm-their-resilience"
+        },
+        {
+          "label": "Existing II story",
+          "url": "https://internationalinvestment.biz/real-estate/8900-oteli-snova-v-prioritete-kapitala.html"
+        }
+      ]
+    },
+    {
+      "id": "savills-dublin-industrial-q3-watch",
+      "title": "Логистика Дублина: аренда площадей выросла на 65%",
+      "category": "Недвижимость",
+      "trendStrength": 82,
+      "editorialPotential": 89,
+      "seoPotential": 85,
+      "priority": "medium",
+      "status": "watch",
+      "signal": "Savills 19 October: 824,400 sq ft Dublin industrial/logistics take-up in Q3, 17 deals, +65% YoY.",
+      "why": "Requires second-layer deduplication with existing Dublin and European logistics coverage before creating another URL.",
+      "editorialAngle": "Take-up of leased space is not real estate investment turnover.",
+      "seoAngle": "Dublin industrial Q3 2026 Savills",
+      "socialIdeas": [
+        "Дублин: спрос на склады резко вырос"
+      ],
+      "sources": [
+        {
+          "label": "Savills Ireland",
+          "url": "https://www.savills.ie/research-and-news/research.aspx?f=date&p=&page=0&q=&rc=Ireland&t="
+        }
+      ]
+    },
     {
       "id": "cbre-onnec-infrastructure-oct20-2026",
       "title": "CBRE покупает Onnec: £460 млн за сервис дата-центров",
@@ -39,7 +177,8 @@
           "label": "RU EN Doc",
           "url": "https://docs.google.com/document/d/1YcDjeM_JOjsoUf094pCip3ELrbMLD5eaKukXZJl1HbE/edit"
         }
-      ]
+      ],
+      "social_ready": true
     },
     {
       "id": "ireland-development-land-q3-oct20-2026",
@@ -66,7 +205,8 @@
           "label": "RU EN Doc",
           "url": "https://docs.google.com/document/d/1x4vgFTUebB_M4sQJJVI1Z6WGjzDIJjCwN8M53l5mZ2g/edit"
         }
-      ]
+      ],
+      "social_ready": true
     },
     {
       "id": "dublin-offices-savills-q3-oct22-2026",
@@ -1546,11 +1686,14 @@
       "period": "22–23 октября 2026",
       "endDate": "2026-10-23",
       "savedAt": "23 октября 2026",
-      "summary": "Новая инфраструктурная сделка CBRE Onnec и девелоперская земля Ирландии; свежая офисная статистика Дублина внесена в существующий черновик.",
+      "summary": "Новая инфраструктурная сделка CBRE Onnec и девелоперская земля Ирландии; свежая офисная статистика Дублина внесена в существующий черновик. Additional 23 Oct: Denmark hotel transaction and UK electricity grid costs, plus mandatory social announcements.",
       "keyPoints": [
         "CBRE Onnec £460m initial plus up to £300m contingent earnout.",
         "Savills Irish development land €543m Jan-Sep 2026 vs €337m previous year.",
-        "Dublin offices Q3 462k sq ft; tech 189.4k (+68% YoY)."
+        "Dublin offices Q3 462k sq ft; tech 189.4k (+68% YoY).",
+        "Pandox Denmark 928 rooms DKK 1,155m agreed, Q4 completion expected.",
+        "Savills UK DUoS office charges projected +25% in 2020/21-2027/28.",
+        "Five bilingual draft packs now include six-channel social copy."
       ],
       "reportUrl": "https://github.com/darovska/hw03_forms_test/blob/main/trend-radar/reports/2026-10-23-trendwatch.md"
     }
@@ -2219,30 +2362,30 @@
     "date": "23 октября 2026",
     "items": [
       {
-        "label": "Новая статья",
-        "title": "CBRE покупает Onnec: £460 млн за сервис дата-центров",
-        "signal": "CBRE 20 октября: £460m initial price and earnout to £300m subject to milestones; Onnec data center infrastructure services Europe and APAC.",
-        "action": "RU/EN Google Doc готов, CMS выключена",
-        "source": "CBRE 20 Oct",
-        "url": "https://docs.google.com/document/d/1YcDjeM_JOjsoUf094pCip3ELrbMLD5eaKukXZJl1HbE/edit",
+        "label": "NEW",
+        "title": "Alma и Midstar приобретут пять отелей Дании на 928 номеров",
+        "signal": "Pandox 22 октября: пять отелей, 928 номеров, DKK 1,155 млн underlying property value; арендаторы Scandic и Motel One остаются. Подписано соглашение, закрытие ожидается в Q4.",
+        "action": "RU EN SEO media + six social teasers, no CMS",
+        "source": "Pandox",
+        "url": "https://docs.google.com/document/d/1PKz_QPDKp7BUJJBEb9eqJsje7EJa7hnH2iyqgXBoHOc/edit",
         "priority": "high"
       },
       {
-        "label": "Новая статья",
-        "title": "Ирландия: сделки с землей выросли до €543 млн",
-        "signal": "Savills 20 Oct: Jan-Sep 2026 development land €543m vs €337m last year; Q3 €106m across 20 deals, 228 acres.",
-        "action": "RU/EN Google Doc готов, CMS выключена",
-        "source": "Savills Ireland",
-        "url": "https://docs.google.com/document/d/1x4vgFTUebB_M4sQJJVI1Z6WGjzDIJjCwN8M53l5mZ2g/edit",
+        "label": "NEW",
+        "title": "Расходы на электросети офисов Британии могут вырасти на 25%",
+        "signal": "Savills Earth 21 октября: прогноз изменений DUoS 2020/21-2027/28 +25% offices, +12% residential, +11% industrial. Не полные счета за электроэнергию.",
+        "action": "RU EN SEO media + six social teasers, no CMS",
+        "source": "Savills Earth",
+        "url": "https://docs.google.com/document/d/1NAnBrcUKc0eX30DQ898YfMvhgtcb46ylLfs9TNHgmXs/edit",
         "priority": "high"
       },
       {
-        "label": "Обновление",
-        "title": "Дублин: технологические компании нарастили аренду офисов на 68%",
-        "signal": "Savills 22 Oct: Dublin office take-up Q3 462k sq ft/47 deals, tech 189.4k sq ft (+68% YoY), CBD 64% transactions; YTD 1.7m sq ft.",
-        "action": "Обновлен прежний Google Doc",
-        "source": "Savills Ireland 22 Oct",
-        "url": "https://docs.google.com/document/d/1LljbYvM3foy3bLcIuggPcIpPpBJVXIvUlOWbLboabFg/edit",
+        "label": "UPDATE",
+        "title": "Грузия: ставка Нацбанка осталась 8,25%",
+        "signal": "21 Oct NBG 8.25% rate, 2026 growth forecast 7.2%, inflation forecast 5.4%.",
+        "action": "Existing 22 Oct draft updated with six social teasers",
+        "source": "NBG",
+        "url": "https://docs.google.com/document/d/1UjHrsSY2DNPoHt95R8ZIQUStXEbi1hRo1MV5uUykO80/edit",
         "priority": "high"
       }
     ]
