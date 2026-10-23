@@ -92,3 +92,25 @@ Marked covered: CoStar Milan September hotel record (site #8963), Hines 3,200 po
 ### Social, images and limitations
 
 Each new article has six separate social drafts: Telegram RU, VK RU, X EN, Facebook RU/EN/HE; all drafts contain canonical URL placeholders, never draft URLs as live links. JPG asset archive: II_Azora_Hilton_23_Oct_2026_Images.zip with six horizontal 1600x900 covers and RU/EN data graphics, and both Google Docs include four inline media objects. Cover imagery is editorial conceptual artwork, not actual property photography or a Hilton Scanport rendering. Publication and social posting not performed. CMS disabled, ZeroGPT/GSC/GA4 not checked.
+
+## More NEW analysis: two JLL reports released 22 October 2026
+
+### Dublin property investment transaction recovery — new, no duplicate
+
+JLL Dublin Capital Markets Q3 2026 (22 October): Q3 €677.4m in 22 deals; Jan-Sep €2,119.1m, up 29.6% from 2025's €1,635.0m. Quantum Immobilien acquired Quayside Quarter (Greystar) €180m; BNY acquired Shipping Office (Marlet) €160m. Two transactions represent ~50% of Q3; three deals worth ≥€50m total €410m, 60.5%. Ten of the 22 transactions were below €10m. Important methodological qualification: volume of PROPERTY PURCHASES, not leased floor area, rental revenue or a house price index.
+
+RU+EN Google Doc with four embedded media objects (Dublin conceptual cover in each locale and RU/EN original charts), eight bold FAQ questions, native hyperlinks, SEO title/description/keywords and six viral-but-factual posts (Telegram RU, VK RU, X EN, Facebook RU/EN/HE): https://docs.google.com/document/d/1intN3jKcKJhzCXXzoXXUCUjzhEQY49gMlHlHe2aiykg/edit
+Primary: https://www.jll.com/en-us/insights/market-dynamics/dublin-capital-markets
+Distinct from already prepared Dublin office leasing, industrial take-up and Irish development land stories; no exact match on the accessible site or Drive.
+
+### Belgium industrial and logistics property — new, no duplicate
+
+JLL Belgium Industrial Capital Markets Q3 (22 October): by the end of Q3 2026, industrial property attracted €537m, or 29% of Belgian property investment. Domestic investor money predominated without a disclosed exact percentage. Prime logistics benchmark yield along Brussels–Antwerp corridor moved out 20 basis points to 5.10%; semi-industrial prime yields were stable at 6.2%. The public summary does NOT disclose Q3-only versus cumulative transaction detail within €537m beyond its 'by Q3' language, citywise volumes, vacancy or rent changes. Benchmark valuation yields are NOT a guaranteed after-cost return.
+
+RU+EN Google Doc with four embedded media objects (editorial Belgian logistics cover and two charts), SEO and six independent social announcements: https://docs.google.com/document/d/1R1FSnp0IM99YUtcR7uDEwzIn48rXchDJe71Bfhgf_CI/edit
+Primary: https://www.jll.com/en-belux/insights/market-dynamics/belgium-industrial-capital-markets
+Related older site story https://internationalinvestment.biz/en/business/6061-translation-real-estate-markets-in-belgium-and-luxembourg-shift-focus-to-logistics-and-housing.html ; an independent Q3 industrial update rather than duplication.
+
+### Image, social and publication handoff
+
+Archive /mnt/data/II_Dublin_Belgium_23Oct2026_Images.zip contains six landscape JPEGs (two original conceptual editorial covers and four RU/EN data charts, 1600×900). Charts checked for visual integrity before insertion. Both Google Docs reread and verified 2 H1, 4 inline images, 8 bold FAQ questions, 6 social language labels, 6 internal/primary hyperlinks, no Russian yo, no UTM. Social article URL placeholders remain until CMS canonical readback. EDITORIAL_ONLY, no CMS or social submission, no connected ZeroGPT and no current GSC/GA4 queries.
