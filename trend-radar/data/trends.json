@@ -3,7 +3,7 @@
     "period": "19–23 октября 2026",
     "updatedAt": "23 октября 2026",
     "reportUrl": "https://github.com/darovska/hw03_forms_test/blob/main/trend-radar/reports/2026-10-23-trendwatch.md",
-    "editorialNote": "Additional 23 Oct research and writing: Dublin Q3 logistics analytical RU/EN new Google Doc, CBRE May+Sept hotel preferences editorial update for existing canonical #8900; six social drafts and four images verified in each. Both are EDITORIAL_ONLY; no CMS write, ZeroGPT or new GSC/GA4 metrics."
+    "editorialNote": "Evening dedup run Oct 23: completed NEW RU EN prime London lettings and Vienna city Sept nights/Aug revenue, each SEO/FAQ, four embedded image objects, six multilingual social drafts; marked Italy Staff House, Ireland short-let register, EU aviation, Eurostat tourism intensity and Austria Jan-Aug as covered; existing Germany hotel CBRE draft identified without duplicate. CMS and socials not published; no ZeroGPT/GSC."
   },
   "categories": [
     "Все",
@@ -14,6 +14,41 @@
     "Инвестиции"
   ],
   "trends": [
+    {
+      "id": "vienna-september-2026-hotel-nights-august-revenue",
+      "title": "Вена: ночевки +4% в сентябре, выручка −5% в августе",
+      "category": "Туризм",
+      "trendStrength": 91,
+      "editorialPotential": 94,
+      "seoPotential": 91,
+      "priority": "high",
+      "status": "draft_ready",
+      "social_ready": true,
+      "decision": "new",
+      "editorial_stage": "docs_ready_not_submitted",
+      "signal": "Vienna Tourism 22 Oct: Sept 2026 1.825m tourist nights (+4% YoY), Aug net accommodation turnover €109.168m (-5% YoY); earlier official Aug nights 1.907m (-0.2%). Separate metric/months.",
+      "why": "New city-specific release 22 Oct, not duplicate of national Austria Jan–Aug coverage or general European hotel comparison. Full RU/EN, 4 inline images and 6 social variants verified. Do not treat Sept nights as Aug revenue data.",
+      "editorialAngle": "Demand growth does not guarantee matching accommodation revenue; compare August against August, September statistics separately.",
+      "seoAngle": "Vienna tourism September 2026, Vienna hotels August revenue, WienTourismus",
+      "image_count": 4,
+      "socialIdeas": [
+        "Почему туристов больше, а гостиничная выручка снижается?"
+      ],
+      "sources": [
+        {
+          "label": "Vienna Tourism October 22 official",
+          "url": "https://presse.wien.gv.at/presse/2026/10/22/wien-1-8-mio-naechtigungen-im-september-august-umsatz-bei-109-2-mio-euro"
+        },
+        {
+          "label": "Vienna Tourism September 23 official",
+          "url": "https://presse.wien.gv.at/presse/2026/09/23/wien-1-9-mio-naechtigungen-im-august-juli-umsatz-bei-110-2-mio-euro"
+        },
+        {
+          "label": "RU/EN full article, imagery and six posts",
+          "url": "https://docs.google.com/document/d/1uG1x1MtjhD2lqxZmkovpnZLWdc7UBx1vDZ-U0YZj7vs/edit"
+        }
+      ]
+    },
     {
       "trendStrength": 88,
       "editorialPotential": 92,
@@ -370,26 +405,34 @@
     },
     {
       "id": "uk-prime-rents-yields-savills-oct19-2026",
-      "title": "Лондонские арендные квартиры приносят больше при падении цен",
+      "title": "Prime-аренда Лондона: 5,8% у однокомнатных квартир",
       "category": "Недвижимость",
       "trendStrength": 84,
       "editorialPotential": 87,
       "seoPotential": 87,
       "priority": "medium",
-      "status": "watch",
-      "signal": "Savills 19 октября: prime central London rent +1,1% QoQ, +1,9% YoY, one-bed prime flat average yields 5,8%; регуляторное давление сокращает предложение.",
-      "why": "Возможная отдельная аналитика после точного SEO-аудита опубликованных London/Renters Rights страниц; пока watch без дубля.",
-      "editorialAngle": "Не смешивать prime-market yields и общенациональную арендную инфляцию ONS.",
-      "seoAngle": "Prime central London rents Q3 2026; Savills one bedroom yields",
+      "status": "draft_ready",
+      "signal": "Savills Prime Lettings Q3 2026 (release 19 Oct): prime central London rents +1.1% QoQ/+1.9% YoY, outer prime +0.9%/+2.9%; estimated average rental yields of prime one-beds 5.8%, not a net guarantee.",
+      "why": "NEW specific prime-lettings analysis different from existing general house-price, resale-loss and mortgage pages; existing Google Drive drafts checked. Full RU/EN with cover, 2 charts (4 inline objects total), SEO and 6 social variants verified Oct 23.",
+      "editorialAngle": "Higher yields can arise from rents rising while capital values soften; not after-cost investor income.",
+      "seoAngle": "Savills prime London rents Q3 2026, one-bedroom yield 5.8, Renters Rights Act",
       "socialIdeas": [
         "Почему small prime London flats дают более высокую доходность"
       ],
       "sources": [
         {
-          "label": "Savills prime lettings release 19 October",
+          "label": "Savills, 19 October 2026",
           "url": "https://www.savills.co.uk/insight-and-opinion/savills-news/395751/landlord-caution-squeezes-rental-supply-as-yields-strengthen"
+        },
+        {
+          "label": "Full RU/EN Google Doc and 6 social announcements",
+          "url": "https://docs.google.com/document/d/1xbSiFsdDOxIMQmraDONj1JF2PU3zfx0OOenPtjmcWTY/edit"
         }
-      ]
+      ],
+      "social_ready": true,
+      "decision": "new",
+      "editorial_stage": "docs_ready_not_submitted",
+      "image_count": 4
     },
     {
       "id": "eurostat-eu-deficit-2025-final-oct21-2026",
@@ -605,9 +648,9 @@
       "editorialPotential": 92,
       "seoPotential": 90,
       "priority": "high",
-      "status": "growing",
+      "status": "covered",
       "signal": "6 октября опубликован Short Term Letting and Tourism Bill, планируемый реестр Fáilte Ireland с 1 декабря и регистрация до 31 декабря. Для сдачи до 21 ночи; это законопроект, не действующий закон.",
-      "why": "Юридические сроки важны для инвесторов и владельцев жилья.",
+      "why": "Verified 23 Oct: published site already covers this core data; do not duplicate. Юридические сроки важны для инвесторов и владельцев жилья.",
       "editorialAngle": "Ireland-specific explainer и обновление имеющегося европейского обзора краткосрочной аренды.",
       "seoAngle": "Ireland Airbnb registration 2026; short term letting register Fáilte Ireland",
       "socialIdeas": [
@@ -619,7 +662,8 @@
           "label": "Irish Ministry — Short Term Letting Bill",
           "url": "https://www.enterprise.gov.ie/en/news-and-events/department-news/2026/october/20261006.html"
         }
-      ]
+      ],
+      "covered_url": "https://internationalinvestment.biz/en/business/8959-ireland-plans-national-short-term-rental-register.html"
     },
     {
       "id": "eurostat-tourism-intensity-oct16",
@@ -629,9 +673,9 @@
       "editorialPotential": 92,
       "seoPotential": 90,
       "priority": "high",
-      "status": "growing",
+      "status": "covered",
       "signal": "Eurostat 16 октября: 3,1 млрд ночевок в туристическом размещении ЕС в 2025 году (+4,1%). Хорватия 24,5, Мальта 21,7, Кипр 19,4 ночевки на жителя, ЕС 7,0, Румыния 1,6.",
-      "why": "Сопоставимые официальные показатели нагрузки. Не считать ночевки уникальными туристами или гостиничной доходностью.",
+      "why": "Verified 23 Oct: published site already covers this core data; do not duplicate. Сопоставимые официальные показатели нагрузки. Не считать ночевки уникальными туристами или гостиничной доходностью.",
       "editorialAngle": "Новая сравнительная статья про интенсивность туризма, не дубль локального сюжета по Мальте.",
       "seoAngle": "tourism intensity Europe 2025; Croatia Malta Cyprus overtourism",
       "socialIdeas": [
@@ -643,7 +687,8 @@
           "label": "Eurostat — Tourism intensity, 16 October",
           "url": "https://ec.europa.eu/eurostat/en/web/products-eurostat-news/w/ddn-20261016-1"
         }
-      ]
+      ],
+      "covered_url": "https://internationalinvestment.biz/en/tourism/8962-new-strategy-for-tourism-development-in-europe.html"
     },
     {
       "id": "germany-investment-market-q3-oct16",
@@ -965,9 +1010,9 @@
       "editorialPotential": 98,
       "seoPotential": 94,
       "priority": "high",
-      "status": "growing",
+      "status": "covered",
       "signal": "OAG: в октябре европейская емкость +2% г/г, но Восточная/Центральная Европа +7,4%; low-cost +5,1% при почти нулевом росте mainline. Wizz Air +23,1%; Италия +7,2%. Направление Европа–Ближний Восток -10,6%, Европа–Азия +11,7%.",
-      "why": "Это прямой индикатор будущего турпотока, hotel demand и инвестиционной привлекательности направлений. Рост распределяется крайне неравномерно.",
+      "why": "Verified 23 Oct: published site already covers this core data; do not duplicate. Это прямой индикатор будущего турпотока, hotel demand и инвестиционной привлекательности направлений. Рост распределяется крайне неравномерно.",
       "editorialAngle": "Какие страны и города получают дополнительный турпоток благодаря новым креслам: Италия, CEE, Испания; почему Middle East теряет capacity и Asia возвращается.",
       "seoAngle": "Europe airline capacity 2026; European tourism 2026; Wizz Air growth; Eastern Europe tourism; low cost airlines Europe",
       "socialIdeas": [
@@ -982,7 +1027,8 @@
           "label": "OAG airline capacity statistics October 2026",
           "url": "https://www.oag.com/airline-frequency-and-capacity-statistics"
         }
-      ]
+      ],
+      "covered_url": "https://internationalinvestment.biz/en/business/8957-europes-aviation-growth-shifts-to-low-cost-carriers.html"
     },
     {
       "id": "germany-hotel-smaller-deals-q3-2026",
@@ -992,9 +1038,9 @@
       "editorialPotential": 96,
       "seoPotential": 91,
       "priority": "high",
-      "status": "growing",
+      "status": "draft_ready",
       "signal": "CBRE 13 октября: инвестиции в гостиницы Германии за 9 месяцев — около €1,1 млрд, на 33% ниже г/г. Сделок стало больше, но крупных транзакций меньше; 48,7% объема пришлось на value-add.",
-      "why": "Это свежий Q3-сигнал, который уточняет общеевропейскую картину: инвесторы не уходят из отелей, а меняют размер сделки, географию и стратегию.",
+      "why": "Google Drive search found existing RU/EN draft created Oct 19; do NOT create duplicate. CBRE's original German press release Oct 8 gives €1.01bn, English syndicated version incorrectly contains €1.10bn body. The existing draft accurately uses €1.01bn. Social package not verified, pending QA.",
       "editorialAngle": "Почему рынок Германии перешел от крупных гостиничных портфелей к небольшим объектам вне главных центров и реконструкциям; что это говорит о риске и доходности.",
       "seoAngle": "Germany hotel investment 2026; German hotel market Q3 2026; hotel value add Europe; hotel transactions Germany",
       "socialIdeas": [
@@ -1002,10 +1048,16 @@
       ],
       "sources": [
         {
-          "label": "CBRE Germany hotel investment Q1-Q3 2026",
-          "url": "https://www.cbre.ae/press-releases/smaller-transactions-dominate-market-activity-in-the-first-nine-months-of-2026"
+          "label": "CBRE Germany original Oct 8",
+          "url": "https://www.cbre.de/press-releases/hotelinvestmentmarkt-kleinere-transaktionen-praegen-das-marktgeschehen"
+        },
+        {
+          "label": "Existing RU EN Google Doc",
+          "url": "https://docs.google.com/document/d/14u76fBTrz7szLLaFXbhlf-XNbZJFC3UhB4Dd1kkuQfo/edit"
         }
-      ]
+      ],
+      "social_ready": false,
+      "decision": "draft_exists"
     },
     {
       "id": "eu-housing-implementation-oct14",
@@ -1038,9 +1090,9 @@
       "editorialPotential": 94,
       "seoPotential": 88,
       "priority": "high",
-      "status": "growing",
+      "status": "covered",
       "signal": "Итальянская программа Staff House финансирует создание, модернизацию и льготную аренду жилья для работников туризма; 9 октября опубликован третий список получателей по Title II.",
-      "why": "Кадровый дефицит в туризме превращается в жилищную и девелоперскую проблему — сильный сюжет на стыке hospitality и real estate.",
+      "why": "Verified 23 Oct: published site already covers this core data; do not duplicate. Кадровый дефицит в туризме превращается в жилищную и девелоперскую проблему — сильный сюжет на стыке hospitality и real estate.",
       "editorialAngle": "Почему гостиницам приходится решать жилищный вопрос персонала; где staff housing влияет на операционные расходы, сезонность и инвестиционную модель.",
       "seoAngle": "Italy tourism worker housing; hotel staff housing; hospitality labour shortage Europe; Staff House Italy",
       "socialIdeas": [
@@ -1055,7 +1107,8 @@
           "label": "Italian Ministry of Tourism — Title II third list",
           "url": "https://www.ministeroturismo.gov.it/staff-house-titolo-ii-pubblicato-il-decreto-direttoriale-recante-il-terzo-elenco-delle-istanze-assegnatarie-delle-agevolazioni/"
         }
-      ]
+      ],
+      "covered_url": "https://internationalinvestment.biz/real-estate/8956-italija-stroit-zhile-dlja-rabotnikov-turizma.html"
     },
     {
       "id": "india-outbound-tourism-2026",
@@ -1550,9 +1603,9 @@
       "editorialPotential": 85,
       "seoPotential": 79,
       "priority": "medium",
-      "status": "growing",
+      "status": "covered",
       "signal": "Statistics Austria 6 октября финализировала августовскую статистику; предварительный срез: 117,89 млн ночевок Jan–Aug (+1,5% г/г), 21,33 млн в августе — примерно без изменения.",
-      "why": "Страна давно не была самостоятельным туристическим приоритетом радара, а официальный релиз дает повод проверить гостиничный рынок и инвестиции.",
+      "why": "Verified 23 Oct: published site already covers this core data; do not duplicate. Страна давно не была самостоятельным туристическим приоритетом радара, а официальный релиз дает повод проверить гостиничный рынок и инвестиции.",
       "editorialAngle": "Австрия после рекордного начала лета: спрос остается высоким, но август показывает стабилизацию. Проверить ADR/RevPAR, регионы и hotel pipeline.",
       "seoAngle": "Austria tourism 2026; Austria hotel market 2026; hotel investment Austria",
       "socialIdeas": [
@@ -1563,7 +1616,8 @@
           "label": "Statistics Austria",
           "url": "https://www.statistik.at/en/statistics/tourism-and-transport/tourism/accommodation/arrivals-overnight-stays"
         }
-      ]
+      ],
+      "covered_url": "https://internationalinvestment.biz/en/real-estate/8906-where-europes-hotel-markets-are-growing-fastest.html"
     }
   ],
   "seoClusters": [
@@ -1729,6 +1783,20 @@
         "CBRE hotel survey May 27 (>70 respondents) and Czech September press release: global brands 43%->53%, independent hotels 40%->24%, Prague tied seventh.",
         "Both Google Docs have RU/EN, verified four inline images, eight bold FAQ questions and six different social announcements.",
         "CMS changes disabled and not attempted."
+      ],
+      "reportUrl": "https://github.com/darovska/hw03_forms_test/blob/main/trend-radar/reports/2026-10-23-trendwatch.md"
+    },
+    {
+      "period": "23 октября 2026 — вечерний выпуск",
+      "endDate": "2026-10-23",
+      "savedAt": "23 октября 2026",
+      "summary": "Two new articles: Q3 prime London lettings and Vienna tourist demand versus August accommodation turnover. Existing Germany hotel draft deduplicated, source-language €1.01bn verified.",
+      "keyPoints": [
+        "London Savills: prime central rents +1.1% QoQ and prime one-bedroom average 5.8% rental yield (not net).",
+        "Vienna City 22 Oct: Sept tourist nights +4% vs Aug accommodation revenue −5% (months separately labelled), Aug tourist nights −0.2%.",
+        "Two RU/EN Docs have four inline images, eight bold FAQ questions and six social texts each.",
+        "Existing Germany hotel draft correctly uses €1.01bn German release, whereas English translation body states €1.10bn.",
+        "Several false unwritten candidates marked covered after site deduplication."
       ],
       "reportUrl": "https://github.com/darovska/hw03_forms_test/blob/main/trend-radar/reports/2026-10-23-trendwatch.md"
     }
@@ -2396,6 +2464,33 @@
   "dailyUpdate": {
     "date": "23 октября 2026",
     "items": [
+      {
+        "label": "NEW / social ready",
+        "title": "Prime-аренда Лондона: 5,8% у однокомнатных квартир",
+        "signal": "Savills Prime Lettings Q3 2026 (release 19 Oct): prime central London rents +1.1% QoQ/+1.9% YoY, outer prime +0.9%/+2.9%; estimated average rental yields of prime one-beds 5.8%, not a net guarantee.",
+        "action": "RU EN Google Doc + 4 images + 6 social teasers, CMS disabled",
+        "source": "Savills 19 Oct",
+        "url": "https://docs.google.com/document/d/1xbSiFsdDOxIMQmraDONj1JF2PU3zfx0OOenPtjmcWTY/edit",
+        "priority": "high"
+      },
+      {
+        "label": "NEW / social ready",
+        "title": "Вена: ночевки +4% в сентябре, выручка −5% в августе",
+        "signal": "Vienna Tourism 22 Oct: Sept 2026 1.825m tourist nights (+4% YoY), Aug net accommodation turnover €109.168m (-5% YoY); earlier official Aug nights 1.907m (-0.2%). Separate metric/months.",
+        "action": "RU EN Google Doc + 4 images + 6 social teasers, CMS disabled",
+        "source": "Vienna Tourism 22 Oct",
+        "url": "https://docs.google.com/document/d/1uG1x1MtjhD2lqxZmkovpnZLWdc7UBx1vDZ-U0YZj7vs/edit",
+        "priority": "high"
+      },
+      {
+        "label": "Existing draft (not new)",
+        "title": "Германия: гостиничный капитал уходит в небольшие value-add сделки",
+        "signal": "CBRE German original €1.01bn, −33% YoY",
+        "action": "No duplicate; correct original-source figure already used. Social package still needed.",
+        "source": "CBRE Germany",
+        "url": "https://docs.google.com/document/d/14u76fBTrz7szLLaFXbhlf-XNbZJFC3UhB4Dd1kkuQfo/edit",
+        "priority": "medium"
+      },
       {
         "label": "NEW / docs_ready + social_ready",
         "title": "Аренда складов Дублина выросла на 65% в Q3 2026",
