@@ -49,3 +49,19 @@ CMS remains editorial-only. No live ZeroGPT or new GSC/GA4 readings. Deduplicati
 - Original survey https://www.cbre.com/insights/reports/european-hotel-investor-intentions-survey-2026 ; Prague local press release https://www.cbre.cz/en-gb/press-releases/hotels-confirm-their-resilience-over-90-of-investors
 
 Both documents were verified after writing: four image objects, links, eight bold FAQ questions and exact language matrix Telegram RU, VK RU, X EN, Facebook RU/EN/HE. Google Docs editorial handoffs only; CMS content not submitted, social not posted, detector/GSC not run. Replace post article-URL tokens only after the CMS update is saved and verified.
+
+## Further unwritten topics - evening pass, 23 October 2026
+
+### NEW: Prime London letting yields, Savills 19 October
+Savills Q3 index: prime central London rental growth +1.1% QoQ, +1.9% YoY; outer prime London +0.9% QoQ, +2.9% YoY. Average rental yield for prime one-bedroom London flats around 5.8%, not after-cost returns; prime central London rent-to-value yields highest since 2009. New story is distinct from existing London house prices and 39.5% resale-loss articles. One native RU/EN Google Doc, with four embedded objects (two horizontal illustrative covers and RU/EN charts), SEO, FAQ with bold questions, and six social teasers RU Telegram + RU VK + EN X + Facebook RU/EN/HE: https://docs.google.com/document/d/1xbSiFsdDOxIMQmraDONj1JF2PU3zfx0OOenPtjmcWTY/edit . Original release: https://www.savills.co.uk/insight-and-opinion/savills-news/395751/landlord-caution-squeezes-rental-supply-as-yields-strengthen .
+
+### NEW: Vienna city hotel nights versus revenue, official city release 22 October
+Vienna's September 2026 visitor nights rose 4% YoY to 1.825m. The latest available **revenue is for August**, €109.168m (−5% YoY), while the earlier report put **August nights** at 1.907m (−0.2% YoY). Do not combine September nights with August turnover as if same period. The city reported 14.932m nights in Jan–Sep (+4%) and net accommodation revenue €867.173m in Jan–Aug (+1%); these cumulative windows are also different. Separate new story, not a rehash of national Austria Jan–Aug accommodation figures already covered. RU/EN, four embedded image objects and six social teasers: https://docs.google.com/document/d/1uG1x1MtjhD2lqxZmkovpnZLWdc7UBx1vDZ-U0YZj7vs/edit . Official city release https://presse.wien.gv.at/presse/2026/10/22/wien-1-8-mio-naechtigungen-im-september-august-umsatz-bei-109-2-mio-euro ; previous August nights https://presse.wien.gv.at/presse/2026/09/23/wien-1-9-mio-naechtigungen-im-august-juli-umsatz-bei-110-2-mio-euro .
+
+### Double-check to avoid redundant work
+- German hotel investments article already in RU/EN Google Doc from 19 October, so no duplicate was written: https://docs.google.com/document/d/14u76fBTrz7szLLaFXbhlf-XNbZJFC3UhB4Dd1kkuQfo/edit . CBRE Germany *original* released 8 October reports **€1.01bn** invested in hotels in the first three quarters, down 33%; some English syndicated CBRE pages mistakenly print €1.10bn in body despite headline €1.01bn. Existing draft correctly uses €1.01bn. Social copy for this old draft is pending.
+- Published site already covers Italy Staff House (8956), Ireland short-term-let register (8959), European airline capacity (8957), Eurostat tourism-intensity country figures (in 8962), and Austria Jan–Aug tourism figures (in 8906). Their stale growing statuses in radar were corrected to covered.
+- SEO search metrics were not refreshed. Articles and social drafts are editorial-only; no CMS submission, publishing or social posting and no ZeroGPT test.
+
+### Media delivery
+Local packaging: II_London_Vienna_23_Oct_2026_Images.zip with six 1600×900 JPGs (one original editorial cover and two localized charts per article). All image objects verified in Google Docs; original chart labels were corrected to prevent text clipping before readback.
