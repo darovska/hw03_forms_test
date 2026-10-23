@@ -3,7 +3,7 @@
     "period": "19–23 октября 2026",
     "updatedAt": "23 октября 2026",
     "reportUrl": "https://github.com/darovska/hw03_forms_test/blob/main/trend-radar/reports/2026-10-23-trendwatch.md",
-    "editorialNote": "Late 23 Oct additional batch: Azora Southern Europe Opportunities III and Hilton-Scandic Nordics agreement; 2 new original RU/EN Google Docs with SEO, 4 embedded image objects and six social teasers each. Misleading figures corrected (Azora fund vs capacity, Hilton planned vs built). Six stale radar topics marked already covered; three existing Drive drafts discovered. CMS unchanged, no ZeroGPT/GSC/GA4."
+    "editorialNote": "Evening 23 Oct follow-up: two new JLL 22 Oct sourced RU/EN articles, Dublin investment Q3 and Belgium industrial property yield; Google Docs created with 4 embedded original images, SEO and 6 social posts for each. CMS disabled; fresh GSC/GA4 and ZeroGPT not run."
   },
   "categories": [
     "Все",
@@ -14,6 +14,72 @@
     "Инвестиции"
   ],
   "trends": [
+    {
+      "id": "jll-dublin-capital-markets-q3-oct22-2026",
+      "title": "Дублин: инвестиции в недвижимость выросли на 29,6%",
+      "category": "Инвестиции",
+      "trendStrength": 92,
+      "editorialPotential": 94,
+      "seoPotential": 91,
+      "priority": "high",
+      "status": "draft_ready",
+      "social_ready": true,
+      "decision": "new",
+      "editorial_stage": "docs_ready_not_submitted",
+      "signal": "JLL 22 Oct 2026: Dublin property investment Q3 €677.4m, 22 deals. 9M €2,119.1m, up 29.6% from €1,635m in 9M 2025. Two major transactions €180m and €160m represent ~50% Q3.",
+      "why": "Latest local capital-markets report is separate from already written Dublin industrial leasing, office demand and land trading articles. Site and Drive checked; no exact overlapping 2026 Q3 capital turnover story. Native RU/EN Google Doc created with 4 image objects, 8 bold FAQ questions, SEO, source links and 6 multilingual social posts.",
+      "editorialAngle": "Large deals skew quarterly investment volume; distinguish transactions from leasing and asset price appreciation.",
+      "seoAngle": "Dublin capital markets Q3 2026, JLL Dublin property investment, Quantum Quayside Quarter, Shipping Office BNY",
+      "image_count": 4,
+      "socialIdeas": [
+        "Всего две сделки дали половину инвестиций в Дублине за квартал"
+      ],
+      "sources": [
+        {
+          "label": "JLL, original 22 October 2026",
+          "url": "https://www.jll.com/en-us/insights/market-dynamics/dublin-capital-markets"
+        },
+        {
+          "label": "RU EN Google Doc with image and six social teasers",
+          "url": "https://docs.google.com/document/d/1intN3jKcKJhzCXXzoXXUCUjzhEQY49gMlHlHe2aiykg/edit"
+        }
+      ]
+    },
+    {
+      "id": "jll-belgium-industrial-investment-q3-oct22-2026",
+      "title": "Промышленная недвижимость Бельгии привлекла €537 млн",
+      "category": "Инвестиции",
+      "trendStrength": 90,
+      "editorialPotential": 93,
+      "seoPotential": 91,
+      "priority": "high",
+      "status": "draft_ready",
+      "social_ready": true,
+      "decision": "new",
+      "editorial_stage": "docs_ready_not_submitted",
+      "signal": "JLL 22 Oct: Belgian industrial property attracted €537m investment by Q3 2026, 29% of all Belgian property investment, with domestic capital prevailing. Prime Brussels–Antwerp logistics yields moved out 20bps to 5.10%; semi-industrial yields stable 6.2%.",
+      "why": "Specific new Belgian Q3 2026 asset-class update versus previous broad Belgium/Luxembourg 2025 review. Drive searched and public site checked. RU/EN native Google Doc with 4 verified embedded images, SEO, FAQ and 6 social posts.",
+      "editorialAngle": "Investor appetite versus outward yield repricing; no guaranteed investment returns, no invented rent/vacancy or cross-border shares.",
+      "seoAngle": "Belgium industrial property investment Q3 2026, Brussels Antwerp logistics prime yield 5.1, JLL",
+      "image_count": 4,
+      "socialIdeas": [
+        "Бельгия: почти треть вложений ушла в склады, но prime yield выросла"
+      ],
+      "sources": [
+        {
+          "label": "JLL, original 22 October 2026",
+          "url": "https://www.jll.com/en-belux/insights/market-dynamics/belgium-industrial-capital-markets"
+        },
+        {
+          "label": "RU EN Google Doc with images and six social teasers",
+          "url": "https://docs.google.com/document/d/1R1FSnp0IM99YUtcR7uDEwzIn48rXchDJe71Bfhgf_CI/edit"
+        },
+        {
+          "label": "Existing published 2025 Belgium review",
+          "url": "https://internationalinvestment.biz/en/business/6061-translation-real-estate-markets-in-belgium-and-luxembourg-shift-focus-to-logistics-and-housing.html"
+        }
+      ]
+    },
     {
       "id": "hilton-scandic-nordic-agreement-oct19-2026",
       "title": "Hilton и Scandic развивают отели в четырех странах",
@@ -1876,6 +1942,19 @@
         "Deduped Milan CoStar, Hines Stockholm and Greece Golden Visa on public site."
       ],
       "reportUrl": "https://github.com/darovska/hw03_forms_test/blob/main/trend-radar/reports/2026-10-23-trendwatch.md"
+    },
+    {
+      "period": "23 октября 2026 — дополнительный выпуск JLL",
+      "endDate": "2026-10-23",
+      "savedAt": "23 октября 2026",
+      "summary": "New Q3 2026 investment market reports for Dublin (€2.119bn in 9 months) and Belgian industrial/logistics (€537m), with risk and methodology qualifications.",
+      "keyPoints": [
+        "Dublin JLL 9M €2,119.1m, up 29.6%, Q3 €677.4m in 22 deals; 2 big deals ~50%.",
+        "Belgium JLL €537m industrial capital, 29% of total; prime logistics yields 5.10%, semi-industrial 6.2%.",
+        "Each native RU/EN Google Doc verified four inline images, bold FAQ and six localised social posts.",
+        "No CMS or social publication performed."
+      ],
+      "reportUrl": "https://github.com/darovska/hw03_forms_test/blob/main/trend-radar/reports/2026-10-23-trendwatch.md"
     }
   ],
   "monitoringSources": [
@@ -2543,6 +2622,24 @@
     "items": [
       {
         "label": "NEW / docs + social",
+        "title": "Дублин: инвестиции в недвижимость выросли на 29,6%",
+        "signal": "JLL 22 Oct 2026: Dublin property investment Q3 €677.4m, 22 deals. 9M €2,119.1m, up 29.6% from €1,635m in 9M 2025. Two major transactions €180m and €160m represent ~50% Q3.",
+        "action": "RU EN, 4 images, SEO FAQ and six social drafts ready; CMS disabled",
+        "source": "JLL Dublin 22 Oct",
+        "url": "https://docs.google.com/document/d/1intN3jKcKJhzCXXzoXXUCUjzhEQY49gMlHlHe2aiykg/edit",
+        "priority": "high"
+      },
+      {
+        "label": "NEW / docs + social",
+        "title": "Промышленная недвижимость Бельгии привлекла €537 млн",
+        "signal": "JLL 22 Oct: Belgian industrial property attracted €537m investment by Q3 2026, 29% of all Belgian property investment, with domestic capital prevailing. Prime Brussels–Antwerp logistics yields moved out 20bps to 5.10%; semi-industrial yields stable 6.2%.",
+        "action": "RU EN, 4 images, SEO FAQ and six social drafts ready; CMS disabled",
+        "source": "JLL Belgium 22 Oct",
+        "url": "https://docs.google.com/document/d/1R1FSnp0IM99YUtcR7uDEwzIn48rXchDJe71Bfhgf_CI/edit",
+        "priority": "high"
+      },
+      {
+        "label": "NEW / docs + social",
         "title": "Azora привлекла €2,05 млрд в фонд недвижимости Южной Европы",
         "signal": "Azora 5 Oct: SEO III main fund €1.6bn, co-investment €450m, total equity raised €2.05bn, estimated investment capacity ~€4.5bn. Fund focus Spain, Portugal, Italy, Greece.",
         "action": "Native RU/EN Google Doc and 6 social drafts ready, no CMS submission",
@@ -2611,24 +2708,6 @@
         "action": "RU EN SEO media + six social teasers, no CMS",
         "source": "Pandox",
         "url": "https://docs.google.com/document/d/1PKz_QPDKp7BUJJBEb9eqJsje7EJa7hnH2iyqgXBoHOc/edit",
-        "priority": "high"
-      },
-      {
-        "label": "NEW",
-        "title": "Расходы на электросети офисов Британии могут вырасти на 25%",
-        "signal": "Savills Earth 21 октября: прогноз изменений DUoS 2020/21-2027/28 +25% offices, +12% residential, +11% industrial. Не полные счета за электроэнергию.",
-        "action": "RU EN SEO media + six social teasers, no CMS",
-        "source": "Savills Earth",
-        "url": "https://docs.google.com/document/d/1NAnBrcUKc0eX30DQ898YfMvhgtcb46ylLfs9TNHgmXs/edit",
-        "priority": "high"
-      },
-      {
-        "label": "UPDATE",
-        "title": "Грузия: ставка Нацбанка осталась 8,25%",
-        "signal": "21 Oct NBG 8.25% rate, 2026 growth forecast 7.2%, inflation forecast 5.4%.",
-        "action": "Existing 22 Oct draft updated with six social teasers",
-        "source": "NBG",
-        "url": "https://docs.google.com/document/d/1UjHrsSY2DNPoHt95R8ZIQUStXEbi1hRo1MV5uUykO80/edit",
         "priority": "high"
       }
     ]
