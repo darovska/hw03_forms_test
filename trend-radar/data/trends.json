@@ -3,7 +3,7 @@
     "period": "20–26 октября 2026",
     "updatedAt": "26 октября 2026",
     "reportUrl": "https://github.com/darovska/hw03_forms_test/blob/main/trend-radar/reports/2026-10-26-viral-trendwatch.md",
-    "editorialNote": "Viral topic refresh 26 Oct: NEW supplier-survey articles PriceLabs 82% stated willingness and RoomPriceGenie 53% AI pricing / 10% delegation, both RU+EN, 4 inline images and six social posts. Social batch 5 topics/30 copy variants in Google Docs. Older AirDNA and Airbnb docs reused not duplicated; source-event dates 20–22 Oct. CMS, GSC/GA4 and ZeroGPT inactive."
+    "editorialNote": "Added four independently source-verified viral TOPIC BRIEFS (not full drafts): Spain hotels INE Sept prices, Greece avg trip spending Aug, Georgia Batumi hotel ADR vs Airbnb (secondary report pending primary), Eurostat 2025 Gini. SEO/AI-search brief with 12 topics and six multilingual social variants for each of five new/update ideas in native Google Doc. Germany CBRE yield info to update existing page 8926. GSC Wizard subscription required; no live data. CMS remains disabled."
   },
   "categories": [
     "Все",
@@ -14,6 +14,118 @@
     "Инвестиции"
   ],
   "trends": [
+    {
+      "id": "spain-ine-september-hotel-prices-oct23-2026",
+      "title": "Испания: цены отелей +6,7%, ночевки +1,7%",
+      "category": "Туризм",
+      "priority": "high",
+      "trendStrength": 93,
+      "editorialPotential": 96,
+      "seoPotential": 95,
+      "viralPriority": 2,
+      "signal": "INE 23 Oct: Spain September 2026 hotel nights +1.7% YoY to 40.16m, Hotel Price Index +6.7%, ADR €141.61 (+7.4%), RevPAR €110.5 (+7.7%). Provisional different measures.",
+      "seoAngle": "Spain hotel prices September 2026, INE ADR RevPAR; Spanish hotel costs vs visitor nights",
+      "editorialAngle": "Guests pay more even though hotel nights grow slowly; explain HPI/ADR/RevPAR vs profit.",
+      "sources": [
+        {
+          "label": "INE official 23 October 2026",
+          "url": "https://www.ine.es/dyngs/Prensa/en/CTH0926.htm"
+        },
+        {
+          "label": "12-topic SEO and AI-search brief + six social drafts",
+          "url": "https://docs.google.com/document/d/1cpGC_f4ErvnyEqNJwKRWwIMV6SpAvcWHwdaM4zayjlc/edit"
+        }
+      ],
+      "status": "watch",
+      "editorial_stage": "topic_brief_ready",
+      "social_ready": true,
+      "why": "Verified official new Sept report 23 Oct; general tourism price story #8951 already published but not identical Sept INE statistical detail. Create separate article only after editorial prioritization."
+    },
+    {
+      "id": "greece-august-tourism-average-spend-oct22-2026",
+      "title": "Греция: туристов +13,4%, средние расходы −6,5%",
+      "category": "Туризм",
+      "priority": "high",
+      "trendStrength": 93,
+      "editorialPotential": 96,
+      "seoPotential": 91,
+      "viralPriority": 3,
+      "signal": "Bank of Greece 22 Oct: August 2026 inbound traveller flows +13.4% YoY, travel receipts +6.5% to €4.867bn, average spend per trip −6.5%. Jan-Aug period different: receipts +9.4%, visitors +10%.",
+      "seoAngle": "Greece August 2026 tourism visitor spend per trip tourism receipts",
+      "editorialAngle": "More travellers but less average spend, while total receipts still rise; never equate arrivals or hotel margin.",
+      "sources": [
+        {
+          "label": "Bank of Greece 22 October official",
+          "url": "https://www.bankofgreece.gr/en/news-and-media/press-office/news-list/news?announcement=7cc5e35f-f2ce-46c9-9ae1-9932edfaec40"
+        },
+        {
+          "label": "SEO/AI editorial brief plus social texts",
+          "url": "https://docs.google.com/document/d/1cpGC_f4ErvnyEqNJwKRWwIMV6SpAvcWHwdaM4zayjlc/edit"
+        }
+      ],
+      "status": "watch",
+      "editorial_stage": "topic_brief_ready",
+      "social_ready": true,
+      "why": "New narrow August 2026 consumer spend vs arrivals angle distinct from existing Greek island tourism intensity."
+    },
+    {
+      "id": "georgia-batumi-hotel-airbnb-q3-oct23-2026",
+      "title": "Батуми: гостиницы $135 против Airbnb $48 в III квартале",
+      "category": "Туризм",
+      "priority": "high",
+      "trendStrength": 94,
+      "editorialPotential": 96,
+      "seoPotential": 93,
+      "viralPriority": 1,
+      "signal": "Galt & Taggart via BM.ge 23 Oct: Q3 2026 Batumi hotel occupancy 84% versus 82%, ADR $135 vs $119 last year. Airbnb $48 booked-night ADR. Different types of inventory; G&T primary full report not yet reviewed.",
+      "seoAngle": "Batumi Q3 2026 hotels occupancy ADR vs Airbnb investment property",
+      "editorialAngle": "Hotel vs short rental unit price is not investor ROI. Verify primary G&T report before CMS.",
+      "sources": [
+        {
+          "label": "BM.ge citing Galt & Taggart, 23 October 2026 (secondary)",
+          "url": "https://bm.ge/en/news/hotel-occupancy-rises-to-79-in-tbilisi-and-84-in-batumi-in-q3-gt"
+        },
+        {
+          "label": "SEO/AI brief, social drafts",
+          "url": "https://docs.google.com/document/d/1cpGC_f4ErvnyEqNJwKRWwIMV6SpAvcWHwdaM4zayjlc/edit"
+        },
+        {
+          "label": "Existing Georgia tourism overview, avoid duplicate",
+          "url": "https://internationalinvestment.biz/tourism/8980-turizm-gruzii-v-2026-godu-rekordnyj-tretij-kvartal.html"
+        }
+      ],
+      "status": "watch",
+      "editorial_stage": "topic_brief_ready",
+      "social_ready": true,
+      "why": "Strong Georgia relevance, narrower hotel operating metrics than existing Q3 tourism macro. Original Galt & Taggart full report not accessed, so hold full publication until source check."
+    },
+    {
+      "id": "eu-income-inequality-gini-oct23-2026",
+      "title": "ЕС: индекс Джини 37,7 Болгария против 23,0 Словакия",
+      "category": "Инвестиции",
+      "priority": "medium",
+      "trendStrength": 82,
+      "editorialPotential": 86,
+      "seoPotential": 85,
+      "viralPriority": 7,
+      "signal": "Eurostat released 23 Oct: 2025 income Gini EU 29.2 vs 29.4 2024; Bulgaria 37.7, Slovakia 23.0, Latvia 35.6. Not house price index, wage level or poverty share.",
+      "seoAngle": "Eurostat 2025 EU Gini income inequality Bulgaria Slovakia Latvia",
+      "editorialAngle": "What income inequality does and doesn't say about housing affordability and social economy.",
+      "sources": [
+        {
+          "label": "Eurostat 23 October 2026",
+          "url": "https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20261023-2"
+        },
+        {
+          "label": "Brief + six localized social drafts",
+          "url": "https://docs.google.com/document/d/1cpGC_f4ErvnyEqNJwKRWwIMV6SpAvcWHwdaM4zayjlc/edit"
+        }
+      ],
+      "status": "watch",
+      "editorial_stage": "topic_brief_ready",
+      "social_ready": true,
+      "why": "New official EU socioeconomic data but less focused on travel/property; publish only if fits editorial beat."
+    },
     {
       "id": "pricelabs-small-hotel-guests-rentals-oct22-2026",
       "title": "82% гостей малых отелей готовы рассмотреть посуточную аренду",
@@ -668,7 +780,8 @@
           "label": "Existing II page to update",
           "url": "https://internationalinvestment.biz/britannia/8154-zhile-britanii-terjaet-cenu.html"
         }
-      ]
+      ],
+      "editorialNote": " Still update original page only."
     },
     {
       "id": "uk-prime-rents-yields-savills-oct19-2026",
@@ -988,7 +1101,9 @@
           "label": "International Investment — Germany housing",
           "url": "https://internationalinvestment.biz/en/business/8926-international-capital-returns-to-german-housing.html"
         }
-      ]
+      ],
+      "update_seo_brief": "https://docs.google.com/document/d/1cpGC_f4ErvnyEqNJwKRWwIMV6SpAvcWHwdaM4zayjlc/edit",
+      "editorialNote": " 26 Oct CBRE prime top-7 yields around 3.6%, spread to Bunds from +50 to -4bps; add to existing #8926 URL, no new competing URL; six social drafts in brief."
     },
     {
       "id": "agentic-travel-booking-2026",
@@ -2153,6 +2268,21 @@
         "All 5 topics have 6 social variants in one Google Doc, no publication action."
       ],
       "reportUrl": "https://github.com/darovska/hw03_forms_test/blob/main/trend-radar/reports/2026-10-26-viral-trendwatch.md"
+    },
+    {
+      "period": "26 октября — расширение SEO/AI-радара",
+      "endDate": "2026-10-26",
+      "savedAt": "26 октября 2026",
+      "summary": "Four newly uncovered property/tourism/economic viral topic briefs and a Germany housing yield update; native Google Doc with 12 ranked topics, SEO/GEO and 30 new social teasers.",
+      "keyPoints": [
+        "Spain INE 23 Oct hotel prices +6.7% vs nights +1.7%; ADR €141.61; RevPAR €110.5.",
+        "Greece Bank of Greece Aug visitors +13.4% vs average expenditure per trip -6.5%.",
+        "Batumi G&T via BM hotel ADR $135 vs Airbnb $48; G&T primary not reviewed, different segment.",
+        "Germany CBRE top-7 prime residential yield ~3.6%, spread to Bunds -4 bps; existing page #8926 update.",
+        "Eurostat 2025 Gini EU 29.2, Bulgaria 37.7, Slovakia 23.0.",
+        "GSC Wizard read blocked by subscription; SEO priorities are qualitative hypotheses. CMS/socials untouched."
+      ],
+      "reportUrl": "https://github.com/darovska/hw03_forms_test/blob/main/trend-radar/reports/2026-10-26-viral-trendwatch.md"
     }
   ],
   "monitoringSources": [
@@ -2818,6 +2948,42 @@
   "dailyUpdate": {
     "date": "26 октября 2026",
     "items": [
+      {
+        "label": "TOPIC BRIEF + social ready",
+        "title": "Испания: цены отелей +6,7%, ночевки +1,7%",
+        "signal": "INE 23 Oct: Spain September 2026 hotel nights +1.7% YoY to 40.16m, Hotel Price Index +6.7%, ADR €141.61 (+7.4%), RevPAR €110.5 (+7.7%). Provisional different measures.",
+        "action": "Source checked, RU/EN SEO + AI search questions + 6 social drafts prepared, full article not written, CMS disabled.",
+        "source": "INE official 23 October 2026",
+        "url": "https://docs.google.com/document/d/1cpGC_f4ErvnyEqNJwKRWwIMV6SpAvcWHwdaM4zayjlc/edit",
+        "priority": "high"
+      },
+      {
+        "label": "TOPIC BRIEF + social ready",
+        "title": "Греция: туристов +13,4%, средние расходы −6,5%",
+        "signal": "Bank of Greece 22 Oct: August 2026 inbound traveller flows +13.4% YoY, travel receipts +6.5% to €4.867bn, average spend per trip −6.5%. Jan-Aug period different: receipts +9.4%, visitors +10%.",
+        "action": "Source checked, RU/EN SEO + AI search questions + 6 social drafts prepared, full article not written, CMS disabled.",
+        "source": "Bank of Greece 22 October official",
+        "url": "https://docs.google.com/document/d/1cpGC_f4ErvnyEqNJwKRWwIMV6SpAvcWHwdaM4zayjlc/edit",
+        "priority": "high"
+      },
+      {
+        "label": "TOPIC BRIEF + social ready",
+        "title": "Батуми: гостиницы $135 против Airbnb $48 в III квартале",
+        "signal": "Galt & Taggart via BM.ge 23 Oct: Q3 2026 Batumi hotel occupancy 84% versus 82%, ADR $135 vs $119 last year. Airbnb $48 booked-night ADR. Different types of inventory; G&T primary full report not yet reviewed.",
+        "action": "Source checked, RU/EN SEO + AI search questions + 6 social drafts prepared, full article not written, CMS disabled.",
+        "source": "BM.ge citing Galt & Taggart, 23 October 2026 (secondary)",
+        "url": "https://docs.google.com/document/d/1cpGC_f4ErvnyEqNJwKRWwIMV6SpAvcWHwdaM4zayjlc/edit",
+        "priority": "high"
+      },
+      {
+        "label": "TOPIC BRIEF + social ready",
+        "title": "ЕС: индекс Джини 37,7 Болгария против 23,0 Словакия",
+        "signal": "Eurostat released 23 Oct: 2025 income Gini EU 29.2 vs 29.4 2024; Bulgaria 37.7, Slovakia 23.0, Latvia 35.6. Not house price index, wage level or poverty share.",
+        "action": "Source checked, RU/EN SEO + AI search questions + 6 social drafts prepared, full article not written, CMS disabled.",
+        "source": "Eurostat 23 October 2026",
+        "url": "https://docs.google.com/document/d/1cpGC_f4ErvnyEqNJwKRWwIMV6SpAvcWHwdaM4zayjlc/edit",
+        "priority": "medium"
+      },
       {
         "label": "NEW + social ready",
         "title": "82% гостей малых отелей готовы рассмотреть посуточную аренду",
