@@ -53,3 +53,26 @@ Website already covers the $84 trillion intergenerational transfer (published 19
 - Both NEW bilingual article documents read back with 2 H1, 4 inline images (two reused conceptual covers + separate RU/EN data graphics), eight bold FAQ questions, six social language labels, Hebrew text and embedded hyperlinks; no UTM or Russian "yo" character. The articles are editorial drafts, not public.
 - Vendor surveys and subgroup counts carefully distinguished. No AI-generated fictional people or actual property images; original abstract covers and charts credited.
 - ZeroGPT and live GSC/GA4 were not queried. No CMS publication and no social posts published. The user's site administrator integration remains disabled per saved pipeline policy.
+
+## Late 26 Oct extension: 12 viral ideas, SEO and AI-search editorial specification
+
+**Master native Google Doc:** https://docs.google.com/document/d/1cpGC_f4ErvnyEqNJwKRWwIMV6SpAvcWHwdaM4zayjlc/edit
+
+The new Google Doc contains twelve ranked new/update/ready/watch topics, RU/EN titles and descriptions, keyword intent hypotheses, citation-oriented Q&A, factual limitations, visual/chart suggestions, official source links, and a technical section for Google Search and ChatGPT Search indexing. **Five newly added or updated candidates have six copy-ready social drafts each (30 new posts)**: Telegram RU, VK RU, X EN, Facebook RU/EN/HE. The existing five already-written viral articles also have their separate 30-post batch at https://docs.google.com/document/d/1yHN--YOmywddjrAa3RoRgY29TGeQ-qTqnOdqi1haZXg/edit . The user now has 60 posts across 10 topic packs, but all remain editorial only and link placeholders are unfilled.
+
+### Four newly scoped topics, no full articles written yet
+
+1. **Spain hotel price surge vs guest nights — NEW TOPIC BRIEF.** INE original 23 Oct reports September 2026 nights +1.7% to 40.16m, Hotel Price Index +6.7%, ADR €141.61 (+7.4%), RevPAR €110.5 (+7.7%); do not conflate metrics with net hotel profit. Original https://www.ine.es/dyngs/Prensa/en/CTH0926.htm. Existing site #8951 is general tourism-price macro; new news page only for this specific INE release.
+2. **Greece arrivals up, mean spending per trip down — NEW TOPIC BRIEF.** Bank of Greece release 22 Oct: August inbound flows +13.4%, receipts +6.5% to €4.867bn, spend per trip -6.5%. Jan–Aug totals must not be substituted for August. Source https://www.bankofgreece.gr/en/news-and-media/press-office/news-list/news?announcement=7cc5e35f-f2ce-46c9-9ae1-9932edfaec40 .
+3. **Batumi hotel ADR vs STR — NEW TOPIC BRIEF / SECONDARY SOURCE HOLD.** Galt & Taggart Q3 data reported by BM.ge on 23 Oct: Batumi hotels occupancy 84%, ADR $135 vs Airbnb $48 average booked-night price. Distinct hospitality segments and cost structures: not a 2.8x rental return. Original G&T report was not independently fetched, so mark as secondary-only and verify before CMS. Source https://bm.ge/en/news/hotel-occupancy-rises-to-79-in-tbilisi-and-84-in-batumi-in-q3-gt . Existing Georgia Q3 tourism story /tourism/8980... to be linked, not duplicated.
+4. **EU income Gini divergence — NEW TOPIC BRIEF, lower topical fit.** Eurostat 23 Oct release for 2025: EU 29.2, Bulgaria 37.7, Slovakia 23.0; these do not measure actual wages, poverty or housing price inflation. Source https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20261023-2 .
+
+### Updating existing German housing page
+
+CBRE Germany 21 Oct prime residential yield ~3.6% in top 7 markets; spread to German 10-year Bunds decreased from +50bps to -4bps. Preserve existing published https://internationalinvestment.biz/business/8926-krupnyj-kapital-vozvraschaetsja-na-rynok-zhilja-germanii.html and add a correctly caveated analysis, not another URL. Source https://www.cbre.de/insights/figures/germany-residential-market-q3-2026 . Six social teasers in the master brief, but actual page modification is not submitted.
+
+### Search and AI-indexing methodology, checks and restrictions
+
+Editorial SEO-keyword phrases are **not measured search volume**, and the virality ranking is a qualitative prioritisation, not a forecast. On 26 Oct, both available GSC Wizard connections returned **payment_required** due to an inactive GSC Wizard subscription, so live clicks, CTR, query rows and index statuses could not be verified. internationalinvestment.biz robots.txt and sitemap could not be inspected in available tools: Googlebot/OAI-SearchBot reachability not independently confirmed. The doc specifies crawlable HTML, no noindex, canonical and mutual RU/EN hreflang, server/CMS sitemaps, factual source citations, exact entity/time/measurement in introductory paragraphs, original media with ALT, NewsArticle schema where supported, and real Google Search Console inspection post-publication. No special GEO markup guarantees AI mention, and neither llms.txt nor FAQ schema is a shortcut to ChatGPT/Google AI coverage. Do not publish a Google Doc URL as a news page.
+
+**Status:** 74 topics in radar after adding four (70 prior). Existing five complete viral stories remain draft_ready; new four are **watch / topic_brief_ready** with social_ready true. No new full articles written or CMS/social posts published. ZeroGPT not invoked. All article-link placeholders must be replaced with verified canonical paths when articles become live.
