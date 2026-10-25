@@ -1,9 +1,9 @@
 {
   "meta": {
-    "period": "19–23 октября 2026",
-    "updatedAt": "23 октября 2026",
-    "reportUrl": "https://github.com/darovska/hw03_forms_test/blob/main/trend-radar/reports/2026-10-23-trendwatch.md",
-    "editorialNote": "Viral editorial extension 23 Oct: two new AirDNA analyses: ten hot European short-term rental city markets shift to Apr/May/Sep (+22.4% avg DAILY demand vs summer); winter average ADR price geography Courchevel €838 vs Skopje €35. Both native RU/EN Docs with four verified image objects, SEO, 8 FAQ and six Telegram/VK/X/FB RU EN Hebrew posts. CMS remains disabled; ZeroGPT/GSC/GA4 not queried."
+    "period": "20–26 октября 2026",
+    "updatedAt": "26 октября 2026",
+    "reportUrl": "https://github.com/darovska/hw03_forms_test/blob/main/trend-radar/reports/2026-10-26-viral-trendwatch.md",
+    "editorialNote": "Viral topic refresh 26 Oct: NEW supplier-survey articles PriceLabs 82% stated willingness and RoomPriceGenie 53% AI pricing / 10% delegation, both RU+EN, 4 inline images and six social posts. Social batch 5 topics/30 copy variants in Google Docs. Older AirDNA and Airbnb docs reused not duplicated; source-event dates 20–22 Oct. CMS, GSC/GA4 and ZeroGPT inactive."
   },
   "categories": [
     "Все",
@@ -14,6 +14,74 @@
     "Инвестиции"
   ],
   "trends": [
+    {
+      "id": "pricelabs-small-hotel-guests-rentals-oct22-2026",
+      "title": "82% гостей малых отелей готовы рассмотреть посуточную аренду",
+      "category": "Туризм",
+      "trendStrength": 95,
+      "editorialPotential": 97,
+      "seoPotential": 93,
+      "priority": "high",
+      "status": "draft_ready",
+      "social_ready": true,
+      "editorial_stage": "docs_ready_not_submitted",
+      "decision": "new",
+      "viralPriority": 1,
+      "signal": "PriceLabs press 21–22 Oct: N=1,082 travellers in 5 countries; of guests who stayed in small hotels/B&Bs, 82% WOULD CONSIDER an STR at a similar price, 48% at exactly same price. For a specific trip, 30% small-hotel guests considered STR vs 16% large-hotel guests. Willingness is not actual defection.",
+      "why": "High shareable hotel-versus-rental comparison with verified subgroup methodology. No direct duplicate on public II site or relevant Google Drive drafts. RU/EN Google Doc with 4 inline images, SEO, FAQ and 6 multilingual social drafts verified 26 Oct.",
+      "editorialAngle": "Small hotels compete with apartments on total guest value; compare stated willingness to real consideration; correlation is not equal room rates.",
+      "seoAngle": "PriceLabs 2026 hotel vs Airbnb survey, 82 percent small hotel guests, short-term rental competitiveness",
+      "image_count": 4,
+      "socialIdeas": [
+        "Кого небольшому отелю считать конкурентом: соседний отель или квартиру на том же экране?"
+      ],
+      "sources": [
+        {
+          "label": "PriceLabs primary social communication, 21 October",
+          "url": "https://www.linkedin.com/posts/pricelabs_who-do-you-think-you-are-competing-with-activity-7510292348803805184-WNk5"
+        },
+        {
+          "label": "PriceLabs circulated press statement, 22 October",
+          "url": "https://www.hotel-online.com/news/8-in-10-hotel-guests-would-switch-to-a-short-term-rental-at-a-similar-price"
+        },
+        {
+          "label": "Full RU/EN article and 6 platform-language social posts",
+          "url": "https://docs.google.com/document/d/1VsUrZ3P-yMU5YdNtTVvIid4qc605sTyUyjG5IxgnoZY/edit"
+        }
+      ]
+    },
+    {
+      "id": "roompricegenie-ai-hotel-pricing-trust-oct20-2026",
+      "title": "ИИ помогает назначать цены 53% отелей, но доверяют большинство решений лишь 10%",
+      "category": "Туризм",
+      "trendStrength": 94,
+      "editorialPotential": 96,
+      "seoPotential": 94,
+      "priority": "high",
+      "status": "draft_ready",
+      "social_ready": true,
+      "editorial_stage": "docs_ready_not_submitted",
+      "decision": "new",
+      "viralPriority": 2,
+      "signal": "RoomPriceGenie/Sapio Research Oct 20, 450 senior revenue decision-makers: 53% AI pricing recommendations, 10% delegate most decisions, 77% some trust, 43% no full RMS, 47% recruiting difficulties. Vendor-commissioned sample, not all hotels worldwide.",
+      "why": "New pricing and governance story, not overlap with existing h2c 91% AI-use chain study or AI discovery page; different sample and use case. RU/EN Google Doc prepared with 4 images, sources, SEO, FAQs and six social drafts verified 26 Oct.",
+      "editorialAngle": "Automation spreads faster than trust; why revenue teams need transparent pricing systems and specialists.",
+      "seoAngle": "RoomPriceGenie State of Revenue Management 2026 AI room pricing hotel 53 10 percent",
+      "image_count": 4,
+      "socialIdeas": [
+        "Отели отдали ИИ калькулятор цен, но оставили у себя последнее слово"
+      ],
+      "sources": [
+        {
+          "label": "RoomPriceGenie original report, 20 October 2026",
+          "url": "https://roompricegenie.com/hotel-revenue-management-2026-survey-findings/"
+        },
+        {
+          "label": "Full RU/EN article and 6 platform-language social posts",
+          "url": "https://docs.google.com/document/d/1u2-I61hnMpjQVm-j1nWTkHaKER9SjGXhe5xXBKueINk/edit"
+        }
+      ]
+    },
     {
       "id": "airdna-hot-cities-shoulder-season-oct22-2026",
       "title": "В 10 жарких городах Европы межсезонье обогнало лето",
@@ -48,7 +116,8 @@
           "label": "Existing Europe-wide rental analysis on II #8923",
           "url": "https://internationalinvestment.biz/en/business/8923-europe-short-term-rentals-revenue-rises-demand-falls.html"
         }
-      ]
+      ],
+      "viralPriority": 3
     },
     {
       "id": "airdna-winter-rental-prices-europe-oct22-2026",
@@ -84,7 +153,8 @@
           "label": "Existing Austrian vacation rental study #8707",
           "url": "https://internationalinvestment.biz/en/austria/8707-vienna-leads-rentals-alpine-resorts-earn-more.html"
         }
-      ]
+      ],
+      "viralPriority": 4
     },
     {
       "id": "airbnb-checkout-chores-policy-oct20-2026",
@@ -107,7 +177,8 @@
           "label": "Google Doc and socials",
           "url": "https://docs.google.com/document/d/1KG5wPB75o1pavqMAdLgFxmJUA5Hwwk7h6oIwIbDb8uw/edit"
         }
-      ]
+      ],
+      "viralPriority": 5
     },
     {
       "id": "jll-dublin-capital-markets-q3-oct22-2026",
@@ -1102,7 +1173,7 @@
       "priority": "high",
       "status": "watch",
       "signal": "16 октября еврокомиссар Апостолос Тзитзикостас объявил: первая общеевропейская туристическая политика будет представлена 4 ноября. В фокусе — диверсификация направлений и рынков, connectivity, кадры, цифровизация, инвестиции и устойчивость.",
-      "why": "Для ЕС это новый уровень координации туризма. Документ может затронуть перегруженные направления, острова, транспорт, инвестиции, кадры и цифровые платформы.",
+      "why": "Для ЕС это новый уровень координации туризма. Документ может затронуть перегруженные направления, острова, транспорт, инвестиции, кадры и цифровые платформы. On 26 Oct official 4 Nov presentation remains future; preview published; update same URL after release if applicable, no new competing preview.",
       "editorialAngle": "Сейчас — короткий preview только при необходимости; 4 ноября — обязательный большой материал с разбором правил и последствий для отелей, инвесторов и направлений.",
       "seoAngle": "EU tourism policy 2026; European tourism strategy; EU tourism 2027; tourism investment Europe",
       "socialIdeas": [
@@ -1113,7 +1184,8 @@
           "label": "TravelDailyNews / Commissioner Tzitzikostas",
           "url": "https://www.traveldailynews.com/meetings-events/first-eu-tourism-policy-to-be-presented-on-4-november/"
         }
-      ]
+      ],
+      "existing_url": "https://internationalinvestment.biz/en/tourism/8962-new-strategy-for-tourism-development-in-europe.html"
     },
     {
       "id": "construction-costs-new-normal-2026",
@@ -1151,9 +1223,9 @@
       "editorialPotential": 96,
       "seoPotential": 92,
       "priority": "high",
-      "status": "growing",
+      "status": "covered",
       "signal": "Savills: около $84 трлн капитала может перейти между поколениями в ближайшие два десятилетия; новая генерация состоятельных владельцев более мобильна и чаще распределяет жизнь и активы между несколькими юрисдикциями.",
-      "why": "International Investment писал о wealth hubs раньше, но новый материал можно строить не как очередной рейтинг, а как структурный тренд: наследники меняют требования к недвижимости, налогам, образованию, wellness и multi-jurisdiction living.",
+      "why": "International Investment писал о wealth hubs раньше, но новый материал можно строить не как очередной рейтинг, а как структурный тренд: наследники меняют требования к недвижимости, налогам, образованию, wellness и multi-jurisdiction living. Confirmed already published before 26 Oct; do not write a duplicate.",
       "editorialAngle": "Какие рынки выиграют от Great Wealth Transfer: Лондон, Монако, Дубай, Абу-Даби, Альпы, Южная Европа; почему turnkey, безопасность, wellness и школы становятся важнее просто адреса.",
       "seoAngle": "Great Wealth Transfer real estate; next generation wealth hubs; luxury property 2026; HNWI property investment",
       "socialIdeas": [
@@ -1168,7 +1240,8 @@
           "label": "Savills EMEA wealth hubs 2026",
           "url": "https://www.savills.com/research_articles/254204/394817-0/wealth-trends--europe--the-middle-east-and-africa"
         }
-      ]
+      ],
+      "covered_url": "https://internationalinvestment.biz/en/real-estate/8958-84-trillion-wealth-transfer-reshapes-luxury-homes.html"
     },
     {
       "id": "uk-hotel-tax-capex-2026",
@@ -1382,9 +1455,9 @@
       "editorialPotential": 90,
       "seoPotential": 97,
       "priority": "high",
-      "status": "growing",
+      "status": "covered",
       "signal": "Открыт новый набор Arctic Digital Nomads Grant: 1–3 месяца бесплатного жилья и coworking в Норвегии, Исландии или на Фарерах; дедлайн 15 октября.",
-      "why": "Старый материал International Investment уже ранжируется по запросу arctic digital nomads примерно в топ-5, поэтому свежий апдейт может быстро усилить органический трафик.",
+      "why": "Старый материал International Investment уже ранжируется по запросу arctic digital nomads примерно в топ-5, поэтому свежий апдейт может быстро усилить органический трафик. Confirmed already published before 26 Oct; do not write a duplicate.",
       "editorialAngle": "Обновить существующий URL 2025 года: условия 2027 grant, дедлайн, география, что оплачивают и что требуется от участника.",
       "seoAngle": "Arctic Digital Nomads 2027; digital nomad grant Norway Iceland Faroe Islands; remote work grant Europe",
       "socialIdeas": [
@@ -1395,7 +1468,8 @@
           "label": "Arctic Digital Nomads official grant",
           "url": "https://arcticdigitalnomads.com/grant/"
         }
-      ]
+      ],
+      "covered_url": "https://internationalinvestment.biz/observers/6284-frilanseram-predlagajut-rabotu-i-zhile-v-severnoj-evrope.html"
     },
     {
       "id": "ai-travel-discovery",
@@ -1514,9 +1588,9 @@
       "editorialPotential": 98,
       "seoPotential": 96,
       "priority": "high",
-      "status": "growing",
+      "status": "covered",
       "signal": "Eurostat Q2: цены на жилье в ЕС +4,7% г/г после +5,1% в Q1; Португалия +16,5%, Болгария +15,5%, Литва +14,3%, Финляндия -2,7%.",
-      "why": "Свежий квартальный релиз обновляет опубликованный 29 сентября материал по Q1 и усиливает сравнительный формат.",
+      "why": "Свежий квартальный релиз обновляет опубликованный 29 сентября материал по Q1 и усиливает сравнительный формат. Confirmed already published before 26 Oct; do not write a duplicate.",
       "editorialAngle": "Обновить существующую статью блоком Q2: замедление среднего роста, лидеры и аутсайдеры, цены против аренды.",
       "seoAngle": "property prices Europe 2026; EU house prices 2026",
       "socialIdeas": [
@@ -1527,7 +1601,8 @@
           "label": "Eurostat Q2 HPI",
           "url": "https://ec.europa.eu/eurostat/en/web/products-euro-indicators/w/2-01102026-bp"
         }
-      ]
+      ],
+      "covered_url": "https://internationalinvestment.biz/real-estate/8989-zhile-v-es-podorozhalo-na-47.html"
     },
     {
       "id": "ireland-cooling",
@@ -2063,6 +2138,21 @@
         "No CMS write and no social posting; published canonical URLs unresolved."
       ],
       "reportUrl": "https://github.com/darovska/hw03_forms_test/blob/main/trend-radar/reports/2026-10-23-trendwatch.md"
+    },
+    {
+      "period": "20–26 октября 2026",
+      "endDate": "2026-10-26",
+      "savedAt": "26 октября 2026",
+      "summary": "Two new viral hospitality analyses on rental competition and AI rate pricing; repackaged Airbnb checkout chores and two existing AirDNA hot-city/winter-market articles as 30 social teasers.",
+      "keyPoints": [
+        "PriceLabs N=1,082 in five countries: 82% of small-hotel guest subgroup would consider short-term rentals at same/slightly lower cost; not a defection metric.",
+        "RoomPriceGenie N=450: 53% already use AI suggestions; 10% trust autonomous majority of pricing decisions; 43% have no full RMS.",
+        "AirDNA shoulder season 10 selected hot markets +22.4% average daily demand vs summer; Europe as a whole −30.2%.",
+        "AirDNA winter 2025/26 booked-night ADR Courchevel €838.28 vs Skopje €35.16; seasonal/stock caveats.",
+        "Airbnb checkout chores new rules scheduled for bookings from 20 November, not a cleaning fee ban.",
+        "All 5 topics have 6 social variants in one Google Doc, no publication action."
+      ],
+      "reportUrl": "https://github.com/darovska/hw03_forms_test/blob/main/trend-radar/reports/2026-10-26-viral-trendwatch.md"
     }
   ],
   "monitoringSources": [
@@ -2726,96 +2816,60 @@
     ]
   },
   "dailyUpdate": {
-    "date": "23 октября 2026",
+    "date": "26 октября 2026",
     "items": [
       {
-        "label": "VIRAL NEW / social ready",
-        "title": "В 10 жарких городах Европы межсезонье обогнало лето",
-        "signal": "AirDNA original 15 Oct, updated 22 Oct: 10 hot city short-term rental markets, April/May/Sep average DAILY demand nights +22.4% and ADR +8.8% relative to June-Aug 2026; Seville demand +50.5% and ADR +35.1%. Europe overall shoulder demand -30.2%; this is within-year comparison, NOT YoY growth.",
-        "action": "RU EN SEO, image cover+locale charts and six social drafts in native Google Doc; no CMS",
-        "source": "AirDNA 15/22 Oct",
+        "label": "NEW + social ready",
+        "title": "82% гостей малых отелей готовы рассмотреть посуточную аренду",
+        "signal": "PriceLabs press 21–22 Oct: N=1,082 travellers in 5 countries; of guests who stayed in small hotels/B&Bs, 82% WOULD CONSIDER an STR at a similar price, 48% at exactly same price. For a specific trip, 30% small-hotel guests considered STR vs 16% large-hotel guests. Willingness is not actual defection.",
+        "action": "RU/EN SEO/AI-search Google Doc with 4 images + 6 social teasers; CMS not submitted.",
+        "source": "PriceLabs original/press 21–22 Oct",
+        "url": "https://docs.google.com/document/d/1VsUrZ3P-yMU5YdNtTVvIid4qc605sTyUyjG5IxgnoZY/edit",
+        "priority": "high"
+      },
+      {
+        "label": "NEW + social ready",
+        "title": "ИИ помогает назначать цены 53% отелей, но доверяют большинство решений лишь 10%",
+        "signal": "RoomPriceGenie/Sapio Research Oct 20, 450 senior revenue decision-makers: 53% AI pricing recommendations, 10% delegate most decisions, 77% some trust, 43% no full RMS, 47% recruiting difficulties. Vendor-commissioned sample, not all hotels worldwide.",
+        "action": "RU/EN Google Doc, original charts, FAQ and 6 teasers; no CMS.",
+        "source": "RoomPriceGenie 20 Oct",
+        "url": "https://docs.google.com/document/d/1u2-I61hnMpjQVm-j1nWTkHaKER9SjGXhe5xXBKueINk/edit",
+        "priority": "high"
+      },
+      {
+        "label": "EXISTING draft + viral",
+        "title": "В 10 жарких городах межсезонье сильнее лета",
+        "signal": "AirDNA: +22.4% avg daily shoulder-season demand vs summer; only in 10 selected markets.",
+        "action": "Use existing draft and 6 posts, do not duplicate.",
+        "source": "AirDNA updated 22 Oct",
         "url": "https://docs.google.com/document/d/1bV_5qM6NO4Ax-oOeVGluoZvdc3Zw-I3SSUSC5dIwFMk/edit",
         "priority": "high"
       },
       {
-        "label": "VIRAL NEW / social ready",
-        "title": "Куршевель €838 против Скопье €35: зимняя аренда Европы",
-        "signal": "AirDNA primary Oct 22 winter 2025/26 (Dec-Feb): Courchevel market-average booked-night ADR €838.28, Skopje €35.16 (23.84x); country Andorra €262.99, North Macedonia €37.90 (6.94x). Winter 2026/27 early on-books ADR +21.4% as of Oct 14 is not final inflation.",
-        "action": "RU EN SEO, images and six social drafts in native Google Doc; no CMS",
+        "label": "EXISTING draft + viral",
+        "title": "Куршевель €838 против Скопье €35",
+        "signal": "AirDNA winter 2025/26 booked-night market ADR, not 2026/27 or owner return.",
+        "action": "Use existing draft, no rewrite.",
         "source": "AirDNA 22 Oct",
         "url": "https://docs.google.com/document/d/1UpQKw9hPf7NxKTSDgVnUZ4Za_mFOeVZm9QFjOg6fstY/edit",
         "priority": "high"
       },
       {
-        "label": "NEW / docs + social",
-        "title": "Дублин: инвестиции в недвижимость выросли на 29,6%",
-        "signal": "JLL 22 Oct 2026: Dublin property investment Q3 €677.4m, 22 deals. 9M €2,119.1m, up 29.6% from €1,635m in 9M 2025. Two major transactions €180m and €160m represent ~50% Q3.",
-        "action": "RU EN, 4 images, SEO FAQ and six social drafts ready; CMS disabled",
-        "source": "JLL Dublin 22 Oct",
-        "url": "https://docs.google.com/document/d/1intN3jKcKJhzCXXzoXXUCUjzhEQY49gMlHlHe2aiykg/edit",
+        "label": "FUTURE policy watch",
+        "title": "Airbnb checkout chores from Nov 20",
+        "signal": "Time-consuming chores restricted for bookings from Nov20; cleaning fees not banned.",
+        "action": "Use existing editorial draft and social posts, review Airbnb implementation date.",
+        "source": "Airbnb Oct20",
+        "url": "https://docs.google.com/document/d/1KG5wPB75o1pavqMAdLgFxmJUA5Hwwk7h6oIwIbDb8uw/edit",
         "priority": "high"
       },
       {
-        "label": "NEW / docs + social",
-        "title": "Промышленная недвижимость Бельгии привлекла €537 млн",
-        "signal": "JLL 22 Oct: Belgian industrial property attracted €537m investment by Q3 2026, 29% of all Belgian property investment, with domestic capital prevailing. Prime Brussels–Antwerp logistics yields moved out 20bps to 5.10%; semi-industrial yields stable 6.2%.",
-        "action": "RU EN, 4 images, SEO FAQ and six social drafts ready; CMS disabled",
-        "source": "JLL Belgium 22 Oct",
-        "url": "https://docs.google.com/document/d/1R1FSnp0IM99YUtcR7uDEwzIn48rXchDJe71Bfhgf_CI/edit",
-        "priority": "high"
-      },
-      {
-        "label": "NEW / docs + social",
-        "title": "Azora привлекла €2,05 млрд в фонд недвижимости Южной Европы",
-        "signal": "Azora 5 Oct: SEO III main fund €1.6bn, co-investment €450m, total equity raised €2.05bn, estimated investment capacity ~€4.5bn. Fund focus Spain, Portugal, Italy, Greece.",
-        "action": "Native RU/EN Google Doc and 6 social drafts ready, no CMS submission",
-        "source": "Azora 5 Oct",
-        "url": "https://docs.google.com/document/d/17oOpV4FjP7pYU4AaZlkZ7jGxJA8t7IFUB_l7es6pbnk/edit",
-        "priority": "high"
-      },
-      {
-        "label": "NEW / docs + social",
-        "title": "Hilton и Scandic развивают отели в четырех странах",
-        "signal": "Hilton/Scandic official 19 Oct: multi-year framework Sweden Norway Denmark Finland, first named new property 284-room Hilton at Scanport near Copenhagen Airport, planned 2029; Scandic operator as Hilton franchisee. No mass rebranding.",
-        "action": "Native RU/EN Google Doc and 6 social drafts ready, no CMS submission",
-        "source": "Scandic Hilton 19 Oct",
-        "url": "https://docs.google.com/document/d/1PWHkKxC2c1N1i5pTb-BGcpgq3fW5sEYMM7F4_o7H_ic/edit",
-        "priority": "high"
-      },
-      {
-        "label": "NEW / social ready",
-        "title": "Prime-аренда Лондона: 5,8% у однокомнатных квартир",
-        "signal": "Savills Prime Lettings Q3 2026 (release 19 Oct): prime central London rents +1.1% QoQ/+1.9% YoY, outer prime +0.9%/+2.9%; estimated average rental yields of prime one-beds 5.8%, not a net guarantee.",
-        "action": "RU EN Google Doc + 4 images + 6 social teasers, CMS disabled",
-        "source": "Savills 19 Oct",
-        "url": "https://docs.google.com/document/d/1xbSiFsdDOxIMQmraDONj1JF2PU3zfx0OOenPtjmcWTY/edit",
-        "priority": "high"
-      },
-      {
-        "label": "NEW / social ready",
-        "title": "Вена: ночевки +4% в сентябре, выручка −5% в августе",
-        "signal": "Vienna Tourism 22 Oct: Sept 2026 1.825m tourist nights (+4% YoY), Aug net accommodation turnover €109.168m (-5% YoY); earlier official Aug nights 1.907m (-0.2%). Separate metric/months.",
-        "action": "RU EN Google Doc + 4 images + 6 social teasers, CMS disabled",
-        "source": "Vienna Tourism 22 Oct",
-        "url": "https://docs.google.com/document/d/1uG1x1MtjhD2lqxZmkovpnZLWdc7UBx1vDZ-U0YZj7vs/edit",
-        "priority": "high"
-      },
-      {
-        "label": "Existing draft (not new)",
-        "title": "Германия: гостиничный капитал уходит в небольшие value-add сделки",
-        "signal": "CBRE German original €1.01bn, −33% YoY",
-        "action": "No duplicate; correct original-source figure already used. Social package still needed.",
-        "source": "CBRE Germany",
-        "url": "https://docs.google.com/document/d/14u76fBTrz7szLLaFXbhlf-XNbZJFC3UhB4Dd1kkuQfo/edit",
-        "priority": "medium"
-      },
-      {
-        "label": "NEW / docs_ready + social_ready",
-        "title": "Аренда складов Дублина выросла на 65% в Q3 2026",
-        "signal": "Savills Ireland (19 Oct): 824,400 sq ft take-up in Q3, 17 deals, +65% YoY, 1.9m sq ft YTD. Reported 84% SW Dublin share and 1.5% local vacancy from Savills coverage in BusinessPlus/Bisnow.",
-        "action": "Use RU EN native Doc, CMS disabled; 4 images and 6 social posts ready.",
-        "source": "Savills Ireland 19 Oct",
-        "url": "https://docs.google.com/document/d/1fKVklmE_-UJQkiNbnaHmagtdRgJFbZSDzmPBhi-zvIM/edit",
+        "label": "SOCIAL BATCH",
+        "title": "30 готовых текстов на 5 тем",
+        "signal": "Telegram RU; VK RU; X EN; Facebook RU/EN/HE, 5 topics",
+        "action": "Replace placeholders only after article is live; not posted.",
+        "source": "Editorial",
+        "url": "https://docs.google.com/document/d/1yHN--YOmywddjrAa3RoRgY29TGeQ-qTqnOdqi1haZXg/edit",
         "priority": "high"
       }
     ]
