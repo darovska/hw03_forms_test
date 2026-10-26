@@ -2,8 +2,8 @@
   "meta": {
     "period": "20–26 октября 2026",
     "updatedAt": "26 октября 2026",
-    "reportUrl": "https://github.com/darovska/hw03_forms_test/blob/main/trend-radar/reports/2026-10-26-viral-trendwatch.md",
-    "editorialNote": "Added four independently source-verified viral TOPIC BRIEFS (not full drafts): Spain hotels INE Sept prices, Greece avg trip spending Aug, Georgia Batumi hotel ADR vs Airbnb (secondary report pending primary), Eurostat 2025 Gini. SEO/AI-search brief with 12 topics and six multilingual social variants for each of five new/update ideas in native Google Doc. Germany CBRE yield info to update existing page 8926. GSC Wizard subscription required; no live data. CMS remains disabled."
+    "reportUrl": "https://docs.google.com/document/d/1puS6QU8Q5TfyyKLroMOhnx_OjzrX2gCNn4bJukFx7dU/edit",
+    "editorialNote": "Additional extended viral SEO/GEO research 26 Oct: five new watch/new candidates, and renewed INE Spain (already in TOP-12), total 18 topic briefs in separate Google Doc. No new full articles, CMS or social posting; GSC metrics unavailable. Original releases and exact periods distinguished."
   },
   "categories": [
     "Все",
@@ -14,6 +14,116 @@
     "Инвестиции"
   ],
   "trends": [
+    {
+      "id": "costar-canada-hotels-revpar-oct23-2026",
+      "title": "Канада: сильнейший прирост гостиничного RevPAR с 2023 года",
+      "status": "watch",
+      "category": "Туризм",
+      "priority": "medium",
+      "trendStrength": 81,
+      "editorialPotential": 85,
+      "seoPotential": 87,
+      "signal": "CoStar 23 October reports biggest y/y monthly RevPAR gain since June 2023; full figures must be read before publication.",
+      "why": "Extended viral research and SEO/GEO brief 26 Oct; complete editorial specification in separate TOP-18 Google Doc. Article and 6 social posts not yet drafted.",
+      "sources": [
+        {
+          "label": "Source",
+          "url": "https://www.costar.com/products/str-benchmark/resources/press-releases"
+        },
+        {
+          "label": "Top 18 brief",
+          "url": "https://docs.google.com/document/d/1puS6QU8Q5TfyyKLroMOhnx_OjzrX2gCNn4bJukFx7dU/edit"
+        }
+      ]
+    },
+    {
+      "id": "airdna-us-september-shortstay-oct2026",
+      "title": "Аренда США: тарифы +7,2%, рост объявлений +1,6%",
+      "status": "watch",
+      "category": "Туризм",
+      "priority": "medium",
+      "trendStrength": 81,
+      "editorialPotential": 85,
+      "seoPotential": 87,
+      "signal": "AirDNA original Oct 8, updated Oct22: September STR ADR +7.2% YoY, listings +1.6%, repeat rent index +7.8%; August–September adjusted demand +2.1%.",
+      "why": "Extended viral research and SEO/GEO brief 26 Oct; complete editorial specification in separate TOP-18 Google Doc. Article and 6 social posts not yet drafted.",
+      "sources": [
+        {
+          "label": "Source",
+          "url": "https://www.airdna.co/blog/u.s.-review-september-2026"
+        },
+        {
+          "label": "Top 18 brief",
+          "url": "https://docs.google.com/document/d/1puS6QU8Q5TfyyKLroMOhnx_OjzrX2gCNn4bJukFx7dU/edit"
+        }
+      ]
+    },
+    {
+      "id": "uk-keydata-shortstay-autumn-2026",
+      "title": "Британия: посуточных ночей меньше, но аренда дороже",
+      "status": "watch",
+      "category": "Туризм",
+      "priority": "medium",
+      "trendStrength": 81,
+      "editorialPotential": 85,
+      "seoPotential": 87,
+      "signal": "KeyData Autumn 2026 index, report summarized 20 Oct: fewer nights sold summer at higher rates, revenue per property roughly flat; original full benchmark needed.",
+      "why": "Extended viral research and SEO/GEO brief 26 Oct; complete editorial specification in separate TOP-18 Google Doc. Article and 6 social posts not yet drafted.",
+      "sources": [
+        {
+          "label": "Source",
+          "url": "https://www.groupaccommodation.com/blog/news/what-the-keydata-autumn-2026-index-means-for-uk-group-bookings"
+        },
+        {
+          "label": "Top 18 brief",
+          "url": "https://docs.google.com/document/d/1puS6QU8Q5TfyyKLroMOhnx_OjzrX2gCNn4bJukFx7dU/edit"
+        }
+      ]
+    },
+    {
+      "id": "amadeus-tokyo-seoul-search-bookings-oct2026",
+      "title": "Токио лидирует по поискам, Сеул — по бронированиям",
+      "status": "NEW",
+      "category": "Туризм",
+      "priority": "high",
+      "trendStrength": 92,
+      "editorialPotential": 94,
+      "seoPotential": 93,
+      "signal": "Amadeus October hospitality market insights: Tokyo most searched destination over London; Seoul most booked ahead of NYC and Tokyo; search does not equal bookings.",
+      "why": "Extended viral research and SEO/GEO brief 26 Oct; complete editorial specification in separate TOP-18 Google Doc. Article and 6 social posts not yet drafted.",
+      "sources": [
+        {
+          "label": "Source",
+          "url": "https://www.amadeus-hospitality.com/hospitality-market-data/paged-2/2/"
+        },
+        {
+          "label": "Top 18 brief",
+          "url": "https://docs.google.com/document/d/1puS6QU8Q5TfyyKLroMOhnx_OjzrX2gCNn4bJukFx7dU/edit"
+        }
+      ]
+    },
+    {
+      "id": "hotel-experience-ai-discovery-direct-booking-2026",
+      "title": "ИИ советует услуги отеля, но лишь 8% ответов ведут к прямой покупке",
+      "status": "NEW",
+      "category": "Туризм",
+      "priority": "high",
+      "trendStrength": 92,
+      "editorialPotential": 94,
+      "seoPotential": 93,
+      "signal": "DestinationCommerce 6 Oct: 525 AI answers, 261 hotel sites; hotels named in 92% pool-day-pass recommendations, direct booking in 8%; only 5% hotel-site citations in experience queries.",
+      "why": "Extended viral research and SEO/GEO brief 26 Oct; complete editorial specification in separate TOP-18 Google Doc. Article and 6 social posts not yet drafted.",
+      "sources": [
+        {
+          "label": "Source",
+          "url": "https://destinationcommerce.ai/research/hotel-discovery"
+        },
+        {
+          "label": "Top 18 brief",
+          "url": "https://docs.google.com/document/d/1puS6QU8Q5TfyyKLroMOhnx_OjzrX2gCNn4bJukFx7dU/edit"
+        }
+      ]
+    },
     {
       "id": "spain-ine-september-hotel-prices-oct23-2026",
       "title": "Испания: цены отелей +6,7%, ночевки +1,7%",
