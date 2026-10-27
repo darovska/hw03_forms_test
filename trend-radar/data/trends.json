@@ -1,9 +1,9 @@
 {
   "meta": {
-    "period": "20–26 октября 2026",
-    "updatedAt": "26 октября 2026",
-    "reportUrl": "https://docs.google.com/document/d/1puS6QU8Q5TfyyKLroMOhnx_OjzrX2gCNn4bJukFx7dU/edit",
-    "editorialNote": "Additional extended viral SEO/GEO research 26 Oct: five new watch/new candidates, and renewed INE Spain (already in TOP-12), total 18 topic briefs in separate Google Doc. No new full articles, CMS or social posting; GSC metrics unavailable. Original releases and exact periods distinguished."
+    "period": "20–28 октября 2026",
+    "updatedAt": "28 октября 2026",
+    "reportUrl": "https://docs.google.com/document/d/173vBszQnfIYYNTfv4pHlUlubq7eSicDilsfcYa7wtAo/edit",
+    "editorialNote": "Fact-check update 28 October: original INE 23 Oct, Bank of Greece 22 Oct, CBRE 23 Oct. Two NEW full RU/EN drafts and one UPDATE for existing #8915; six social drafts and two inline charts in each. 27 Oct website checked for duplicates; GSC/GA4 fresh performance not verified. Historical 79 rows preserved plus one update target."
   },
   "categories": [
     "Все",
@@ -14,6 +14,36 @@
     "Инвестиции"
   ],
   "trends": [
+    {
+      "id": "cbre-europe-property-q3-living-2026-update-8915",
+      "title": "Европа: €171,9 млрд вложений — обновить №8915",
+      "status": "update_existing",
+      "category": "Инвестиции",
+      "priority": "high",
+      "trendStrength": 91,
+      "editorialPotential": 94,
+      "seoPotential": 96,
+      "viralPriority": 3,
+      "signal": "CBRE 23 October: European investment Jan-Sep €171.9bn +8% y/y; Q3 €51.5bn -4%; living YTD €45.3bn +15%, share 26%. Existing article #8915 cites old €156bn forecast.",
+      "seoAngle": "European property investment Q3 2026, €171.9bn, living 26 percent",
+      "editorialAngle": "Update old ranking URL with actual CBRE data, retain canonical; no competing new URL.",
+      "decision": "update",
+      "existing_url": "https://internationalinvestment.biz/en/business/8915-investors-are-redrawing-europes-property-map.html",
+      "editorial_stage": "docs_ready_not_submitted",
+      "social_ready": true,
+      "image_count": 2,
+      "updatedAt": "2026-10-28",
+      "sources": [
+        {
+          "label": "CBRE primary, October 23",
+          "url": "https://www.cbre.co.uk/press-releases/european-real-estate-investment-volumes-held-firm-despite-quieter-q3"
+        },
+        {
+          "label": "RU/EN update package, 2 graphics and six posts",
+          "url": "https://docs.google.com/document/d/17NTwEoWo6C1cs_-9pzzbbAonASsUTmDvUxENPYmfo-g/edit"
+        }
+      ]
+    },
     {
       "id": "costar-canada-hotels-revpar-oct23-2026",
       "title": "Канада: сильнейший прирост гостиничного RevPAR с 2023 года",
@@ -144,12 +174,19 @@
         {
           "label": "12-topic SEO and AI-search brief + six social drafts",
           "url": "https://docs.google.com/document/d/1cpGC_f4ErvnyEqNJwKRWwIMV6SpAvcWHwdaM4zayjlc/edit"
+        },
+        {
+          "label": "Full updated RU/EN article, 2 inline charts, SEO and 6 multilingual posts (28 Oct)",
+          "url": "https://docs.google.com/document/d/1ivbgH0p42CHugqHkx9n6-4UWRSObbZ2zP6EyDdWPkPg/edit"
         }
       ],
-      "status": "watch",
-      "editorial_stage": "topic_brief_ready",
+      "status": "draft_ready",
+      "editorial_stage": "docs_ready_not_submitted",
       "social_ready": true,
-      "why": "Verified official new Sept report 23 Oct; general tourism price story #8951 already published but not identical Sept INE statistical detail. Create separate article only after editorial prioritization."
+      "why": "Original official release verified 28 October; no exact published duplicate found. Publication not submitted.",
+      "decision": "new",
+      "image_count": 2,
+      "updatedAt": "2026-10-28"
     },
     {
       "id": "greece-august-tourism-average-spend-oct22-2026",
@@ -171,12 +208,19 @@
         {
           "label": "SEO/AI editorial brief plus social texts",
           "url": "https://docs.google.com/document/d/1cpGC_f4ErvnyEqNJwKRWwIMV6SpAvcWHwdaM4zayjlc/edit"
+        },
+        {
+          "label": "Full updated RU/EN article, 2 inline charts, SEO and 6 multilingual posts (28 Oct)",
+          "url": "https://docs.google.com/document/d/1GMPdudV0YLGWcjbbZhtZOSJwW1-_UMn7SlCO56zvrLQ/edit"
         }
       ],
-      "status": "watch",
-      "editorial_stage": "topic_brief_ready",
+      "status": "draft_ready",
+      "editorial_stage": "docs_ready_not_submitted",
       "social_ready": true,
-      "why": "New narrow August 2026 consumer spend vs arrivals angle distinct from existing Greek island tourism intensity."
+      "why": "Original official release verified 28 October; no exact published duplicate found. Publication not submitted.",
+      "decision": "new",
+      "image_count": 2,
+      "updatedAt": "2026-10-28"
     },
     {
       "id": "georgia-batumi-hotel-airbnb-q3-oct23-2026",
