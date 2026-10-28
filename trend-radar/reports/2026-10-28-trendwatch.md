@@ -37,3 +37,16 @@ Use original statistics, date and geography at top, source citations as natural 
 ## Delivery
 Master overview: https://docs.google.com/document/d/173vBszQnfIYYNTfv4pHlUlubq7eSicDilsfcYa7wtAo/edit
 Three packages: 2 NEW and 1 UPDATE. Exactly six multilingual social drafts for each; 2 verified inline images per document (6 total), all content remains editorial drafts. No CMS submissions; no social publication; ZeroGPT not_checked.
+
+
+## Consolidation follow-up, 28 October 2026
+
+User-requested single Google Doc: https://docs.google.com/document/d/1x1FAIw6HdUXHzXKeAyK7L_BM_2BpY3jxRj49BQ6ObF8/edit
+
+- All 80 radar topics inventoried with status and known source/draft links.
+- 31 distinct existing native Google Doc drafts consolidated as editable text into one master document (~465k characters before new additions); original Docs retained as sources for charts, photographs and richer formatting.
+- Five additional new RU/EN articles drafted in the same master: Canada CoStar hotels; US AirDNA short-stay market; DestinationCommerce AI hotel booking; Amadeus Tokyo searches vs Seoul bookings; Eurostat income inequality.
+- Each new article contains four FAQs per language, SEO and six social announcements. Five original data graphics have been embedded and verified in the consolidated Google Doc.
+- Carefully corrected misleading interpretation of DestinationCommerce study: 8% direct-only, 41% both direct and intermediary, 49% intermediary only in tested day-pass answers.
+- Older imported articles were copied as text; embedded original images and existing rich-text link styles are not fully preserved. Links to source documents are provided; some older drafts still require social/SEO QA.
+- No publication or CMS submission. ZeroGPT not_checked. First-party GSC/GA4 current metrics not verified.
