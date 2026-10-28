@@ -3,7 +3,8 @@
     "period": "20–28 октября 2026",
     "updatedAt": "28 октября 2026",
     "reportUrl": "https://docs.google.com/document/d/173vBszQnfIYYNTfv4pHlUlubq7eSicDilsfcYa7wtAo/edit",
-    "editorialNote": "Fact-check update 28 October: original INE 23 Oct, Bank of Greece 22 Oct, CBRE 23 Oct. Two NEW full RU/EN drafts and one UPDATE for existing #8915; six social drafts and two inline charts in each. 27 Oct website checked for duplicates; GSC/GA4 fresh performance not verified. Historical 79 rows preserved plus one update target."
+    "editorialNote": "Fact-check update 28 October: original INE 23 Oct, Bank of Greece 22 Oct, CBRE 23 Oct. Two NEW full RU/EN drafts and one UPDATE for existing #8915; six social drafts and two inline charts in each. 27 Oct website checked for duplicates; GSC/GA4 fresh performance not verified. Historical 79 rows preserved plus one update target. Consolidated 31 external draft Google Docs into one user requested master, added 5 new RU/EN stories with SEO, 6 social posts and verified charts, 28 October 2026. Exact direct-only 8% AI booking claim corrected.",
+    "consolidatedDocUrl": "https://docs.google.com/document/d/1x1FAIw6HdUXHzXKeAyK7L_BM_2BpY3jxRj49BQ6ObF8/edit"
   },
   "categories": [
     "Все",
@@ -47,14 +48,14 @@
     {
       "id": "costar-canada-hotels-revpar-oct23-2026",
       "title": "Канада: сильнейший прирост гостиничного RevPAR с 2023 года",
-      "status": "watch",
+      "status": "draft_ready",
       "category": "Туризм",
       "priority": "medium",
       "trendStrength": 81,
       "editorialPotential": 85,
       "seoPotential": 87,
       "signal": "CoStar 23 October reports biggest y/y monthly RevPAR gain since June 2023; full figures must be read before publication.",
-      "why": "Extended viral research and SEO/GEO brief 26 Oct; complete editorial specification in separate TOP-18 Google Doc. Article and 6 social posts not yet drafted.",
+      "why": "Full independently drafted RU/EN article in unified Google Doc, 6 social drafts and 1 inline editorial chart, original source fact checked. CMS not submitted.",
       "sources": [
         {
           "label": "Source",
@@ -63,20 +64,29 @@
         {
           "label": "Top 18 brief",
           "url": "https://docs.google.com/document/d/1puS6QU8Q5TfyyKLroMOhnx_OjzrX2gCNn4bJukFx7dU/edit"
+        },
+        {
+          "label": "Unified RU/EN article, SEO, FAQ, social six-pack and data graphic",
+          "url": "https://docs.google.com/document/d/1x1FAIw6HdUXHzXKeAyK7L_BM_2BpY3jxRj49BQ6ObF8/edit"
         }
-      ]
+      ],
+      "editorial_stage": "master_doc_ready_not_submitted",
+      "decision": "new",
+      "social_ready": true,
+      "image_count": 1,
+      "updatedAt": "2026-10-28"
     },
     {
       "id": "airdna-us-september-shortstay-oct2026",
       "title": "Аренда США: тарифы +7,2%, рост объявлений +1,6%",
-      "status": "watch",
+      "status": "draft_ready",
       "category": "Туризм",
       "priority": "medium",
       "trendStrength": 81,
       "editorialPotential": 85,
       "seoPotential": 87,
       "signal": "AirDNA original Oct 8, updated Oct22: September STR ADR +7.2% YoY, listings +1.6%, repeat rent index +7.8%; August–September adjusted demand +2.1%.",
-      "why": "Extended viral research and SEO/GEO brief 26 Oct; complete editorial specification in separate TOP-18 Google Doc. Article and 6 social posts not yet drafted.",
+      "why": "Full independently drafted RU/EN article in unified Google Doc, 6 social drafts and 1 inline editorial chart, original source fact checked. CMS not submitted.",
       "sources": [
         {
           "label": "Source",
@@ -85,8 +95,17 @@
         {
           "label": "Top 18 brief",
           "url": "https://docs.google.com/document/d/1puS6QU8Q5TfyyKLroMOhnx_OjzrX2gCNn4bJukFx7dU/edit"
+        },
+        {
+          "label": "Unified RU/EN article, SEO, FAQ, social six-pack and data graphic",
+          "url": "https://docs.google.com/document/d/1x1FAIw6HdUXHzXKeAyK7L_BM_2BpY3jxRj49BQ6ObF8/edit"
         }
-      ]
+      ],
+      "editorial_stage": "master_doc_ready_not_submitted",
+      "decision": "new",
+      "social_ready": true,
+      "image_count": 1,
+      "updatedAt": "2026-10-28"
     },
     {
       "id": "uk-keydata-shortstay-autumn-2026",
@@ -113,14 +132,14 @@
     {
       "id": "amadeus-tokyo-seoul-search-bookings-oct2026",
       "title": "Токио лидирует по поискам, Сеул — по бронированиям",
-      "status": "NEW",
+      "status": "draft_ready",
       "category": "Туризм",
       "priority": "high",
       "trendStrength": 92,
       "editorialPotential": 94,
       "seoPotential": 93,
       "signal": "Amadeus October hospitality market insights: Tokyo most searched destination over London; Seoul most booked ahead of NYC and Tokyo; search does not equal bookings.",
-      "why": "Extended viral research and SEO/GEO brief 26 Oct; complete editorial specification in separate TOP-18 Google Doc. Article and 6 social posts not yet drafted.",
+      "why": "Full independently drafted RU/EN article in unified Google Doc, 6 social drafts and 1 inline editorial chart, original source fact checked. CMS not submitted.",
       "sources": [
         {
           "label": "Source",
@@ -129,20 +148,29 @@
         {
           "label": "Top 18 brief",
           "url": "https://docs.google.com/document/d/1puS6QU8Q5TfyyKLroMOhnx_OjzrX2gCNn4bJukFx7dU/edit"
+        },
+        {
+          "label": "Unified RU/EN article, SEO, FAQ, social six-pack and data graphic",
+          "url": "https://docs.google.com/document/d/1x1FAIw6HdUXHzXKeAyK7L_BM_2BpY3jxRj49BQ6ObF8/edit"
         }
-      ]
+      ],
+      "editorial_stage": "master_doc_ready_not_submitted",
+      "decision": "new",
+      "social_ready": true,
+      "image_count": 1,
+      "updatedAt": "2026-10-28"
     },
     {
       "id": "hotel-experience-ai-discovery-direct-booking-2026",
       "title": "ИИ советует услуги отеля, но лишь 8% ответов ведут к прямой покупке",
-      "status": "NEW",
+      "status": "draft_ready",
       "category": "Туризм",
       "priority": "high",
       "trendStrength": 92,
       "editorialPotential": 94,
       "seoPotential": 93,
-      "signal": "DestinationCommerce 6 Oct: 525 AI answers, 261 hotel sites; hotels named in 92% pool-day-pass recommendations, direct booking in 8%; only 5% hotel-site citations in experience queries.",
-      "why": "Extended viral research and SEO/GEO brief 26 Oct; complete editorial specification in separate TOP-18 Google Doc. Article and 6 social posts not yet drafted.",
+      "signal": "DestinationCommerce 6 Oct: 525 AI answers; hotel sites 5% of citations in experience prompts; in pool-day-pass answers 8% direct-only, 41% both direct and platform, 49% platform-only. Do NOT describe 8% as all direct booking.",
+      "why": "Full independently drafted RU/EN article in unified Google Doc, 6 social drafts and 1 inline editorial chart, original source fact checked. CMS not submitted.",
       "sources": [
         {
           "label": "Source",
@@ -151,8 +179,17 @@
         {
           "label": "Top 18 brief",
           "url": "https://docs.google.com/document/d/1puS6QU8Q5TfyyKLroMOhnx_OjzrX2gCNn4bJukFx7dU/edit"
+        },
+        {
+          "label": "Unified RU/EN article, SEO, FAQ, social six-pack and data graphic",
+          "url": "https://docs.google.com/document/d/1x1FAIw6HdUXHzXKeAyK7L_BM_2BpY3jxRj49BQ6ObF8/edit"
         }
-      ]
+      ],
+      "editorial_stage": "master_doc_ready_not_submitted",
+      "decision": "new",
+      "social_ready": true,
+      "image_count": 1,
+      "updatedAt": "2026-10-28"
     },
     {
       "id": "spain-ine-september-hotel-prices-oct23-2026",
@@ -273,12 +310,19 @@
         {
           "label": "Brief + six localized social drafts",
           "url": "https://docs.google.com/document/d/1cpGC_f4ErvnyEqNJwKRWwIMV6SpAvcWHwdaM4zayjlc/edit"
+        },
+        {
+          "label": "Unified RU/EN article, SEO, FAQ, social six-pack and data graphic",
+          "url": "https://docs.google.com/document/d/1x1FAIw6HdUXHzXKeAyK7L_BM_2BpY3jxRj49BQ6ObF8/edit"
         }
       ],
-      "status": "watch",
-      "editorial_stage": "topic_brief_ready",
+      "status": "draft_ready",
+      "editorial_stage": "master_doc_ready_not_submitted",
       "social_ready": true,
-      "why": "New official EU socioeconomic data but less focused on travel/property; publish only if fits editorial beat."
+      "why": "Full independently drafted RU/EN article in unified Google Doc, 6 social drafts and 1 inline editorial chart, original source fact checked. CMS not submitted.",
+      "decision": "new",
+      "image_count": 1,
+      "updatedAt": "2026-10-28"
     },
     {
       "id": "pricelabs-small-hotel-guests-rentals-oct22-2026",
