@@ -3,9 +3,10 @@
     "period": "26–30 октября 2026",
     "updatedAt": "30 октября 2026",
     "reportUrl": "https://github.com/darovska/hw03_forms_test/blob/main/trend-radar/reports/2026-10-30-viral-week.md",
-    "editorialNote": "30 Oct selection 26-30: 3 standalone full bilingual editorials (Batumi hotel vs Airbnb, DestinationCommerce AI hotel ancillary sales, Eurostat Q3 GDP released today); 4 verified inline Google Docs media each, RU/EN SEO FAQ, 18 channel-language social posts. Earlier archives not republished or overwritten. Primary date caveats and lack of CMS/GSC/GA4/ZeroGPT explicitly stated.",
+    "editorialNote": "30 Oct selection 26-30: 3 standalone full bilingual editorials (Batumi hotel vs Airbnb, DestinationCommerce AI hotel ancillary sales, Eurostat Q3 GDP released today); 4 verified inline Google Docs media each, RU/EN SEO FAQ, 18 channel-language social posts. Earlier archives not republished or overwritten. Primary date caveats and lack of CMS/GSC/GA4/ZeroGPT explicitly stated. Added separate 30 October viral SEO/AI-search briefing with 7 detailed angles, 2 new watch candidates; existing themes marked as UPDATE or reuse only, no publication. GSC and crawling not verified.",
     "consolidatedDocUrl": "https://docs.google.com/document/d/1x1FAIw6HdUXHzXKeAyK7L_BM_2BpY3jxRj49BQ6ObF8/edit",
-    "weeklyFinalDocUrl": "https://docs.google.com/document/d/1h2GNjhMeDgK-eXH0uzcBeYf9shTlSFkh87EhA8glNF8/edit"
+    "weeklyFinalDocUrl": "https://docs.google.com/document/d/1h2GNjhMeDgK-eXH0uzcBeYf9shTlSFkh87EhA8glNF8/edit",
+    "additionalViralBriefUrl": "https://docs.google.com/document/d/1noak5K9VJW3EaN1FZ9yRM_eoMe9cMRiXNPlOC6unumk/edit"
   },
   "categories": [
     "Все",
@@ -16,6 +17,38 @@
     "Инвестиции"
   ],
   "trends": [
+    {
+      "id": "eu-short-stay-platform-data-sharing-local-2026",
+      "title": "ЕС: Airbnb начал передавать данные об аренде регуляторам",
+      "category": "Регулирование",
+      "status": "watch",
+      "priority": "high",
+      "social_ready": false,
+      "signal": "EU STR regulation applies from May 20 2026; Airbnb German provider data sharing from September 1 2026 under relevant registration schemes.",
+      "why": "Explainer on operator and host obligations, distinct from Ireland short term rental register, pending verification of each national/local scheme.",
+      "sources": [
+        {
+          "label": "Airbnb EU-STR help",
+          "url": "https://www.airbnb.com/help/article/4252"
+        }
+      ]
+    },
+    {
+      "id": "german-open-ended-property-fund-outflows-oct2026",
+      "title": "Германия: из открытых фондов недвижимости вывели €17,3 млрд",
+      "category": "Инвестиции",
+      "status": "watch",
+      "priority": "high",
+      "social_ready": false,
+      "signal": "Savills 1 Oct: estimated €17.3bn net withdrawals from German open-ended property funds since early 2024, not in Q3 alone.",
+      "why": "Candidate for distinct explainer, needs final site dedup and primary fund-source crosscheck.",
+      "sources": [
+        {
+          "label": "Savills European Nowcast 1 October",
+          "url": "https://www.savills.de/research_articles/260049/394882-0"
+        }
+      ]
+    },
     {
       "id": "eurozone-gdp-q3-flash-oct30-2026",
       "title": "Еврозона +0,4%, Ирландия +5,5%, Франция −0,1%",
