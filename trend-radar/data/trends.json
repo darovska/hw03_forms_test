@@ -1,10 +1,11 @@
 {
   "meta": {
-    "period": "20–28 октября 2026",
-    "updatedAt": "28 октября 2026",
-    "reportUrl": "https://docs.google.com/document/d/173vBszQnfIYYNTfv4pHlUlubq7eSicDilsfcYa7wtAo/edit",
-    "editorialNote": "Fact-check update 28 October: original INE 23 Oct, Bank of Greece 22 Oct, CBRE 23 Oct. Two NEW full RU/EN drafts and one UPDATE for existing #8915; six social drafts and two inline charts in each. 27 Oct website checked for duplicates; GSC/GA4 fresh performance not verified. Historical 79 rows preserved plus one update target. Consolidated 31 external draft Google Docs into one user requested master, added 5 new RU/EN stories with SEO, 6 social posts and verified charts, 28 October 2026. Exact direct-only 8% AI booking claim corrected.",
-    "consolidatedDocUrl": "https://docs.google.com/document/d/1x1FAIw6HdUXHzXKeAyK7L_BM_2BpY3jxRj49BQ6ObF8/edit"
+    "period": "26–30 октября 2026",
+    "updatedAt": "30 октября 2026",
+    "reportUrl": "https://github.com/darovska/hw03_forms_test/blob/main/trend-radar/reports/2026-10-30-viral-week.md",
+    "editorialNote": "30 Oct selection 26-30: 3 standalone full bilingual editorials (Batumi hotel vs Airbnb, DestinationCommerce AI hotel ancillary sales, Eurostat Q3 GDP released today); 4 verified inline Google Docs media each, RU/EN SEO FAQ, 18 channel-language social posts. Earlier archives not republished or overwritten. Primary date caveats and lack of CMS/GSC/GA4/ZeroGPT explicitly stated.",
+    "consolidatedDocUrl": "https://docs.google.com/document/d/1x1FAIw6HdUXHzXKeAyK7L_BM_2BpY3jxRj49BQ6ObF8/edit",
+    "weeklyFinalDocUrl": "https://docs.google.com/document/d/1h2GNjhMeDgK-eXH0uzcBeYf9shTlSFkh87EhA8glNF8/edit"
   },
   "categories": [
     "Все",
@@ -15,6 +16,38 @@
     "Инвестиции"
   ],
   "trends": [
+    {
+      "id": "eurozone-gdp-q3-flash-oct30-2026",
+      "title": "Еврозона +0,4%, Ирландия +5,5%, Франция −0,1%",
+      "category": "Инвестиции",
+      "trendStrength": 97,
+      "editorialPotential": 96,
+      "seoPotential": 94,
+      "priority": "high",
+      "status": "draft_ready",
+      "social_ready": true,
+      "editorial_stage": "native_google_doc_verified",
+      "decision": "new",
+      "week_20261030": true,
+      "viralPotential": 96,
+      "image_count": 4,
+      "signal": "Eurostat flash 30 Oct Q3 2026: euro area +0.4% q/q, EU +0.5%; Germany +0.2%, Spain +0.6%, France -0.1%; Ireland +5.5% experimental early estimate from 29 Oct CSO. Separate from existing Q2 #8610.",
+      "why": "Fresh Friday 30 Oct original flash, full RU/EN dedicated Doc, SEO source links, 4 verified images, 8 bold FAQ and 6 social posts. User's property/investment audience; avoid conflating GDP and investment volume, flag Irish experimental data. Eurostat specific 30 Oct landing page could not be directly fetched: cited Eurostat home, EFE and Irish CSO. No CMS post.",
+      "sources": [
+        {
+          "label": "Eurostat current releases 30 Oct",
+          "url": "https://ec.europa.eu/eurostat"
+        },
+        {
+          "label": "Irish CSO early GDP 29 Oct",
+          "url": "https://www-cloud.cso.ie/en/releasesandpublications/fp/fp-pgdp/preliminarygdpestimatequarter32026/"
+        },
+        {
+          "label": "Verified final article and social pack",
+          "url": "https://docs.google.com/document/d/1gTLNuM9tm9bmAc1UfA8AqM1Ls7kq2PbBXpDYqrNGmOY/edit"
+        }
+      ]
+    },
     {
       "id": "cbre-europe-property-q3-living-2026-update-8915",
       "title": "Европа: €171,9 млрд вложений — обновить №8915",
@@ -162,14 +195,14 @@
     },
     {
       "id": "hotel-experience-ai-discovery-direct-booking-2026",
-      "title": "ИИ советует услуги отеля, но лишь 8% ответов ведут к прямой покупке",
+      "title": "ИИ советует отель, покупка у посредника",
       "status": "draft_ready",
       "category": "Туризм",
       "priority": "high",
       "trendStrength": 92,
       "editorialPotential": 94,
       "seoPotential": 93,
-      "signal": "DestinationCommerce 6 Oct: 525 AI answers; hotel sites 5% of citations in experience prompts; in pool-day-pass answers 8% direct-only, 41% both direct and platform, 49% platform-only. Do NOT describe 8% as all direct booking.",
+      "signal": "DestinationCommerce Oct6 525 AI answers /261 hotel sites; pool day-pass hotel named in 92% answers; direct-only 8%, both direct+platform 41%, platform-only 49%; exact distinction.",
       "why": "Full independently drafted RU/EN article in unified Google Doc, 6 social drafts and 1 inline editorial chart, original source fact checked. CMS not submitted.",
       "sources": [
         {
@@ -183,13 +216,21 @@
         {
           "label": "Unified RU/EN article, SEO, FAQ, social six-pack and data graphic",
           "url": "https://docs.google.com/document/d/1x1FAIw6HdUXHzXKeAyK7L_BM_2BpY3jxRj49BQ6ObF8/edit"
+        },
+        {
+          "label": "Final editorial RU EN, charts and social, 30 Oct",
+          "url": "https://docs.google.com/document/d/1YU1RwGznIoe7Wz6AIFnVTak9C05091922ScJzM7qTQ4/edit"
         }
       ],
-      "editorial_stage": "master_doc_ready_not_submitted",
-      "decision": "new",
+      "editorial_stage": "native_google_doc_verified",
+      "decision": "new_dedicated_editorial",
       "social_ready": true,
-      "image_count": 1,
-      "updatedAt": "2026-10-28"
+      "image_count": 4,
+      "updatedAt": "2026-10-28",
+      "viralPotential": 95,
+      "week_20261030": true,
+      "docs_final": "https://docs.google.com/document/d/1YU1RwGznIoe7Wz6AIFnVTak9C05091922ScJzM7qTQ4/edit",
+      "editorialNote": " Standalone fully assembled bilingual Doc 30 Oct with 4 verified inline media, 8 bold FAQs, 6 social variants, SEO and cross-link handoff; do not duplicate previous broad archival pack. Primary source date predates this week. Publication not submitted."
     },
     {
       "id": "spain-ine-september-hotel-prices-oct23-2026",
@@ -261,14 +302,14 @@
     },
     {
       "id": "georgia-batumi-hotel-airbnb-q3-oct23-2026",
-      "title": "Батуми: гостиницы $135 против Airbnb $48 в III квартале",
+      "title": "Батуми: отели $135, Airbnb $48",
       "category": "Туризм",
       "priority": "high",
       "trendStrength": 94,
       "editorialPotential": 96,
       "seoPotential": 93,
       "viralPriority": 1,
-      "signal": "Galt & Taggart via BM.ge 23 Oct: Q3 2026 Batumi hotel occupancy 84% versus 82%, ADR $135 vs $119 last year. Airbnb $48 booked-night ADR. Different types of inventory; G&T primary full report not yet reviewed.",
+      "signal": "G&T 22 Oct Tourism Watch 3Q26; Batumi hotel ADR $135, occupancy 84%, Airbnb avg rate $48 and booked nights +12%; different asset types and costs.",
       "seoAngle": "Batumi Q3 2026 hotels occupancy ADR vs Airbnb investment property",
       "editorialAngle": "Hotel vs short rental unit price is not investor ROI. Verify primary G&T report before CMS.",
       "sources": [
@@ -283,12 +324,22 @@
         {
           "label": "Existing Georgia tourism overview, avoid duplicate",
           "url": "https://internationalinvestment.biz/tourism/8980-turizm-gruzii-v-2026-godu-rekordnyj-tretij-kvartal.html"
+        },
+        {
+          "label": "Final editorial RU EN, charts and social, 30 Oct",
+          "url": "https://docs.google.com/document/d/1BCMcQmnWOaI39uhZG0e3taWGgH2fbJQ4p6a1p1J67wo/edit"
         }
       ],
-      "status": "watch",
-      "editorial_stage": "topic_brief_ready",
+      "status": "draft_ready",
+      "editorial_stage": "native_google_doc_verified",
       "social_ready": true,
-      "why": "Strong Georgia relevance, narrower hotel operating metrics than existing Q3 tourism macro. Original Galt & Taggart full report not accessed, so hold full publication until source check."
+      "why": "Strong Georgia relevance, narrower hotel operating metrics than existing Q3 tourism macro. Original Galt & Taggart full report not accessed, so hold full publication until source check.",
+      "decision": "new_dedicated_editorial",
+      "viralPotential": 97,
+      "image_count": 4,
+      "week_20261030": true,
+      "docs_final": "https://docs.google.com/document/d/1BCMcQmnWOaI39uhZG0e3taWGgH2fbJQ4p6a1p1J67wo/edit",
+      "editorialNote": " Standalone fully assembled bilingual Doc 30 Oct with 4 verified inline media, 8 bold FAQs, 6 social variants, SEO and cross-link handoff; do not duplicate previous broad archival pack. Primary source date predates this week. Publication not submitted."
     },
     {
       "id": "eu-income-inequality-gini-oct23-2026",
@@ -2481,6 +2532,20 @@
         "GSC Wizard read blocked by subscription; SEO priorities are qualitative hypotheses. CMS/socials untouched."
       ],
       "reportUrl": "https://github.com/darovska/hw03_forms_test/blob/main/trend-radar/reports/2026-10-26-viral-trendwatch.md"
+    },
+    {
+      "period": "26–30 октября 2026 — финальный виральный комплект",
+      "endDate": "2026-10-30",
+      "savedAt": "30 октября 2026",
+      "summary": "Three fully assembled separate RU/EN Google Docs with original charts, SEO/FAQ and 18 multilingual social teasers; Batumi, AI hotels distribution, Q3 Eurozone GDP",
+      "keyPoints": [
+        "Batumi hotels ADR $135 vs Airbnb $48, not investment returns; G&T original 22 Oct / BM 23 Oct.",
+        "DestinationCommerce 525 AI answers: 8% hotel-direct only vs 41% both, not all direct.",
+        "Q3 GDP 30 Oct euro area 0.4% vs experimental Ireland 5.5%, France -0.1%.",
+        "Each 4 inline images, 8 bold FAQ questions, 6 platform-language social texts; 9 JPG files total, 18 posts.",
+        "CMS still not submitted; no new GSC/GA4 or ZeroGPT data."
+      ],
+      "reportUrl": "https://github.com/darovska/hw03_forms_test/blob/main/trend-radar/reports/2026-10-30-viral-week.md"
     }
   ],
   "monitoringSources": [
@@ -3144,96 +3209,42 @@
     ]
   },
   "dailyUpdate": {
-    "date": "26 октября 2026",
+    "date": "30 октября 2026",
     "items": [
       {
-        "label": "TOPIC BRIEF + social ready",
-        "title": "Испания: цены отелей +6,7%, ночевки +1,7%",
-        "signal": "INE 23 Oct: Spain September 2026 hotel nights +1.7% YoY to 40.16m, Hotel Price Index +6.7%, ADR €141.61 (+7.4%), RevPAR €110.5 (+7.7%). Provisional different measures.",
-        "action": "Source checked, RU/EN SEO + AI search questions + 6 social drafts prepared, full article not written, CMS disabled.",
-        "source": "INE official 23 October 2026",
-        "url": "https://docs.google.com/document/d/1cpGC_f4ErvnyEqNJwKRWwIMV6SpAvcWHwdaM4zayjlc/edit",
+        "label": "NEW / social ready",
+        "title": "Батуми: тарифы отеля $135 и Airbnb $48",
+        "signal": "G&T 22 Oct Tourism Watch 3Q26; Batumi hotel ADR $135, occupancy 84%, Airbnb avg rate $48 and booked nights +12%; different asset types and costs.",
+        "action": "Final RU EN native Google Doc with 4 visuals, FAQ SEO and 6 social",
+        "source": "G&T / BM.ge",
+        "url": "https://docs.google.com/document/d/1BCMcQmnWOaI39uhZG0e3taWGgH2fbJQ4p6a1p1J67wo/edit",
         "priority": "high"
       },
       {
-        "label": "TOPIC BRIEF + social ready",
-        "title": "Греция: туристов +13,4%, средние расходы −6,5%",
-        "signal": "Bank of Greece 22 Oct: August 2026 inbound traveller flows +13.4% YoY, travel receipts +6.5% to €4.867bn, average spend per trip −6.5%. Jan-Aug period different: receipts +9.4%, visitors +10%.",
-        "action": "Source checked, RU/EN SEO + AI search questions + 6 social drafts prepared, full article not written, CMS disabled.",
-        "source": "Bank of Greece 22 October official",
-        "url": "https://docs.google.com/document/d/1cpGC_f4ErvnyEqNJwKRWwIMV6SpAvcWHwdaM4zayjlc/edit",
+        "label": "NEW / social ready",
+        "title": "Отели и ИИ: только 8% прямых вариантов",
+        "signal": "DestinationCommerce Oct6 525 AI answers /261 hotel sites; pool day-pass hotel named in 92% answers; direct-only 8%, both direct+platform 41%, platform-only 49%; exact distinction.",
+        "action": "Final RU EN native Doc with 4 visuals and 6 social",
+        "source": "DestinationCommerce",
+        "url": "https://docs.google.com/document/d/1YU1RwGznIoe7Wz6AIFnVTak9C05091922ScJzM7qTQ4/edit",
         "priority": "high"
       },
       {
-        "label": "TOPIC BRIEF + social ready",
-        "title": "Батуми: гостиницы $135 против Airbnb $48 в III квартале",
-        "signal": "Galt & Taggart via BM.ge 23 Oct: Q3 2026 Batumi hotel occupancy 84% versus 82%, ADR $135 vs $119 last year. Airbnb $48 booked-night ADR. Different types of inventory; G&T primary full report not yet reviewed.",
-        "action": "Source checked, RU/EN SEO + AI search questions + 6 social drafts prepared, full article not written, CMS disabled.",
-        "source": "BM.ge citing Galt & Taggart, 23 October 2026 (secondary)",
-        "url": "https://docs.google.com/document/d/1cpGC_f4ErvnyEqNJwKRWwIMV6SpAvcWHwdaM4zayjlc/edit",
+        "label": "NEW today / social ready",
+        "title": "ВВП еврозоны III квартал +0,4%",
+        "signal": "Eurostat flash 30 Oct Q3 2026: euro area +0.4% q/q, EU +0.5%; Germany +0.2%, Spain +0.6%, France -0.1%; Ireland +5.5% experimental early estimate from 29 Oct CSO. Separate from existing Q2 #8610.",
+        "action": "Fresh 30 Oct Q3 GDP analysis in full RU EN, 4 visuals, 6 social",
+        "source": "Eurostat / CSO",
+        "url": "https://docs.google.com/document/d/1gTLNuM9tm9bmAc1UfA8AqM1Ls7kq2PbBXpDYqrNGmOY/edit",
         "priority": "high"
       },
       {
-        "label": "TOPIC BRIEF + social ready",
-        "title": "ЕС: индекс Джини 37,7 Болгария против 23,0 Словакия",
-        "signal": "Eurostat released 23 Oct: 2025 income Gini EU 29.2 vs 29.4 2024; Bulgaria 37.7, Slovakia 23.0, Latvia 35.6. Not house price index, wage level or poverty share.",
-        "action": "Source checked, RU/EN SEO + AI search questions + 6 social drafts prepared, full article not written, CMS disabled.",
-        "source": "Eurostat 23 October 2026",
-        "url": "https://docs.google.com/document/d/1cpGC_f4ErvnyEqNJwKRWwIMV6SpAvcWHwdaM4zayjlc/edit",
-        "priority": "medium"
-      },
-      {
-        "label": "NEW + social ready",
-        "title": "82% гостей малых отелей готовы рассмотреть посуточную аренду",
-        "signal": "PriceLabs press 21–22 Oct: N=1,082 travellers in 5 countries; of guests who stayed in small hotels/B&Bs, 82% WOULD CONSIDER an STR at a similar price, 48% at exactly same price. For a specific trip, 30% small-hotel guests considered STR vs 16% large-hotel guests. Willingness is not actual defection.",
-        "action": "RU/EN SEO/AI-search Google Doc with 4 images + 6 social teasers; CMS not submitted.",
-        "source": "PriceLabs original/press 21–22 Oct",
-        "url": "https://docs.google.com/document/d/1VsUrZ3P-yMU5YdNtTVvIid4qc605sTyUyjG5IxgnoZY/edit",
-        "priority": "high"
-      },
-      {
-        "label": "NEW + social ready",
-        "title": "ИИ помогает назначать цены 53% отелей, но доверяют большинство решений лишь 10%",
-        "signal": "RoomPriceGenie/Sapio Research Oct 20, 450 senior revenue decision-makers: 53% AI pricing recommendations, 10% delegate most decisions, 77% some trust, 43% no full RMS, 47% recruiting difficulties. Vendor-commissioned sample, not all hotels worldwide.",
-        "action": "RU/EN Google Doc, original charts, FAQ and 6 teasers; no CMS.",
-        "source": "RoomPriceGenie 20 Oct",
-        "url": "https://docs.google.com/document/d/1u2-I61hnMpjQVm-j1nWTkHaKER9SjGXhe5xXBKueINk/edit",
-        "priority": "high"
-      },
-      {
-        "label": "EXISTING draft + viral",
-        "title": "В 10 жарких городах межсезонье сильнее лета",
-        "signal": "AirDNA: +22.4% avg daily shoulder-season demand vs summer; only in 10 selected markets.",
-        "action": "Use existing draft and 6 posts, do not duplicate.",
-        "source": "AirDNA updated 22 Oct",
-        "url": "https://docs.google.com/document/d/1bV_5qM6NO4Ax-oOeVGluoZvdc3Zw-I3SSUSC5dIwFMk/edit",
-        "priority": "high"
-      },
-      {
-        "label": "EXISTING draft + viral",
-        "title": "Куршевель €838 против Скопье €35",
-        "signal": "AirDNA winter 2025/26 booked-night market ADR, not 2026/27 or owner return.",
-        "action": "Use existing draft, no rewrite.",
-        "source": "AirDNA 22 Oct",
-        "url": "https://docs.google.com/document/d/1UpQKw9hPf7NxKTSDgVnUZ4Za_mFOeVZm9QFjOg6fstY/edit",
-        "priority": "high"
-      },
-      {
-        "label": "FUTURE policy watch",
-        "title": "Airbnb checkout chores from Nov 20",
-        "signal": "Time-consuming chores restricted for bookings from Nov20; cleaning fees not banned.",
-        "action": "Use existing editorial draft and social posts, review Airbnb implementation date.",
-        "source": "Airbnb Oct20",
-        "url": "https://docs.google.com/document/d/1KG5wPB75o1pavqMAdLgFxmJUA5Hwwk7h6oIwIbDb8uw/edit",
-        "priority": "high"
-      },
-      {
-        "label": "SOCIAL BATCH",
-        "title": "30 готовых текстов на 5 тем",
-        "signal": "Telegram RU; VK RU; X EN; Facebook RU/EN/HE, 5 topics",
-        "action": "Replace placeholders only after article is live; not posted.",
-        "source": "Editorial",
-        "url": "https://docs.google.com/document/d/1yHN--YOmywddjrAa3RoRgY29TGeQ-qTqnOdqi1haZXg/edit",
+        "label": "WEEKLY INDEX",
+        "title": "3 статьи и 18 социальных анонсов",
+        "signal": "Three native Google Docs, each with four verified images",
+        "action": "Editorial ready only, not posted",
+        "source": "International Investment",
+        "url": "https://docs.google.com/document/d/1h2GNjhMeDgK-eXH0uzcBeYf9shTlSFkh87EhA8glNF8/edit",
         "priority": "high"
       }
     ]
