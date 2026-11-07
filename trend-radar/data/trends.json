@@ -3,10 +3,28 @@
     "period": "1–7 ноября 2026",
     "updatedAt": "7 ноября 2026",
     "reportUrl": "https://docs.google.com/document/d/1LEYDEi40WJiVaBqfebpaDlD3gVrnQgSN15osXibB8x8/edit",
-    "editorialNote": "Incremental review: retained all prior trends and monitoring sources. New verified CoStar weekly hotel performance and Skift capital allocation signal; Eurostat November release calendar reviewed. GSC inaccessible, prior metrics historical.",
+    "editorialNote": "7 Nov editorial recheck: verified Spain INE FRONTUR/EGATUR (4 Nov), JLL EMEA Living Q3 (2 Nov), Eurostat HICP flash (4 Nov), CoStar/STR US week (6 Nov), Skift capital moves (2 Nov). JLL private wealth hotel report is 28 Oct and is background only. Crosschecked International Investment dated EN archives 1–7 Nov; no identical headlines identified. GSC Wizard and linked GA4 blocked: payment_required/subscription_required; historical SEO metrics dated 10 Oct retained, no fabricated current metrics.",
     "consolidatedDocUrl": "https://docs.google.com/document/d/1x1FAIw6HdUXHzXKeAyK7L_BM_2BpY3jxRj49BQ6ObF8/edit",
     "weeklyFinalDocUrl": "https://docs.google.com/document/d/1h2GNjhMeDgK-eXH0uzcBeYf9shTlSFkh87EhA8glNF8/edit",
-    "additionalViralBriefUrl": "https://docs.google.com/document/d/1noak5K9VJW3EaN1FZ9yRM_eoMe9cMRiXNPlOC6unumk/edit"
+    "additionalViralBriefUrl": "https://docs.google.com/document/d/1noak5K9VJW3EaN1FZ9yRM_eoMe9cMRiXNPlOC6unumk/edit",
+    "sourceAudit": {
+      "window": "2026-11-01/2026-11-07",
+      "verifiedPrimarySources": [
+        "INE Spain EGATUR and FRONTUR, 4 Nov",
+        "JLL EMEA Living, 2 Nov",
+        "Eurostat HICP, 4 Nov",
+        "CoStar/STR, 6 Nov",
+        "Skift, 2 Nov"
+      ],
+      "monitoredWithoutNewConfirmedLead": [
+        "TravelDailyNews newsfeed",
+        "GeoStat Georgia",
+        "Eurostat release calendar"
+      ],
+      "publicationAudit": "English date archives internationalinvestment.biz/en/2026/11/01/ through /07/ and canonical articles; archive titles only, CMS/private drafts not inspected.",
+      "seoAccess": "GSC Wizard account payment_required, GA4 through same connector unavailable",
+      "notes": "Previous 26–30 October editorial period already retained in history; avoid duplicate history record on same-period rerun."
+    }
   },
   "categories": [
     "Все",
@@ -17,6 +35,85 @@
     "Инвестиции"
   ],
   "trends": [
+    {
+      "id": "eurostat-hicp-euroarea-october-flash-nov4-2026",
+      "title": "Инфляция еврозоны ускорилась до 4,0% в октябре",
+      "category": "Инвестиции",
+      "priority": "high",
+      "trendStrength": 90,
+      "editorialPotential": 92,
+      "seoPotential": 90,
+      "status": "draft_ready",
+      "signal": "Eurostat, релиз 4 ноября 2026: предварительный HICP октябрь +4,0% г/г против +3,8% в сентябре. Энергия +20,8% против +18,9%, услуги +3,3% против +3,2%. Испания +4,9%, Германия +2,8%, Греция +5,6%.",
+      "why": "Данные подтверждают неоднородное инфляционное давление по рынкам недвижимости; объяснять стоимость финансирования без недоказанных причинно-следственных обещаний.",
+      "editorialAngle": "Что возвращение ускорения инфляции означает для заёмщиков, арендодателей и европейского институционального капитала.",
+      "seoAngle": "euro area inflation October 2026 4.0; EU real estate investment interest rates 2026; инфляция еврозона октябрь 2026",
+      "socialIdeas": [
+        "Инфляция еврозоны 4%, энергия +20,8%: какие рынки недвижимости чувствительнее?"
+      ],
+      "sources": [
+        {
+          "label": "Eurostat Euro indicators, 4 Nov 2026",
+          "url": "https://ec.europa.eu/eurostat/en/web/products-euro-indicators/w/2-04112026-ap"
+        }
+      ],
+      "verifiedOn": "2026-11-07",
+      "publishedCoverage": "Topic not found in 1–7 Nov archive headlines; review and crosslink existing European capital-market macro pages"
+    },
+    {
+      "id": "jll-emea-living-investment-q3-nov2-2026",
+      "title": "Европейское арендное жильё: €44,6 млрд вложений за девять месяцев, +8%",
+      "category": "Недвижимость",
+      "priority": "urgent",
+      "trendStrength": 91,
+      "editorialPotential": 94,
+      "seoPotential": 95,
+      "status": "draft_ready",
+      "signal": "JLL, 2 ноября 2026: инвестиции в multi-housing и PBSA за январь–сентябрь €44,6 млрд (+8% г/г), в III квартале €11 млрд (-12% г/г). Арендный рост 3,5% в III квартале; доходности multifamily расширились на 8 б.п. к предыдущему кварталу.",
+      "why": "Сопоставление годового накопленного роста и квартального снижения помогает объяснить селективность институционального капитала и дефицит предложения.",
+      "editorialAngle": "Капитал остаётся в европейском арендном жилье, но III квартал прошёл без крупных сделок. Где работают multifamily и student housing.",
+      "seoAngle": "EMEA living investment Q3 2026; Europe multifamily investment 2026; PBSA Europe 2026",
+      "socialIdeas": [
+        "€44,6 млрд в европейском арендном жилье: почему III квартал слабее?"
+      ],
+      "sources": [
+        {
+          "label": "JLL EMEA Living Market Dynamics Q3 2026, 2 Nov 2026",
+          "url": "https://www.jll.com/en-uk/insights/market-dynamics/emea-living-capital-markets"
+        }
+      ],
+      "verifiedOn": "2026-11-07",
+      "publishedCoverage": "Topic not found in website's 1–7 Nov date-archive headlines; update existing European investment/living URLs after article"
+    },
+    {
+      "id": "spain-tourism-frontur-egatur-september-nov4-2026",
+      "title": "Испания: расходы туристов в сентябре €14,488 млрд, +8,1%",
+      "category": "Туризм",
+      "priority": "urgent",
+      "trendStrength": 92,
+      "editorialPotential": 95,
+      "seoPotential": 94,
+      "status": "draft_ready",
+      "signal": "INE, 4 ноября 2026: сентябрь 2026 — 10 139 650 прибывших международных туристов (+4,3% г/г), их расходы €14 488 млн (+8,1%), среднедневные расходы €212 (+4,0%). За январь–сентябрь 80 502 143 туриста (+5,2%).",
+      "why": "Два независимых статистических массива INE дают сильный сюжет о монетизации турпотока, гостиничном спросе и динамике регионов; агрегаты не переводить автоматически в доходность гостиниц.",
+      "editorialAngle": "В Испании расходы туристов растут почти вдвое быстрее числа приезжающих; проверить регионы и расходы на размещение.",
+      "seoAngle": "Spain tourism spending September 2026; Spain international tourist arrivals 2026; расходы туристов Испания 2026",
+      "socialIdeas": [
+        "€14,49 млрд за месяц: что туристические траты говорят об испанском гостиничном рынке?"
+      ],
+      "sources": [
+        {
+          "label": "INE EGATUR, 4 Nov 2026",
+          "url": "https://www.ine.es/dyngs/Prensa/en/EGATUR0926.htm"
+        },
+        {
+          "label": "INE FRONTUR, 4 Nov 2026",
+          "url": "https://www.ine.es/dyngs/Prensa/en/FRONTUR0926.htm"
+        }
+      ],
+      "verifiedOn": "2026-11-07",
+      "publishedCoverage": "Topic not found in website's 1–7 Nov date-archive headlines; update crosslinks to existing Spain tourism and market analysis"
+    },
     {
       "id": "eurostat-november-release-monitor",
       "title": "Eurostat: ноябрьские данные туризма, разрешений и инфляции",
@@ -2538,6 +2635,18 @@
     {
       "title": "Eurostat November statistical updates",
       "description": "Tourism nights, construction permits and inflation releases; official tables before numerical claims."
+    },
+    {
+      "title": "Испания: турпоток и расходы 2026",
+      "description": "INE FRONTUR/EGATUR September, tourism arrivals vs spending, regional hotel demand; crosslink existing Spain investment and tourism pages."
+    },
+    {
+      "title": "EMEA Living Q3 2026",
+      "description": "JLL multifamily / student accommodation / affordable housing, Q3 vs January–September capital, bond yields and supply; update European residential investment hub."
+    },
+    {
+      "title": "Еврозона: инфляция и недвижимость 2026",
+      "description": "Eurostat October HICP, country comparisons, financing conditions and operational energy costs; connect ECB and living/property investor pages."
     }
   ],
   "history": [
@@ -3170,7 +3279,8 @@
     "updatedAt": "7 ноября 2026",
     "sourceStatus": {
       "yandexWebmaster": "not_loaded",
-      "googleSearchConsole": "not_loaded"
+      "googleSearchConsole": "blocked_subscription_required",
+      "googleAnalytics4": "blocked_subscription_required"
     },
     "queries": [
       {
@@ -3315,7 +3425,7 @@
         "currentPeriodDataLoaded": false
       }
     ],
-    "sourceNote": "7 ноября: GSC connector link_id not eligible; no current 7/28-day metrics. All existing queries retained as historical data from 10 October."
+    "sourceNote": "7 Nov 2026: GSC Wizard returned payment_required / subscription_required on both linked accounts (Primary and GSC Wizard), so GSC and linked GA4 reports cannot be read. Prior Yandex and Google metrics (dataAsOf 10 Oct 2026) are historical, preserved unchanged, currentPeriodDataLoaded remains false. No current-period metrics invented."
   },
   "sourcePolicy": {
     "dynamicCountryStats": true,
@@ -3347,6 +3457,24 @@
       "Не предлагать материал только ради частоты публикаций, если существенного обновления рынка нет."
     ],
     "gaps": [
+      {
+        "country": "Еврозона",
+        "theme": "October HICP / real estate financing",
+        "status": "high",
+        "reason": "Eurostat 4 Nov: flash October 4.0%, energy 20.8%; connect to actual housing and lending data after separate verification."
+      },
+      {
+        "country": "Европа / EMEA",
+        "theme": "Q3 living and PBSA investment",
+        "status": "urgent",
+        "reason": "JLL 2 Nov: YTD €44.6bn +8%, Q3 €11bn -12%; strong investment comparison angle."
+      },
+      {
+        "country": "Испания",
+        "theme": "International tourist expenditure vs arrivals, September 2026",
+        "status": "urgent",
+        "reason": "INE 4 Nov: spending +8.1% and tourist arrivals +4.3%; confirmed primary series and no identical article in 1–7 Nov EN archive."
+      },
       {
         "country": "Греция",
         "theme": "Golden Visa enforcement",
@@ -3407,31 +3535,49 @@
     "date": "7 ноября 2026",
     "items": [
       {
-        "label": "VERIFIED / WATCH",
-        "title": "США: гостиничный RevPAR вырос на 9,7% за неделю",
-        "signal": "CoStar/STR, 6 ноября: RevPAR американских отелей +9,7% год к году за неделю 25–31 октября, спрос +4,8%. Это недельные, а не годовые результаты.",
-        "action": "Операционная динамика гостиниц США против остального мира; ADR, occupancy и RevPAR отдельно.",
-        "source": "CoStar / STR, 6 November 2026",
+        "label": "VERIFIED / EDITORIAL",
+        "title": "Испания: €14,488 млрд туристических расходов за сентябрь",
+        "signal": "Расходы +8,1% г/г при прибытиях +4,3% — публикации 4 ноября.",
+        "action": "Новый материал RU/EN; связать с туризмом Испании и гостиничной инвестиционной аналитикой.",
+        "source": "INE EGATUR + FRONTUR",
+        "url": "https://www.ine.es/dyngs/Prensa/en/EGATUR0926.htm",
+        "priority": "urgent"
+      },
+      {
+        "label": "VERIFIED / EDITORIAL",
+        "title": "EMEA Living: €44,6 млрд за девять месяцев",
+        "signal": "YTD +8%, Q3 €11 млрд (-12%).",
+        "action": "Новый материал RU/EN о multifamily и PBSA; обновить европейские инвестиционные хабы.",
+        "source": "JLL 2 Nov",
+        "url": "https://www.jll.com/en-uk/insights/market-dynamics/emea-living-capital-markets",
+        "priority": "urgent"
+      },
+      {
+        "label": "VERIFIED / EDITORIAL",
+        "title": "Инфляция еврозоны достигла 4,0%",
+        "signal": "HICP +4,0% г/г, энергия +20,8%.",
+        "action": "Обзор RU/EN с таблицей стран; связать со стоимостью кредита и арендным рынком.",
+        "source": "Eurostat 4 Nov",
+        "url": "https://ec.europa.eu/eurostat/en/web/products-euro-indicators/w/2-04112026-ap",
+        "priority": "high"
+      },
+      {
+        "label": "VERIFIED / EDITORIAL",
+        "title": "США: недельный RevPAR +9,7%",
+        "signal": "Неделя 25–31 октября, спрос +4,8%; global ex-US RevPAR +1,2%.",
+        "action": "Новая гостиничная аналитика; сопоставить с ex-US +1,2%, обновить тематический evergreen.",
+        "source": "CoStar / STR 6 Nov",
         "url": "https://www.costar.com/article/206666998/strong-weekday-us-hotel-demand-outweighs-halloween-weekend-slowdown",
         "priority": "high"
       },
       {
-        "label": "VERIFIED / WATCH",
-        "title": "Skift: 59 инвестиционных событий в туризме за октябрь",
-        "signal": "Skift, 2 ноября: обзор 59 объявленных движений капитала в туризме за октябрь; среди направлений — продажи гостиниц для сокращения долга, авиационные заказы и небольшие AI-раунды. Это сводка объявлений, а не объем инвестиций в деньгах.",
-        "action": "Куда направляются деньги в туризме: гостиницы, самолеты и travel tech; отделить сделки от заявлений.",
-        "source": "Skift, 2 November 2026",
+        "label": "VERIFIED / EDITORIAL",
+        "title": "Skift: 59 октябрьских объявлений о travel capital",
+        "signal": "59 announcements in Oct; no aggregated USD investment total.",
+        "action": "Обзор RU/EN hotel asset sales / aviation / travel AI; связать с ранее опубликованными гостиничными инвестициями.",
+        "source": "Skift 2 Nov",
         "url": "https://newsletters.skift.com/p/travel-s-next-dollar",
         "priority": "high"
-      },
-      {
-        "label": "VERIFIED / WATCH",
-        "title": "Eurostat: ноябрьские данные туризма, разрешений и инфляции",
-        "signal": "Eurostat calendar 2–6 ноября: ночевки за август, разрешения на строительство за июль, предварительная инфляция октября, прямые иностранные инвестиции за 2025 год. Календарь подтверждает даты, но не значения показателей.",
-        "action": "Сопоставить строительные разрешения, туристический спрос и стоимость капитала по странам после извлечения значений.",
-        "source": "Eurostat release calendar, November 2026",
-        "url": "https://ec.europa.eu/eurostat/news/release-calendar",
-        "priority": "medium"
       }
     ]
   }
