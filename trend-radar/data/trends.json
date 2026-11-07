@@ -1,9 +1,9 @@
 {
   "meta": {
-    "period": "26–30 октября 2026",
-    "updatedAt": "30 октября 2026",
+    "period": "2–8 ноября 2026",
+    "updatedAt": "7 ноября 2026",
     "reportUrl": "https://github.com/darovska/hw03_forms_test/blob/main/trend-radar/reports/2026-10-30-viral-week.md",
-    "editorialNote": "30 Oct selection 26-30: 3 standalone full bilingual editorials (Batumi hotel vs Airbnb, DestinationCommerce AI hotel ancillary sales, Eurostat Q3 GDP released today); 4 verified inline Google Docs media each, RU/EN SEO FAQ, 18 channel-language social posts. Earlier archives not republished or overwritten. Primary date caveats and lack of CMS/GSC/GA4/ZeroGPT explicitly stated. Added separate 30 October viral SEO/AI-search briefing with 7 detailed angles, 2 new watch candidates; existing themes marked as UPDATE or reuse only, no publication. GSC and crawling not verified.",
+    "editorialNote": "Weekly trendwatch refreshed 7 Nov 2026: 4 sourced candidates (JLL EMEA private wealth hotel investment, European hotel soft brands, Eurostat August tourism nights and July building permits). New signals are WATCH, not publication-ready; source dates and reporting periods distinguished; figures pending primary dataset checks are not asserted. Existing history, monitoringSources, seoSignals, sourcePolicy and earlier editorial statuses preserved.",
     "consolidatedDocUrl": "https://docs.google.com/document/d/1x1FAIw6HdUXHzXKeAyK7L_BM_2BpY3jxRj49BQ6ObF8/edit",
     "weeklyFinalDocUrl": "https://docs.google.com/document/d/1h2GNjhMeDgK-eXH0uzcBeYf9shTlSFkh87EhA8glNF8/edit",
     "additionalViralBriefUrl": "https://docs.google.com/document/d/1noak5K9VJW3EaN1FZ9yRM_eoMe9cMRiXNPlOC6unumk/edit"
@@ -17,6 +17,78 @@
     "Инвестиции"
   ],
   "trends": [
+    {
+      "id": "jll-private-wealth-emea-hotels-nov2026",
+      "title": "Частный капитал занял 47% гостиничных инвестиций EMEA",
+      "category": "Инвестиции",
+      "status": "watch",
+      "priority": "high",
+      "social_ready": false,
+      "decision": "new_candidate",
+      "signal": "JLL November 2026 release: private wealth 47% of EMEA hotel investment volume in H1 2026; €4.5bn purchases and €2.7bn disposals. Release is new, underlying reporting period H1.",
+      "why": "Strong investment and hotel ownership angle. Check against existing site coverage before commissioning; distinguish private-wealth share from total market.",
+      "seoAngle": "EMEA hotel investment private wealth 2026 JLL family offices",
+      "sources": [
+        {
+          "label": "JLL November 2026 primary",
+          "url": "https://www.jll.com/en-uk/newsroom/private-wealth-surges-to-dominate-emea-hotel-investment-market"
+        }
+      ]
+    },
+    {
+      "id": "europe-hotel-soft-brands-nov2026",
+      "title": "Независимые отели Европы переходят под международные бренды",
+      "category": "Туризм",
+      "status": "watch",
+      "priority": "high",
+      "social_ready": false,
+      "decision": "new_candidate",
+      "signal": "Financial Times November 2026 reports European independent hotels joining chain soft brands; CoStar estimate branded room share above 41% in August 2026 vs 36% in 2020.",
+      "why": "Operator and brand economics; verify CoStar underlying methodology and avoid implying every independent hotel is converting.",
+      "seoAngle": "Europe independent hotels soft brands conversion Hilton IHG 2026",
+      "sources": [
+        {
+          "label": "Financial Times November 2026",
+          "url": "https://www.ft.com/content/66ed1955-7a18-4d11-b7a6-eb567fac1534"
+        }
+      ]
+    },
+    {
+      "id": "eurostat-august-tourist-nights-release-nov2026",
+      "title": "Евростат опубликовал августовскую статистику ночёвок",
+      "category": "Туризм",
+      "status": "watch",
+      "priority": "high",
+      "social_ready": false,
+      "decision": "new_candidate",
+      "signal": "Eurostat release calendar confirms 3 November 2026 data release for August 2026 tourist accommodation nights; exact country figures require dataset validation.",
+      "why": "Potential country comparisons and hotel demand article after extracting official figures; do not publish unverified numbers.",
+      "seoAngle": "Eurostat tourist accommodation nights August 2026 Europe",
+      "sources": [
+        {
+          "label": "Eurostat release calendar 2–6 November",
+          "url": "https://ec.europa.eu/eurostat/news/release-calendar/"
+        }
+      ]
+    },
+    {
+      "id": "eurostat-building-permits-july-release-nov2026",
+      "title": "Строительные разрешения в ЕС: новая статистика за июль",
+      "category": "Недвижимость",
+      "status": "watch",
+      "priority": "medium",
+      "social_ready": false,
+      "decision": "new_candidate",
+      "signal": "Eurostat release calendar confirms 3 November 2026 building permits data for July 2026; numeric trends not yet validated.",
+      "why": "Potential leading indicator of European residential development; compare country series before making directional claims.",
+      "seoAngle": "EU building permits July 2026 Eurostat housing construction",
+      "sources": [
+        {
+          "label": "Eurostat November 2026 release calendar",
+          "url": "https://ec.europa.eu/eurostat/news/release-calendar/"
+        }
+      ]
+    },
     {
       "id": "eu-short-stay-platform-data-sharing-local-2026",
       "title": "ЕС: Airbnb начал передавать данные об аренде регуляторам",
@@ -3242,43 +3314,43 @@
     ]
   },
   "dailyUpdate": {
-    "date": "30 октября 2026",
+    "date": "7 ноября 2026",
     "items": [
       {
-        "label": "NEW / social ready",
-        "title": "Батуми: тарифы отеля $135 и Airbnb $48",
-        "signal": "G&T 22 Oct Tourism Watch 3Q26; Batumi hotel ADR $135, occupancy 84%, Airbnb avg rate $48 and booked nights +12%; different asset types and costs.",
-        "action": "Final RU EN native Google Doc with 4 visuals, FAQ SEO and 6 social",
-        "source": "G&T / BM.ge",
-        "url": "https://docs.google.com/document/d/1BCMcQmnWOaI39uhZG0e3taWGgH2fbJQ4p6a1p1J67wo/edit",
+        "label": "WEEKLY WATCH / verify",
+        "title": "Частный капитал занял 47% гостиничных инвестиций EMEA",
+        "signal": "JLL November 2026 release: private wealth 47% of EMEA hotel investment volume in H1 2026; €4.5bn purchases and €2.7bn disposals. Release is new, underlying reporting period H1.",
+        "action": "Strong investment and hotel ownership angle. Check against existing site coverage before commissioning; distinguish private-wealth share from total market.",
+        "source": "JLL November 2026 primary",
+        "url": "https://www.jll.com/en-uk/newsroom/private-wealth-surges-to-dominate-emea-hotel-investment-market",
         "priority": "high"
       },
       {
-        "label": "NEW / social ready",
-        "title": "Отели и ИИ: только 8% прямых вариантов",
-        "signal": "DestinationCommerce Oct6 525 AI answers /261 hotel sites; pool day-pass hotel named in 92% answers; direct-only 8%, both direct+platform 41%, platform-only 49%; exact distinction.",
-        "action": "Final RU EN native Doc with 4 visuals and 6 social",
-        "source": "DestinationCommerce",
-        "url": "https://docs.google.com/document/d/1YU1RwGznIoe7Wz6AIFnVTak9C05091922ScJzM7qTQ4/edit",
+        "label": "WEEKLY WATCH / verify",
+        "title": "Независимые отели Европы переходят под международные бренды",
+        "signal": "Financial Times November 2026 reports European independent hotels joining chain soft brands; CoStar estimate branded room share above 41% in August 2026 vs 36% in 2020.",
+        "action": "Operator and brand economics; verify CoStar underlying methodology and avoid implying every independent hotel is converting.",
+        "source": "Financial Times November 2026",
+        "url": "https://www.ft.com/content/66ed1955-7a18-4d11-b7a6-eb567fac1534",
         "priority": "high"
       },
       {
-        "label": "NEW today / social ready",
-        "title": "ВВП еврозоны III квартал +0,4%",
-        "signal": "Eurostat flash 30 Oct Q3 2026: euro area +0.4% q/q, EU +0.5%; Germany +0.2%, Spain +0.6%, France -0.1%; Ireland +5.5% experimental early estimate from 29 Oct CSO. Separate from existing Q2 #8610.",
-        "action": "Fresh 30 Oct Q3 GDP analysis in full RU EN, 4 visuals, 6 social",
-        "source": "Eurostat / CSO",
-        "url": "https://docs.google.com/document/d/1gTLNuM9tm9bmAc1UfA8AqM1Ls7kq2PbBXpDYqrNGmOY/edit",
+        "label": "WEEKLY WATCH / verify",
+        "title": "Евростат опубликовал августовскую статистику ночёвок",
+        "signal": "Eurostat release calendar confirms 3 November 2026 data release for August 2026 tourist accommodation nights; exact country figures require dataset validation.",
+        "action": "Potential country comparisons and hotel demand article after extracting official figures; do not publish unverified numbers.",
+        "source": "Eurostat release calendar 2–6 November",
+        "url": "https://ec.europa.eu/eurostat/news/release-calendar/",
         "priority": "high"
       },
       {
-        "label": "WEEKLY INDEX",
-        "title": "3 статьи и 18 социальных анонсов",
-        "signal": "Three native Google Docs, each with four verified images",
-        "action": "Editorial ready only, not posted",
-        "source": "International Investment",
-        "url": "https://docs.google.com/document/d/1h2GNjhMeDgK-eXH0uzcBeYf9shTlSFkh87EhA8glNF8/edit",
-        "priority": "high"
+        "label": "WEEKLY WATCH / verify",
+        "title": "Строительные разрешения в ЕС: новая статистика за июль",
+        "signal": "Eurostat release calendar confirms 3 November 2026 building permits data for July 2026; numeric trends not yet validated.",
+        "action": "Potential leading indicator of European residential development; compare country series before making directional claims.",
+        "source": "Eurostat November 2026 release calendar",
+        "url": "https://ec.europa.eu/eurostat/news/release-calendar/",
+        "priority": "medium"
       }
     ]
   }
