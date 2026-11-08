@@ -88,7 +88,7 @@ async function start(){
   for(const id of ["search","theme","status"])$("#"+id).addEventListener("input",renderMatrix);
   const [ra,sc,an]=await Promise.allSettled([
     fetch("./data/trends.json",{cache:"no-store"}).then(fromResponse),
-    fetch("./data/coverage-scan-2026-11-08.json",{cache:"no-store"}).then(fromResponse),
+    fetch("./data/coverage-publications.json",{cache:"no-store"}).then(fromResponse),
     fetch("../index.html",{cache:"no-store"}).then(r=>{if(!r.ok)throw Error("Analytics HTTP "+r.status);return r.text()}).then(x=>{const doc=new DOMParser().parseFromString(x,"text/html"),s=doc.getElementById("dashboard-data");if(!s)throw Error("embedded analytics JSON unavailable");return JSON.parse(s.textContent)})
   ]);
   if(ra.status==="fulfilled"){
