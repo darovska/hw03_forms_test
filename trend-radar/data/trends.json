@@ -1,30 +1,35 @@
 {
   "meta": {
     "period": "1–7 ноября 2026",
-    "updatedAt": "7 ноября 2026",
+    "updatedAt": "8 ноября 2026",
     "reportUrl": "https://docs.google.com/document/d/1LEYDEi40WJiVaBqfebpaDlD3gVrnQgSN15osXibB8x8/edit",
-    "editorialNote": "7 Nov editorial recheck: verified Spain INE FRONTUR/EGATUR (4 Nov), JLL EMEA Living Q3 (2 Nov), Eurostat HICP flash (4 Nov), CoStar/STR US week (6 Nov), Skift capital moves (2 Nov). JLL private wealth hotel report is 28 Oct and is background only. Crosschecked International Investment dated EN archives 1–7 Nov; no identical headlines identified. GSC Wizard and linked GA4 blocked: payment_required/subscription_required; historical SEO metrics dated 10 Oct retained, no fabricated current metrics.",
+    "editorialNote": "Daily Nov 8 update of existing 1–7 Nov weekly issue: Commission tourism strategy Nov4, ETC Q3 tourism Nov5, Airbnb Q3 Nov5, Georgia September CCI Nov6 (primary PDF numeric QA pending), Wynn Q3 Nov5. Existing published #8962, #8836, #9020 are updates, not duplicate new articles. GSC/GA4 subscription_required, historical metrics untouched.",
     "consolidatedDocUrl": "https://docs.google.com/document/d/1x1FAIw6HdUXHzXKeAyK7L_BM_2BpY3jxRj49BQ6ObF8/edit",
     "weeklyFinalDocUrl": "https://docs.google.com/document/d/1h2GNjhMeDgK-eXH0uzcBeYf9shTlSFkh87EhA8glNF8/edit",
     "additionalViralBriefUrl": "https://docs.google.com/document/d/1noak5K9VJW3EaN1FZ9yRM_eoMe9cMRiXNPlOC6unumk/edit",
     "sourceAudit": {
-      "window": "2026-11-01/2026-11-07",
+      "window": "2026-11-02/2026-11-08",
       "verifiedPrimarySources": [
-        "INE Spain EGATUR and FRONTUR, 4 Nov",
-        "JLL EMEA Living, 2 Nov",
-        "Eurostat HICP, 4 Nov",
-        "CoStar/STR, 6 Nov",
-        "Skift, 2 Nov"
+        "EC EU Sustainable Tourism Strategy 4 Nov",
+        "ETC Q3/2026 Nov 5",
+        "Airbnb Q3 Nov 5",
+        "Wynn Q3 Nov 5",
+        "Geostat CCI release Nov 6 (PDF unread)",
+        "Eurostat news and release calendar Nov 6"
       ],
       "monitoredWithoutNewConfirmedLead": [
-        "TravelDailyNews newsfeed",
-        "GeoStat Georgia",
-        "Eurostat release calendar"
+        "TravelDailyNews IRU reaction duplicates EC original event",
+        "CoStar/STR Nov6 weekly RevPAR already in preceding issue",
+        "UN Tourism no separate verified new release in spot check",
+        "Skift Wynn/UAE and Airbnb reporting"
       ],
-      "publicationAudit": "English date archives internationalinvestment.biz/en/2026/11/01/ through /07/ and canonical articles; archive titles only, CMS/private drafts not inspected.",
-      "seoAccess": "GSC Wizard account payment_required, GA4 through same connector unavailable",
-      "notes": "Previous 26–30 October editorial period already retained in history; avoid duplicate history record on same-period rerun."
-    }
+      "publicationAudit": "EU articles #8962 and #7657 predate strategy publication; Wynn #9020 already covers opening; Georgia #8836 has older July CCI; exact Q3 ETC and Airbnb new events not found in limited public site search; CMS drafts not inspected.",
+      "seoAccess": "GSC Wizard subscription_required in both linked accounts",
+      "notes": "Daily addition within 1–7 Nov existing weekly report. Nov 9 is an editorial plan, not 9 Nov published source data.",
+      "updatedAt": "2026-11-08"
+    },
+    "latestDailyUpdateDate": "2026-11-08",
+    "nextEditorialPlanDate": "2026-11-09"
   },
   "categories": [
     "Все",
@@ -35,6 +40,110 @@
     "Инвестиции"
   ],
   "trends": [
+    {
+      "id": "geostat-september-cci-nov6-2026",
+      "title": "Грузия: различия в затратах на жилое и нежилое строительство",
+      "category": "Недвижимость",
+      "priority": "high",
+      "status": "watch",
+      "decision": "update_existing_after_primary_pdf",
+      "editorialUrgency": "4/5 — ВЫСОКИЙ, PDF VERIFY",
+      "publishWindow": "2026-11-09",
+      "publishedAt": "2026-11-06",
+      "signal": "Geostat September CCI original release dated 6 Nov. GBC secondary says all construction costs +6.0% YoY, residential +0.7%, non-residential +10.2%; official original PDF not directly parsed, final numeric QA pending.",
+      "why": "Investment analysis of residential and nonresidential project costs, for Georgia/Batumi readers. Original PDF to verify.",
+      "seoAngle": "Georgia construction costs September 2026; стоимость строительства Грузия",
+      "sources": [
+        {
+          "label": "Geostat original release, 6 Nov",
+          "url": "https://www.geostat.ge/index.php/en/single-news/3891/construction-cost-index-in-georgia-september-2026"
+        },
+        {
+          "label": "Official PDF (unread)",
+          "url": "https://geostat.ge/media/83875/Construction-Cost-Index-in-Georgia---September-2026.pdf"
+        },
+        {
+          "label": "GBC secondary",
+          "url": "https://gbc.ge/en/news/Economics-news/construction-cost-index-up-by-6-year-on-year-in-september"
+        }
+      ],
+      "publishedCoverage": "UPDATE https://internationalinvestment.biz/en/georgia/8836-tbilisi-home-sales-rose-more-than-20-in-july.html after direct PDF check",
+      "verifiedOn": "2026-11-08"
+    },
+    {
+      "id": "airbnb-q3-results-nov5-2026",
+      "title": "Airbnb: выручка III квартала выросла на 19% до $4,9 млрд",
+      "category": "Инвестиции",
+      "priority": "high",
+      "status": "new_candidate",
+      "decision": "new_article",
+      "editorialUrgency": "4/5 — ВЫСОКИЙ",
+      "publishWindow": "2026-11-08",
+      "publishedAt": "2026-11-05",
+      "signal": "Airbnb 5 Nov Q3 2026: revenue $4.9bn +19% YoY, gross booking value $27.7bn +21%, Nights and Seats Booked +16%, adjusted EBITDA $2.5bn +22%.",
+      "why": "Recent corporate report with comparison to hotel demand and rental regulation. Distinguish platform economics and property owner earnings.",
+      "seoAngle": "Airbnb Q3 2026 results; Airbnb earnings; short-term rentals 2026",
+      "sources": [
+        {
+          "label": "Airbnb official Q3 2026",
+          "url": "https://news.airbnb.com/airbnb-q3-2026-financial-results"
+        }
+      ],
+      "publishedCoverage": "NEW RU/EN; crosslink https://internationalinvestment.biz/en/real-estate/8916-short-term-rentals-in-europe-continue-to-grow-despite-restrictions.html",
+      "verifiedOn": "2026-11-08"
+    },
+    {
+      "id": "etc-europe-summer-arrivals-q3-nov5-2026",
+      "title": "ETC: прибытия в Европе +3%, Мальта +18%",
+      "category": "Туризм",
+      "priority": "urgent",
+      "status": "new_candidate",
+      "decision": "new_article",
+      "editorialUrgency": "5/5 — ГОРИТ",
+      "publishWindow": "2026-11-08",
+      "publishedAt": "2026-11-05",
+      "signal": "ETC Q3/2026 released 5 Nov: European international arrivals this summer +3% YoY; 80% of reporting destinations up; Malta +18%, Slovakia +15%, Ireland +13%, Poland +11%, Spain +5%, France +3%, Italy +1%.",
+      "why": "Source-backed comparable country table and search-intent gap; no exact duplicate of Q3 ETC in public site search.",
+      "seoAngle": "European tourism Q3 2026; Malta Slovakia tourism 2026; hotel investment Europe",
+      "sources": [
+        {
+          "label": "ETC Q3/2026",
+          "url": "https://etc-corporate.org/reports/european-tourism-trends-prospects-q3-2026/"
+        },
+        {
+          "label": "ETC 5 Nov",
+          "url": "https://etc-corporate.org/news/eu-sustainable-tourism-strategy-adopted-against-background-of-increasing-resilience-and-reducing-seasonality/"
+        }
+      ],
+      "publishedCoverage": "NEW RU/EN; crosslink https://internationalinvestment.biz/en/tourism/8701-travellers-increasingly-choose-cooler-scandinavia.html",
+      "verifiedOn": "2026-11-08"
+    },
+    {
+      "id": "eu-tourism-strategy-nov4-2026",
+      "title": "ЕС представил стратегию устойчивого туризма",
+      "category": "Туризм",
+      "priority": "urgent",
+      "status": "covered",
+      "decision": "update_existing",
+      "editorialUrgency": "5/5 — ГОРИТ",
+      "publishWindow": "2026-11-08",
+      "publishedAt": "2026-11-04",
+      "signal": "European Commission, COM(2026)777, 4 Nov: destination management, EU Tourism Observatory, Tourism Data Space, SME support, proposed timeline. No immediate new binding EU-wide hotel or rental law.",
+      "why": "Old site #8962 and #7657 discuss upcoming strategy; actual release needs update.",
+      "seoAngle": "EU Sustainable Tourism Strategy 2026; tourism investments; туристическая стратегия ЕС",
+      "sources": [
+        {
+          "label": "EC 4 Nov",
+          "url": "https://transport.ec.europa.eu/news-events/news/commission-strengthens-europes-position-worlds-leading-tourism-destination-2026-11-04_en"
+        },
+        {
+          "label": "EU Tourism Platform 5 Nov",
+          "url": "https://transition-pathways.europa.eu/tourism/policy/eu-sustainable-tourism-strategy-sets-out-10-action-areas-sector"
+        }
+      ],
+      "publishedCoverage": "UPDATE https://internationalinvestment.biz/en/tourism/8962-new-strategy-for-tourism-development-in-europe.html; crosslink #7657",
+      "verifiedOn": "2026-11-08"
+    },
     {
       "id": "eurostat-hicp-euroarea-october-flash-nov4-2026",
       "title": "Инфляция еврозоны ускорилась до 4,0% в октябре",
@@ -2376,7 +2485,7 @@
       "seoPotential": 93,
       "priority": "high",
       "status": "covered",
-      "signal": "Отели реконструируются до открытия Wynn в сентябре 2027; в эмирате 8 197 номеров и еще 5 470 строятся, а текущая загрузка остается мягче прошлогодней.",
+      "signal": "Wynn Q3 report 5 Nov confirms Al Marjan target Sept 2027; contributed $62.2m cash to 40%-owned joint venture in Q3 and $1.12bn cumulative. Skift 6 Nov: CEO plans decision around Feb 2027 on opening format.",
       "why": "Один якорный проект заранее меняет positioning, формат питания и капитальные вложения гостиничного рынка. Review 23 Oct: website already contains core event/figures in https://internationalinvestment.biz/uae/8898-wynn-menjaet-rynok-nedvizhimosti-ras-jel-hajmy.html; do not recreate.",
       "editorialAngle": "Wynn effect до открытия: реконструкции, premium repositioning, supply pipeline и риск временного избытка предложения.",
       "seoAngle": "Ras Al Khaimah hotels 2026; Wynn Al Marjan Island; hotel investment UAE",
@@ -2385,15 +2494,21 @@
       ],
       "sources": [
         {
-          "label": "Skift Wynn effect",
-          "url": "https://skift.com/2026/10/01/ras-al-khaimah-hotels-renovate-to-capture-the-wynn-effect/"
+          "label": "Wynn Q3 Nov 5",
+          "url": "https://investors.wynnresorts.com/news-releases/news-release-details/wynn-resorts-limited-reports-third-quarter-2026-results"
         },
         {
-          "label": "RAKTDA H1 2026",
-          "url": "https://raktda.com/press-release-ras-al-khaimah-welcomes-record-visitors-in-first-half-of-2026-as-landmark-developments-advance/"
+          "label": "Skift Nov 6",
+          "url": "https://skift.com/2026/11/06/wynn-holds-uae-casino-date-but-weighs-how-to-open-amid-war/"
         }
       ],
-      "covered_url": "https://internationalinvestment.biz/uae/8898-wynn-menjaet-rynok-nedvizhimosti-ras-jel-hajmy.html"
+      "covered_url": "https://internationalinvestment.biz/uae/8898-wynn-menjaet-rynok-nedvizhimosti-ras-jel-hajmy.html",
+      "verifiedOn": "2026-11-08",
+      "publishedAt": "2026-11-05",
+      "editorialUrgency": "4/5 — ВЫСОКИЙ",
+      "decision": "update_existing",
+      "publishWindow": "2026-11-09",
+      "publishedCoverage": "UPDATE https://internationalinvestment.biz/en/business/9020-ras-al-khaimah-hotels-reposition-ahead-of-wynn-opening.html"
     },
     {
       "id": "austria-housing",
@@ -2647,6 +2762,22 @@
     {
       "title": "Еврозона: инфляция и недвижимость 2026",
       "description": "Eurostat October HICP, country comparisons, financing conditions and operational energy costs; connect ECB and living/property investor pages."
+    },
+    {
+      "title": "EU Sustainable Tourism Strategy 2026",
+      "description": "EC COM(2026)777 Nov 4, tourism data and regional infrastructure; UPDATE existing EU strategy #8962."
+    },
+    {
+      "title": "ETC European Tourism Q3/2026",
+      "description": "Europe summer arrivals +3%, Malta +18%, Slovakia +15%, Ireland +13%; NEW country comparison."
+    },
+    {
+      "title": "Airbnb Q3 2026 investment analysis",
+      "description": "Airbnb +19% revenue, $27.7bn GBV, Nights and Seats +16%; NEW earnings analysis vs hotels."
+    },
+    {
+      "title": "Georgia construction costs September 2026",
+      "description": "Geostat Sept CCI: official release Nov 6; original PDF table pending before publishing secondary percentage figures."
     }
   ],
   "history": [
@@ -3276,7 +3407,7 @@
     }
   ],
   "seoSignals": {
-    "updatedAt": "7 ноября 2026",
+    "updatedAt": "8 ноября 2026",
     "sourceStatus": {
       "yandexWebmaster": "not_loaded",
       "googleSearchConsole": "blocked_subscription_required",
@@ -3425,14 +3556,14 @@
         "currentPeriodDataLoaded": false
       }
     ],
-    "sourceNote": "7 Nov 2026: GSC Wizard returned payment_required / subscription_required on both linked accounts (Primary and GSC Wizard), so GSC and linked GA4 reports cannot be read. Prior Yandex and Google metrics (dataAsOf 10 Oct 2026) are historical, preserved unchanged, currentPeriodDataLoaded remains false. No current-period metrics invented."
+    "sourceNote": "8 Nov 2026: Primary and GSC Wizard both returned payment_required / subscription_required; linked GA4 not accessible. Query rows retain actual historical measurement dates (10 Oct 2026). No fresh or invented SEO/AI traffic figures."
   },
   "sourcePolicy": {
     "dynamicCountryStats": true,
     "rule": "Если в текущем трендрадаре или публикациях International Investment появляется страна, которой нет в списке локальных источников, найти ее официальный государственный статистический орган и релевантный регулятор/реестр недвижимости, проверить официальный домен и добавить их в мониторинг как verification-источники."
   },
   "coverageMonitoring": {
-    "updatedAt": "7 ноября 2026",
+    "updatedAt": "8 ноября 2026",
     "auditWindowDays": 90,
     "freshnessRules": {
       "freshMaxDays": 14,
@@ -3457,6 +3588,30 @@
       "Не предлагать материал только ради частоты публикаций, если существенного обновления рынка нет."
     ],
     "gaps": [
+      {
+        "country": "ОАЭ / Wynn",
+        "theme": "Ras Al Khaimah Q3 resort update",
+        "status": "high",
+        "reason": "Wynn Nov 5 filing confirms opening Sept 2027; update existing site #9020."
+      },
+      {
+        "country": "Грузия",
+        "theme": "September 2026 construction cost PDF check",
+        "status": "high",
+        "reason": "Geostat release Nov 6 primary PDF still unread; GBC figures secondary."
+      },
+      {
+        "country": "Европа / ETC",
+        "theme": "Q3/2026 arrivals country comparison",
+        "status": "urgent",
+        "reason": "ETC 5 Nov original: +3% Europe, Malta +18%, Slovakia +15%, Ireland +13%."
+      },
+      {
+        "country": "ЕС",
+        "theme": "EU tourism strategy 4 Nov implemented timetable",
+        "status": "urgent",
+        "reason": "Actual Commission release now replaces future-tense site #8962."
+      },
       {
         "country": "Еврозона",
         "theme": "October HICP / real estate financing",
@@ -3532,52 +3687,52 @@
     ]
   },
   "dailyUpdate": {
-    "date": "7 ноября 2026",
+    "date": "8 ноября 2026",
     "items": [
       {
-        "label": "VERIFIED / EDITORIAL",
-        "title": "Испания: €14,488 млрд туристических расходов за сентябрь",
-        "signal": "Расходы +8,1% г/г при прибытиях +4,3% — публикации 4 ноября.",
-        "action": "Новый материал RU/EN; связать с туризмом Испании и гостиничной инвестиционной аналитикой.",
-        "source": "INE EGATUR + FRONTUR",
-        "url": "https://www.ine.es/dyngs/Prensa/en/EGATUR0926.htm",
-        "priority": "urgent"
+        "label": "5/5 / UPDATE / 8 Nov",
+        "title": "ЕС: стратегия устойчивого туризма официально представлена",
+        "source": "European Commission 4 Nov",
+        "url": "https://transport.ec.europa.eu/news-events/news/commission-strengthens-europes-position-worlds-leading-tourism-destination-2026-11-04_en",
+        "priority": "urgent",
+        "signal": "COM(2026)777 officially presented 4 Nov; site #8962 has old future-tense coverage.",
+        "action": "UPDATE existing #8962 and crosslink #7657; 8 Nov"
       },
       {
-        "label": "VERIFIED / EDITORIAL",
-        "title": "EMEA Living: €44,6 млрд за девять месяцев",
-        "signal": "YTD +8%, Q3 €11 млрд (-12%).",
-        "action": "Новый материал RU/EN о multifamily и PBSA; обновить европейские инвестиционные хабы.",
-        "source": "JLL 2 Nov",
-        "url": "https://www.jll.com/en-uk/insights/market-dynamics/emea-living-capital-markets",
-        "priority": "urgent"
+        "label": "5/5 / NEW / 8 Nov",
+        "title": "ETC: Европа +3%, Мальта +18%, Словакия +15%",
+        "source": "European Travel Commission 5 Nov",
+        "url": "https://etc-corporate.org/reports/european-tourism-trends-prospects-q3-2026/",
+        "priority": "urgent",
+        "signal": "Summer Q3/2026 Europe arrivals +3%; 80% of sampled markets positive, Malta +18%, Slovakia +15%, Ireland +13%.",
+        "action": "NEW bilingual article with country table; 8 Nov"
       },
       {
-        "label": "VERIFIED / EDITORIAL",
-        "title": "Инфляция еврозоны достигла 4,0%",
-        "signal": "HICP +4,0% г/г, энергия +20,8%.",
-        "action": "Обзор RU/EN с таблицей стран; связать со стоимостью кредита и арендным рынком.",
-        "source": "Eurostat 4 Nov",
-        "url": "https://ec.europa.eu/eurostat/en/web/products-euro-indicators/w/2-04112026-ap",
-        "priority": "high"
+        "label": "4/5 / NEW / 8 Nov",
+        "title": "Airbnb: Q3 revenue $4.9bn, +19%",
+        "source": "Airbnb 5 Nov",
+        "url": "https://news.airbnb.com/airbnb-q3-2026-financial-results",
+        "priority": "high",
+        "signal": "GBV $27.7bn +21%; Nights and Seats Booked +16%.",
+        "action": "NEW RU/EN report; 8 Nov"
       },
       {
-        "label": "VERIFIED / EDITORIAL",
-        "title": "США: недельный RevPAR +9,7%",
-        "signal": "Неделя 25–31 октября, спрос +4,8%; global ex-US RevPAR +1,2%.",
-        "action": "Новая гостиничная аналитика; сопоставить с ex-US +1,2%, обновить тематический evergreen.",
-        "source": "CoStar / STR 6 Nov",
-        "url": "https://www.costar.com/article/206666998/strong-weekday-us-hotel-demand-outweighs-halloween-weekend-slowdown",
-        "priority": "high"
+        "label": "4/5 / UPDATE / 9 Nov",
+        "title": "Georgia CCI September: commercial vs residential divergence",
+        "source": "Geostat Nov 6; GBC secondary",
+        "url": "https://www.geostat.ge/index.php/en/single-news/3891/construction-cost-index-in-georgia-september-2026",
+        "priority": "high",
+        "signal": "Original official PDF linked but not parsed; secondary all +6%, residential +0.7%, nonresidential +10.2%.",
+        "action": "Verify official PDF numbers, then UPDATE #8836 on 9 Nov"
       },
       {
-        "label": "VERIFIED / EDITORIAL",
-        "title": "Skift: 59 октябрьских объявлений о travel capital",
-        "signal": "59 announcements in Oct; no aggregated USD investment total.",
-        "action": "Обзор RU/EN hotel asset sales / aviation / travel AI; связать с ранее опубликованными гостиничными инвестициями.",
-        "source": "Skift 2 Nov",
-        "url": "https://newsletters.skift.com/p/travel-s-next-dollar",
-        "priority": "high"
+        "label": "4/5 / UPDATE / 9 Nov",
+        "title": "Wynn Al Marjan: target Sept 2027, opening format pending",
+        "source": "Wynn 5 Nov / Skift 6 Nov",
+        "url": "https://investors.wynnresorts.com/news-releases/news-release-details/wynn-resorts-limited-reports-third-quarter-2026-results",
+        "priority": "high",
+        "signal": "Company Q3 confirms date; Skift reports CEO opening-format decision around February 2027.",
+        "action": "UPDATE existing #9020 on 9 Nov; avoid duplicate"
       }
     ]
   }
