@@ -8175,7 +8175,7 @@
     },
     "sync": {
       "trendRadarData": "./data/trends.json",
-      "sitePublications": "./data/coverage-scan-2026-11-08.json",
+      "sitePublications": "./data/coverage-publications.json",
       "analyticsDashboard": "../index.html",
       "analyticsSourceUpdated": "17.10.2026",
       "analyticsLanguagePeriod": "20–26.09.2026",
