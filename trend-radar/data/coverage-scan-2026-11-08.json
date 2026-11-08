@@ -1,10 +1,10 @@
 {
   "auditAt": "2026-11-08",
-  "window": "2026-10-09/2026-11-08",
+  "window": "2026-08-10/2026-11-08",
   "language": "en",
   "source": "internationalinvestment.biz/en/YYYY/MM/DD date archives",
-  "pagesAttempted": 31,
-  "pagesRead": 27,
+  "pagesAttempted": 91,
+  "pagesRead": 86,
   "articles": [
     {
       "id": "9070",
@@ -3033,6 +3033,4667 @@
         "Инвестиции"
       ],
       "excerptCategories": "Real Estate\n/\nInvestments\n/\nAnalytics\n/\nReviews\n/\nNews\n/\nКипр\n/\nReal Estate Cyprus"
+    },
+    {
+      "id": "8918",
+      "date": "2026-10-08",
+      "title": "Israeli Hotels Lose One Million Overnight Stays in 2026",
+      "url": "https://internationalinvestment.biz/en/business/8918-israeli-hotels-lose-one-million-overnight-stays-in-2026.html",
+      "lang": "en",
+      "countries": [
+        "Израиль"
+      ],
+      "scope": "country",
+      "themes": [
+        "Туризм",
+        "Отели и гостиничный бизнес"
+      ],
+      "excerptCategories": "Business\n/\nTourism & hospitality\n/\nAnalytics\n/\nReviews\n/\nNews\n/\nIsrael\n/\nTourism Israel"
+    },
+    {
+      "id": "8916",
+      "date": "2026-10-08",
+      "title": "Short-Term Rentals in Europe Continue to Grow Despite Restrictions",
+      "url": "https://internationalinvestment.biz/en/real-estate/8916-short-term-rentals-in-europe-continue-to-grow-despite-restrictions.html",
+      "lang": "en",
+      "countries": [
+        "Испания",
+        "Италия",
+        "Нидерланды",
+        "Франция"
+      ],
+      "scope": "multi-country",
+      "themes": [
+        "Недвижимость",
+        "Инвестиции",
+        "Отели и гостиничный бизнес"
+      ],
+      "excerptCategories": "Real Estate\n/\nBusiness\n/\nInvestments\n/\nAnalytics\n/\nReviews\n/\nFrance\n/\nNetherlands\n/\nSpain\n/\nItaly"
+    },
+    {
+      "id": "8913",
+      "date": "2026-10-08",
+      "title": "Hostels Are Becoming an Institutional Real Estate Class",
+      "url": "https://internationalinvestment.biz/en/real-estate/8913-hostels-are-becoming-an-institutional-real-estate-class.html",
+      "lang": "en",
+      "countries": [
+        "Германия"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость",
+        "Инвестиции",
+        "Туризм"
+      ],
+      "excerptCategories": "Real Estate\n/\nBusiness\n/\nInvestments\n/\nTourism & hospitality\n/\nAnalytics\n/\nReviews\n/\nGermany\n/\nReal Estate Germany"
+    },
+    {
+      "id": "8914",
+      "date": "2026-10-08",
+      "title": "Georgia’s GDP in 2026: Growth Forecast Raised to 6.8%",
+      "url": "https://internationalinvestment.biz/en/investments/8914-georgias-gdp-in-2026-growth-forecast-raised-to-68.html",
+      "lang": "en",
+      "countries": [
+        "Грузия"
+      ],
+      "scope": "country",
+      "themes": [
+        "Инвестиции"
+      ],
+      "excerptCategories": "Investments\n/\nBusiness\n/\nAnalytics\n/\nReviews\n/\nNews\n/\nGeorgia"
+    },
+    {
+      "id": "8912",
+      "date": "2026-10-08",
+      "title": "Bulgaria Property 2026: Prices Rise, Sales Fall",
+      "url": "https://internationalinvestment.biz/en/real-estate/8912-bulgaria-property-2026-prices-rise-sales-fall.html",
+      "lang": "en",
+      "countries": [
+        "Болгария"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость",
+        "Инвестиции"
+      ],
+      "excerptCategories": "Real Estate\n/\nInvestments\n/\nAnalytics\n/\nNews\n/\nReviews\n/\nBulgaria\n/\nReal Estate Bulgaria"
+    },
+    {
+      "id": "8909",
+      "date": "2026-10-07",
+      "title": "Gulf Hotel Deals Stall as Valuations Reset",
+      "url": "https://internationalinvestment.biz/en/business/8909-gulf-hotel-deals-stall-as-valuations-reset.html",
+      "lang": "en",
+      "countries": [
+        "ОАЭ"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость",
+        "Инвестиции",
+        "Туризм",
+        "Отели и гостиничный бизнес"
+      ],
+      "excerptCategories": "Business\n/\nTourism & hospitality\n/\nInvestments\n/\nReal Estate\n/\nAnalytics\n/\nUnited Arab Emirates\n/\nNews"
+    },
+    {
+      "id": "8911",
+      "date": "2026-10-07",
+      "title": "Foreign Buyers Keep Retreating From Türkiye Housing",
+      "url": "https://internationalinvestment.biz/en/real-estate/8911-foreign-buyers-keep-retreating-from-turkiye-housing.html",
+      "lang": "en",
+      "countries": [
+        "Турция"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость",
+        "Инвестиции",
+        "Регулирование и правила для иностранных покупателей"
+      ],
+      "excerptCategories": "Real Estate\n/\nInvestments\n/\nAnalytics\n/\nReviews\n/\nNews\n/\nTurkey\n/\nReal Estate Turkey"
+    },
+    {
+      "id": "8908",
+      "date": "2026-10-07",
+      "title": "Thailand’s LTR Visas Generated $1.28 Billion",
+      "url": "https://internationalinvestment.biz/en/business/8908-thailands-ltr-visas-generated-128-billion.html",
+      "lang": "en",
+      "countries": [
+        "Таиланд"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость",
+        "Инвестиции",
+        "ВНЖ и миграция"
+      ],
+      "excerptCategories": "Business\n/\nReal Estate\n/\nInvestments\n/\nMigration\n/\nNews\n/\nReviews\n/\nThailand"
+    },
+    {
+      "id": "8907",
+      "date": "2026-10-07",
+      "title": "How to Get a Residence Permit in Armenia in 2026: What Changes from November 1",
+      "url": "https://internationalinvestment.biz/en/migration/8907-how-to-get-a-residence-permit-in-armenia-in-2026-what-changes-from-november-1.html",
+      "lang": "en",
+      "countries": [
+        "Армения"
+      ],
+      "scope": "country",
+      "themes": [
+        "ВНЖ и миграция"
+      ],
+      "excerptCategories": "Migration\n/\nReviews\n/\nNews\n/\nBusiness\n/\nArmenia"
+    },
+    {
+      "id": "8901",
+      "date": "2026-10-07",
+      "title": "Branded Residences 2026: Capital Moves to Resorts",
+      "url": "https://internationalinvestment.biz/en/real-estate/8901-branded-residences-2026-capital-moves-to-resorts.html",
+      "lang": "en",
+      "countries": [
+        "Великобритания",
+        "Грузия",
+        "ОАЭ",
+        "США"
+      ],
+      "scope": "multi-country",
+      "themes": [
+        "Недвижимость",
+        "Инвестиции",
+        "Туризм",
+        "Отели и гостиничный бизнес"
+      ],
+      "excerptCategories": "Real Estate\n/\nInvestments\n/\nTourism & hospitality\n/\nAnalytics\n/\nReviews\n/\nNews\n/\nUSA\n/\nReal Estate USA\n/\nTourism USA\n/\nUnited Kingdom\n/\nReal Estate Britain\n/\nTourism Britain\n/\nUnited Arab Emirates\n/\nReal Estate UAE\n/\nTou"
+    },
+    {
+      "id": "8906",
+      "date": "2026-10-06",
+      "title": "Where Europe’s Hotel Markets Are Growing Fastest",
+      "url": "https://internationalinvestment.biz/en/real-estate/8906-where-europes-hotel-markets-are-growing-fastest.html",
+      "lang": "en",
+      "countries": [
+        "Австрия",
+        "Греция",
+        "Грузия",
+        "Испания",
+        "Польша",
+        "Португалия",
+        "Чехия"
+      ],
+      "scope": "multi-country",
+      "themes": [
+        "Недвижимость",
+        "Инвестиции",
+        "Туризм",
+        "Отели и гостиничный бизнес"
+      ],
+      "excerptCategories": "Real Estate\n/\nBusiness\n/\nInvestments\n/\nTourism & hospitality\n/\nAnalytics\n/\nNews\n/\nReviews\n/\nAustria\n/\nSpain\n/\nPortugal\n/\nPoland\n/\nCzech Republic\n/\nGreece\n/\nGeorgia"
+    },
+    {
+      "id": "8904",
+      "date": "2026-10-06",
+      "title": "EB-5 in 2026: How Much Does a U.S. Investor Visa Cost?",
+      "url": "https://internationalinvestment.biz/en/investments/8904-eb-5-in-2026-how-much-does-a-us-investor-visa-cost.html",
+      "lang": "en",
+      "countries": [
+        "США"
+      ],
+      "scope": "country",
+      "themes": [
+        "Инвестиции",
+        "ВНЖ и миграция"
+      ],
+      "excerptCategories": "Investments\n/\nBusiness\n/\nMigration\n/\nReviews\n/\nUSA"
+    },
+    {
+      "id": "8903",
+      "date": "2026-10-06",
+      "title": "Switzerland Prepares Restrictions for Foreign Property Buyers",
+      "url": "https://internationalinvestment.biz/en/real-estate/8903-switzerland-prepares-restrictions-for-foreign-property-buyers.html",
+      "lang": "en",
+      "countries": [
+        "Швейцария"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость",
+        "Инвестиции"
+      ],
+      "excerptCategories": "Real Estate\n/\nInvestments\n/\nBusiness\n/\nNews\n/\nReviews\n/\nSwitzerland\n/\nReal Estate Switzerland"
+    },
+    {
+      "id": "8902",
+      "date": "2026-10-06",
+      "title": "Israel’s GDP Surges After Early-Year Contraction",
+      "url": "https://internationalinvestment.biz/en/business/8902-israels-gdp-surges-after-early-year-contraction.html",
+      "lang": "en",
+      "countries": [
+        "Израиль"
+      ],
+      "scope": "country",
+      "themes": [
+        "Инвестиции"
+      ],
+      "excerptCategories": "Business\n/\nInvestments\n/\nAnalytics\n/\nNews\n/\nReviews\n/\nIsrael"
+    },
+    {
+      "id": "8897",
+      "date": "2026-10-06",
+      "title": "Georgia Property 2026: Tbilisi and Batumi Diverge",
+      "url": "https://internationalinvestment.biz/en/georgia/8897-georgia-property-2026-tbilisi-and-batumi-diverge.html",
+      "lang": "en",
+      "countries": [
+        "Грузия"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость"
+      ],
+      "excerptCategories": "Georgia\n/\nReal Estate Georgia\n/\nNews\n/\nAnalytics\n/\nReal Estate"
+    },
+    {
+      "id": "8898",
+      "date": "2026-10-05",
+      "title": "Wynn Reshapes Ras Al Khaimah Property Market",
+      "url": "https://internationalinvestment.biz/en/uae/8898-wynn-reshapes-ras-al-khaimah-property-market.html",
+      "lang": "en",
+      "countries": [
+        "ОАЭ"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость"
+      ],
+      "excerptCategories": "United Arab Emirates\n/\nReal Estate UAE\n/\nReal Estate\n/\nAnalytics\n/\nNews"
+    },
+    {
+      "id": "8899",
+      "date": "2026-10-05",
+      "title": "iPhone Index: Where Apple Smartphones Are Most and Least Expensive",
+      "url": "https://internationalinvestment.biz/en/ratings/8899-iphone-index-where-apple-smartphones-are-most-and-least-expensive.html",
+      "lang": "en",
+      "countries": [
+        "Австралия",
+        "Египет",
+        "Канада",
+        "Китай",
+        "ОАЭ",
+        "Россия",
+        "США",
+        "Таиланд",
+        "Турция",
+        "Филиппины",
+        "Швейцария"
+      ],
+      "scope": "multi-country",
+      "themes": [],
+      "excerptCategories": "Ratings\n/\nReviews\n/\nUSA\n/\nCanada\n/\nUnited Arab Emirates\n/\nSwitzerland\n/\nThailand\n/\nAustralia\n/\nChina\n/\nPhilippines\n/\nTurkey\n/\nRussia\n/\nEgypt"
+    },
+    {
+      "id": "8896",
+      "date": "2026-10-05",
+      "title": "Georgia’s Hospitality Sector Outpaced Construction in Turnover Growth",
+      "url": "https://internationalinvestment.biz/en/business/8896-georgias-hospitality-sector-outpaced-construction-in-turnover-growth.html",
+      "lang": "en",
+      "countries": [
+        "Грузия"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость",
+        "Инвестиции",
+        "Туризм",
+        "Отели и гостиничный бизнес"
+      ],
+      "excerptCategories": "Business\n/\nReal Estate\n/\nInvestments\n/\nTourism & hospitality\n/\nAnalytics\n/\nResearch\n/\nGeorgia\n/\nReal Estate Georgia"
+    },
+    {
+      "id": "8889",
+      "date": "2026-10-05",
+      "title": "Greece to Step Up Checks on Short-Term Rental Income",
+      "url": "https://internationalinvestment.biz/en/real-estate/8889-greece-to-step-up-checks-on-short-term-rental-income.html",
+      "lang": "en",
+      "countries": [
+        "Греция"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость",
+        "Инвестиции",
+        "Отели и гостиничный бизнес"
+      ],
+      "excerptCategories": "Real Estate\n/\nBusiness\n/\nInvestments\n/\nNews\n/\nReviews\n/\nGreece\n/\nReal Estate Greece"
+    },
+    {
+      "id": "8882",
+      "date": "2026-10-03",
+      "title": "Greece Softens Property Tax Plan for Non-EU Buyers",
+      "url": "https://internationalinvestment.biz/en/greece/8882-greece-softens-property-tax-plan-for-non-eu-buyers.html",
+      "lang": "en",
+      "countries": [
+        "Греция"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость",
+        "ВНЖ и миграция",
+        "Налоги для инвесторов"
+      ],
+      "excerptCategories": "Greece\n/\nReal Estate Greece\n/\nNews\n/\nReal Estate\n/\nAnalytics\n/\nMigration"
+    },
+    {
+      "id": "8890",
+      "date": "2026-10-02",
+      "title": "Mass cancellations of new-build home deals in southern Israel",
+      "url": "https://internationalinvestment.biz/en/business/8890-mass-cancellations-of-new-build-home-deals-in-southern-israel.html",
+      "lang": "en",
+      "countries": [
+        "Израиль"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость",
+        "Инвестиции"
+      ],
+      "excerptCategories": "Business\n/\nReal Estate\n/\nInvestments\n/\nNews\n/\nReviews\n/\nAnalytics\n/\nIsrael\n/\nReal Estate"
+    },
+    {
+      "id": "8893",
+      "date": "2026-10-02",
+      "title": "Russia Targets 107 Million Tourist Trips as Bookings Decline",
+      "url": "https://internationalinvestment.biz/en/tourism/8893-russia-targets-107-million-tourist-trips-as-bookings-decline.html",
+      "lang": "en",
+      "countries": [
+        "Россия"
+      ],
+      "scope": "country",
+      "themes": [
+        "Инвестиции",
+        "Туризм"
+      ],
+      "excerptCategories": "Tourism & hospitality\n/\nNews\n/\nReviews\n/\nAnalytics\n/\nRussia\n/\nTourism Russia\n/\nInvestments"
+    },
+    {
+      "id": "8888",
+      "date": "2026-10-02",
+      "title": "Georgia Expands East-West Highway",
+      "url": "https://internationalinvestment.biz/en/georgia/8888-georgia-expands-east-west-highway.html",
+      "lang": "en",
+      "countries": [
+        "Грузия"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость",
+        "Инвестиции",
+        "Туризм"
+      ],
+      "excerptCategories": "Georgia\n/\nNews\n/\nAnalytics\n/\nBusiness\n/\nTourism & hospitality\n/\nReal Estate\n/\nInvestments"
+    },
+    {
+      "id": "8892",
+      "date": "2026-10-02",
+      "title": "Dubai Property Sales Stay High as Prices Fall",
+      "url": "https://internationalinvestment.biz/en/uae/8892-dubai-property-sales-stay-high-as-prices-fall.html",
+      "lang": "en",
+      "countries": [
+        "ОАЭ"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость",
+        "Инвестиции"
+      ],
+      "excerptCategories": "United Arab Emirates\n/\nReal Estate UAE\n/\nReal Estate\n/\nNews\n/\nAnalytics\n/\nInvestments"
+    },
+    {
+      "id": "8891",
+      "date": "2026-10-01",
+      "title": "Indonesia Property Market Could Reach $156.2 Billion",
+      "url": "https://internationalinvestment.biz/en/indonesia/8891-indonesia-property-market-could-reach-1562-billion.html",
+      "lang": "en",
+      "countries": [
+        "Индонезия"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость",
+        "Туризм"
+      ],
+      "excerptCategories": "Indonesia\n/\nReal Estate Indonesia\n/\nNews\n/\nReal Estate\n/\nAnalytics\n/\nReviews\n/\nTourism Indonesia\n/\nTourism & hospitality"
+    },
+    {
+      "id": "8878",
+      "date": "2026-10-01",
+      "title": "Serbia Housing Construction Accelerates in July",
+      "url": "https://internationalinvestment.biz/en/serbia/8878-serbia-housing-construction-accelerates-in-july.html",
+      "lang": "en",
+      "countries": [
+        "Сербия"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость"
+      ],
+      "excerptCategories": "Serbia\n/\nReal Estate Serbia\n/\nNews\n/\nReal Estate\n/\nAnalytics"
+    },
+    {
+      "id": "8887",
+      "date": "2026-10-01",
+      "title": "Georgian doctor saves Flydubai captain after attack",
+      "url": "https://internationalinvestment.biz/en/tourism/8887-georgian-doctor-saves-flydubai-captain-after-attack.html",
+      "lang": "en",
+      "countries": [
+        "Грузия",
+        "Израиль",
+        "ОАЭ"
+      ],
+      "scope": "multi-country",
+      "themes": [
+        "Туризм"
+      ],
+      "excerptCategories": "Tourism & hospitality\n/\nNews\n/\nReviews\n/\nGeorgia\n/\nIsrael\n/\nUnited Arab Emirates"
+    },
+    {
+      "id": "8886",
+      "date": "2026-10-01",
+      "title": "French Inflation Accelerates to 3.4%",
+      "url": "https://internationalinvestment.biz/en/france/8886-french-inflation-accelerates-to-34.html",
+      "lang": "en",
+      "countries": [
+        "Франция"
+      ],
+      "scope": "country",
+      "themes": [
+        "Инвестиции"
+      ],
+      "excerptCategories": "France\n/\nAnalytics\n/\nBusiness\n/\nInvestments\n/\nNews"
+    },
+    {
+      "id": "8884",
+      "date": "2026-10-01",
+      "title": "Cyprus Housing Prices Rise 8.5% in a Year",
+      "url": "https://internationalinvestment.biz/en/real-estate/8884-cyprus-housing-prices-rise-85-in-a-year.html",
+      "lang": "en",
+      "countries": [],
+      "scope": "unassigned",
+      "themes": [
+        "Недвижимость",
+        "Инвестиции"
+      ],
+      "excerptCategories": "Real Estate\n/\nInvestments\n/\nAnalytics\n/\nReviews\n/\nNews\n/\nКипр\n/\nReal Estate Cyprus"
+    },
+    {
+      "id": "8885",
+      "date": "2026-09-30",
+      "title": "Plane Drops 5 km After Pilots Fight on Dubai–Tel Aviv Flight",
+      "url": "https://internationalinvestment.biz/en/tourism/8885-plane-drops-5-km-after-pilots-fight-on-dubaitel-aviv-flight.html",
+      "lang": "en",
+      "countries": [
+        "Израиль",
+        "ОАЭ"
+      ],
+      "scope": "multi-country",
+      "themes": [
+        "Туризм"
+      ],
+      "excerptCategories": "Tourism & hospitality\n/\nNews\n/\nReviews\n/\nIsrael\n/\nUnited Arab Emirates"
+    },
+    {
+      "id": "8867",
+      "date": "2026-09-30",
+      "title": "Greek Tax Rise Could Hit Holiday Homes",
+      "url": "https://internationalinvestment.biz/en/greece/8867-greek-tax-rise-could-hit-holiday-homes.html",
+      "lang": "en",
+      "countries": [
+        "Греция"
+      ],
+      "scope": "country",
+      "themes": [
+        "Инвестиции",
+        "Налоги для инвесторов"
+      ],
+      "excerptCategories": "Greece\n/\nReal Estate Greece\n/\nTourism Greece\n/\nNews\n/\nInvestments\n/\nAnalytics"
+    },
+    {
+      "id": "8881",
+      "date": "2026-09-30",
+      "title": "Madrid Faces New Protests Over Rising Housing Costs",
+      "url": "https://internationalinvestment.biz/en/spain/8881-madrid-faces-new-protests-over-rising-housing-costs.html",
+      "lang": "en",
+      "countries": [
+        "Испания"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость",
+        "Отели и гостиничный бизнес"
+      ],
+      "excerptCategories": "Spain\n/\nReal Estate Spain\n/\nReal Estate\n/\nNews"
+    },
+    {
+      "id": "8883",
+      "date": "2026-09-30",
+      "title": "Tbilisi to Receive New Metro Trains from China",
+      "url": "https://internationalinvestment.biz/en/news/8883-tbilisi-to-receive-new-metro-trains-from-china.html",
+      "lang": "en",
+      "countries": [
+        "Грузия",
+        "Китай"
+      ],
+      "scope": "multi-country",
+      "themes": [],
+      "excerptCategories": "News\n/\nBusiness\n/\nReviews\n/\nGeorgia\n/\nChina"
+    },
+    {
+      "id": "8857",
+      "date": "2026-09-30",
+      "title": "Austria’s Commercial Student Housing Market Remains Small",
+      "url": "https://internationalinvestment.biz/en/austria/8857-austrias-commercial-student-housing-market-remains-small.html",
+      "lang": "en",
+      "countries": [
+        "Австрия"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость",
+        "Инвестиции"
+      ],
+      "excerptCategories": "Austria\n/\nReal Estate Austria\n/\nReal Estate\n/\nNews\n/\nAnalytics\n/\nBusiness\n/\nInvestments"
+    },
+    {
+      "id": "8879",
+      "date": "2026-09-29",
+      "title": "Bulgarian Home Sales Fall as Prices Keep Rising",
+      "url": "https://internationalinvestment.biz/en/bulgaria/8879-bulgarian-home-sales-fall-as-prices-keep-rising.html",
+      "lang": "en",
+      "countries": [
+        "Болгария"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость"
+      ],
+      "excerptCategories": "Bulgaria\n/\nReal Estate Bulgaria\n/\nReal Estate\n/\nNews\n/\nAnalytics"
+    },
+    {
+      "id": "8877",
+      "date": "2026-09-29",
+      "title": "Number of Land Plots for New Housing in Israel Halves",
+      "url": "https://internationalinvestment.biz/en/real-estate/8877-number-of-land-plots-for-new-housing-in-israel-halves.html",
+      "lang": "en",
+      "countries": [
+        "Израиль"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость",
+        "Инвестиции"
+      ],
+      "excerptCategories": "Real Estate\n/\nInvestments\n/\nNews\n/\nAnalytics\n/\nIsrael\n/\nReal Estate"
+    },
+    {
+      "id": "8876",
+      "date": "2026-09-29",
+      "title": "Georgia to Abolish Property Tax for Incomes Up to GEL 100,000",
+      "url": "https://internationalinvestment.biz/en/real-estate/8876-georgia-to-abolish-property-tax-for-incomes-up-to-gel-100000.html",
+      "lang": "en",
+      "countries": [
+        "Грузия"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость",
+        "Инвестиции",
+        "Налоги для инвесторов"
+      ],
+      "excerptCategories": "Real Estate\n/\nInvestments\n/\nNews\n/\nReviews\n/\nAnalytics\n/\nGeorgia\n/\nReal Estate Georgia"
+    },
+    {
+      "id": "8855",
+      "date": "2026-09-29",
+      "title": "Estonia Scraps Part of Planned Tax Hikes",
+      "url": "https://internationalinvestment.biz/en/business/8855-estonia-scraps-part-of-planned-tax-hikes.html",
+      "lang": "en",
+      "countries": [
+        "Эстония"
+      ],
+      "scope": "country",
+      "themes": [
+        "Инвестиции",
+        "Налоги для инвесторов"
+      ],
+      "excerptCategories": "Business\n/\nEstonia\n/\nAnalytics\n/\nNews\n/\nInvestments"
+    },
+    {
+      "id": "8874",
+      "date": "2026-09-29",
+      "title": "EU Housing Prices Rise 5.1%: Where Prices Are Growing Fastest",
+      "url": "https://internationalinvestment.biz/en/real-estate/8874-eu-housing-prices-rise-51-where-prices-are-growing-fastest.html",
+      "lang": "en",
+      "countries": [
+        "Австрия",
+        "Бельгия",
+        "Болгария",
+        "Германия",
+        "Испания",
+        "Латвия",
+        "Литва",
+        "Португалия",
+        "Словакия",
+        "Финляндия",
+        "Франция",
+        "Хорватия"
+      ],
+      "scope": "multi-country",
+      "themes": [
+        "Недвижимость",
+        "Инвестиции"
+      ],
+      "excerptCategories": "Real Estate\n/\nInvestments\n/\nNews\n/\nReviews\n/\nAnalytics\n/\nPortugal\n/\nBulgaria\n/\nSlovakia\n/\nCroatia\n/\nSpain\n/\nLitva\n/\nLatvia\n/\nGermany\n/\nFrance\n/\nAustria\n/\nBelgium\n/\nFinland"
+    },
+    {
+      "id": "8875",
+      "date": "2026-09-28",
+      "title": "Georgia Aviation Holds Growth as Fuel Costs Rise",
+      "url": "https://internationalinvestment.biz/en/georgia/8875-georgia-aviation-holds-growth-as-fuel-costs-rise.html",
+      "lang": "en",
+      "countries": [
+        "Грузия"
+      ],
+      "scope": "country",
+      "themes": [
+        "Туризм"
+      ],
+      "excerptCategories": "Georgia\n/\nTourism Georgia\n/\nTourism & hospitality\n/\nBusiness\n/\nNews\n/\nAnalytics"
+    },
+    {
+      "id": "8872",
+      "date": "2026-09-28",
+      "title": "Serbia Building Permits Rise 8.6% in July",
+      "url": "https://internationalinvestment.biz/en/serbia/8872-serbia-building-permits-rise-86-in-july.html",
+      "lang": "en",
+      "countries": [
+        "Сербия"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость"
+      ],
+      "excerptCategories": "Serbia\n/\nReal Estate Serbia\n/\nReal Estate\n/\nNews\n/\nAnalytics"
+    },
+    {
+      "id": "8873",
+      "date": "2026-09-28",
+      "title": "Investment Fund Crisis in Turkey: 455,000 Fund Holders Await Payments",
+      "url": "https://internationalinvestment.biz/en/business/8873-investment-fund-crisis-in-turkey-455000-fund-holders-await-payments.html",
+      "lang": "en",
+      "countries": [
+        "Турция"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость",
+        "Инвестиции"
+      ],
+      "excerptCategories": "Business\n/\nInvestments\n/\nReal Estate\n/\nAnalytics\n/\nNews\n/\nReviews\n/\nTurkey\n/\nReal Estate Turkey"
+    },
+    {
+      "id": "8843",
+      "date": "2026-09-28",
+      "title": "Croatia Has Buyers but Too Few Properties for Sale",
+      "url": "https://internationalinvestment.biz/en/investments/8843-croatia-has-buyers-but-too-few-properties-for-sale.html",
+      "lang": "en",
+      "countries": [
+        "Хорватия"
+      ],
+      "scope": "country",
+      "themes": [
+        "Инвестиции"
+      ],
+      "excerptCategories": "Investments\n/\nAnalytics\n/\nCroatia\n/\nReal Estate Croatia\n/\nNews"
+    },
+    {
+      "id": "8871",
+      "date": "2026-09-28",
+      "title": "Israel Assesses Georgia’s Health Tourism Potential",
+      "url": "https://internationalinvestment.biz/en/tourism/8871-israel-assesses-georgias-health-tourism-potential.html",
+      "lang": "en",
+      "countries": [
+        "Грузия",
+        "Израиль"
+      ],
+      "scope": "multi-country",
+      "themes": [
+        "Инвестиции",
+        "Туризм"
+      ],
+      "excerptCategories": "Tourism & hospitality\n/\nReviews\n/\nGeorgia\n/\nTourism Georgia\n/\nIsrael\n/\nInvestments"
+    },
+    {
+      "id": "8861",
+      "date": "2026-09-28",
+      "title": "US Mortgage Rates Climb Above 7% Again",
+      "url": "https://internationalinvestment.biz/en/usa/8861-us-mortgage-rates-climb-above-7-again.html",
+      "lang": "en",
+      "countries": [
+        "США"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость"
+      ],
+      "excerptCategories": "USA\n/\nReal Estate USA\n/\nReal Estate\n/\nNews\n/\nAnalytics"
+    },
+    {
+      "id": "8863",
+      "date": "2026-09-27",
+      "title": "Vienna Rents Rise as Housing Supply Expands",
+      "url": "https://internationalinvestment.biz/en/real-estate/8863-vienna-rents-rise-as-housing-supply-expands.html",
+      "lang": "en",
+      "countries": [
+        "Австрия"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость"
+      ],
+      "excerptCategories": "Real Estate\n/\nAustria\n/\nReal Estate Austria\n/\nNews\n/\nAnalytics"
+    },
+    {
+      "id": "8868",
+      "date": "2026-09-27",
+      "title": "Athens Affordable Housing Shortage Deepens",
+      "url": "https://internationalinvestment.biz/en/greece/8868-athens-affordable-housing-shortage-deepens.html",
+      "lang": "en",
+      "countries": [
+        "Греция"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость"
+      ],
+      "excerptCategories": "Greece\n/\nReal Estate Greece\n/\nNews\n/\nReal Estate\n/\nAnalytics"
+    },
+    {
+      "id": "8851",
+      "date": "2026-09-26",
+      "title": "Local Investors Gain Ground in Estonia",
+      "url": "https://internationalinvestment.biz/en/estonia/8851-local-investors-gain-ground-in-estonia.html",
+      "lang": "en",
+      "countries": [
+        "Эстония"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость",
+        "Инвестиции"
+      ],
+      "excerptCategories": "Estonia\n/\nReal Estate Estonia\n/\nNews\n/\nInvestments\n/\nAnalytics\n/\nBusiness\n/\nReal Estate"
+    },
+    {
+      "id": "8870",
+      "date": "2026-09-25",
+      "title": "Israeli Developers Start Renting Out Unsold Apartments",
+      "url": "https://internationalinvestment.biz/en/real-estate/8870-israeli-developers-start-renting-out-unsold-apartments.html",
+      "lang": "en",
+      "countries": [
+        "Израиль"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость",
+        "Инвестиции"
+      ],
+      "excerptCategories": "Real Estate\n/\nBusiness\n/\nInvestments\n/\nNews\n/\nAnalytics\n/\nIsrael\n/\nReal Estate"
+    },
+    {
+      "id": "8850",
+      "date": "2026-09-25",
+      "title": "Croatia Ends Summer With a Record August",
+      "url": "https://internationalinvestment.biz/en/croatia/8850-croatia-ends-summer-with-a-record-august.html",
+      "lang": "en",
+      "countries": [
+        "Хорватия"
+      ],
+      "scope": "country",
+      "themes": [
+        "Туризм"
+      ],
+      "excerptCategories": "Croatia\n/\nTourism Croatia\n/\nTourism & hospitality\n/\nNews\n/\nAnalytics"
+    },
+    {
+      "id": "8869",
+      "date": "2026-09-25",
+      "title": "Georgia Ranks Among the Three Most Affordable New Year Destinations for Russians",
+      "url": "https://internationalinvestment.biz/en/tourism/8869-georgia-ranks-among-the-three-most-affordable-new-year-destinations-for-russians.html",
+      "lang": "en",
+      "countries": [
+        "Грузия",
+        "Россия"
+      ],
+      "scope": "multi-country",
+      "themes": [
+        "Туризм"
+      ],
+      "excerptCategories": "Tourism & hospitality\n/\nRatings\n/\nAnalytics\n/\nReviews\n/\nGeorgia\n/\nTourism Georgia\n/\nRussia"
+    },
+    {
+      "id": "8832",
+      "date": "2026-09-25",
+      "title": "More Finns Consider Renting Instead of Owning",
+      "url": "https://internationalinvestment.biz/en/finland/8832-more-finns-consider-renting-instead-of-owning.html",
+      "lang": "en",
+      "countries": [
+        "Финляндия"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость"
+      ],
+      "excerptCategories": "Finland\n/\nReal Estate Finland\n/\nReal Estate\n/\nNews\n/\nAnalytics"
+    },
+    {
+      "id": "8866",
+      "date": "2026-09-25",
+      "title": "Housing Bubble Risks in 2026: UBS City Rankings",
+      "url": "https://internationalinvestment.biz/en/real-estate/8866-housing-bubble-risks-in-2026-ubs-city-rankings.html",
+      "lang": "en",
+      "countries": [
+        "Австралия",
+        "Великобритания",
+        "Германия",
+        "Испания",
+        "Италия",
+        "Канада",
+        "Нидерланды",
+        "ОАЭ",
+        "Португалия",
+        "США",
+        "Франция",
+        "Швейцария",
+        "Япония"
+      ],
+      "scope": "multi-country",
+      "themes": [
+        "Недвижимость",
+        "Инвестиции"
+      ],
+      "excerptCategories": "Real Estate\n/\nInvestments\n/\nAnalytics\n/\nResearch\n/\nRatings\n/\nSwitzerland\n/\nJapan\n/\nPortugal\n/\nNetherlands\n/\nSinagpur\n/\nSpain\n/\nUSA\n/\nAustralia\n/\nGermany\n/\nCanada\n/\nItaly\n/\nUnited Kingdom\n/\nUnited Arab Emirates\n/\nFrance"
+    },
+    {
+      "id": "8864",
+      "date": "2026-09-25",
+      "title": "Greece Prepares 15% Home Tax for Third-Country Buyers",
+      "url": "https://internationalinvestment.biz/en/greece/8864-greece-prepares-15-home-tax-for-third-country-buyers.html",
+      "lang": "en",
+      "countries": [
+        "Греция"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость",
+        "Налоги для инвесторов",
+        "Регулирование и правила для иностранных покупателей"
+      ],
+      "excerptCategories": "Greece\n/\nReal Estate\n/\nReal Estate Greece\n/\nNews\n/\nAnalytics"
+    },
+    {
+      "id": "8865",
+      "date": "2026-09-24",
+      "title": "EU to Cut Recognition Time for Foreign Diplomas to Four Months",
+      "url": "https://internationalinvestment.biz/en/news/8865-eu-to-cut-recognition-time-for-foreign-diplomas-to-four-months.html",
+      "lang": "en",
+      "countries": [],
+      "scope": "unassigned",
+      "themes": [
+        "ВНЖ и миграция"
+      ],
+      "excerptCategories": "News\n/\nMigration\n/\nReviews"
+    },
+    {
+      "id": "8862",
+      "date": "2026-09-24",
+      "title": "Eagle Hills to Build New $3.4 Billion District in Tbilisi",
+      "url": "https://internationalinvestment.biz/en/business/8862-eagle-hills-to-build-new-34-billion-district-in-tbilisi.html",
+      "lang": "en",
+      "countries": [
+        "Грузия"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость",
+        "Инвестиции",
+        "Туризм"
+      ],
+      "excerptCategories": "Business\n/\nReal Estate\n/\nInvestments\n/\nTourism & hospitality\n/\nNews\n/\nReviews\n/\nGeorgia\n/\nReal Estate Georgia"
+    },
+    {
+      "id": "8860",
+      "date": "2026-09-24",
+      "title": "Chicago’s Aon Center Is Appraised at $195 Million",
+      "url": "https://internationalinvestment.biz/en/usa/8860-chicagos-aon-center-is-appraised-at-195-million.html",
+      "lang": "en",
+      "countries": [
+        "США"
+      ],
+      "scope": "country",
+      "themes": [
+        "Инвестиции"
+      ],
+      "excerptCategories": "USA\n/\nReal Estate USA\n/\nNews\n/\nInvestments\n/\nAnalytics\n/\nBusiness"
+    },
+    {
+      "id": "8829",
+      "date": "2026-09-24",
+      "title": "Israel Home Prices Rise for a Second Month",
+      "url": "https://internationalinvestment.biz/en/israel/8829-israel-home-prices-rise-for-a-second-month.html",
+      "lang": "en",
+      "countries": [
+        "Израиль"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость"
+      ],
+      "excerptCategories": "Israel\n/\nReal Estate\n/\nReal Estate\n/\nNews\n/\nAnalytics"
+    },
+    {
+      "id": "8859",
+      "date": "2026-09-24",
+      "title": "UK House Prices Rise for the First Time Since May",
+      "url": "https://internationalinvestment.biz/en/real-estate/8859-uk-house-prices-rise-for-the-first-time-since-may.html",
+      "lang": "en",
+      "countries": [
+        "Великобритания"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость",
+        "Инвестиции"
+      ],
+      "excerptCategories": "Real Estate\n/\nInvestments\n/\nAnalytics\n/\nResearch\n/\nNews\n/\nUnited Kingdom\n/\nReal Estate Britain"
+    },
+    {
+      "id": "8858",
+      "date": "2026-09-24",
+      "title": "Austria Tightens Property Tax Rules for Share Deals",
+      "url": "https://internationalinvestment.biz/en/austria/8858-austria-tightens-property-tax-rules-for-share-deals.html",
+      "lang": "en",
+      "countries": [
+        "Австрия"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость",
+        "Налоги для инвесторов"
+      ],
+      "excerptCategories": "Austria\n/\nReal Estate Austria\n/\nReal Estate\n/\nNews\n/\nAnalytics\n/\nBusiness"
+    },
+    {
+      "id": "8807",
+      "date": "2026-09-23",
+      "title": "Bathla Crisis Adds Risk to Australia’s Housing Supply",
+      "url": "https://internationalinvestment.biz/en/australia/8807-bathla-crisis-adds-risk-to-australias-housing-supply.html",
+      "lang": "en",
+      "countries": [
+        "Австралия"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость",
+        "Инвестиции"
+      ],
+      "excerptCategories": "Australia\n/\nReal Estate Australia\n/\nReal Estate\n/\nNews\n/\nInvestments\n/\nBusiness"
+    },
+    {
+      "id": "8856",
+      "date": "2026-09-23",
+      "title": "More Than 20,000 People Immigrated to Israel in One Year",
+      "url": "https://internationalinvestment.biz/en/news/8856-more-than-20000-people-immigrated-to-israel-in-one-year.html",
+      "lang": "en",
+      "countries": [
+        "Израиль"
+      ],
+      "scope": "country",
+      "themes": [
+        "ВНЖ и миграция"
+      ],
+      "excerptCategories": "News\n/\nMigration\n/\nReviews\n/\nIsrael"
+    },
+    {
+      "id": "8854",
+      "date": "2026-09-23",
+      "title": "Social Media in the UAE: Fines and Arrests for Comments",
+      "url": "https://internationalinvestment.biz/en/tourism/8854-social-media-in-the-uae-fines-and-arrests-for-comments.html",
+      "lang": "en",
+      "countries": [
+        "ОАЭ"
+      ],
+      "scope": "country",
+      "themes": [
+        "Туризм"
+      ],
+      "excerptCategories": "Tourism & hospitality\n/\nNews\n/\nUnited Arab Emirates\n/\nTourism UAE"
+    },
+    {
+      "id": "8853",
+      "date": "2026-09-23",
+      "title": "Middle Corridor in Georgia: $7 Billion for Transport Infrastructure Development",
+      "url": "https://internationalinvestment.biz/en/business/8853-middle-corridor-in-georgia-7-billion-for-transport-infrastructure-development.html",
+      "lang": "en",
+      "countries": [
+        "Грузия"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость",
+        "Инвестиции",
+        "Туризм"
+      ],
+      "excerptCategories": "Business\n/\nReal Estate\n/\nInvestments\n/\nTourism & hospitality\n/\nNews\n/\nReviews\n/\nGeorgia\n/\nTourism Georgia\n/\nReal Estate Georgia"
+    },
+    {
+      "id": "8852",
+      "date": "2026-09-23",
+      "title": "Estonian Developers Expand in Riga",
+      "url": "https://internationalinvestment.biz/en/estonia/8852-estonian-developers-expand-in-riga.html",
+      "lang": "en",
+      "countries": [
+        "Латвия",
+        "Эстония"
+      ],
+      "scope": "multi-country",
+      "themes": [
+        "Недвижимость"
+      ],
+      "excerptCategories": "Estonia\n/\nReal Estate Estonia\n/\nReal Estate\n/\nNews\n/\nAnalytics\n/\nLatvia\n/\nReal Estate Latvia"
+    },
+    {
+      "id": "8848",
+      "date": "2026-09-22",
+      "title": "Cairo Airport Replaces Paper Visas with QR Codes",
+      "url": "https://internationalinvestment.biz/en/news/8848-cairo-airport-replaces-paper-visas-with-qr-codes.html",
+      "lang": "en",
+      "countries": [
+        "Египет"
+      ],
+      "scope": "country",
+      "themes": [
+        "Туризм"
+      ],
+      "excerptCategories": "News\n/\nTourism & hospitality\n/\nReviews\n/\nEgypt\n/\nTourism Egypt"
+    },
+    {
+      "id": "8847",
+      "date": "2026-09-22",
+      "title": "Czechia Could Face a 500,000-Worker Gap",
+      "url": "https://internationalinvestment.biz/en/czech/8847-czechia-could-face-a-500000-worker-gap.html",
+      "lang": "en",
+      "countries": [
+        "Чехия"
+      ],
+      "scope": "country",
+      "themes": [
+        "Инвестиции",
+        "ВНЖ и миграция"
+      ],
+      "excerptCategories": "Czech Republic\n/\nBusiness\n/\nMigration\n/\nNews\n/\nInvestments\n/\nAnalytics"
+    },
+    {
+      "id": "8842",
+      "date": "2026-09-22",
+      "title": "Helsinki Tops Property Ranking for Foreign Investors",
+      "url": "https://internationalinvestment.biz/en/finland/8842-helsinki-tops-property-ranking-for-foreign-investors.html",
+      "lang": "en",
+      "countries": [
+        "Финляндия"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость",
+        "Инвестиции"
+      ],
+      "excerptCategories": "Finland\n/\nReal Estate Finland\n/\nNews\n/\nReal Estate\n/\nInvestments\n/\nAnalytics"
+    },
+    {
+      "id": "8845",
+      "date": "2026-09-22",
+      "title": "Housing Rents in Israel Begin to Decline",
+      "url": "https://internationalinvestment.biz/en/real-estate/8845-housing-rents-in-israel-begin-to-decline.html",
+      "lang": "en",
+      "countries": [
+        "Израиль"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость",
+        "Инвестиции"
+      ],
+      "excerptCategories": "Real Estate\n/\nInvestments\n/\nNews\n/\nAnalytics\n/\nIsrael\n/\nReal Estate"
+    },
+    {
+      "id": "8844",
+      "date": "2026-09-22",
+      "title": "Georgia Ranks Among the Top 20 Countries for Relocation in 2026",
+      "url": "https://internationalinvestment.biz/en/business/8844-georgia-ranks-among-the-top-20-countries-for-relocation-in-2026.html",
+      "lang": "en",
+      "countries": [
+        "Грузия"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость",
+        "Инвестиции",
+        "ВНЖ и миграция"
+      ],
+      "excerptCategories": "Business\n/\nReal Estate\n/\nInvestments\n/\nMigration\n/\nReviews\n/\nRatings\n/\nResearch\n/\nGeorgia\n/\nReal Estate Georgia"
+    },
+    {
+      "id": "8822",
+      "date": "2026-09-22",
+      "title": "Croatia Home Prices Rise as Sales Collapse",
+      "url": "https://internationalinvestment.biz/en/croatia/8822-croatia-home-prices-rise-as-sales-collapse.html",
+      "lang": "en",
+      "countries": [
+        "Хорватия"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость"
+      ],
+      "excerptCategories": "Croatia\n/\nReal Estate Croatia\n/\nReal Estate\n/\nNews\n/\nAnalytics"
+    },
+    {
+      "id": "8839",
+      "date": "2026-09-21",
+      "title": "Eric Trump Details Trump Tower Tbilisi Plans",
+      "url": "https://internationalinvestment.biz/en/georgia/8839-eric-trump-details-trump-tower-tbilisi-plans.html",
+      "lang": "en",
+      "countries": [
+        "Грузия"
+      ],
+      "scope": "country",
+      "themes": [
+        "Инвестиции"
+      ],
+      "excerptCategories": "Georgia\n/\nReal Estate Georgia\n/\nNews\n/\nAnalytics\n/\nReviews\n/\nInvestments\n/\nBusiness"
+    },
+    {
+      "id": "8838",
+      "date": "2026-09-21",
+      "title": "Czech Mortgage Rates Rise for Sixth Straight Month",
+      "url": "https://internationalinvestment.biz/en/czech/8838-czech-mortgage-rates-rise-for-sixth-straight-month.html",
+      "lang": "en",
+      "countries": [
+        "Чехия"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость"
+      ],
+      "excerptCategories": "Czech Republic\n/\nReal Estate Czech\n/\nNews\n/\nReal Estate\n/\nAnalytics"
+    },
+    {
+      "id": "8837",
+      "date": "2026-09-21",
+      "title": "Europe’s Property Debt Gets Costlier Again",
+      "url": "https://internationalinvestment.biz/en/real-estate/8837-europes-property-debt-gets-costlier-again.html",
+      "lang": "en",
+      "countries": [],
+      "scope": "unassigned",
+      "themes": [
+        "Недвижимость"
+      ],
+      "excerptCategories": "Real Estate\n/\nNews\n/\nAnalytics"
+    },
+    {
+      "id": "8836",
+      "date": "2026-09-21",
+      "title": "Tbilisi Home Sales Rose More Than 20% in July",
+      "url": "https://internationalinvestment.biz/en/georgia/8836-tbilisi-home-sales-rose-more-than-20-in-july.html",
+      "lang": "en",
+      "countries": [
+        "Грузия"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость"
+      ],
+      "excerptCategories": "Georgia\n/\nReal Estate Georgia\n/\nNews\n/\nReal Estate\n/\nAnalytics\n/\nReviews"
+    },
+    {
+      "id": "8835",
+      "date": "2026-09-21",
+      "title": "Israel Home Sales Fall 14% in July",
+      "url": "https://internationalinvestment.biz/en/israel/8835-israel-home-sales-fall-14-in-july.html",
+      "lang": "en",
+      "countries": [
+        "Израиль"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость"
+      ],
+      "excerptCategories": "Israel\n/\nReal Estate\n/\nNews\n/\nReal Estate\n/\nAnalytics"
+    },
+    {
+      "id": "8796",
+      "date": "2026-09-20",
+      "title": "Offices Take Two-Thirds of Slovak Property Investment",
+      "url": "https://internationalinvestment.biz/en/slovakia/8796-offices-take-two-thirds-of-slovak-property-investment.html",
+      "lang": "en",
+      "countries": [
+        "Словакия"
+      ],
+      "scope": "country",
+      "themes": [],
+      "excerptCategories": "Slovakia\n/\nReal Estate Slovakia\n/\nNews\n/\nAnalytics\n/\nReviews"
+    },
+    {
+      "id": "8834",
+      "date": "2026-09-20",
+      "title": "Georgia Tourism Revenue Rises to $695 Million",
+      "url": "https://internationalinvestment.biz/en/georgia/8834-georgia-tourism-revenue-rises-to-695-million.html",
+      "lang": "en",
+      "countries": [
+        "Грузия"
+      ],
+      "scope": "country",
+      "themes": [
+        "Туризм"
+      ],
+      "excerptCategories": "Georgia\n/\nTourism & hospitality\n/\nTourism Georgia\n/\nNews\n/\nAnalytics"
+    },
+    {
+      "id": "8833",
+      "date": "2026-09-19",
+      "title": "UN Tourism Chief Visits Georgia",
+      "url": "https://internationalinvestment.biz/en/georgia/8833-un-tourism-chief-visits-georgia.html",
+      "lang": "en",
+      "countries": [
+        "Грузия"
+      ],
+      "scope": "country",
+      "themes": [
+        "Туризм"
+      ],
+      "excerptCategories": "Georgia\n/\nNews\n/\nTourism Georgia\n/\nTourism & hospitality"
+    },
+    {
+      "id": "8831",
+      "date": "2026-09-19",
+      "title": "Lapland Holiday Home Demand Has Quadrupled",
+      "url": "https://internationalinvestment.biz/en/finland/8831-lapland-holiday-home-demand-has-quadrupled.html",
+      "lang": "en",
+      "countries": [
+        "Финляндия"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость",
+        "Туризм",
+        "Отели и гостиничный бизнес"
+      ],
+      "excerptCategories": "Finland\n/\nReal Estate Finland\n/\nReal Estate\n/\nNews\n/\nAnalytics\n/\nTourism & hospitality\n/\nBusiness"
+    },
+    {
+      "id": "8830",
+      "date": "2026-09-18",
+      "title": "Portugal Approves Pension Bonus and Income Tax Cuts",
+      "url": "https://internationalinvestment.biz/en/portugal/8830-portugal-approves-pension-bonus-and-income-tax-cuts.html",
+      "lang": "en",
+      "countries": [
+        "Португалия"
+      ],
+      "scope": "country",
+      "themes": [
+        "ВНЖ и миграция",
+        "Налоги для инвесторов"
+      ],
+      "excerptCategories": "Portugal\n/\nNews\n/\nAnalytics\n/\nMigration\n/\nBusiness"
+    },
+    {
+      "id": "8814",
+      "date": "2026-09-18",
+      "title": "Singapore New-Home Sales Slump in August",
+      "url": "https://internationalinvestment.biz/en/singapur/8814-singapore-new-home-sales-slump-in-august.html",
+      "lang": "en",
+      "countries": [],
+      "scope": "unassigned",
+      "themes": [
+        "Недвижимость"
+      ],
+      "excerptCategories": "Sinagpur\n/\nReal Estate Singapur\n/\nReal Estate\n/\nNews\n/\nAnalytics"
+    },
+    {
+      "id": "8828",
+      "date": "2026-09-18",
+      "title": "UBS Sees Property Stabilization as AI Reshapes Infrastructure",
+      "url": "https://internationalinvestment.biz/en/real-estate/8828-ubs-sees-property-stabilization-as-ai-reshapes-infrastructure.html",
+      "lang": "en",
+      "countries": [
+        "США"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость"
+      ],
+      "excerptCategories": "Real Estate\n/\nNews\n/\nAnalytics\n/\nReviews\n/\nUSA\n/\nReal Estate USA\n/\nBusiness"
+    },
+    {
+      "id": "8827",
+      "date": "2026-09-18",
+      "title": "Trump Tower Tbilisi Anchors $2 Billion Downtown Project",
+      "url": "https://internationalinvestment.biz/en/georgia/8827-trump-tower-tbilisi-anchors-2-billion-downtown-project.html",
+      "lang": "en",
+      "countries": [
+        "Грузия"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость",
+        "Инвестиции"
+      ],
+      "excerptCategories": "Georgia\n/\nReal Estate Georgia\n/\nNews\n/\nReal Estate\n/\nInvestments\n/\nBusiness\n/\nAnalytics"
+    },
+    {
+      "id": "8825",
+      "date": "2026-09-17",
+      "title": "Israel Home Prices Remain Lower Than a Year Ago",
+      "url": "https://internationalinvestment.biz/en/israel/8825-israel-home-prices-remain-lower-than-a-year-ago.html",
+      "lang": "en",
+      "countries": [
+        "Израиль"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость"
+      ],
+      "excerptCategories": "Israel\n/\nReal Estate\n/\nReal Estate\n/\nNews\n/\nAnalytics"
+    },
+    {
+      "id": "8797",
+      "date": "2026-09-17",
+      "title": "Montenegro Tourism Grows Nearly 8%",
+      "url": "https://internationalinvestment.biz/en/montenegro/8797-montenegro-tourism-grows-nearly-8.html",
+      "lang": "en",
+      "countries": [
+        "Черногория"
+      ],
+      "scope": "country",
+      "themes": [
+        "Туризм"
+      ],
+      "excerptCategories": "Montenegro\n/\nTourism Montenegro\n/\nTourism & hospitality\n/\nNews\n/\nAnalytics"
+    },
+    {
+      "id": "8826",
+      "date": "2026-09-17",
+      "title": "China Becomes Georgia’s Top Investor in Second Quarter",
+      "url": "https://internationalinvestment.biz/en/china/8826-china-becomes-georgias-top-investor-in-second-quarter.html",
+      "lang": "en",
+      "countries": [
+        "Грузия",
+        "Китай"
+      ],
+      "scope": "multi-country",
+      "themes": [
+        "Недвижимость",
+        "Инвестиции"
+      ],
+      "excerptCategories": "China\n/\nInvestments\n/\nGeorgia\n/\nReal Estate Georgia\n/\nNews\n/\nReal Estate\n/\nAnalytics\n/\nBusiness"
+    },
+    {
+      "id": "8803",
+      "date": "2026-09-17",
+      "title": "Long-Term Renting Gains Ground Across Europe",
+      "url": "https://internationalinvestment.biz/en/real-estate/8803-long-term-renting-gains-ground-across-europe.html",
+      "lang": "en",
+      "countries": [
+        "Германия",
+        "Дания",
+        "Нидерланды",
+        "Португалия",
+        "Швейцария"
+      ],
+      "scope": "multi-country",
+      "themes": [
+        "Недвижимость"
+      ],
+      "excerptCategories": "Real Estate\n/\nAnalytics\n/\nNews\n/\nSwitzerland\n/\nReal Estate Switzerland\n/\nDenmark\n/\nReal Estate Denmark\n/\nPortugal\n/\nReal Estate Portugal\n/\nGermany\n/\nReal Estate Germany\n/\nNetherlands\n/\nReal Estate Netherlands"
+    },
+    {
+      "id": "8818",
+      "date": "2026-09-16",
+      "title": "Croatia Prepares New Long-Term Rental Rules",
+      "url": "https://internationalinvestment.biz/en/croatia/8818-croatia-prepares-new-long-term-rental-rules.html",
+      "lang": "en",
+      "countries": [
+        "Хорватия"
+      ],
+      "scope": "country",
+      "themes": [
+        "Инвестиции"
+      ],
+      "excerptCategories": "Croatia\n/\nReal Estate Croatia\n/\nNews\n/\nAnalytics\n/\nInvestments"
+    },
+    {
+      "id": "8823",
+      "date": "2026-09-16",
+      "title": "Israel Targets 27,000 Homes in Stalled Office Projects",
+      "url": "https://internationalinvestment.biz/en/israel/8823-israel-targets-27000-homes-in-stalled-office-projects.html",
+      "lang": "en",
+      "countries": [
+        "Израиль"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость"
+      ],
+      "excerptCategories": "Israel\n/\nReal Estate\n/\nNews\n/\nReal Estate\n/\nAnalytics"
+    },
+    {
+      "id": "8820",
+      "date": "2026-09-16",
+      "title": "Tbilisi Apartment Sales Reach Highest Level Since 2022",
+      "url": "https://internationalinvestment.biz/en/real-estate/8820-tbilisi-apartment-sales-reach-highest-level-since-2022.html",
+      "lang": "en",
+      "countries": [
+        "Грузия"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость",
+        "Инвестиции"
+      ],
+      "excerptCategories": "Real Estate\n/\nInvestments\n/\nAnalytics\n/\nResearch\n/\nGeorgia\n/\nReal Estate Georgia"
+    },
+    {
+      "id": "8817",
+      "date": "2026-09-16",
+      "title": "Mexico's Beach Resorts Lose Foreign Tourists",
+      "url": "https://internationalinvestment.biz/en/tourism/8817-mexicos-beach-resorts-lose-foreign-tourists.html",
+      "lang": "en",
+      "countries": [],
+      "scope": "unassigned",
+      "themes": [
+        "Инвестиции",
+        "Туризм",
+        "Отели и гостиничный бизнес"
+      ],
+      "excerptCategories": "Tourism & hospitality\n/\nNews\n/\nBusiness\n/\nInvestments\n/\nAnalytics"
+    },
+    {
+      "id": "8821",
+      "date": "2026-09-16",
+      "title": "France Housing Sales Almost Stop Growing",
+      "url": "https://internationalinvestment.biz/en/real-estate/8821-france-housing-sales-almost-stop-growing.html",
+      "lang": "en",
+      "countries": [
+        "Франция"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость",
+        "Инвестиции"
+      ],
+      "excerptCategories": "Real Estate\n/\nInvestments\n/\nNews\n/\nReviews\n/\nAnalytics\n/\nFrance\n/\nReal Estate France"
+    },
+    {
+      "id": "8819",
+      "date": "2026-09-16",
+      "title": "В Belarus, an old estate linked to the legend of Napoleon’s gold is being put up for sale",
+      "url": "https://internationalinvestment.biz/en/real-estate/8819-v-belarus-an-old-estate-linked-to-the-legend-of-napoleons-gold-is-being-put-up-for-sale.html",
+      "lang": "en",
+      "countries": [
+        "Беларусь"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость",
+        "Инвестиции"
+      ],
+      "excerptCategories": "Real Estate\n/\nInvestments\n/\nNews\n/\nReviews\n/\nBelarus\n/\nReal Estate Belarus"
+    },
+    {
+      "id": "8816",
+      "date": "2026-09-15",
+      "title": "Thailand Plans New Domestic Travel Subsidies",
+      "url": "https://internationalinvestment.biz/en/thailand/8816-thailand-plans-new-domestic-travel-subsidies.html",
+      "lang": "en",
+      "countries": [
+        "Таиланд"
+      ],
+      "scope": "country",
+      "themes": [
+        "Туризм"
+      ],
+      "excerptCategories": "Thailand\n/\nTourism Thailand\n/\nTourism & hospitality\n/\nBusiness\n/\nNews\n/\nAnalytics"
+    },
+    {
+      "id": "8815",
+      "date": "2026-09-15",
+      "title": "China Home Prices Continue to Fall",
+      "url": "https://internationalinvestment.biz/en/china/8815-china-home-prices-continue-to-fall.html",
+      "lang": "en",
+      "countries": [
+        "Китай"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость"
+      ],
+      "excerptCategories": "China\n/\nReal Estate China\n/\nReal Estate\n/\nNews\n/\nAnalytics"
+    },
+    {
+      "id": "8813",
+      "date": "2026-09-15",
+      "title": "Housing Prices in Israel Fell 1.5% Year-on-Year",
+      "url": "https://internationalinvestment.biz/en/real-estate/8813-housing-prices-in-israel-fell-15-year-on-year.html",
+      "lang": "en",
+      "countries": [
+        "Израиль"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость",
+        "Инвестиции"
+      ],
+      "excerptCategories": "Real Estate\n/\nInvestments\n/\nAnalytics\n/\nReviews\n/\nNews\n/\nIsrael\n/\nReal Estate"
+    },
+    {
+      "id": "8811",
+      "date": "2026-09-15",
+      "title": "Immigration Slowdown Reshapes the US Sun Belt",
+      "url": "https://internationalinvestment.biz/en/usa/8811-immigration-slowdown-reshapes-the-us-sun-belt.html",
+      "lang": "en",
+      "countries": [
+        "США"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость",
+        "ВНЖ и миграция"
+      ],
+      "excerptCategories": "USA\n/\nMigration\n/\nNews\n/\nAnalytics\n/\nReal Estate\n/\nReal Estate USA\n/\nBusiness"
+    },
+    {
+      "id": "8804",
+      "date": "2026-09-15",
+      "title": "Slovakia Reforms Building Rules as Housing Starts Slide",
+      "url": "https://internationalinvestment.biz/en/slovakia/8804-slovakia-reforms-building-rules-as-housing-starts-slide.html",
+      "lang": "en",
+      "countries": [
+        "Словакия"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость"
+      ],
+      "excerptCategories": "Slovakia\n/\nReal Estate Slovakia\n/\nNews\n/\nAnalytics\n/\nReal Estate"
+    },
+    {
+      "id": "8812",
+      "date": "2026-09-15",
+      "title": "EU Proposes New Restrictions on Short-Term Housing Rentals",
+      "url": "https://internationalinvestment.biz/en/real-estate/8812-eu-proposes-new-restrictions-on-short-term-housing-rentals.html",
+      "lang": "en",
+      "countries": [],
+      "scope": "unassigned",
+      "themes": [
+        "Недвижимость",
+        "Инвестиции"
+      ],
+      "excerptCategories": "Real Estate\n/\nBusiness\n/\nInvestments\n/\nNews\n/\nReviews\n/\nAnalytics"
+    },
+    {
+      "id": "8810",
+      "date": "2026-09-15",
+      "title": "Canada Fast-Tracks Tax Rulings for C$1 Billion Investments",
+      "url": "https://internationalinvestment.biz/en/business/8810-canada-fast-tracks-tax-rulings-for-c1-billion-investments.html",
+      "lang": "en",
+      "countries": [
+        "Канада"
+      ],
+      "scope": "country",
+      "themes": [
+        "Инвестиции",
+        "Налоги для инвесторов"
+      ],
+      "excerptCategories": "Business\n/\nInvestments\n/\nAnalytics\n/\nNews\n/\nCanada"
+    },
+    {
+      "id": "8809",
+      "date": "2026-09-14",
+      "title": "China Nears a Decision on Fresh Stimulus",
+      "url": "https://internationalinvestment.biz/en/china/8809-china-nears-a-decision-on-fresh-stimulus.html",
+      "lang": "en",
+      "countries": [
+        "Китай"
+      ],
+      "scope": "country",
+      "themes": [
+        "Инвестиции"
+      ],
+      "excerptCategories": "China\n/\nNews\n/\nBusiness\n/\nInvestments\n/\nAnalytics"
+    },
+    {
+      "id": "8808",
+      "date": "2026-09-14",
+      "title": "Fines for Illegal Rentals in Spain Reach €800,000",
+      "url": "https://internationalinvestment.biz/en/business/8808-fines-for-illegal-rentals-in-spain-reach-800000.html",
+      "lang": "en",
+      "countries": [
+        "Испания"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость",
+        "Инвестиции"
+      ],
+      "excerptCategories": "Business\n/\nReal Estate\n/\nInvestments\n/\nAnalytics\n/\nNews\n/\nReviews\n/\nSpain\n/\nReal Estate Spain"
+    },
+    {
+      "id": "8806",
+      "date": "2026-09-14",
+      "title": "Australia’s Spring Auctions Rise but Remain Well Below 2025",
+      "url": "https://internationalinvestment.biz/en/australia/8806-australias-spring-auctions-rise-but-remain-well-below-2025.html",
+      "lang": "en",
+      "countries": [
+        "Австралия"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость"
+      ],
+      "excerptCategories": "Australia\n/\nReal Estate Australia\n/\nNews\n/\nReal Estate\n/\nAnalytics"
+    },
+    {
+      "id": "8805",
+      "date": "2026-09-14",
+      "title": "Number of Foreigners Holding Turkish Residence Permits Exceeds 1.27 Million",
+      "url": "https://internationalinvestment.biz/en/news/8805-number-of-foreigners-holding-turkish-residence-permits-exceeds-127-million.html",
+      "lang": "en",
+      "countries": [
+        "Турция"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость",
+        "Инвестиции",
+        "ВНЖ и миграция"
+      ],
+      "excerptCategories": "News\n/\nReviews\n/\nAnalytics\n/\nMigration\n/\nReal Estate\n/\nInvestments\n/\nTurkey\n/\nReal Estate Turkey"
+    },
+    {
+      "id": "8802",
+      "date": "2026-09-14",
+      "title": "Demand from Russian Tourists for Holidays in Georgia Rises by 20–25%",
+      "url": "https://internationalinvestment.biz/en/news/8802-demand-from-russian-tourists-for-holidays-in-georgia-rises-by-2025.html",
+      "lang": "en",
+      "countries": [
+        "Грузия",
+        "Россия"
+      ],
+      "scope": "multi-country",
+      "themes": [
+        "Туризм"
+      ],
+      "excerptCategories": "News\n/\nReviews\n/\nTourism & hospitality\n/\nGeorgia\n/\nTourism Georgia\n/\nRussia"
+    },
+    {
+      "id": "8798",
+      "date": "2026-09-14",
+      "title": "Montenegro Property Buying Costs in 2026",
+      "url": "https://internationalinvestment.biz/en/montenegro/8798-montenegro-property-buying-costs-in-2026.html",
+      "lang": "en",
+      "countries": [
+        "Черногория"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость",
+        "Инвестиции"
+      ],
+      "excerptCategories": "Montenegro\n/\nReal Estate Montenegro\n/\nReal Estate\n/\nNews\n/\nAnalytics\n/\nInvestments"
+    },
+    {
+      "id": "8801",
+      "date": "2026-09-13",
+      "title": "Four in Ten Companies Would Not Choose Slovakia",
+      "url": "https://internationalinvestment.biz/en/slovakia/8801-four-in-ten-companies-would-not-choose-slovakia.html",
+      "lang": "en",
+      "countries": [
+        "Словакия"
+      ],
+      "scope": "country",
+      "themes": [
+        "Инвестиции"
+      ],
+      "excerptCategories": "Slovakia\n/\nBusiness\n/\nInvestments\n/\nNews\n/\nAnalytics"
+    },
+    {
+      "id": "8800",
+      "date": "2026-09-12",
+      "title": "Gulf Countries Prepare Unified Tourist Visa",
+      "url": "https://internationalinvestment.biz/en/news/8800-gulf-countries-prepare-unified-tourist-visa.html",
+      "lang": "en",
+      "countries": [
+        "ОАЭ"
+      ],
+      "scope": "country",
+      "themes": [
+        "Туризм"
+      ],
+      "excerptCategories": "News\n/\nTourism & hospitality\n/\nReviews\n/\nAnalytics\n/\nUnited Arab Emirates"
+    },
+    {
+      "id": "8760",
+      "date": "2026-09-12",
+      "title": "Latvia’s Foreign Tourism Slips in First Half",
+      "url": "https://internationalinvestment.biz/en/latvia/8760-latvias-foreign-tourism-slips-in-first-half.html",
+      "lang": "en",
+      "countries": [
+        "Латвия"
+      ],
+      "scope": "country",
+      "themes": [
+        "Туризм"
+      ],
+      "excerptCategories": "Latvia\n/\nTourism Latvia\n/\nTourism & hospitality\n/\nNews\n/\nAnalytics"
+    },
+    {
+      "id": "8791",
+      "date": "2026-09-11",
+      "title": "UK House Prices Slip as Mortgage Costs Rise",
+      "url": "https://internationalinvestment.biz/en/britannia/8791-uk-house-prices-slip-as-mortgage-costs-rise.html",
+      "lang": "en",
+      "countries": [
+        "Великобритания"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость"
+      ],
+      "excerptCategories": "United Kingdom\n/\nReal Estate\n/\nNews"
+    },
+    {
+      "id": "8794",
+      "date": "2026-09-11",
+      "title": "Montenegro Moves to Rewrite Hotel Investment Rules",
+      "url": "https://internationalinvestment.biz/en/montenegro/8794-montenegro-moves-to-rewrite-hotel-investment-rules.html",
+      "lang": "en",
+      "countries": [
+        "Черногория"
+      ],
+      "scope": "country",
+      "themes": [
+        "Инвестиции",
+        "Туризм",
+        "Отели и гостиничный бизнес"
+      ],
+      "excerptCategories": "Montenegro\n/\nTourism Montenegro\n/\nTourism & hospitality\n/\nBusiness\n/\nInvestments\n/\nNews\n/\nAnalytics"
+    },
+    {
+      "id": "8795",
+      "date": "2026-09-11",
+      "title": "Western Sahara Natives to Be Granted Spanish Citizenship",
+      "url": "https://internationalinvestment.biz/en/news/8795-western-sahara-natives-to-be-granted-spanish-citizenship.html",
+      "lang": "en",
+      "countries": [
+        "Испания"
+      ],
+      "scope": "country",
+      "themes": [
+        "ВНЖ и миграция"
+      ],
+      "excerptCategories": "News\n/\nMigration\n/\nReviews\n/\nSpain"
+    },
+    {
+      "id": "8793",
+      "date": "2026-09-11",
+      "title": "Montenegro Housing Approvals Hit a 15-Year High",
+      "url": "https://internationalinvestment.biz/en/montenegro/8793-montenegro-housing-approvals-hit-a-15-year-high.html",
+      "lang": "en",
+      "countries": [
+        "Черногория"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость"
+      ],
+      "excerptCategories": "Montenegro\n/\nReal Estate Montenegro\n/\nNews\n/\nAnalytics\n/\nReal Estate"
+    },
+    {
+      "id": "8792",
+      "date": "2026-09-11",
+      "title": "Foreign Airlines Restrict Flights to Russia",
+      "url": "https://internationalinvestment.biz/en/tourism/8792-foreign-airlines-restrict-flights-to-russia.html",
+      "lang": "en",
+      "countries": [
+        "Россия"
+      ],
+      "scope": "country",
+      "themes": [
+        "Туризм"
+      ],
+      "excerptCategories": "Tourism & hospitality\n/\nNews\n/\nReviews\n/\nAnalytics\n/\nRussia\n/\nTourism Russia\n/\nBusiness"
+    },
+    {
+      "id": "8787",
+      "date": "2026-09-11",
+      "title": "Foreign Tourist Arrivals to Slovenia Rise 7.4%",
+      "url": "https://internationalinvestment.biz/en/slovenia/8787-foreign-tourist-arrivals-to-slovenia-rise-74.html",
+      "lang": "en",
+      "countries": [
+        "Словения"
+      ],
+      "scope": "country",
+      "themes": [
+        "Туризм"
+      ],
+      "excerptCategories": "Slovenia\n/\nTourism Slovenia\n/\nNews\n/\nTourism & hospitality"
+    },
+    {
+      "id": "8790",
+      "date": "2026-09-11",
+      "title": "Tourism in Adjara Attracts More Than 2 Million Visitors",
+      "url": "https://internationalinvestment.biz/en/tourism/8790-tourism-in-adjara-attracts-more-than-2-million-visitors.html",
+      "lang": "en",
+      "countries": [
+        "Грузия"
+      ],
+      "scope": "country",
+      "themes": [
+        "Инвестиции",
+        "Туризм"
+      ],
+      "excerptCategories": "Tourism & hospitality\n/\nInvestments\n/\nNews\n/\nReviews\n/\nGeorgia\n/\nTourism Georgia"
+    },
+    {
+      "id": "8789",
+      "date": "2026-09-10",
+      "title": "Vietnam Mortgage Surge Pushes Homes Out of Reach",
+      "url": "https://internationalinvestment.biz/en/real-estate/8789-vietnam-mortgage-surge-pushes-homes-out-of-reach.html",
+      "lang": "en",
+      "countries": [],
+      "scope": "unassigned",
+      "themes": [
+        "Недвижимость",
+        "Инвестиции"
+      ],
+      "excerptCategories": "Real Estate\n/\nNews\n/\nAnalytics\n/\nInvestments\n/\nReviews"
+    },
+    {
+      "id": "8788",
+      "date": "2026-09-10",
+      "title": "Armenian Citizenship: Rules Could Be Tightened",
+      "url": "https://internationalinvestment.biz/en/news/8788-armenian-citizenship-rules-could-be-tightened.html",
+      "lang": "en",
+      "countries": [
+        "Армения"
+      ],
+      "scope": "country",
+      "themes": [
+        "ВНЖ и миграция"
+      ],
+      "excerptCategories": "News\n/\nMigration\n/\nReviews\n/\nArmenia"
+    },
+    {
+      "id": "8786",
+      "date": "2026-09-10",
+      "title": "Construction of the Batumi–Sarpi Highway Begins in Georgia",
+      "url": "https://internationalinvestment.biz/en/business/8786-construction-of-the-batumisarpi-highway-begins-in-georgia.html",
+      "lang": "en",
+      "countries": [
+        "Грузия"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость",
+        "Инвестиции",
+        "Туризм"
+      ],
+      "excerptCategories": "Business\n/\nReal Estate\n/\nInvestments\n/\nTourism & hospitality\n/\nNews\n/\nReviews\n/\nGeorgia\n/\nReal Estate Georgia\n/\nTourism Georgia"
+    },
+    {
+      "id": "8751",
+      "date": "2026-09-10",
+      "title": "Baltic Property Investment Accelerates in 2026",
+      "url": "https://internationalinvestment.biz/en/litva/8751-baltic-property-investment-accelerates-in-2026.html",
+      "lang": "en",
+      "countries": [
+        "Латвия",
+        "Литва",
+        "Эстония"
+      ],
+      "scope": "multi-country",
+      "themes": [
+        "Недвижимость",
+        "Инвестиции"
+      ],
+      "excerptCategories": "Litva\n/\nReal Estate Litva\n/\nLatvia\n/\nReal Estate Latvia\n/\nEstonia\n/\nReal Estate Estonia\n/\nNews\n/\nReal Estate\n/\nAnalytics\n/\nInvestments\n/\nBusiness"
+    },
+    {
+      "id": "8779",
+      "date": "2026-09-10",
+      "title": "Hong Kong and Singapore Renew Their Expat Rivalry",
+      "url": "https://internationalinvestment.biz/en/singapur/8779-hong-kong-and-singapore-renew-their-expat-rivalry.html",
+      "lang": "en",
+      "countries": [],
+      "scope": "unassigned",
+      "themes": [
+        "Недвижимость",
+        "ВНЖ и миграция"
+      ],
+      "excerptCategories": "Sinagpur\n/\nMigration\n/\nNews\n/\nAnalytics\n/\nBusiness\n/\nReal Estate\n/\nReal Estate Singapur"
+    },
+    {
+      "id": "8784",
+      "date": "2026-09-09",
+      "title": "Poland Poised to Hold Rates at 3.75%",
+      "url": "https://internationalinvestment.biz/en/poland/8784-poland-poised-to-hold-rates-at-375.html",
+      "lang": "en",
+      "countries": [
+        "Польша"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость",
+        "Инвестиции"
+      ],
+      "excerptCategories": "Poland\n/\nAnalytics\n/\nNews\n/\nBusiness\n/\nInvestments\n/\nReal Estate"
+    },
+    {
+      "id": "8785",
+      "date": "2026-09-09",
+      "title": "Ljubljana's Million-Euro Deals Are Increasingly About Land",
+      "url": "https://internationalinvestment.biz/en/slovenia/8785-ljubljanas-million-euro-deals-are-increasingly-about-land.html",
+      "lang": "en",
+      "countries": [
+        "Словения"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость"
+      ],
+      "excerptCategories": "Slovenia\n/\nReal Estate Slovenia\n/\nNews\n/\nReal Estate\n/\nAnalytics"
+    },
+    {
+      "id": "8780",
+      "date": "2026-09-09",
+      "title": "Reform UK Reworks Its Offer to Wealthy Foreigners",
+      "url": "https://internationalinvestment.biz/en/britannia/8780-reform-uk-reworks-its-offer-to-wealthy-foreigners.html",
+      "lang": "en",
+      "countries": [
+        "Великобритания"
+      ],
+      "scope": "country",
+      "themes": [
+        "Инвестиции",
+        "ВНЖ и миграция"
+      ],
+      "excerptCategories": "United Kingdom\n/\nMigration\n/\nInvestments\n/\nBusiness\n/\nNews\n/\nReviews"
+    },
+    {
+      "id": "8783",
+      "date": "2026-09-09",
+      "title": "US Introduces Visa Bonds of Up to $20,000 for Tourists From 50 Countries",
+      "url": "https://internationalinvestment.biz/en/tourism/8783-us-introduces-visa-bonds-of-up-to-20000-for-tourists-from-50-countries.html",
+      "lang": "en",
+      "countries": [
+        "США"
+      ],
+      "scope": "country",
+      "themes": [
+        "Туризм",
+        "ВНЖ и миграция"
+      ],
+      "excerptCategories": "Tourism & hospitality\n/\nMigration\n/\nNews\n/\nReviews\n/\nUSA\n/\nTourism USA"
+    },
+    {
+      "id": "8781",
+      "date": "2026-09-08",
+      "title": "Portugal Secures €1.5 Billion for Social Housing",
+      "url": "https://internationalinvestment.biz/en/portugal/8781-portugal-secures-15-billion-for-social-housing.html",
+      "lang": "en",
+      "countries": [
+        "Португалия"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость"
+      ],
+      "excerptCategories": "Portugal\n/\nReal Estate Portugal\n/\nReal Estate\n/\nNews\n/\nAnalytics"
+    },
+    {
+      "id": "8782",
+      "date": "2026-09-08",
+      "title": "Mortgage Lending in Georgia Increased by Nearly 50%",
+      "url": "https://internationalinvestment.biz/en/real-estate/8782-mortgage-lending-in-georgia-increased-by-nearly-50.html",
+      "lang": "en",
+      "countries": [
+        "Грузия"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость",
+        "Инвестиции"
+      ],
+      "excerptCategories": "Real Estate\n/\nInvestments\n/\nAnalytics\n/\nNews\n/\nGeorgia\n/\nReal Estate Georgia"
+    },
+    {
+      "id": "8766",
+      "date": "2026-09-08",
+      "title": "Irish Homes Are 17% Overvalued as Supply Lags",
+      "url": "https://internationalinvestment.biz/en/ireland/8766-irish-homes-are-17-overvalued-as-supply-lags.html",
+      "lang": "en",
+      "countries": [
+        "Ирландия"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость"
+      ],
+      "excerptCategories": "Ireland\n/\nReal estate Ireland\n/\nNews\n/\nReal Estate\n/\nAnalytics"
+    },
+    {
+      "id": "8778",
+      "date": "2026-09-08",
+      "title": "Buses from Latvia to Russia and Belarus May Be Cancelled",
+      "url": "https://internationalinvestment.biz/en/news/8778-buses-from-latvia-to-russia-and-belarus-may-be-cancelled.html",
+      "lang": "en",
+      "countries": [
+        "Беларусь",
+        "Латвия",
+        "Россия"
+      ],
+      "scope": "multi-country",
+      "themes": [
+        "Туризм",
+        "ВНЖ и миграция"
+      ],
+      "excerptCategories": "News\n/\nBusiness\n/\nTourism & hospitality\n/\nMigration\n/\nReviews\n/\nLatvia\n/\nRussia\n/\nBelarus"
+    },
+    {
+      "id": "8777",
+      "date": "2026-09-08",
+      "title": "Egypt’s Economy Accelerates to 5.1%",
+      "url": "https://internationalinvestment.biz/en/egypt/8777-egypts-economy-accelerates-to-51.html",
+      "lang": "en",
+      "countries": [
+        "Египет"
+      ],
+      "scope": "country",
+      "themes": [
+        "Туризм"
+      ],
+      "excerptCategories": "Egypt\n/\nNews\n/\nReviews\n/\nAnalytics\n/\nTourism & hospitality\n/\nTourism Egypt"
+    },
+    {
+      "id": "8741",
+      "date": "2026-09-08",
+      "title": "Kazakhstan Recovers $2.5 Billion in State Assets",
+      "url": "https://internationalinvestment.biz/en/kazakkhstan/8741-kazakhstan-recovers-25-billion-in-state-assets.html",
+      "lang": "en",
+      "countries": [
+        "Казахстан"
+      ],
+      "scope": "country",
+      "themes": [
+        "Инвестиции"
+      ],
+      "excerptCategories": "Kazakhstan\n/\nReal Estate Kazakhstan\n/\nNews\n/\nAnalytics\n/\nInvestments"
+    },
+    {
+      "id": "8762",
+      "date": "2026-09-07",
+      "title": "Argentina Draws Families While Investor Citizenship Remains Uncertain",
+      "url": "https://internationalinvestment.biz/en/argentina/8762-argentina-draws-families-while-investor-citizenship-remains-uncertain.html",
+      "lang": "en",
+      "countries": [
+        "Аргентина"
+      ],
+      "scope": "country",
+      "themes": [
+        "ВНЖ и миграция"
+      ],
+      "excerptCategories": "Argentina\n/\nMigration\n/\nNews\n/\nReviews\n/\nAnalytics"
+    },
+    {
+      "id": "8776",
+      "date": "2026-09-07",
+      "title": "New Housing in the UAE: Dubai Leads in Construction Volume",
+      "url": "https://internationalinvestment.biz/en/real-estate/8776-new-housing-in-the-uae-dubai-leads-in-construction-volume.html",
+      "lang": "en",
+      "countries": [
+        "ОАЭ"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость",
+        "Инвестиции"
+      ],
+      "excerptCategories": "Real Estate\n/\nInvestments\n/\nAnalytics\n/\nNews\n/\nReviews\n/\nUnited Arab Emirates\n/\nReal Estate UAE"
+    },
+    {
+      "id": "8774",
+      "date": "2026-09-07",
+      "title": "Georgia to Simplify Residence Permit Rules for IT Specialists",
+      "url": "https://internationalinvestment.biz/en/news/8774-georgia-to-simplify-residence-permit-rules-for-it-specialists.html",
+      "lang": "en",
+      "countries": [
+        "Грузия"
+      ],
+      "scope": "country",
+      "themes": [
+        "ВНЖ и миграция"
+      ],
+      "excerptCategories": "News\n/\nMigration\n/\nReviews\n/\nGeorgia"
+    },
+    {
+      "id": "8772",
+      "date": "2026-09-07",
+      "title": "Cyprus May Restrict Airbnb in Areas Facing Housing Shortages",
+      "url": "https://internationalinvestment.biz/en/real-estate/8772-cyprus-may-restrict-airbnb-in-areas-facing-housing-shortages.html",
+      "lang": "en",
+      "countries": [],
+      "scope": "unassigned",
+      "themes": [
+        "Недвижимость",
+        "Инвестиции",
+        "Отели и гостиничный бизнес"
+      ],
+      "excerptCategories": "Real Estate\n/\nInvestments\n/\nNews\n/\nAnalytics\n/\nКипр\n/\nReal Estate Cyprus"
+    },
+    {
+      "id": "8765",
+      "date": "2026-09-07",
+      "title": "Young Americans Move to Appalachia for Affordable Housing",
+      "url": "https://internationalinvestment.biz/en/usa/8765-young-americans-move-to-appalachia-for-affordable-housing.html",
+      "lang": "en",
+      "countries": [
+        "США"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость"
+      ],
+      "excerptCategories": "USA\n/\nReal Estate USA\n/\nNews\n/\nReal Estate\n/\nAnalytics"
+    },
+    {
+      "id": "8771",
+      "date": "2026-09-06",
+      "title": "Asunción Property Market Accelerates as Construction Booms",
+      "url": "https://internationalinvestment.biz/en/paraguay/8771-asuncion-property-market-accelerates-as-construction-booms.html",
+      "lang": "en",
+      "countries": [
+        "Парагвай"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость",
+        "Инвестиции"
+      ],
+      "excerptCategories": "Paraguay\n/\nReal Estate Paraguay\n/\nNews\n/\nReal Estate\n/\nInvestments\n/\nAnalytics\n/\nReviews"
+    },
+    {
+      "id": "8770",
+      "date": "2026-09-06",
+      "title": "Egypt Expands Aviation for Tourism Growth",
+      "url": "https://internationalinvestment.biz/en/egypt/8770-egypt-expands-aviation-for-tourism-growth.html",
+      "lang": "en",
+      "countries": [
+        "Египет"
+      ],
+      "scope": "country",
+      "themes": [
+        "Туризм"
+      ],
+      "excerptCategories": "Egypt\n/\nTourism Egypt\n/\nTourism & hospitality\n/\nNews\n/\nReviews\n/\nAnalytics"
+    },
+    {
+      "id": "8769",
+      "date": "2026-09-05",
+      "title": "Latvia’s Residence Permits for Real Estate to Be Abolished from September 15",
+      "url": "https://internationalinvestment.biz/en/news/8769-latvias-residence-permits-for-real-estate-to-be-abolished-from-september-15.html",
+      "lang": "en",
+      "countries": [
+        "Латвия"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость",
+        "Инвестиции",
+        "ВНЖ и миграция"
+      ],
+      "excerptCategories": "News\n/\nReal Estate\n/\nBusiness\n/\nInvestments\n/\nLatvia\n/\nReal Estate Latvia"
+    },
+    {
+      "id": "8758",
+      "date": "2026-09-03",
+      "title": "Argentina Rents Rise but Lag Inflation",
+      "url": "https://internationalinvestment.biz/en/argentina/8758-argentina-rents-rise-but-lag-inflation.html",
+      "lang": "en",
+      "countries": [
+        "Аргентина"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость"
+      ],
+      "excerptCategories": "Argentina\n/\nReal Estate Argentina\n/\nReal Estate\n/\nNews\n/\nAnalytics"
+    },
+    {
+      "id": "8757",
+      "date": "2026-09-03",
+      "title": "Armenia Changes Temporary and Permanent Residence Rules From November 1",
+      "url": "https://internationalinvestment.biz/en/migration/8757-armenia-changes-temporary-and-permanent-residence-rules-from-november-1.html",
+      "lang": "en",
+      "countries": [
+        "Армения"
+      ],
+      "scope": "country",
+      "themes": [
+        "ВНЖ и миграция"
+      ],
+      "excerptCategories": "Migration\n/\nNews\n/\nReviews\n/\nArmenia"
+    },
+    {
+      "id": "8755",
+      "date": "2026-09-03",
+      "title": "Hungary Plans Wealth Tax Above 1 Billion Forints",
+      "url": "https://internationalinvestment.biz/en/hungary/8755-hungary-plans-wealth-tax-above-1-billion-forints.html",
+      "lang": "en",
+      "countries": [
+        "Венгрия"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость",
+        "Инвестиции",
+        "Налоги для инвесторов"
+      ],
+      "excerptCategories": "Hungary\n/\nBusiness\n/\nInvestments\n/\nNews\n/\nAnalytics\n/\nReal Estate\n/\nReal Estate Hungary"
+    },
+    {
+      "id": "8745",
+      "date": "2026-09-03",
+      "title": "China Rewrites Its New-Home Sales Model",
+      "url": "https://internationalinvestment.biz/en/china/8745-china-rewrites-its-new-home-sales-model.html",
+      "lang": "en",
+      "countries": [
+        "Китай"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость"
+      ],
+      "excerptCategories": "China\n/\nReal Estate China\n/\nNews\n/\nAnalytics\n/\nReal Estate"
+    },
+    {
+      "id": "8754",
+      "date": "2026-09-03",
+      "title": "Apartment Sales in Tbilisi and Batumi Reached $485 Million in July",
+      "url": "https://internationalinvestment.biz/en/real-estate/8754-apartment-sales-in-tbilisi-and-batumi-reached-485-million-in-july.html",
+      "lang": "en",
+      "countries": [
+        "Грузия"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость",
+        "Инвестиции"
+      ],
+      "excerptCategories": "Real Estate\n/\nInvestments\n/\nAnalytics\n/\nReviews\n/\nNews\n/\nGeorgia\n/\nReal Estate Georgia"
+    },
+    {
+      "id": "8753",
+      "date": "2026-09-03",
+      "title": "Migrant Regularization Changes Spain’s Labor Market Statistics",
+      "url": "https://internationalinvestment.biz/en/news/8753-migrant-regularization-changes-spains-labor-market-statistics.html",
+      "lang": "en",
+      "countries": [
+        "Испания"
+      ],
+      "scope": "country",
+      "themes": [
+        "ВНЖ и миграция"
+      ],
+      "excerptCategories": "News\n/\nMigration\n/\nReviews\n/\nAnalytics\n/\nSpain"
+    },
+    {
+      "id": "8752",
+      "date": "2026-09-03",
+      "title": "Lithuania’s Economy Accelerates in the Second Quarter",
+      "url": "https://internationalinvestment.biz/en/analytics/8752-lithuanias-economy-accelerates-in-the-second-quarter.html",
+      "lang": "en",
+      "countries": [
+        "Литва"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость",
+        "Инвестиции"
+      ],
+      "excerptCategories": "Analytics\n/\nNews\n/\nInvestments\n/\nBusiness\n/\nLitva\n/\nReal Estate\n/\nReal Estate Litva"
+    },
+    {
+      "id": "8744",
+      "date": "2026-09-02",
+      "title": "Israel Cuts Rate to 3.25% for Third Meeting",
+      "url": "https://internationalinvestment.biz/en/israel/8744-israel-cuts-rate-to-325-for-third-meeting.html",
+      "lang": "en",
+      "countries": [
+        "Израиль"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость",
+        "Инвестиции"
+      ],
+      "excerptCategories": "Israel\n/\nNews\n/\nAnalytics\n/\nBusiness\n/\nInvestments\n/\nReal Estate\n/\nReal Estate"
+    },
+    {
+      "id": "8748",
+      "date": "2026-09-02",
+      "title": "Russian and Belarusian Owners List More Latvian Property",
+      "url": "https://internationalinvestment.biz/en/russia/8748-russian-and-belarusian-owners-list-more-latvian-property.html",
+      "lang": "en",
+      "countries": [
+        "Беларусь",
+        "Латвия",
+        "Россия"
+      ],
+      "scope": "multi-country",
+      "themes": [
+        "Инвестиции"
+      ],
+      "excerptCategories": "Russia\n/\nBelarus\n/\nLatvia\n/\nReal Estate Latvia\n/\nAnalytics\n/\nInvestments\n/\nNews"
+    },
+    {
+      "id": "8750",
+      "date": "2026-09-02",
+      "title": "Georgian Law Enforcement Busts Scammers Posing as Real Estate Brokers",
+      "url": "https://internationalinvestment.biz/en/news/8750-georgian-law-enforcement-busts-scammers-posing-as-real-estate-brokers.html",
+      "lang": "en",
+      "countries": [
+        "Грузия"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость"
+      ],
+      "excerptCategories": "News\n/\nReal Estate\n/\nGeorgia\n/\nReal Estate Georgia"
+    },
+    {
+      "id": "8749",
+      "date": "2026-09-02",
+      "title": "World’s Largest Economies in 2026: GDP and Purchasing Power Rankings",
+      "url": "https://internationalinvestment.biz/en/ratings/8749-worlds-largest-economies-in-2026-gdp-and-purchasing-power-rankings.html",
+      "lang": "en",
+      "countries": [
+        "Великобритания",
+        "Германия",
+        "Индонезия",
+        "Индия",
+        "Испания",
+        "Италия",
+        "Канада",
+        "Китай",
+        "Россия",
+        "США",
+        "Франция",
+        "Швейцария",
+        "Япония"
+      ],
+      "scope": "multi-country",
+      "themes": [],
+      "excerptCategories": "Ratings\n/\nReviews\n/\nAnalytics\n/\nUSA\n/\nChina\n/\nJapan\n/\nIndia\n/\nRussia\n/\nFrance\n/\nItaly\n/\nGermany\n/\nIndonesia\n/\nUnited Kingdom\n/\nSpain\n/\nCanada\n/\nSwitzerland"
+    },
+    {
+      "id": "8747",
+      "date": "2026-09-02",
+      "title": "Turkish Airlines Cancel Flights to Moscow",
+      "url": "https://internationalinvestment.biz/en/tourism/8747-turkish-airlines-cancel-flights-to-moscow.html",
+      "lang": "en",
+      "countries": [
+        "Россия",
+        "Турция"
+      ],
+      "scope": "multi-country",
+      "themes": [
+        "Туризм"
+      ],
+      "excerptCategories": "Tourism & hospitality\n/\nBusiness\n/\nNews\n/\nReviews\n/\nRussia\n/\nTurkey"
+    },
+    {
+      "id": "8746",
+      "date": "2026-09-02",
+      "title": "Escalation in the Middle East: New US and Iranian Strikes",
+      "url": "https://internationalinvestment.biz/en/news/8746-escalation-in-the-middle-east-new-us-and-iranian-strikes.html",
+      "lang": "en",
+      "countries": [
+        "США"
+      ],
+      "scope": "country",
+      "themes": [
+        "Инвестиции",
+        "Туризм"
+      ],
+      "excerptCategories": "News\n/\nReviews\n/\nUSA\n/\nIran\n/\nTourism & hospitality\n/\nInvestments"
+    },
+    {
+      "id": "8743",
+      "date": "2026-09-02",
+      "title": "Hong Kong Property Rebounds as Momentum Slows",
+      "url": "https://internationalinvestment.biz/en/news/8743-hong-kong-property-rebounds-as-momentum-slows.html",
+      "lang": "en",
+      "countries": [],
+      "scope": "unassigned",
+      "themes": [
+        "Недвижимость"
+      ],
+      "excerptCategories": "News\n/\nReal Estate\n/\nAnalytics"
+    },
+    {
+      "id": "8738",
+      "date": "2026-09-01",
+      "title": "Bulgaria’s Property Market Enters a More Mature Phase",
+      "url": "https://internationalinvestment.biz/en/bulgaria/8738-bulgarias-property-market-enters-a-more-mature-phase.html",
+      "lang": "en",
+      "countries": [
+        "Болгария"
+      ],
+      "scope": "country",
+      "themes": [
+        "Инвестиции"
+      ],
+      "excerptCategories": "Bulgaria\n/\nReal Estate Bulgaria\n/\nAnalytics\n/\nNews\n/\nInvestments\n/\nBusiness"
+    },
+    {
+      "id": "8742",
+      "date": "2026-09-01",
+      "title": "UK House Prices Rise as Mortgage Demand Weakens",
+      "url": "https://internationalinvestment.biz/en/britannia/8742-uk-house-prices-rise-as-mortgage-demand-weakens.html",
+      "lang": "en",
+      "countries": [
+        "Великобритания"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость",
+        "Инвестиции"
+      ],
+      "excerptCategories": "United Kingdom\n/\nReal Estate\n/\nNews\n/\nAnalytics\n/\nInvestments\n/\nReal Estate Britain"
+    },
+    {
+      "id": "8739",
+      "date": "2026-09-01",
+      "title": "Kazakhstan Construction Growth Slows to 15.3%",
+      "url": "https://internationalinvestment.biz/en/kazakkhstan/8739-kazakhstan-construction-growth-slows-to-153.html",
+      "lang": "en",
+      "countries": [
+        "Казахстан"
+      ],
+      "scope": "country",
+      "themes": [
+        "Инвестиции"
+      ],
+      "excerptCategories": "Kazakhstan\n/\nReal Estate Kazakhstan\n/\nNews\n/\nAnalytics\n/\nBusiness\n/\nInvestments"
+    },
+    {
+      "id": "8740",
+      "date": "2026-09-01",
+      "title": "Dubai Villa Prices Rise by 18%",
+      "url": "https://internationalinvestment.biz/en/real-estate/8740-dubai-villa-prices-rise-by-18.html",
+      "lang": "en",
+      "countries": [
+        "ОАЭ"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость",
+        "Инвестиции"
+      ],
+      "excerptCategories": "Real Estate\n/\nInvestments\n/\nAnalytics\n/\nNews\n/\nReviews\n/\nUnited Arab Emirates\n/\nReal Estate UAE"
+    },
+    {
+      "id": "8737",
+      "date": "2026-09-01",
+      "title": "Thailand Cuts Visa-Free Stay from 60 to 30 Days",
+      "url": "https://internationalinvestment.biz/en/tourism/8737-thailand-cuts-visa-free-stay-from-60-to-30-days.html",
+      "lang": "en",
+      "countries": [
+        "Таиланд"
+      ],
+      "scope": "country",
+      "themes": [
+        "Туризм",
+        "ВНЖ и миграция"
+      ],
+      "excerptCategories": "Tourism & hospitality\n/\nNews\n/\nReviews\n/\nMigration\n/\nThailand\n/\nTourism Thailand"
+    },
+    {
+      "id": "8736",
+      "date": "2026-09-01",
+      "title": "Bosnia and Herzegovina Citizenship for Special Merit — How to Obtain It",
+      "url": "https://internationalinvestment.biz/en/migration/8736-bosnia-and-herzegovina-citizenship-for-special-merit-how-to-obtain-it.html",
+      "lang": "en",
+      "countries": [
+        "Босния и Герцеговина"
+      ],
+      "scope": "country",
+      "themes": [
+        "ВНЖ и миграция"
+      ],
+      "excerptCategories": "Migration\n/\nReviews\n/\nBosnia"
+    },
+    {
+      "id": "8735",
+      "date": "2026-09-01",
+      "title": "Sydney Housing Enters a Sharp Correction",
+      "url": "https://internationalinvestment.biz/en/australia/8735-sydney-housing-enters-a-sharp-correction.html",
+      "lang": "en",
+      "countries": [
+        "Австралия"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость",
+        "Инвестиции"
+      ],
+      "excerptCategories": "Australia\n/\nReal Estate Australia\n/\nReal Estate\n/\nNews\n/\nAnalytics\n/\nInvestments"
+    },
+    {
+      "id": "8734",
+      "date": "2026-08-31",
+      "title": "Google Moves Hotel Booking Into AI Search",
+      "url": "https://internationalinvestment.biz/en/tourism/8734-google-moves-hotel-booking-into-ai-search.html",
+      "lang": "en",
+      "countries": [],
+      "scope": "unassigned",
+      "themes": [
+        "Туризм",
+        "Отели и гостиничный бизнес"
+      ],
+      "excerptCategories": "Tourism & hospitality\n/\nBusiness\n/\nNews\n/\nAnalytics"
+    },
+    {
+      "id": "8733",
+      "date": "2026-08-31",
+      "title": "Britain’s £5,000 Citizenship Route Fails to Dent Demand",
+      "url": "https://internationalinvestment.biz/en/britannia/8733-britains-pf5000-citizenship-route-fails-to-dent-demand.html",
+      "lang": "en",
+      "countries": [
+        "Великобритания"
+      ],
+      "scope": "country",
+      "themes": [
+        "ВНЖ и миграция"
+      ],
+      "excerptCategories": "United Kingdom\n/\nMigration\n/\nNews\n/\nAnalytics"
+    },
+    {
+      "id": "8728",
+      "date": "2026-08-31",
+      "title": "Philippines’ Inflation Trap Forces Rates Higher",
+      "url": "https://internationalinvestment.biz/en/philippines/8728-philippines-inflation-trap-forces-rates-higher.html",
+      "lang": "en",
+      "countries": [
+        "Филиппины"
+      ],
+      "scope": "country",
+      "themes": [
+        "Инвестиции"
+      ],
+      "excerptCategories": "Philippines\n/\nNews\n/\nAnalytics\n/\nBusiness\n/\nInvestments"
+    },
+    {
+      "id": "8731",
+      "date": "2026-08-31",
+      "title": "India’s Domestic Tourism Boom Leaves Foreign Arrivals Behind",
+      "url": "https://internationalinvestment.biz/en/tourism/8731-indias-domestic-tourism-boom-leaves-foreign-arrivals-behind.html",
+      "lang": "en",
+      "countries": [
+        "Индия"
+      ],
+      "scope": "country",
+      "themes": [
+        "Туризм"
+      ],
+      "excerptCategories": "Tourism & hospitality\n/\nIndia\n/\nTourism India\n/\nNews\n/\nAnalytics"
+    },
+    {
+      "id": "8730",
+      "date": "2026-08-31",
+      "title": "Oman Eases Residency Rules for Foreign Property Owners",
+      "url": "https://internationalinvestment.biz/en/real-estate/8730-oman-eases-residency-rules-for-foreign-property-owners.html",
+      "lang": "en",
+      "countries": [],
+      "scope": "unassigned",
+      "themes": [
+        "Недвижимость",
+        "Инвестиции",
+        "ВНЖ и миграция"
+      ],
+      "excerptCategories": "Real Estate\n/\nInvestments\n/\nNews\n/\nReviews\n/\nMigration"
+    },
+    {
+      "id": "8729",
+      "date": "2026-08-31",
+      "title": "Iran and US Resume Hostilities",
+      "url": "https://internationalinvestment.biz/en/tourism/8729-iran-and-us-resume-hostilities.html",
+      "lang": "en",
+      "countries": [
+        "США"
+      ],
+      "scope": "country",
+      "themes": [
+        "Инвестиции",
+        "Туризм"
+      ],
+      "excerptCategories": "Tourism & hospitality\n/\nInvestments\n/\nNews\n/\nIran\n/\nUSA"
+    },
+    {
+      "id": "8727",
+      "date": "2026-08-31",
+      "title": "Hotel Guest Numbers in Georgia Rose by 6.5%",
+      "url": "https://internationalinvestment.biz/en/tourism/8727-hotel-guest-numbers-in-georgia-rose-by-65.html",
+      "lang": "en",
+      "countries": [
+        "Грузия"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость",
+        "Инвестиции",
+        "Туризм",
+        "Отели и гостиничный бизнес"
+      ],
+      "excerptCategories": "Tourism & hospitality\n/\nReviews\n/\nAnalytics\n/\nGeorgia\n/\nTourism Georgia\n/\nInvestments\n/\nReal Estate"
+    },
+    {
+      "id": "8726",
+      "date": "2026-08-30",
+      "title": "Turkey Is Losing Its Cheap-Holiday Advantage",
+      "url": "https://internationalinvestment.biz/en/tourism/8726-turkey-is-losing-its-cheap-holiday-advantage.html",
+      "lang": "en",
+      "countries": [
+        "Турция"
+      ],
+      "scope": "country",
+      "themes": [
+        "Туризм"
+      ],
+      "excerptCategories": "Tourism & hospitality\n/\nTurkey\n/\nTourism Turkey\n/\nNews\n/\nAnalytics"
+    },
+    {
+      "id": "8725",
+      "date": "2026-08-30",
+      "title": "Development Is Rewriting Southeast Asia’s Historic Districts",
+      "url": "https://internationalinvestment.biz/en/tourism/8725-development-is-rewriting-southeast-asias-historic-districts.html",
+      "lang": "en",
+      "countries": [
+        "Индонезия"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость",
+        "Туризм"
+      ],
+      "excerptCategories": "Tourism & hospitality\n/\nReal Estate\n/\nNews\n/\nAnalytics\n/\nSinagpur\n/\nReal Estate Singapur\n/\nIndonesia\n/\nReal Estate Indonesia"
+    },
+    {
+      "id": "8724",
+      "date": "2026-08-29",
+      "title": "How Ukraine’s New-Build Housing Market Has Changed Over Four Years",
+      "url": "https://internationalinvestment.biz/en/real-estate/8724-how-ukraines-new-build-housing-market-has-changed-over-four-years.html",
+      "lang": "en",
+      "countries": [
+        "Украина"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость",
+        "Инвестиции"
+      ],
+      "excerptCategories": "Real Estate\n/\nAnalytics\n/\nReviews\n/\nInvestments\n/\nUkraine\n/\nReal Estate Ukraine"
+    },
+    {
+      "id": "8723",
+      "date": "2026-08-29",
+      "title": "US Pauses Immigrant Visa Interviews Worldwide",
+      "url": "https://internationalinvestment.biz/en/migration/8723-us-pauses-immigrant-visa-interviews-worldwide.html",
+      "lang": "en",
+      "countries": [
+        "США"
+      ],
+      "scope": "country",
+      "themes": [
+        "ВНЖ и миграция"
+      ],
+      "excerptCategories": "Migration\n/\nNews\n/\nReviews\n/\nUSA"
+    },
+    {
+      "id": "8704",
+      "date": "2026-08-28",
+      "title": "European Prime Rents Rise as Property Yields Turn Higher",
+      "url": "https://internationalinvestment.biz/en/poland/8704-european-prime-rents-rise-as-property-yields-turn-higher.html",
+      "lang": "en",
+      "countries": [
+        "Великобритания",
+        "Испания",
+        "Ирландия",
+        "Польша"
+      ],
+      "scope": "multi-country",
+      "themes": [
+        "Недвижимость"
+      ],
+      "excerptCategories": "Poland\n/\nReal Estate Poland\n/\nReal Estate\n/\nNews\n/\nAnalytics\n/\nSpain\n/\nReal Estate Spain\n/\nUnited Kingdom\n/\nReal Estate Britain\n/\nIreland\n/\nReal estate Ireland"
+    },
+    {
+      "id": "8722",
+      "date": "2026-08-28",
+      "title": "The Most Expensive Airlines in Europe in 2026",
+      "url": "https://internationalinvestment.biz/en/tourism/8722-the-most-expensive-airlines-in-europe-in-2026.html",
+      "lang": "en",
+      "countries": [],
+      "scope": "unassigned",
+      "themes": [
+        "Туризм"
+      ],
+      "excerptCategories": "Tourism & hospitality\n/\nRatings\n/\nResearch"
+    },
+    {
+      "id": "8841",
+      "date": "2026-08-28",
+      "title": "RE:VALUE Awards 2026 Results: Best Redevelopment Projects",
+      "url": "https://internationalinvestment.biz/en/ratings/8841-revalue-awards-2026-best-redevelopment-projects.html",
+      "lang": "en",
+      "countries": [],
+      "scope": "unassigned",
+      "themes": [],
+      "excerptCategories": "Ratings"
+    },
+    {
+      "id": "8721",
+      "date": "2026-08-28",
+      "title": "Housing Prices in Italy Reach a Two-Year High",
+      "url": "https://internationalinvestment.biz/en/real-estate/8721-housing-prices-in-italy-reach-a-two-year-high.html",
+      "lang": "en",
+      "countries": [
+        "Италия"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость",
+        "Инвестиции"
+      ],
+      "excerptCategories": "Real Estate\n/\nInvestments\n/\nAnalytics\n/\nReviews\n/\nItaly\n/\nReal Estate Italy"
+    },
+    {
+      "id": "8720",
+      "date": "2026-08-28",
+      "title": "Serbia Property Sales Decline as Transaction Value Rises",
+      "url": "https://internationalinvestment.biz/en/real-estate/8720-serbia-property-sales-decline-as-transaction-value-rises.html",
+      "lang": "en",
+      "countries": [
+        "Сербия"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость",
+        "Инвестиции"
+      ],
+      "excerptCategories": "Real Estate\n/\nInvestments\n/\nAnalytics\n/\nNews\n/\nReviews\n/\nSerbia\n/\nReal Estate Serbia"
+    },
+    {
+      "id": "8715",
+      "date": "2026-08-28",
+      "title": "Thailand Rethinks Tourism as Arrivals Lose Momentum",
+      "url": "https://internationalinvestment.biz/en/thailand/8715-thailand-rethinks-tourism-as-arrivals-lose-momentum.html",
+      "lang": "en",
+      "countries": [
+        "Таиланд"
+      ],
+      "scope": "country",
+      "themes": [
+        "Туризм"
+      ],
+      "excerptCategories": "Thailand\n/\nTourism Thailand\n/\nNews\n/\nTourism & hospitality\n/\nAnalytics"
+    },
+    {
+      "id": "8718",
+      "date": "2026-08-28",
+      "title": "Rental Yields in Spain Declined in 2026",
+      "url": "https://internationalinvestment.biz/en/real-estate/8718-rental-yields-in-spain-declined-in-2026.html",
+      "lang": "en",
+      "countries": [
+        "Испания"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость",
+        "Инвестиции"
+      ],
+      "excerptCategories": "Real Estate\n/\nBusiness\n/\nInvestments\n/\nAnalytics\n/\nReviews\n/\nSpain\n/\nReal Estate Spain"
+    },
+    {
+      "id": "8719",
+      "date": "2026-08-27",
+      "title": "Hong Kong Home Prices End 13-Month Rally",
+      "url": "https://internationalinvestment.biz/en/news/8719-hong-kong-home-prices-end-13-month-rally.html",
+      "lang": "en",
+      "countries": [],
+      "scope": "unassigned",
+      "themes": [
+        "Недвижимость"
+      ],
+      "excerptCategories": "News\n/\nReal Estate\n/\nAnalytics\n/\nReviews"
+    },
+    {
+      "id": "8717",
+      "date": "2026-08-27",
+      "title": "Hot Summer Boosts UK Domestic Tourism",
+      "url": "https://internationalinvestment.biz/en/britannia/8717-hot-summer-boosts-uk-domestic-tourism.html",
+      "lang": "en",
+      "countries": [
+        "Великобритания"
+      ],
+      "scope": "country",
+      "themes": [
+        "Туризм"
+      ],
+      "excerptCategories": "United Kingdom\n/\nTourism Britain\n/\nTourism & hospitality\n/\nNews\n/\nAnalytics"
+    },
+    {
+      "id": "8714",
+      "date": "2026-08-27",
+      "title": "Manila Condo Inventory Hits Record as Values Weaken",
+      "url": "https://internationalinvestment.biz/en/philippines/8714-manila-condo-inventory-hits-record-as-values-weaken.html",
+      "lang": "en",
+      "countries": [
+        "Филиппины"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость"
+      ],
+      "excerptCategories": "Philippines\n/\nReal Estate Philippines\n/\nNews\n/\nReal Estate\n/\nAnalytics"
+    },
+    {
+      "id": "8716",
+      "date": "2026-08-27",
+      "title": "Cyberattack Paralyzes Real Estate Transactions in Romania",
+      "url": "https://internationalinvestment.biz/en/real-estate/8716-cyberattack-paralyzes-real-estate-transactions-in-romania.html",
+      "lang": "en",
+      "countries": [
+        "Румыния"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость"
+      ],
+      "excerptCategories": "Real Estate\n/\nBusiness\n/\nAnalytics\n/\nNews\n/\nReviews\n/\nRomania\n/\nReal Estate Romania"
+    },
+    {
+      "id": "8713",
+      "date": "2026-08-27",
+      "title": "Short-Term Rental Rates in Greece Rise to €200 per Night",
+      "url": "https://internationalinvestment.biz/en/real-estate/8713-short-term-rental-rates-in-greece-rise-to-200-per-night.html",
+      "lang": "en",
+      "countries": [
+        "Греция"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость",
+        "Инвестиции",
+        "Отели и гостиничный бизнес"
+      ],
+      "excerptCategories": "Real Estate\n/\nBusiness\n/\nInvestments\n/\nAnalytics\n/\nNews\n/\nReviews\n/\nGreece\n/\nReal Estate Greece"
+    },
+    {
+      "id": "8711",
+      "date": "2026-08-27",
+      "title": "Asia-Pacific Property Investment Hits Record $92.5 Billion",
+      "url": "https://internationalinvestment.biz/en/real-estate/8711-asia-pacific-property-investment-hits-record-925-billion.html",
+      "lang": "en",
+      "countries": [
+        "Австралия",
+        "Таиланд",
+        "Япония"
+      ],
+      "scope": "multi-country",
+      "themes": [
+        "Недвижимость"
+      ],
+      "excerptCategories": "Real Estate\n/\nAnalytics\n/\nThailand\n/\nReal Estate Thailand\n/\nSinagpur\n/\nReal Estate Singapur\n/\nAustralia\n/\nReal Estate Australia\n/\nJapan"
+    },
+    {
+      "id": "8695",
+      "date": "2026-08-27",
+      "title": "Scandinavian Prefab Housing Market Seen Reaching $7.9 Billion",
+      "url": "https://internationalinvestment.biz/en/real-estate/8695-scandinavian-prefab-housing-market-seen-reaching-79-billion.html",
+      "lang": "en",
+      "countries": [
+        "Дания",
+        "Норвегия",
+        "Швеция"
+      ],
+      "scope": "multi-country",
+      "themes": [
+        "Недвижимость"
+      ],
+      "excerptCategories": "Real Estate\n/\nAnalytics\n/\nNews\n/\nSweden\n/\nNorway\n/\nDenmark"
+    },
+    {
+      "id": "8700",
+      "date": "2026-08-26",
+      "title": "Denmark Sets First-Half Tourism Record as Germans Lead",
+      "url": "https://internationalinvestment.biz/en/denmark/8700-denmark-sets-first-half-tourism-record-as-germans-lead.html",
+      "lang": "en",
+      "countries": [
+        "Дания"
+      ],
+      "scope": "country",
+      "themes": [
+        "Туризм"
+      ],
+      "excerptCategories": "Denmark\n/\nNews\n/\nTourism & hospitality\n/\nTourism Denmark\n/\nAnalytics"
+    },
+    {
+      "id": "8709",
+      "date": "2026-08-26",
+      "title": "Drought Dries Bärenschützklamm Waterfalls in Austria",
+      "url": "https://internationalinvestment.biz/en/tourism/8709-drought-dries-barenschutzklamm-waterfalls-in-austria.html",
+      "lang": "en",
+      "countries": [
+        "Австрия"
+      ],
+      "scope": "country",
+      "themes": [
+        "Туризм"
+      ],
+      "excerptCategories": "Tourism & hospitality\n/\nAustria\n/\nTourism Austria\n/\nNews"
+    },
+    {
+      "id": "8712",
+      "date": "2026-08-26",
+      "title": "Thailand Industrial Property Faces Rising Vacancy Risk",
+      "url": "https://internationalinvestment.biz/en/thailand/8712-thailand-industrial-property-faces-rising-vacancy-risk.html",
+      "lang": "en",
+      "countries": [
+        "Таиланд"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость",
+        "Инвестиции"
+      ],
+      "excerptCategories": "Thailand\n/\nReal Estate Thailand\n/\nBusiness\n/\nReal Estate\n/\nInvestments"
+    },
+    {
+      "id": "8710",
+      "date": "2026-08-26",
+      "title": "Apartment Prices in Estonia Differ by 51 Times",
+      "url": "https://internationalinvestment.biz/en/real-estate/8710-apartment-prices-in-estonia-differ-by-51-times.html",
+      "lang": "en",
+      "countries": [
+        "Эстония"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость",
+        "Инвестиции"
+      ],
+      "excerptCategories": "Real Estate\n/\nInvestments\n/\nNews\n/\nReviews\n/\nAnalytics\n/\nEstonia\n/\nReal Estate Estonia"
+    },
+    {
+      "id": "8708",
+      "date": "2026-08-26",
+      "title": "Up to 10,000 Migrants Are Living on the Streets of Ceuta",
+      "url": "https://internationalinvestment.biz/en/migration/8708-up-to-10000-migrants-are-living-on-the-streets-of-ceuta.html",
+      "lang": "en",
+      "countries": [
+        "Испания"
+      ],
+      "scope": "country",
+      "themes": [
+        "ВНЖ и миграция"
+      ],
+      "excerptCategories": "Migration\n/\nNews\n/\nReviews\n/\nSpain"
+    },
+    {
+      "id": "8706",
+      "date": "2026-08-26",
+      "title": "European Property Investment Rises to €54 Billion",
+      "url": "https://internationalinvestment.biz/en/real-estate/8706-european-property-investment-rises-to-54-billion.html",
+      "lang": "en",
+      "countries": [
+        "Великобритания",
+        "Германия",
+        "Испания",
+        "Польша",
+        "Финляндия",
+        "Франция",
+        "Чехия",
+        "Швеция"
+      ],
+      "scope": "multi-country",
+      "themes": [
+        "Недвижимость"
+      ],
+      "excerptCategories": "Real Estate\n/\nNews\n/\nAnalytics\n/\nFinland\n/\nReal Estate Finland\n/\nPoland\n/\nReal Estate Poland\n/\nCzech Republic\n/\nReal Estate Czech\n/\nSpain\n/\nReal Estate Spain\n/\nSweden\n/\nReal Estate Sweden\n/\nUnited Kingdom\n/\nReal Estate B"
+    },
+    {
+      "id": "8707",
+      "date": "2026-08-25",
+      "title": "Vienna Leads Rentals, Alpine Resorts Earn More",
+      "url": "https://internationalinvestment.biz/en/austria/8707-vienna-leads-rentals-alpine-resorts-earn-more.html",
+      "lang": "en",
+      "countries": [
+        "Австрия"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость",
+        "Туризм",
+        "Отели и гостиничный бизнес"
+      ],
+      "excerptCategories": "Austria\n/\nReal Estate Austria\n/\nNews\n/\nBusiness\n/\nTourism & hospitality\n/\nReal Estate\n/\nAnalytics"
+    },
+    {
+      "id": "8705",
+      "date": "2026-08-25",
+      "title": "US Prepares to Revoke Up to 200,000 Visas of Asylum Applicants",
+      "url": "https://internationalinvestment.biz/en/migration/8705-us-prepares-to-revoke-up-to-200000-visas-of-asylum-applicants.html",
+      "lang": "en",
+      "countries": [
+        "США"
+      ],
+      "scope": "country",
+      "themes": [
+        "Туризм",
+        "ВНЖ и миграция"
+      ],
+      "excerptCategories": "Migration\n/\nNews\n/\nReviews\n/\nUSA\n/\nTourism & hospitality\n/\nTourism USA"
+    },
+    {
+      "id": "8703",
+      "date": "2026-08-25",
+      "title": "Denmark Pushes EU Toward Tougher External Borders",
+      "url": "https://internationalinvestment.biz/en/denmark/8703-denmark-pushes-eu-toward-tougher-external-borders.html",
+      "lang": "en",
+      "countries": [
+        "Дания"
+      ],
+      "scope": "country",
+      "themes": [
+        "ВНЖ и миграция"
+      ],
+      "excerptCategories": "Denmark\n/\nMigration\n/\nNews\n/\nAnalytics"
+    },
+    {
+      "id": "8702",
+      "date": "2026-08-25",
+      "title": "New-Build Home Prices in Russia Rise 34% in Three Years",
+      "url": "https://internationalinvestment.biz/en/real-estate/8702-new-build-home-prices-in-russia-rise-34-in-three-years.html",
+      "lang": "en",
+      "countries": [
+        "Россия"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость",
+        "Инвестиции"
+      ],
+      "excerptCategories": "Real Estate\n/\nBusiness\n/\nInvestments\n/\nNews\n/\nReviews\n/\nAnalytics\n/\nRussia\n/\nReal Estate Russia"
+    },
+    {
+      "id": "8698",
+      "date": "2026-08-25",
+      "title": "Singapore Core Inflation Hits Highest Since 2024",
+      "url": "https://internationalinvestment.biz/en/singapur/8698-singapore-core-inflation-hits-highest-since-2024.html",
+      "lang": "en",
+      "countries": [],
+      "scope": "unassigned",
+      "themes": [],
+      "excerptCategories": "Sinagpur\n/\nNews\n/\nAnalytics\n/\nReviews\n/\nBusiness"
+    },
+    {
+      "id": "8696",
+      "date": "2026-08-25",
+      "title": "High Prices Cool Hong Kong New-Home Demand",
+      "url": "https://internationalinvestment.biz/en/news/8696-high-prices-cool-hong-kong-new-home-demand.html",
+      "lang": "en",
+      "countries": [],
+      "scope": "unassigned",
+      "themes": [
+        "Недвижимость"
+      ],
+      "excerptCategories": "News\n/\nReal Estate\n/\nAnalytics"
+    },
+    {
+      "id": "8699",
+      "date": "2026-08-25",
+      "title": "Housing rent in Tirana takes up 93% of the average salary",
+      "url": "https://internationalinvestment.biz/en/real-estate/8699-housing-rent-in-tirana-takes-up-93-of-the-average-salary.html",
+      "lang": "en",
+      "countries": [
+        "Албания"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость",
+        "Инвестиции"
+      ],
+      "excerptCategories": "Real Estate\n/\nInvestments\n/\nReviews\n/\nAnalytics\n/\nAlbania\n/\nreal estate Albania"
+    },
+    {
+      "id": "8684",
+      "date": "2026-08-25",
+      "title": "Airbnb Growth Accelerates Across Australia and Asia",
+      "url": "https://internationalinvestment.biz/en/business/8684-airbnb-growth-accelerates-across-australia-and-asia.html",
+      "lang": "en",
+      "countries": [
+        "Австралия",
+        "Великобритания",
+        "Индия",
+        "Япония"
+      ],
+      "scope": "multi-country",
+      "themes": [
+        "Недвижимость",
+        "Туризм",
+        "Отели и гостиничный бизнес"
+      ],
+      "excerptCategories": "Business\n/\nReal Estate\n/\nTourism & hospitality\n/\nAustralia\n/\nUnited Kingdom\n/\nJapan\n/\nIndia\n/\nReal Estate Australia\n/\nReal Estate Britain\n/\nReal Estate Japan\n/\nReal Estate India"
+    },
+    {
+      "id": "8694",
+      "date": "2026-08-24",
+      "title": "Nordic Property Investment Rises 16% as Rates Stay High",
+      "url": "https://internationalinvestment.biz/en/investments/8694-nordic-property-investment-rises-16-as-rates-stay-high.html",
+      "lang": "en",
+      "countries": [
+        "Дания",
+        "Норвегия",
+        "Финляндия",
+        "Швеция"
+      ],
+      "scope": "multi-country",
+      "themes": [
+        "Недвижимость",
+        "Инвестиции"
+      ],
+      "excerptCategories": "Investments\n/\nReal Estate\n/\nAnalytics\n/\nNews\n/\nSweden\n/\nNorway\n/\nFinland\n/\nDenmark\n/\nReal Estate Sweden\n/\nReal Estate Norway\n/\nReal Estate Finland\n/\nReal Estate Denmark"
+    },
+    {
+      "id": "8697",
+      "date": "2026-08-24",
+      "title": "Ranking of the World’s Most Expensive Cities in 2026",
+      "url": "https://internationalinvestment.biz/en/ratings/8697-ranking-of-the-worlds-most-expensive-cities-in-2026.html",
+      "lang": "en",
+      "countries": [
+        "Австралия",
+        "Великобритания",
+        "ОАЭ",
+        "США",
+        "Швейцария"
+      ],
+      "scope": "multi-country",
+      "themes": [
+        "Инвестиции",
+        "ВНЖ и миграция"
+      ],
+      "excerptCategories": "Ratings\n/\nReviews\n/\nInvestments\n/\nMigration\n/\nSinagpur\n/\nSwitzerland\n/\nUnited Kingdom\n/\nAustralia\n/\nUnited Arab Emirates\n/\nUSA"
+    },
+    {
+      "id": "8691",
+      "date": "2026-08-24",
+      "title": "Construction Permits Decline in Georgia",
+      "url": "https://internationalinvestment.biz/en/business/8691-construction-permits-decline-in-georgia.html",
+      "lang": "en",
+      "countries": [
+        "Грузия"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость",
+        "Инвестиции"
+      ],
+      "excerptCategories": "Business\n/\nReal Estate\n/\nInvestments\n/\nAnalytics\n/\nNews\n/\nReviews\n/\nGeorgia\n/\nReal Estate Georgia"
+    },
+    {
+      "id": "8692",
+      "date": "2026-08-24",
+      "title": "Turkey Restores Bank Funding at 37% Policy Rate",
+      "url": "https://internationalinvestment.biz/en/turkey/8692-turkey-restores-bank-funding-at-37-policy-rate.html",
+      "lang": "en",
+      "countries": [
+        "Турция"
+      ],
+      "scope": "country",
+      "themes": [],
+      "excerptCategories": "Turkey\n/\nAnalytics\n/\nNews"
+    },
+    {
+      "id": "8693",
+      "date": "2026-08-24",
+      "title": "Istanbul Renews Housing Stock Amid Earthquake Threat",
+      "url": "https://internationalinvestment.biz/en/real-estate/8693-istanbul-renews-housing-stock-amid-earthquake-threat.html",
+      "lang": "en",
+      "countries": [
+        "Турция"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость",
+        "Инвестиции"
+      ],
+      "excerptCategories": "Real Estate\n/\nInvestments\n/\nNews\n/\nReviews\n/\nTurkey\n/\nAnalytics\n/\nReal Estate Turkey"
+    },
+    {
+      "id": "8690",
+      "date": "2026-08-24",
+      "title": "Ireland’s Apartment Delivery Slows",
+      "url": "https://internationalinvestment.biz/en/ireland/8690-irelands-apartment-delivery-slows.html",
+      "lang": "en",
+      "countries": [
+        "Ирландия"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость"
+      ],
+      "excerptCategories": "Ireland\n/\nReal estate Ireland\n/\nReal Estate\n/\nNews\n/\nAnalytics"
+    },
+    {
+      "id": "8689",
+      "date": "2026-08-24",
+      "title": "Georgia Says There Is an Attempt to Disrupt Tourist Flows From Russia",
+      "url": "https://internationalinvestment.biz/en/tourism/8689-georgia-says-there-is-an-attempt-to-disrupt-tourist-flows-from-russia.html",
+      "lang": "en",
+      "countries": [
+        "Грузия",
+        "Россия"
+      ],
+      "scope": "multi-country",
+      "themes": [
+        "Туризм"
+      ],
+      "excerptCategories": "Tourism & hospitality\n/\nGeorgia\n/\nNews\n/\nRussia"
+    },
+    {
+      "id": "8680",
+      "date": "2026-08-24",
+      "title": "Iceland House Prices Fall Behind Inflation",
+      "url": "https://internationalinvestment.biz/en/iceland/8680-iceland-house-prices-fall-behind-inflation.html",
+      "lang": "en",
+      "countries": [
+        "Исландия"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость"
+      ],
+      "excerptCategories": "Iceland\n/\nReal Estate Iceland\n/\nNews\n/\nReal Estate\n/\nAnalytics"
+    },
+    {
+      "id": "8688",
+      "date": "2026-08-23",
+      "title": "European Hotel Prices Rise as Deal Activity Slows",
+      "url": "https://internationalinvestment.biz/en/tourism/8688-european-hotel-prices-rise-as-deal-activity-slows.html",
+      "lang": "en",
+      "countries": [],
+      "scope": "unassigned",
+      "themes": [
+        "Инвестиции",
+        "Туризм",
+        "Отели и гостиничный бизнес"
+      ],
+      "excerptCategories": "Tourism & hospitality\n/\nBusiness\n/\nNews\n/\nInvestments\n/\nAnalytics"
+    },
+    {
+      "id": "8678",
+      "date": "2026-08-23",
+      "title": "UK House Price Growth Slows Sharply",
+      "url": "https://internationalinvestment.biz/en/britannia/8678-uk-house-price-growth-slows-sharply.html",
+      "lang": "en",
+      "countries": [
+        "Великобритания"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость"
+      ],
+      "excerptCategories": "United Kingdom\n/\nReal Estate Britain\n/\nReal Estate\n/\nNews\n/\nAnalytics"
+    },
+    {
+      "id": "8686",
+      "date": "2026-08-22",
+      "title": "Hotels Grow in H1 2026",
+      "url": "https://internationalinvestment.biz/en/tourism/8686-hotels-grow-in-h1-2026.html",
+      "lang": "en",
+      "countries": [],
+      "scope": "unassigned",
+      "themes": [
+        "Туризм",
+        "Отели и гостиничный бизнес"
+      ],
+      "excerptCategories": "Tourism & hospitality\n/\nAnalytics\n/\nNews"
+    },
+    {
+      "id": "8685",
+      "date": "2026-08-22",
+      "title": "Ceuta Crisis Deepens EU Dependence on Morocco",
+      "url": "https://internationalinvestment.biz/en/migration/8685-ceuta-crisis-deepens-eu-dependence-on-morocco.html",
+      "lang": "en",
+      "countries": [
+        "Испания"
+      ],
+      "scope": "country",
+      "themes": [
+        "Туризм",
+        "ВНЖ и миграция"
+      ],
+      "excerptCategories": "Migration\n/\nNews\n/\nTourism & hospitality\n/\nAnalytics\n/\nReviews\n/\nSpain"
+    },
+    {
+      "id": "8683",
+      "date": "2026-08-21",
+      "title": "Airbnb Nears Record High After Strong Quarter",
+      "url": "https://internationalinvestment.biz/en/business/8683-airbnb-nears-record-high-after-strong-quarter.html",
+      "lang": "en",
+      "countries": [],
+      "scope": "unassigned",
+      "themes": [
+        "Недвижимость",
+        "Туризм",
+        "Отели и гостиничный бизнес"
+      ],
+      "excerptCategories": "Business\n/\nTourism & hospitality\n/\nNews\n/\nAnalytics\n/\nReal Estate"
+    },
+    {
+      "id": "8681",
+      "date": "2026-08-21",
+      "title": "How to Get a Digital Nomad Visa for Germany",
+      "url": "https://internationalinvestment.biz/en/migration/8681-how-to-get-a-digital-nomad-visa-for-germany.html",
+      "lang": "en",
+      "countries": [
+        "Германия"
+      ],
+      "scope": "country",
+      "themes": [
+        "ВНЖ и миграция"
+      ],
+      "excerptCategories": "Migration\n/\nReviews\n/\nGermany"
+    },
+    {
+      "id": "8682",
+      "date": "2026-08-21",
+      "title": "Border Delays Are Changing Some British Holiday Plans",
+      "url": "https://internationalinvestment.biz/en/tourism/8682-border-delays-are-changing-some-british-holiday-plans.html",
+      "lang": "en",
+      "countries": [],
+      "scope": "unassigned",
+      "themes": [
+        "Туризм"
+      ],
+      "excerptCategories": "Tourism & hospitality\n/\nTourism Britain\n/\nNews\n/\nAnalytics"
+    },
+    {
+      "id": "8676",
+      "date": "2026-08-21",
+      "title": "US Housing Becomes a Buyer’s Market Without Buyers",
+      "url": "https://internationalinvestment.biz/en/usa/8676-us-housing-becomes-a-buyers-market-without-buyers.html",
+      "lang": "en",
+      "countries": [
+        "США"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость"
+      ],
+      "excerptCategories": "USA\n/\nReal Estate USA\n/\nReal Estate\n/\nNews\n/\nAnalytics"
+    },
+    {
+      "id": "8679",
+      "date": "2026-08-21",
+      "title": "“Golden Crown” leaves Europe after new sanctions against Russia",
+      "url": "https://internationalinvestment.biz/en/news/8679-golden-crown-leaves-europe-after-new-sanctions-against-russia.html",
+      "lang": "en",
+      "countries": [
+        "Россия"
+      ],
+      "scope": "country",
+      "themes": [],
+      "excerptCategories": "News\n/\nReviews\n/\nRussia"
+    },
+    {
+      "id": "8658",
+      "date": "2026-08-21",
+      "title": "Reykjavik Airbnb Supply Falls Nearly 20% as Revenue Slips",
+      "url": "https://internationalinvestment.biz/en/iceland/8658-reykjavik-airbnb-supply-falls-nearly-20-as-revenue-slips.html",
+      "lang": "en",
+      "countries": [
+        "Исландия"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость",
+        "Отели и гостиничный бизнес"
+      ],
+      "excerptCategories": "Iceland\n/\nNews\n/\nReal Estate Iceland\n/\nReal Estate\n/\nBusiness\n/\nAnalytics"
+    },
+    {
+      "id": "8668",
+      "date": "2026-08-21",
+      "title": "Mexico Sets New Tourism Record in First Half",
+      "url": "https://internationalinvestment.biz/en/tourism/8668-mexico-sets-new-tourism-record-in-first-half.html",
+      "lang": "en",
+      "countries": [],
+      "scope": "unassigned",
+      "themes": [
+        "Туризм"
+      ],
+      "excerptCategories": "Tourism & hospitality\n/\nNews\n/\nAnalytics\n/\nReviews"
+    },
+    {
+      "id": "8677",
+      "date": "2026-08-21",
+      "title": "Indonesia Plans to Double Visa on Arrival Fee",
+      "url": "https://internationalinvestment.biz/en/tourism/8677-indonesia-plans-to-double-visa-on-arrival-fee.html",
+      "lang": "en",
+      "countries": [
+        "Индонезия"
+      ],
+      "scope": "country",
+      "themes": [
+        "Туризм"
+      ],
+      "excerptCategories": "Tourism & hospitality\n/\nNews\n/\nReviews\n/\nIndonesia\n/\nTourism Indonesia"
+    },
+    {
+      "id": "8672",
+      "date": "2026-08-20",
+      "title": "Australia’s Housing Downturn Tests Its Biggest Banks",
+      "url": "https://internationalinvestment.biz/en/australia/8672-australias-housing-downturn-tests-its-biggest-banks.html",
+      "lang": "en",
+      "countries": [
+        "Австралия"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость"
+      ],
+      "excerptCategories": "Australia\n/\nReal Estate Australia\n/\nNews\n/\nReal Estate\n/\nAnalytics"
+    },
+    {
+      "id": "8674",
+      "date": "2026-08-20",
+      "title": "Hong Kong Banks Back Student Housing Boom",
+      "url": "https://internationalinvestment.biz/en/news/8674-hong-kong-banks-back-student-housing-boom.html",
+      "lang": "en",
+      "countries": [],
+      "scope": "unassigned",
+      "themes": [
+        "Недвижимость"
+      ],
+      "excerptCategories": "News\n/\nReal Estate\n/\nBusiness\n/\nAnalytics"
+    },
+    {
+      "id": "8675",
+      "date": "2026-08-20",
+      "title": "Manhattan Rents Reach a Record $5,000",
+      "url": "https://internationalinvestment.biz/en/usa/8675-manhattan-rents-reach-a-record-5000.html",
+      "lang": "en",
+      "countries": [
+        "США"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость"
+      ],
+      "excerptCategories": "USA\n/\nReal Estate USA\n/\nReal Estate\n/\nNews\n/\nAnalytics"
+    },
+    {
+      "id": "8671",
+      "date": "2026-08-20",
+      "title": "China’s Property Crisis Outlives Evergrande",
+      "url": "https://internationalinvestment.biz/en/china/8671-chinas-property-crisis-outlives-evergrande.html",
+      "lang": "en",
+      "countries": [
+        "Китай"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость"
+      ],
+      "excerptCategories": "China\n/\nReal Estate China\n/\nReal Estate\n/\nNews\n/\nAnalytics"
+    },
+    {
+      "id": "8673",
+      "date": "2026-08-20",
+      "title": "Foreign Buyers Become More Active in Armenia’s Real Estate Market",
+      "url": "https://internationalinvestment.biz/en/real-estate/8673-foreign-buyers-become-more-active-in-armenias-real-estate-market.html",
+      "lang": "en",
+      "countries": [
+        "Армения"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость",
+        "Инвестиции",
+        "Регулирование и правила для иностранных покупателей"
+      ],
+      "excerptCategories": "Real Estate\n/\nInvestments\n/\nNews\n/\nReviews\n/\nAnalytics\n/\nArmenia\n/\nReal Estate Armenia"
+    },
+    {
+      "id": "8670",
+      "date": "2026-08-20",
+      "title": "Ireland Debates Wider VAT Cut for New Homes",
+      "url": "https://internationalinvestment.biz/en/ireland/8670-ireland-debates-wider-vat-cut-for-new-homes.html",
+      "lang": "en",
+      "countries": [
+        "Ирландия"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость",
+        "Налоги для инвесторов"
+      ],
+      "excerptCategories": "Ireland\n/\nReal estate Ireland\n/\nReal Estate\n/\nNews\n/\nAnalytics"
+    },
+    {
+      "id": "8669",
+      "date": "2026-08-20",
+      "title": "Georgia Denies Reports of Mass Entry of Russians",
+      "url": "https://internationalinvestment.biz/en/migration/8669-georgia-denies-reports-of-20000-russians-at-the-border.html",
+      "lang": "en",
+      "countries": [
+        "Грузия",
+        "Россия"
+      ],
+      "scope": "multi-country",
+      "themes": [
+        "Туризм",
+        "ВНЖ и миграция"
+      ],
+      "excerptCategories": "Migration\n/\nTourism & hospitality\n/\nNews\n/\nGeorgia\n/\nTourism Georgia\n/\nRussia"
+    },
+    {
+      "id": "8630",
+      "date": "2026-08-20",
+      "title": "China Visa-Free Travel Drives Inbound Tourism Recovery in 2026",
+      "url": "https://internationalinvestment.biz/en/china/8630-china-visa-free-travel-drives-inbound-tourism-recovery-in-2026.html",
+      "lang": "en",
+      "countries": [
+        "Китай"
+      ],
+      "scope": "country",
+      "themes": [
+        "Туризм"
+      ],
+      "excerptCategories": "China\n/\nTourism China\n/\nTourism & hospitality\n/\nNews\n/\nAnalytics"
+    },
+    {
+      "id": "8667",
+      "date": "2026-08-19",
+      "title": "Home sales in Turkey fell by 17%",
+      "url": "https://internationalinvestment.biz/en/real-estate/8667-home-sales-in-turkey-fell-by-17.html",
+      "lang": "en",
+      "countries": [
+        "Турция"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость",
+        "Инвестиции"
+      ],
+      "excerptCategories": "Real Estate\n/\nInvestments\n/\nAnalytics\n/\nNews\n/\nReviews\n/\nTurkey\n/\nReal Estate Turkey"
+    },
+    {
+      "id": "8654",
+      "date": "2026-08-19",
+      "title": "Europe Captured a Third of Global Leisure Spending",
+      "url": "https://internationalinvestment.biz/en/tourism/8654-europe-captured-a-third-of-global-leisure-spending.html",
+      "lang": "en",
+      "countries": [
+        "Испания",
+        "Италия",
+        "Франция"
+      ],
+      "scope": "multi-country",
+      "themes": [
+        "Туризм"
+      ],
+      "excerptCategories": "Tourism & hospitality\n/\nNews\n/\nReviews\n/\nAnalytics\n/\nItaly\n/\nSpain\n/\nTourism Italy\n/\nTourism Spain\n/\nFrance\n/\nTourism France"
+    },
+    {
+      "id": "8625",
+      "date": "2026-08-19",
+      "title": "US Home Sales Fall Again as Mortgage Rates Rise",
+      "url": "https://internationalinvestment.biz/en/usa/8625-us-home-sales-fall-again-as-mortgage-rates-rise.html",
+      "lang": "en",
+      "countries": [
+        "США"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость"
+      ],
+      "excerptCategories": "USA\n/\nReal Estate USA\n/\nReal Estate\n/\nNews\n/\nAnalytics"
+    },
+    {
+      "id": "8627",
+      "date": "2026-08-19",
+      "title": "Burnham puts council housing at the center of economic policy",
+      "url": "https://internationalinvestment.biz/en/britannia/8627-burnham-puts-council-housing-at-the-center-of-economic-policy.html",
+      "lang": "en",
+      "countries": [
+        "Великобритания"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость"
+      ],
+      "excerptCategories": "United Kingdom\n/\nReal Estate Britain\n/\nNews\n/\nReal Estate\n/\nAnalytics"
+    },
+    {
+      "id": "8666",
+      "date": "2026-08-19",
+      "title": "Average House Prices in Portugal Reach €435,000",
+      "url": "https://internationalinvestment.biz/en/news/8666-average-house-prices-in-portugal-reach-435000.html",
+      "lang": "en",
+      "countries": [
+        "Португалия"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость",
+        "Инвестиции"
+      ],
+      "excerptCategories": "News\n/\nReal Estate\n/\nInvestments\n/\nAnalytics\n/\nReviews\n/\nPortugal\n/\nReal Estate Portugal"
+    },
+    {
+      "id": "8619",
+      "date": "2026-08-19",
+      "title": "Bulgaria Plans Incentives for New Air Routes",
+      "url": "https://internationalinvestment.biz/en/bulgaria/8619-bulgaria-plans-incentives-for-new-air-routes.html",
+      "lang": "en",
+      "countries": [
+        "Болгария"
+      ],
+      "scope": "country",
+      "themes": [
+        "Туризм"
+      ],
+      "excerptCategories": "Bulgaria\n/\nTourism Bulgaria\n/\nTourism & hospitality\n/\nNews\n/\nAnalytics"
+    },
+    {
+      "id": "8665",
+      "date": "2026-08-19",
+      "title": "Record Demand for Armenian Citizenship",
+      "url": "https://internationalinvestment.biz/en/news/8665-record-demand-for-armenian-citizenship.html",
+      "lang": "en",
+      "countries": [
+        "Армения"
+      ],
+      "scope": "country",
+      "themes": [
+        "ВНЖ и миграция"
+      ],
+      "excerptCategories": "News\n/\nMigration\n/\nReviews\n/\nArmenia"
+    },
+    {
+      "id": "8664",
+      "date": "2026-08-19",
+      "title": "Peru Reworks Machu Picchu Access as Tourism Recovers",
+      "url": "https://internationalinvestment.biz/en/tourism/8664-peru-reworks-machu-picchu-access-as-tourism-recovers.html",
+      "lang": "en",
+      "countries": [],
+      "scope": "unassigned",
+      "themes": [
+        "Туризм"
+      ],
+      "excerptCategories": "Tourism & hospitality\n/\nNews\n/\nReviews\n/\nAnalytics"
+    },
+    {
+      "id": "8824",
+      "date": "2026-08-18",
+      "title": "New RE:VALUE Awards Nomination: Best Redevelopment Projects",
+      "url": "https://internationalinvestment.biz/en/ratings/8824-revalue-awards-best-redevelopment-projects.html",
+      "lang": "en",
+      "countries": [],
+      "scope": "unassigned",
+      "themes": [],
+      "excerptCategories": "Ratings"
+    },
+    {
+      "id": "8663",
+      "date": "2026-08-18",
+      "title": "Guatemala Welcomes 1.9 Million Visitors in Seven Months",
+      "url": "https://internationalinvestment.biz/en/news/8663-guatemala-welcomes-19-million-visitors-in-seven-months.html",
+      "lang": "en",
+      "countries": [],
+      "scope": "unassigned",
+      "themes": [
+        "Туризм"
+      ],
+      "excerptCategories": "News\n/\nTourism & hospitality\n/\nAnalytics"
+    },
+    {
+      "id": "8660",
+      "date": "2026-08-18",
+      "title": "Extreme Heat Raises Costs for European Tourism",
+      "url": "https://internationalinvestment.biz/en/tourism/8660-extreme-heat-raises-costs-for-european-tourism.html",
+      "lang": "en",
+      "countries": [],
+      "scope": "unassigned",
+      "themes": [
+        "Туризм"
+      ],
+      "excerptCategories": "Tourism & hospitality\n/\nBusiness\n/\nNews\n/\nAnalytics"
+    },
+    {
+      "id": "8659",
+      "date": "2026-08-18",
+      "title": "Moscow to Triple Office Construction Volume",
+      "url": "https://internationalinvestment.biz/en/business/8659-moscow-to-triple-office-construction-volume.html",
+      "lang": "en",
+      "countries": [
+        "Россия"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость",
+        "Инвестиции"
+      ],
+      "excerptCategories": "Business\n/\nReal Estate\n/\nInvestments\n/\nAnalytics\n/\nResearch\n/\nRussia\n/\nReal Estate Russia"
+    },
+    {
+      "id": "8662",
+      "date": "2026-08-18",
+      "title": "German Investors Turn More Optimistic as Economy Recovers",
+      "url": "https://internationalinvestment.biz/en/germany/8662-german-investors-turn-more-optimistic-as-economy-recovers.html",
+      "lang": "en",
+      "countries": [
+        "Германия"
+      ],
+      "scope": "country",
+      "themes": [
+        "Инвестиции"
+      ],
+      "excerptCategories": "Germany\n/\nInvestments\n/\nNews\n/\nAnalytics"
+    },
+    {
+      "id": "8661",
+      "date": "2026-08-18",
+      "title": "Canadian Home Prices Stabilize as Listings Fall",
+      "url": "https://internationalinvestment.biz/en/canada/8661-canadian-home-prices-stabilize-as-listings-fall.html",
+      "lang": "en",
+      "countries": [
+        "Канада"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость"
+      ],
+      "excerptCategories": "Canada\n/\nReal Estate Canada\n/\nNews\n/\nReal Estate\n/\nAnalytics"
+    },
+    {
+      "id": "8657",
+      "date": "2026-08-18",
+      "title": "South Aegean Leads EU Tourism Intensity",
+      "url": "https://internationalinvestment.biz/en/greece/8657-south-aegean-leads-eu-tourism-intensity.html",
+      "lang": "en",
+      "countries": [
+        "Греция"
+      ],
+      "scope": "country",
+      "themes": [
+        "Туризм"
+      ],
+      "excerptCategories": "Greece\n/\nNews\n/\nTourism & hospitality\n/\nTourism Greece\n/\nAnalytics"
+    },
+    {
+      "id": "8648",
+      "date": "2026-08-18",
+      "title": "China Housing Weakens Again as Recovery Stalls",
+      "url": "https://internationalinvestment.biz/en/china/8648-china-housing-weakens-again-as-recovery-stalls.html",
+      "lang": "en",
+      "countries": [
+        "Китай"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость"
+      ],
+      "excerptCategories": "China\n/\nReal Estate China\n/\nReal Estate\n/\nNews\n/\nAnalytics"
+    },
+    {
+      "id": "8656",
+      "date": "2026-08-18",
+      "title": "Foreigners in Belarus: 153,000 Visits in 2026",
+      "url": "https://internationalinvestment.biz/en/news/8656-foreigners-in-belarus-153000-visits-in-2026.html",
+      "lang": "en",
+      "countries": [
+        "Беларусь"
+      ],
+      "scope": "country",
+      "themes": [
+        "Туризм"
+      ],
+      "excerptCategories": "News\n/\nReviews\n/\nBelarus\n/\nTourism Belarus\n/\nTourism & hospitality"
+    },
+    {
+      "id": "8651",
+      "date": "2026-08-18",
+      "title": "Australia Slows Working Holiday Visas as Migration Tightens",
+      "url": "https://internationalinvestment.biz/en/australia/8651-australia-slows-working-holiday-visas-as-migration-tightens.html",
+      "lang": "en",
+      "countries": [
+        "Австралия"
+      ],
+      "scope": "country",
+      "themes": [
+        "Туризм"
+      ],
+      "excerptCategories": "Australia\n/\nTourism Australia\n/\nNews\n/\nTourism & hospitality"
+    },
+    {
+      "id": "8652",
+      "date": "2026-08-17",
+      "title": "Somali Airlines Targets Return After 35-Year Hiatus",
+      "url": "https://internationalinvestment.biz/en/tourism/8652-somali-airlines-targets-return-after-35-year-hiatus.html",
+      "lang": "en",
+      "countries": [],
+      "scope": "unassigned",
+      "themes": [
+        "Туризм"
+      ],
+      "excerptCategories": "Tourism & hospitality\n/\nNews"
+    },
+    {
+      "id": "8655",
+      "date": "2026-08-17",
+      "title": "Foreign Direct Investment in Georgia Rises 19.3%",
+      "url": "https://internationalinvestment.biz/en/investments/8655-foreign-direct-investment-in-georgia-rises-193.html",
+      "lang": "en",
+      "countries": [
+        "Грузия"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость",
+        "Инвестиции"
+      ],
+      "excerptCategories": "Investments\n/\nAnalytics\n/\nReviews\n/\nNews\n/\nGeorgia\n/\nBusiness\n/\nReal Estate"
+    },
+    {
+      "id": "8653",
+      "date": "2026-08-17",
+      "title": "Eclipse Pushed European Hotel Rates Above $1,000",
+      "url": "https://internationalinvestment.biz/en/tourism/8653-eclipse-pushed-european-hotel-rates-above-1000.html",
+      "lang": "en",
+      "countries": [],
+      "scope": "unassigned",
+      "themes": [
+        "Туризм",
+        "Отели и гостиничный бизнес"
+      ],
+      "excerptCategories": "Tourism & hospitality\n/\nNews\n/\nAnalytics\n/\nReviews"
+    },
+    {
+      "id": "8646",
+      "date": "2026-08-17",
+      "title": "Iceland’s Capital Housing Market Shifts Toward Cheaper Homes",
+      "url": "https://internationalinvestment.biz/en/iceland/8646-icelands-capital-housing-market-shifts-toward-cheaper-homes.html",
+      "lang": "en",
+      "countries": [
+        "Исландия"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость",
+        "Инвестиции"
+      ],
+      "excerptCategories": "Iceland\n/\nReal Estate Iceland\n/\nReal Estate\n/\nNews\n/\nInvestments\n/\nAnalytics"
+    },
+    {
+      "id": "8650",
+      "date": "2026-08-17",
+      "title": "Singapore Home Sales Rebound as New Launches Return",
+      "url": "https://internationalinvestment.biz/en/singapur/8650-singapore-home-sales-rebound-as-new-launches-return.html",
+      "lang": "en",
+      "countries": [],
+      "scope": "unassigned",
+      "themes": [
+        "Недвижимость"
+      ],
+      "excerptCategories": "Sinagpur\n/\nReal Estate Singapur\n/\nReal Estate\n/\nNews\n/\nAnalytics\n/\nReviews"
+    },
+    {
+      "id": "8649",
+      "date": "2026-08-17",
+      "title": "Abu Dhabi Real Estate Market: Rising Home Prices and Rent Freeze",
+      "url": "https://internationalinvestment.biz/en/real-estate/8649-abu-dhabi-real-estate-market-rising-home-prices-and-rent-freeze.html",
+      "lang": "en",
+      "countries": [
+        "ОАЭ"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость",
+        "Инвестиции"
+      ],
+      "excerptCategories": "Real Estate\n/\nInvestments\n/\nAnalytics\n/\nNews\n/\nReviews\n/\nUnited Arab Emirates\n/\nReal Estate UAE"
+    },
+    {
+      "id": "8647",
+      "date": "2026-08-17",
+      "title": "New mass migrant crossing attempt into Ceuta: nearly 300 detained",
+      "url": "https://internationalinvestment.biz/en/news/8647-new-mass-migrant-crossing-attempt-into-ceuta-nearly-300-detained.html",
+      "lang": "en",
+      "countries": [
+        "Испания"
+      ],
+      "scope": "country",
+      "themes": [
+        "ВНЖ и миграция"
+      ],
+      "excerptCategories": "News\n/\nMigration\n/\nReviews\n/\nSpain"
+    },
+    {
+      "id": "8634",
+      "date": "2026-08-17",
+      "title": "London Housing Market Loses Buyer Confidence",
+      "url": "https://internationalinvestment.biz/en/britannia/8634-london-housing-market-loses-buyer-confidence.html",
+      "lang": "en",
+      "countries": [
+        "Великобритания"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость"
+      ],
+      "excerptCategories": "United Kingdom\n/\nReal Estate Britain\n/\nReal Estate\n/\nNews\n/\nAnalytics"
+    },
+    {
+      "id": "8636",
+      "date": "2026-08-17",
+      "title": "Michigan Opens More Doors for First-Time Homebuyers",
+      "url": "https://internationalinvestment.biz/en/usa/8636-michigan-opens-more-doors-for-first-time-homebuyers.html",
+      "lang": "en",
+      "countries": [
+        "США"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость"
+      ],
+      "excerptCategories": "USA\n/\nReal Estate USA\n/\nNews\n/\nReal Estate\n/\nAnalytics"
+    },
+    {
+      "id": "8645",
+      "date": "2026-08-16",
+      "title": "Housing Costs Push South Korean President to New Low",
+      "url": "https://internationalinvestment.biz/en/real-estate/8645-housing-costs-push-south-korean-president-to-new-low.html",
+      "lang": "en",
+      "countries": [],
+      "scope": "unassigned",
+      "themes": [
+        "Недвижимость"
+      ],
+      "excerptCategories": "Real Estate\n/\nNews\n/\nAnalytics\n/\nReviews"
+    },
+    {
+      "id": "8643",
+      "date": "2026-08-16",
+      "title": "€1 Homes in Italy: A New Project in Sicily",
+      "url": "https://internationalinvestment.biz/en/real-estate/8643-1-homes-in-italy-a-new-project-in-sicily.html",
+      "lang": "en",
+      "countries": [
+        "Италия"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость",
+        "Инвестиции"
+      ],
+      "excerptCategories": "Real Estate\n/\nInvestments\n/\nNews\n/\nReviews\n/\nItaly\n/\nReal Estate Italy"
+    },
+    {
+      "id": "8644",
+      "date": "2026-08-15",
+      "title": "China Draws More Tourists, but Spending Stays Modest",
+      "url": "https://internationalinvestment.biz/en/china/8644-china-draws-more-tourists-but-spending-stays-modest.html",
+      "lang": "en",
+      "countries": [
+        "Китай"
+      ],
+      "scope": "country",
+      "themes": [
+        "Туризм"
+      ],
+      "excerptCategories": "China\n/\nTourism China\n/\nBusiness\n/\nTourism & hospitality\n/\nNews\n/\nAnalytics"
+    },
+    {
+      "id": "8639",
+      "date": "2026-08-15",
+      "title": "Jūrmala Recovers, but Prime Market Remains Selective",
+      "url": "https://internationalinvestment.biz/en/latvia/8639-jrmala-recovers-but-prime-market-remains-selective.html",
+      "lang": "en",
+      "countries": [
+        "Латвия"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость"
+      ],
+      "excerptCategories": "Latvia\n/\nReal Estate Latvia\n/\nReal Estate\n/\nNews\n/\nAnalytics"
+    },
+    {
+      "id": "8593",
+      "date": "2026-08-14",
+      "title": "Extended Departures From Israel Remain Near Record Highs",
+      "url": "https://internationalinvestment.biz/en/israel/8593-extended-departures-from-israel-remain-near-record-highs.html",
+      "lang": "en",
+      "countries": [
+        "Израиль"
+      ],
+      "scope": "country",
+      "themes": [
+        "Туризм",
+        "ВНЖ и миграция"
+      ],
+      "excerptCategories": "Israel\n/\nMigration\n/\nNews\n/\nAnalytics\n/\nTourism & hospitality\n/\nTourism Israel"
+    },
+    {
+      "id": "8641",
+      "date": "2026-08-14",
+      "title": "Turkey Raises Inflation Forecast to 28%",
+      "url": "https://internationalinvestment.biz/en/turkey/8641-turkey-raises-inflation-forecast-to-28.html",
+      "lang": "en",
+      "countries": [
+        "Турция"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость",
+        "Инвестиции"
+      ],
+      "excerptCategories": "Turkey\n/\nInvestments\n/\nBusiness\n/\nReal Estate Turkey\n/\nNews\n/\nReal Estate\n/\nAnalytics"
+    },
+    {
+      "id": "8642",
+      "date": "2026-08-14",
+      "title": "Foreign Workers Filled 58% of New Jobs in Spain",
+      "url": "https://internationalinvestment.biz/en/migration/8642-foreign-workers-filled-58-of-new-jobs-in-spain.html",
+      "lang": "en",
+      "countries": [
+        "Испания"
+      ],
+      "scope": "country",
+      "themes": [
+        "ВНЖ и миграция"
+      ],
+      "excerptCategories": "Migration\n/\nNews\n/\nReviews\n/\nAnalytics\n/\nSpain"
+    },
+    {
+      "id": "8589",
+      "date": "2026-08-14",
+      "title": "Croatia Earns More as Tourist Numbers Hold",
+      "url": "https://internationalinvestment.biz/en/croatia/8589-croatia-earns-more-as-tourist-numbers-hold.html",
+      "lang": "en",
+      "countries": [
+        "Хорватия"
+      ],
+      "scope": "country",
+      "themes": [
+        "Туризм"
+      ],
+      "excerptCategories": "Croatia\n/\nTourism Croatia\n/\nTourism & hospitality\n/\nAnalytics\n/\nNews"
+    },
+    {
+      "id": "8640",
+      "date": "2026-08-14",
+      "title": "Norway Holds Rates and Delays Another Hike",
+      "url": "https://internationalinvestment.biz/en/norway/8640-norway-holds-rates-and-delays-another-hike.html",
+      "lang": "en",
+      "countries": [
+        "Норвегия"
+      ],
+      "scope": "country",
+      "themes": [],
+      "excerptCategories": "Norway\n/\nAnalytics\n/\nNews\n/\nBusiness"
+    },
+    {
+      "id": "8616",
+      "date": "2026-08-14",
+      "title": "Bulgaria Housing Prices Rise as Transactions Fall",
+      "url": "https://internationalinvestment.biz/en/bulgaria/8616-bulgaria-housing-prices-rise-as-transactions-fall.html",
+      "lang": "en",
+      "countries": [
+        "Болгария"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость"
+      ],
+      "excerptCategories": "Bulgaria\n/\nReal Estate Bulgaria\n/\nReal Estate\n/\nNews\n/\nAnalytics"
+    },
+    {
+      "id": "8567",
+      "date": "2026-08-14",
+      "title": "Foreign Funds Return to Indian Stocks",
+      "url": "https://internationalinvestment.biz/en/india/8567-foreign-funds-return-to-indian-stocks.html",
+      "lang": "en",
+      "countries": [
+        "Индия"
+      ],
+      "scope": "country",
+      "themes": [
+        "Инвестиции"
+      ],
+      "excerptCategories": "India\n/\nInvestments\n/\nNews\n/\nAnalytics"
+    },
+    {
+      "id": "8638",
+      "date": "2026-08-14",
+      "title": "Finland to Introduce Citizenship Examination",
+      "url": "https://internationalinvestment.biz/en/migration/8638-finland-to-introduce-citizenship-examination.html",
+      "lang": "en",
+      "countries": [
+        "Финляндия"
+      ],
+      "scope": "country",
+      "themes": [
+        "ВНЖ и миграция"
+      ],
+      "excerptCategories": "Migration\n/\nNews\n/\nReviews\n/\nFinland"
+    },
+    {
+      "id": "8635",
+      "date": "2026-08-13",
+      "title": "US Housing Remains Out of Reach for Buyers",
+      "url": "https://internationalinvestment.biz/en/usa/8635-us-housing-remains-out-of-reach-for-buyers.html",
+      "lang": "en",
+      "countries": [
+        "США"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость"
+      ],
+      "excerptCategories": "USA\n/\nReal Estate USA\n/\nReal Estate\n/\nNews\n/\nAnalytics"
+    },
+    {
+      "id": "8637",
+      "date": "2026-08-13",
+      "title": "Riga’s Airbnb Supply Outpaces Revenue Growth",
+      "url": "https://internationalinvestment.biz/en/investments/8637-rigas-airbnb-supply-outpaces-revenue-growth.html",
+      "lang": "en",
+      "countries": [
+        "Латвия"
+      ],
+      "scope": "country",
+      "themes": [
+        "Инвестиции",
+        "Отели и гостиничный бизнес"
+      ],
+      "excerptCategories": "Investments\n/\nLatvia\n/\nReal Estate Latvia\n/\nBusiness\n/\nNews\n/\nAnalytics"
+    },
+    {
+      "id": "8581",
+      "date": "2026-08-13",
+      "title": "Estonians Turn Backyards Into Summer Cafés",
+      "url": "https://internationalinvestment.biz/en/tourism/8581-estonians-turn-backyards-into-summer-cafes.html",
+      "lang": "en",
+      "countries": [
+        "Эстония"
+      ],
+      "scope": "country",
+      "themes": [
+        "Туризм"
+      ],
+      "excerptCategories": "Tourism & hospitality\n/\nEstonia\n/\nTourism Estonia\n/\nNews\n/\nAnalytics\n/\nReviews"
+    },
+    {
+      "id": "8614",
+      "date": "2026-08-13",
+      "title": "Uzbekistan Property Transactions Rise 25% in First Half",
+      "url": "https://internationalinvestment.biz/en/uzbekistan/8614-uzbekistan-property-transactions-rise-25-in-first-half.html",
+      "lang": "en",
+      "countries": [
+        "Узбекистан"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость"
+      ],
+      "excerptCategories": "Uzbekistan\n/\nReal Estate Uzbekistan\n/\nReal Estate\n/\nNews\n/\nAnalytics"
+    },
+    {
+      "id": "8632",
+      "date": "2026-08-13",
+      "title": "Australian Housing Cools as Mortgage Demand Weakens",
+      "url": "https://internationalinvestment.biz/en/australia/8632-australian-housing-cools-as-mortgage-demand-weakens.html",
+      "lang": "en",
+      "countries": [
+        "Австралия"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость"
+      ],
+      "excerptCategories": "Australia\n/\nReal Estate Australia\n/\nReal Estate\n/\nNews\n/\nAnalytics"
+    },
+    {
+      "id": "8622",
+      "date": "2026-08-13",
+      "title": "Bratislava Adds New Homes as Sales Slow",
+      "url": "https://internationalinvestment.biz/en/slovakia/8622-bratislava-adds-new-homes-as-sales-slow.html",
+      "lang": "en",
+      "countries": [
+        "Словакия"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость"
+      ],
+      "excerptCategories": "Slovakia\n/\nReal Estate Slovakia\n/\nReal Estate\n/\nNews\n/\nAnalytics"
+    },
+    {
+      "id": "8633",
+      "date": "2026-08-13",
+      "title": "Cyprus Retail Property: Strong Sales and Cautious Investors",
+      "url": "https://internationalinvestment.biz/en/business/8633-cyprus-retail-property-strong-sales-and-cautious-investors.html",
+      "lang": "en",
+      "countries": [],
+      "scope": "unassigned",
+      "themes": [
+        "Недвижимость",
+        "Инвестиции"
+      ],
+      "excerptCategories": "Business\n/\nReal Estate\n/\nInvestments\n/\nAnalytics\n/\nResearch\n/\nReviews\n/\nКипр\n/\nReal Estate Cyprus"
+    },
+    {
+      "id": "8612",
+      "date": "2026-08-13",
+      "title": "SNB Rate Hike Expectations Shift Beyond Mid-2027",
+      "url": "https://internationalinvestment.biz/en/switzerland/8612-snb-rate-hike-expectations-shift-beyond-mid-2027.html",
+      "lang": "en",
+      "countries": [
+        "Швейцария"
+      ],
+      "scope": "country",
+      "themes": [
+        "Инвестиции"
+      ],
+      "excerptCategories": "Switzerland\n/\nNews\n/\nAnalytics\n/\nBusiness\n/\nInvestments"
+    },
+    {
+      "id": "8628",
+      "date": "2026-08-12",
+      "title": "China Moves to Reduce $148 Billion Property Land Risk",
+      "url": "https://internationalinvestment.biz/en/china/8628-china-moves-to-reduce-148-billion-property-land-risk.html",
+      "lang": "en",
+      "countries": [
+        "Китай"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость"
+      ],
+      "excerptCategories": "China\n/\nReal Estate China\n/\nReal Estate\n/\nNews\n/\nAnalytics"
+    },
+    {
+      "id": "8631",
+      "date": "2026-08-12",
+      "title": "Up to 90,000 roles could shift out of London",
+      "url": "https://internationalinvestment.biz/en/britannia/8631-up-to-90000-roles-could-shift-out-of-london.html",
+      "lang": "en",
+      "countries": [
+        "Великобритания"
+      ],
+      "scope": "country",
+      "themes": [],
+      "excerptCategories": "United Kingdom\n/\nNews\n/\nBusiness\n/\nAnalytics"
+    },
+    {
+      "id": "8629",
+      "date": "2026-08-12",
+      "title": "More than 75% of New Apartments in Hanoi Are Premium Properties",
+      "url": "https://internationalinvestment.biz/en/real-estate/8629-more-than-75-of-new-apartments-in-hanoi-are-premium-properties.html",
+      "lang": "en",
+      "countries": [],
+      "scope": "unassigned",
+      "themes": [
+        "Недвижимость",
+        "Инвестиции"
+      ],
+      "excerptCategories": "Real Estate\n/\nInvestments\n/\nAnalytics\n/\nNews\n/\nReviews"
+    },
+    {
+      "id": "8610",
+      "date": "2026-08-12",
+      "title": "Eurozone Growth Firms After Strong Second Quarter",
+      "url": "https://internationalinvestment.biz/en/news/8610-eurozone-growth-firms-after-strong-second-quarter.html",
+      "lang": "en",
+      "countries": [],
+      "scope": "unassigned",
+      "themes": [
+        "Инвестиции"
+      ],
+      "excerptCategories": "News\n/\nAnalytics\n/\nBusiness\n/\nInvestments"
+    },
+    {
+      "id": "8591",
+      "date": "2026-08-12",
+      "title": "Israel Builds Faster Than Buyers Can Absorb",
+      "url": "https://internationalinvestment.biz/en/israel/8591-israel-builds-faster-than-buyers-can-absorb.html",
+      "lang": "en",
+      "countries": [
+        "Израиль"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость",
+        "Инвестиции"
+      ],
+      "excerptCategories": "Israel\n/\nNews\n/\nReal Estate\n/\nReal Estate\n/\nAnalytics\n/\nInvestments"
+    },
+    {
+      "id": "8626",
+      "date": "2026-08-12",
+      "title": "US Cancels 175,000 Visas Held by Foreign Nationals",
+      "url": "https://internationalinvestment.biz/en/migration/8626-us-cancels-175000-visas-held-by-foreign-nationals.html",
+      "lang": "en",
+      "countries": [
+        "США"
+      ],
+      "scope": "country",
+      "themes": [
+        "ВНЖ и миграция"
+      ],
+      "excerptCategories": "Migration\n/\nNews\n/\nReviews\n/\nUSA"
+    },
+    {
+      "id": "8569",
+      "date": "2026-08-12",
+      "title": "Croatia’s Warehouse Vacancy Falls to 1%",
+      "url": "https://internationalinvestment.biz/en/croatia/8569-croatias-warehouse-vacancy-falls-to-1.html",
+      "lang": "en",
+      "countries": [
+        "Хорватия"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость",
+        "Инвестиции"
+      ],
+      "excerptCategories": "Croatia\n/\nReal Estate Croatia\n/\nNews\n/\nAnalytics\n/\nBusiness\n/\nInvestments\n/\nReal Estate"
+    },
+    {
+      "id": "8624",
+      "date": "2026-08-12",
+      "title": "Serbia Is Heading for the Schengen Area: There Will Be No Visas for Russians",
+      "url": "https://internationalinvestment.biz/en/tourism/8624-serbia-could-introduce-visas-for-russian-citizens.html",
+      "lang": "en",
+      "countries": [
+        "Россия",
+        "Сербия"
+      ],
+      "scope": "multi-country",
+      "themes": [
+        "Туризм",
+        "ВНЖ и миграция"
+      ],
+      "excerptCategories": "Tourism & hospitality\n/\nNews\n/\nMigration\n/\nAnalytics\n/\nReviews\n/\nSerbia\n/\nRussia"
+    },
+    {
+      "id": "8623",
+      "date": "2026-08-11",
+      "title": "Warsaw Office Leasing Rises 38% as Supply Tightens",
+      "url": "https://internationalinvestment.biz/en/poland/8623-warsaw-office-leasing-rises-38-as-supply-tightens.html",
+      "lang": "en",
+      "countries": [
+        "Польша"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость"
+      ],
+      "excerptCategories": "Poland\n/\nReal Estate Poland\n/\nReal Estate\n/\nNews\n/\nAnalytics\n/\nBusiness"
+    },
+    {
+      "id": "8618",
+      "date": "2026-08-11",
+      "title": "Bulgaria Mortgage Stock Grows 26% as Market Diverges",
+      "url": "https://internationalinvestment.biz/en/bulgaria/8618-bulgaria-mortgage-stock-grows-26-as-market-diverges.html",
+      "lang": "en",
+      "countries": [
+        "Болгария"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость",
+        "Инвестиции"
+      ],
+      "excerptCategories": "Bulgaria\n/\nReal Estate Bulgaria\n/\nReal Estate\n/\nNews\n/\nAnalytics\n/\nResearch\n/\nInvestments"
+    },
+    {
+      "id": "8621",
+      "date": "2026-08-11",
+      "title": "Hungary’s Housing Price Growth Slows",
+      "url": "https://internationalinvestment.biz/en/hungary/8621-hungarys-housing-price-growth-slows.html",
+      "lang": "en",
+      "countries": [
+        "Венгрия"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость"
+      ],
+      "excerptCategories": "Hungary\n/\nReal Estate Hungary\n/\nReal Estate\n/\nNews\n/\nAnalytics"
+    },
+    {
+      "id": "8620",
+      "date": "2026-08-11",
+      "title": "Turkey Revokes Citizenship of More Than 6,000 Investors and Their Family Members",
+      "url": "https://internationalinvestment.biz/en/real-estate/8620-turkey-revokes-citizenship-of-more-than-6000-investors-and-their-family-members.html",
+      "lang": "en",
+      "countries": [
+        "Турция"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость",
+        "Инвестиции",
+        "ВНЖ и миграция"
+      ],
+      "excerptCategories": "Real Estate\n/\nInvestments\n/\nNews\n/\nReviews\n/\nAnalytics\n/\nTurkey\n/\nReal Estate Turkey\n/\nMigration"
+    },
+    {
+      "id": "8617",
+      "date": "2026-08-11",
+      "title": "Greece’s Golden Visa: Applications Fall 25%, Backlog Drops 7.3%",
+      "url": "https://internationalinvestment.biz/en/real-estate/8617-greeces-golden-visa-applications-fall-25-backlog-drops-73.html",
+      "lang": "en",
+      "countries": [
+        "Греция"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость",
+        "Инвестиции",
+        "ВНЖ и миграция"
+      ],
+      "excerptCategories": "Real Estate\n/\nInvestments\n/\nMigration\n/\nAnalytics\n/\nNews\n/\nReviews\n/\nGreece\n/\nReal Estate Greece"
+    },
+    {
+      "id": "8564",
+      "date": "2026-08-11",
+      "title": "Indonesia’s Housing Market: Sales Decline, Prices Stagnate",
+      "url": "https://internationalinvestment.biz/en/business/8564-indonesias-housing-market-sales-decline-prices-stagnate.html",
+      "lang": "en",
+      "countries": [
+        "Индонезия"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость",
+        "Инвестиции"
+      ],
+      "excerptCategories": "Business\n/\nReal Estate\n/\nInvestments\n/\nAnalytics\n/\nResearch\n/\nReviews\n/\nIndonesia\n/\nReal Estate Indonesia"
+    },
+    {
+      "id": "8528",
+      "date": "2026-08-11",
+      "title": "Swiss Tourism Growth Remains Concentrated",
+      "url": "https://internationalinvestment.biz/en/switzerland/8528-swiss-tourism-growth-remains-concentrated.html",
+      "lang": "en",
+      "countries": [
+        "Швейцария"
+      ],
+      "scope": "country",
+      "themes": [
+        "Туризм"
+      ],
+      "excerptCategories": "Switzerland\n/\nTourism Switzerland\n/\nTourism & hospitality\n/\nNews\n/\nAnalytics"
+    },
+    {
+      "id": "8615",
+      "date": "2026-08-10",
+      "title": "Bulgaria Proposes Stricter Permanent Residence Rules",
+      "url": "https://internationalinvestment.biz/en/bulgaria/8615-bulgaria-proposes-stricter-permanent-residence-rules.html",
+      "lang": "en",
+      "countries": [
+        "Болгария"
+      ],
+      "scope": "country",
+      "themes": [
+        "Инвестиции",
+        "ВНЖ и миграция"
+      ],
+      "excerptCategories": "Bulgaria\n/\nMigration\n/\nNews\n/\nAnalytics\n/\nInvestments"
+    },
+    {
+      "id": "8613",
+      "date": "2026-08-10",
+      "title": "Strong UK GDP Masks Weak Economic Momentum",
+      "url": "https://internationalinvestment.biz/en/britannia/8613-strong-uk-gdp-masks-weak-economic-momentum.html",
+      "lang": "en",
+      "countries": [
+        "Великобритания"
+      ],
+      "scope": "country",
+      "themes": [
+        "Инвестиции"
+      ],
+      "excerptCategories": "United Kingdom\n/\nNews\n/\nBusiness\n/\nInvestments\n/\nAnalytics"
+    },
+    {
+      "id": "8611",
+      "date": "2026-08-10",
+      "title": "EU Allows Temporary Suspension of EES System at Borders",
+      "url": "https://internationalinvestment.biz/en/tourism/8611-eu-allows-temporary-suspension-of-ees-system-at-borders.html",
+      "lang": "en",
+      "countries": [
+        "Германия",
+        "Греция",
+        "Испания",
+        "Италия",
+        "Португалия",
+        "Франция"
+      ],
+      "scope": "multi-country",
+      "themes": [
+        "Туризм"
+      ],
+      "excerptCategories": "Tourism & hospitality\n/\nNews\n/\nReviews\n/\nGermany\n/\nFrance\n/\nItaly\n/\nSpain\n/\nPortugal\n/\nGreece"
+    },
+    {
+      "id": "8537",
+      "date": "2026-08-10",
+      "title": "Income Growth Cushions Dutch Energy Price Shock",
+      "url": "https://internationalinvestment.biz/en/netherlands/8537-income-growth-cushions-dutch-energy-price-shock.html",
+      "lang": "en",
+      "countries": [
+        "Нидерланды"
+      ],
+      "scope": "country",
+      "themes": [
+        "Инвестиции"
+      ],
+      "excerptCategories": "Netherlands\n/\nNews\n/\nBusiness\n/\nInvestments\n/\nAnalytics"
+    },
+    {
+      "id": "8609",
+      "date": "2026-08-10",
+      "title": "Egypt Inflation Accelerates Again in July",
+      "url": "https://internationalinvestment.biz/en/egypt/8609-egypt-inflation-accelerates-again-in-july.html",
+      "lang": "en",
+      "countries": [
+        "Египет"
+      ],
+      "scope": "country",
+      "themes": [
+        "Инвестиции"
+      ],
+      "excerptCategories": "Egypt\n/\nNews\n/\nBusiness\n/\nInvestments"
+    },
+    {
+      "id": "8608",
+      "date": "2026-08-10",
+      "title": "Montenegro Extends Deadline for Registering Illegal Properties",
+      "url": "https://internationalinvestment.biz/en/real-estate/8608-montenegro-extends-deadline-for-registering-illegal-properties.html",
+      "lang": "en",
+      "countries": [
+        "Черногория"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость",
+        "Инвестиции"
+      ],
+      "excerptCategories": "Real Estate\n/\nInvestments\n/\nReviews\n/\nNews\n/\nMontenegro\n/\nReal Estate Montenegro"
+    },
+    {
+      "id": "8607",
+      "date": "2026-08-10",
+      "title": "Protests in Spain: Mallorca Pushes Back Against Mass Tourism",
+      "url": "https://internationalinvestment.biz/en/business/8607-protests-in-spain-mallorca-pushes-back-against-mass-tourism.html",
+      "lang": "en",
+      "countries": [
+        "Испания"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость",
+        "Туризм"
+      ],
+      "excerptCategories": "Business\n/\nReal Estate\n/\nTourism & hospitality\n/\nNews\n/\nReviews\n/\nSpain\n/\nTourism Spain"
+    },
+    {
+      "id": "8497",
+      "date": "2026-08-10",
+      "title": "India Sets Record for Office Leasing",
+      "url": "https://internationalinvestment.biz/en/india/8497-india-sets-record-for-office-leasing.html",
+      "lang": "en",
+      "countries": [
+        "Индия"
+      ],
+      "scope": "country",
+      "themes": [],
+      "excerptCategories": "India\n/\nReal Estate India\n/\nBusiness\n/\nNews\n/\nAnalytics"
     }
   ],
   "errors": [
@@ -3063,7 +7724,22 @@
         "error": "page_not_found",
         "status": 404
       }
+    },
+    {
+      "error": {
+        "url": "https://internationalinvestment.biz/en/2026/10/04/",
+        "error": "page_not_found",
+        "status": 404
+      }
+    },
+    {
+      "url": "https://internationalinvestment.biz/en/2026/09/04/",
+      "links": 7,
+      "titles": 0
     }
   ],
-  "limitations": "Archive pages may have pagination; first page checked only. Country and topic classification derived from archive categories/title and needs editorial spot check."
+  "limitations": "Archive pages may have pagination; first page checked only. Country and topic classification derived from archive categories/title and needs editorial spot check.",
+  "archiveYears": [
+    "2026"
+  ]
 }
