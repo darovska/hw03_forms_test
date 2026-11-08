@@ -12,7 +12,7 @@ function setText(id,t){const e=$("#"+id);if(e)e.textContent=String(t);}
 function renderMatrix(){
   const body=$("#matrix");body.replaceChildren();
   const query=$("#search").value.trim().toLocaleLowerCase(),theme=$("#theme").value,st=$("#status").value;
-  const records=state.matrix.filter(r=>(r.country+" "+r.name+" "+(r.headline||"")).toLocaleLowerCase().includes(query)&&(!theme||theme===r.name)&&(!st||st==="verified"?!!r.lastPublished:r.status===st));
+  const records=state.matrix.filter(r=>(r.country+" "+r.name+" "+(r.headline||"")).toLocaleLowerCase().includes(query)&&(!theme||theme===r.name)&&(!st||(st==="verified"?!!r.lastPublished:r.status===st)));
   const rank={urgent:0,stale:1,watch:2,fresh:3,unverified:4};
   records.sort((a,b)=>(rank[a.status]??4)-(rank[b.status]??4)||a.country.localeCompare(b.country,"ru")||THEMES.indexOf(a.name)-THEMES.indexOf(b.name));
   for(const r of records){
