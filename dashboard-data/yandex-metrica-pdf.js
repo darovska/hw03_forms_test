@@ -10,7 +10,7 @@ function draw(index){
 var x=pdf.snapshots[index],src=[["Поиск",x.sources.search||x.sources.search_rounded],["Прямые",x.sources.direct||x.sources.direct_rounded],["Соцсети",x.sources.social],["Переходы с сайтов",x.sources.referral],["Рекомендательные системы",x.sources.recommendations]];
 buttons.forEach(function(b){b.classList.toggle("active",Number(b.dataset.ymWindow)===index)});
 var rounded=index>0?" · значения в сводке округлены":"",foot=x.start+" — "+x.end+rounded;
-var kpis='<div style="display:flex;gap:10px;flex-wrap:wrap">'+card("Просмотры",x.views||x.views_rounded,foot)+card("Визиты",x.visits||x.visits_rounded,foot)+card("Посетители",x.visitors||x.visitors_rounded,foot)+card("Время на сайте",x.duration_seconds+" c",foot)+'</div>';
+var kpis='<div style="display:flex;gap:10px;flex-wrap:wrap">'+card("Просмотры",x.views||x.views_rounded,foot)+card("Визиты",x.visits||x.visits_rounded,foot)+card("Посетители",x.visitors||x.visitors_rounded,foot)+card("Время на сайте",x.duration_seconds,foot+" · секунды")+'</div>';
 var max=Math.max.apply(null,src.map(function(a){return a[1]||0}));
 var bars=src.map(function(a,i){var w=Math.max(0,(a[1]||0)/max*100);return '<div class="barrow"><span>'+escapeHtml(a[0])+'</span><div class="track"><div class="fill" style="width:'+w.toFixed(1)+'%;background:'+(i%2===0?"#2563eb":"#f97316")+'"></div></div><b>'+format(a[1])+'</b></div>'}).join("");
 var delta=function(key){var n=x.comparisons_pct[key];return (n>0?"+":"")+format(n)+"% (сравнение в PDF)"};
