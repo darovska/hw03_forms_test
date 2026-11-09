@@ -109,3 +109,12 @@ Public assets on branch `main`:
 8. Render verification: locate the exact service `international-investment-growth-dashboard`, observe build/deploy status for final SHA, verify `live` commit SHA equals final Git commit, and visit both public root and `/dashboard-data/growth-analytics.json` plus `/dashboard-data/archive-view.js`. If browser testing is possible, select GA4 Visitors and check that an active-users line and table values match the source, then select 1 year and verify partial-coverage labeling.
 
 Log the latest first-party measurement date and `updated` separately. A root `Обновлено` date only proves the dashboard code/data was reviewed, **not** fresh GA4/GSC measurements.
+
+## Яндекс Метрика: PDF отчёт по поисковым фразам (09.11.2026)
+
+- Сохранять отдельным слоем `dashboard-data/growth-analytics.json:yandex_search_phrases_pdf` и в Sheet `Яндекс Поисковые фразы PDF`. PDF-сводки 7/30/90 дней представляют **перекрывающиеся окна**; не суммировать их между собой.
+- `Поисковая фраза › Поисковая система` — фильтрованный/группированный отчёт. Его итого 196/615/3985 визитов **не совпадает по охвату** с общим отчётом «Переходы из поисковых систем» 1786/6829/≈23900; не прибавлять, не выдавать за всю органику и не считать проблемой без сверки настройки группировки.
+- Для поисковых фраз хранить visits, visitors, bounce, depth, time, точный период; помечать обрезанные названия и необычные пропорции визитов к посетителям как проверяемые аномалии, не как доказанных ботов.
+- В интерфейсе отдельный блок `#yandexPhrasePdf` и `dashboard-data/yandex-search-phrases.js` с 7/30/90 переключателем, столбчатой диаграммой и таблицей. Если CSV отсутствует, не извлекать ежедневные точки из линии на скриншоте.
+- SEO-рекомендации по фразам — только кандидаты до сверки query→URL в Яндекс Вебмастере: визиты по запросу не являются ни GSC/Yandex Webmaster кликами, ни показами, ни CTR или позицией.
+- Публичный QA: проверять JSON и JS, доступность всех трёх статических ресурсов, годность поисковой таблицы и совпадение deploy SHA с GitHub HEAD.
