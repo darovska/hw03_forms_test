@@ -58,9 +58,9 @@ function renderLanguageScan(scan){
    const card=make("div","language-card");card.append(make("div","eyebrow",name+" · "+code.toUpperCase()));
    card.append(make("strong","language-num",unique));card.append(make("div","notes","Уникальных ID в архиве с "+niceDate(since)));holder.append(card);
  }
- const note=$("#languageNote");if(note)note.textContent="RU/EN/KA/HE: сравнимый период "+niceDate(since)+" — "+niceDate(scan.auditAt)+". Это число найденных материалов в дневных архивах, не полная статистика сайта.";
+ const note=$("#languageNote");if(note){const inc=scan.recentIncrementalWindow||"";const langs=(scan.recentLanguagesAudited||[]).map(x=>x.toUpperCase()).join("/");const kh=scan.kaHeThrough?niceDate(scan.kaHeThrough):null;note.textContent=(langs&&inc?langs+" проверены напрямую за "+inc.replace("/", " — ")+(kh?"; KA/HE — до "+kh:"")+". ":"")+"Числа отражают найденные ID в архиве и при неполном языковом скане не являются полностью сопоставимыми."; }
  const quality=$("#quality");quality.replaceChildren();
- const p=make("p","hint","Обнаружено "+(scan.articles||[]).length+" языковых URL, "+new Set(rec.map(x=>x.id)).size+" уникальных ID. Англоязычный архив: "+(scan.pagesRead||"—")+"/"+(scan.pagesAttempted||"—")+" дней, первая страница архива. Дополнительные страницы и даты с 404 не считаются доказательством отсутствия статьи.");
+ const p=make("p","hint","Обнаружено "+(scan.articles||[]).length+" языковых URL, "+new Set(rec.map(x=>x.id)).size+" уникальных ID. Англоязычный архив: "+(scan.pagesRead||"—")+"/"+(scan.pagesAttempted||"—")+" дней. EN/RU за 9–14 ноября сверены напрямую по дневным архивам; multi-country материалы не обновляют страновые ячейки. Дополнительные страницы и даты с 404 не считаются доказательством отсутствия статьи.");
  quality.append(p);
  const info=make("p","hint");info.append(make("strong",null,"Редакционная проверка тегов: "));
  info.append("материал о гостиницах Вены от 05.11 (ID 9048) размечен в английском архиве как «Italy / Tourism Italy». В матрице исправлен на Австрию, тег CMS требует проверки.");
