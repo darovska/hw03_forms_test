@@ -11504,9 +11504,8 @@
       ],
       "scope": "country",
       "themes": [
-        "Туризм",
-        "Отели и гостиничный бизнес",
-        "Регулирование и правила для иностранных покупателей"
+        "Недвижимость",
+        "Туризм"
       ]
     },
     {
@@ -11644,8 +11643,7 @@
       "scope": "country",
       "themes": [
         "Недвижимость",
-        "Инвестиции",
-        "Регулирование и правила для иностранных покупателей"
+        "Инвестиции"
       ]
     },
     {
@@ -11674,8 +11672,7 @@
       "scope": "country",
       "themes": [
         "Недвижимость",
-        "Инвестиции",
-        "Регулирование и правила для иностранных покупателей"
+        "Инвестиции"
       ]
     },
     {
@@ -11689,8 +11686,7 @@
       ],
       "scope": "country",
       "themes": [
-        "Недвижимость",
-        "Регулирование и правила для иностранных покупателей"
+        "Недвижимость"
       ]
     },
     {
@@ -11790,8 +11786,7 @@
       ],
       "scope": "country",
       "themes": [
-        "ВНЖ и миграция",
-        "Регулирование и правила для иностранных покупателей"
+        "ВНЖ и миграция"
       ]
     },
     {
@@ -12460,7 +12455,7 @@
     "he"
   ],
   "multilingualPagesRead": 36,
-  "scanLimitations": "Direct daily archives EN and RU were checked for 9–14 Nov 2026 and reconciled by article ID. KA/HE remain audited only through 8 Nov in this incremental run. Multi-country and pan-European articles are retained separately and must not refresh country-specific matrix cells.",
+  "scanLimitations": "Direct daily archives EN and RU were checked for 9–14 Nov 2026 and reconciled by article ID. Semantic topic mapping was normalized: rent caps, work permits and listing databases do not count as foreign-buyer property regulation unless the article explicitly concerns foreign purchasers. KA/HE remain audited only through 8 Nov.",
   "recentIncrementalWindow": "2026-11-09/2026-11-14",
   "recentLanguagesAudited": [
     "en",
