@@ -1,6 +1,6 @@
 {
-  "auditAt": "2026-11-08",
-  "window": "2026-08-10/2026-11-08",
+  "auditAt": "2026-11-14",
+  "window": "2026-08-10/2026-11-14",
   "language": "en",
   "source": "internationalinvestment.biz/en/YYYY/MM/DD date archives",
   "pagesAttempted": 91,
@@ -11477,6 +11477,336 @@
       "scope": "country",
       "themes": [],
       "excerptCategories": "India\n/\nReal Estate India\n/\nBusiness\n/\nNews\n/\nAnalytics"
+    },
+    {
+      "id": "9079",
+      "date": "2026-11-09",
+      "title": "Australian Property Market: Fastest Downturn in 40 Years",
+      "url": "https://internationalinvestment.biz/en/real-estate/9079-australian-property-market-fastest-downturn-in-40-years.html",
+      "lang": "en",
+      "countries": [
+        "Австралия"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость",
+        "Инвестиции"
+      ]
+    },
+    {
+      "id": "9075",
+      "date": "2026-11-09",
+      "title": "Albania Limits Residential Development in Resort Complexes",
+      "url": "https://internationalinvestment.biz/en/tourism/9075-albania-limits-residential-development-in-resort-complexes.html",
+      "lang": "en",
+      "countries": [
+        "Албания"
+      ],
+      "scope": "country",
+      "themes": [
+        "Туризм",
+        "Отели и гостиничный бизнес",
+        "Регулирование и правила для иностранных покупателей"
+      ]
+    },
+    {
+      "id": "9077",
+      "date": "2026-11-09",
+      "title": "Buying Land in Argentina: Restrictions for Foreigners",
+      "url": "https://internationalinvestment.biz/en/real-estate/9077-buying-land-in-argentina-restrictions-for-foreigners.html",
+      "lang": "en",
+      "countries": [
+        "Аргентина"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость",
+        "Инвестиции",
+        "Регулирование и правила для иностранных покупателей"
+      ]
+    },
+    {
+      "id": "9067",
+      "date": "2026-11-09",
+      "title": "Belgian Industrial Property Draws EUR537m of Capital",
+      "url": "https://internationalinvestment.biz/en/business/9067-belgian-industrial-property-draws-537m-of-capital.html",
+      "lang": "en",
+      "countries": [
+        "Бельгия"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость",
+        "Инвестиции"
+      ]
+    },
+    {
+      "id": "9078",
+      "date": "2026-11-09",
+      "title": "Madrid to Build EUR1 Billion City of Health Complex",
+      "url": "https://internationalinvestment.biz/en/news/9078-madrid-to-build-1-billion-city-of-health-complex.html",
+      "lang": "en",
+      "countries": [
+        "Испания"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость",
+        "Инвестиции"
+      ]
+    },
+    {
+      "id": "9090",
+      "date": "2026-11-10",
+      "title": "Argentina Tightens Residence Permit Rules",
+      "url": "https://internationalinvestment.biz/en/news/9090-argentina-tightens-residence-permit-rules.html",
+      "lang": "en",
+      "countries": [
+        "Аргентина"
+      ],
+      "scope": "country",
+      "themes": [
+        "ВНЖ и миграция"
+      ]
+    },
+    {
+      "id": "9087",
+      "date": "2026-11-10",
+      "title": "Portugal Leads EU Rise in House Prices Relative to Income",
+      "url": "https://internationalinvestment.biz/en/real-estate/9087-portugal-leads-eu-rise-in-house-prices-relative-to-income.html",
+      "lang": "en",
+      "countries": [
+        "Португалия"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость",
+        "Инвестиции"
+      ]
+    },
+    {
+      "id": "9085",
+      "date": "2026-11-10",
+      "title": "Sweden Property Investment Climbs 40% in Nine Months",
+      "url": "https://internationalinvestment.biz/en/business/9085-sweden-property-investment-climbs-40-in-nine-months.html",
+      "lang": "en",
+      "countries": [
+        "Швеция"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость",
+        "Инвестиции"
+      ]
+    },
+    {
+      "id": "9091",
+      "date": "2026-11-11",
+      "title": "Belarus Attracts Investors to Resort Projects",
+      "url": "https://internationalinvestment.biz/en/tourism/9091-belarus-attracts-investors-to-resort-projects.html",
+      "lang": "en",
+      "countries": [
+        "Беларусь"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость",
+        "Инвестиции",
+        "Туризм",
+        "Отели и гостиничный бизнес"
+      ]
+    },
+    {
+      "id": "9092",
+      "date": "2026-11-11",
+      "title": "Bulgarian Hotels Post Higher Revenue Despite Weaker Demand",
+      "url": "https://internationalinvestment.biz/en/tourism/9092-bulgarian-hotels-post-higher-revenue-despite-weaker-demand.html",
+      "lang": "en",
+      "countries": [
+        "Болгария"
+      ],
+      "scope": "country",
+      "themes": [
+        "Инвестиции",
+        "Туризм",
+        "Отели и гостиничный бизнес"
+      ]
+    },
+    {
+      "id": "9098",
+      "date": "2026-11-11",
+      "title": "Serbia Plans Unified Real Estate Listings Database",
+      "url": "https://internationalinvestment.biz/en/real-estate/9098-serbia-plans-unified-real-estate-listings-database.html",
+      "lang": "en",
+      "countries": [
+        "Сербия"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость",
+        "Инвестиции",
+        "Регулирование и правила для иностранных покупателей"
+      ]
+    },
+    {
+      "id": "9100",
+      "date": "2026-11-11",
+      "title": "74% of Apartments Sold in Tbilisi Projects Due for Delivery in 2027",
+      "url": "https://internationalinvestment.biz/en/real-estate/9100-tbilisi-apartments-sold-2027-delivery-projects.html",
+      "lang": "en",
+      "countries": [
+        "Грузия"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость"
+      ]
+    },
+    {
+      "id": "9097",
+      "date": "2026-11-12",
+      "title": "Investment in Albania: Growth and Risks",
+      "url": "https://internationalinvestment.biz/en/business/9097-investment-in-albania-growth-and-risks.html",
+      "lang": "en",
+      "countries": [
+        "Албания"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость",
+        "Инвестиции",
+        "Регулирование и правила для иностранных покупателей"
+      ]
+    },
+    {
+      "id": "9104",
+      "date": "2026-11-12",
+      "title": "Turkey Lowers Cap on Residential Rent Increases",
+      "url": "https://internationalinvestment.biz/en/real-estate/9104-turkey-lowers-cap-on-residential-rent-increases.html",
+      "lang": "en",
+      "countries": [
+        "Турция"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость",
+        "Регулирование и правила для иностранных покупателей"
+      ]
+    },
+    {
+      "id": "9107",
+      "date": "2026-11-12",
+      "title": "Rule of Law: Fresh Data Shows Georgia Ahead of Albania, Moldova, and Ukraine",
+      "url": "https://internationalinvestment.biz/en/business/9107-georgia-rule-of-law-world-bank-wgi.html",
+      "lang": "en",
+      "countries": [
+        "Грузия"
+      ],
+      "scope": "country",
+      "themes": [
+        "Инвестиции"
+      ]
+    },
+    {
+      "id": "9103",
+      "date": "2026-11-12",
+      "title": "Migration Crisis in the Canary Islands",
+      "url": "https://internationalinvestment.biz/en/migration/9103-migration-crisis-in-the-canary-islands.html",
+      "lang": "en",
+      "countries": [
+        "Испания"
+      ],
+      "scope": "country",
+      "themes": [
+        "ВНЖ и миграция"
+      ]
+    },
+    {
+      "id": "9116",
+      "date": "2026-11-13",
+      "title": "Home Purchases by Foreigners in Armenia Rose 47%",
+      "url": "https://internationalinvestment.biz/en/real-estate/9116-home-purchases-by-foreigners-in-armenia-rose-47.html",
+      "lang": "en",
+      "countries": [
+        "Армения"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость",
+        "Инвестиции"
+      ]
+    },
+    {
+      "id": "9114",
+      "date": "2026-11-13",
+      "title": "Hungary's Property Price Growth Comes to a Near Standstill",
+      "url": "https://internationalinvestment.biz/en/real-estate/9114-hungarys-property-price-growth-comes-to-a-near-standstill.html",
+      "lang": "en",
+      "countries": [
+        "Венгрия"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость",
+        "Инвестиции"
+      ]
+    },
+    {
+      "id": "9119",
+      "date": "2026-11-13",
+      "title": "Friends, Shopping, and Leisure: Georgian Residents' Outbound Travel",
+      "url": "https://internationalinvestment.biz/en/tourism/9119-georgian-residents-outbound-travel-statistics-purposes.html",
+      "lang": "en",
+      "countries": [
+        "Грузия"
+      ],
+      "scope": "country",
+      "themes": [
+        "Туризм"
+      ]
+    },
+    {
+      "id": "9120",
+      "date": "2026-11-13",
+      "title": "Record Year for Tbilisi Hotels",
+      "url": "https://internationalinvestment.biz/en/business/9120-record-year-for-tbilisi-hotels.html",
+      "lang": "en",
+      "countries": [
+        "Грузия"
+      ],
+      "scope": "country",
+      "themes": [
+        "Отели и гостиничный бизнес"
+      ]
+    },
+    {
+      "id": "9111",
+      "date": "2026-11-13",
+      "title": "Employment of Foreigners in Georgia: Work Permit Deadline",
+      "url": "https://internationalinvestment.biz/en/migration/9111-foreign-employment-georgia-work-permit-deadline.html",
+      "lang": "en",
+      "countries": [
+        "Грузия"
+      ],
+      "scope": "country",
+      "themes": [
+        "ВНЖ и миграция",
+        "Регулирование и правила для иностранных покупателей"
+      ]
+    },
+    {
+      "id": "9109",
+      "date": "2026-11-13",
+      "title": "Italian Citizenship by Descent: Fraud and Corruption",
+      "url": "https://internationalinvestment.biz/en/news/9109-italian-citizenship-by-descent-fraud-and-corruption.html",
+      "lang": "en",
+      "countries": [
+        "Италия"
+      ],
+      "scope": "country",
+      "themes": [
+        "ВНЖ и миграция"
+      ]
     }
   ],
   "errors": [
@@ -11568,11 +11898,11 @@
       }
     }
   ],
-  "limitations": "Archive pages may have pagination; first page checked only. Country and topic classification derived from archive categories/title and needs editorial spot check.",
+  "limitations": "Archive baseline is not re-crawled from scratch in this incremental dashboard refresh; recent country-specific EN pages were verified and appended. Pan-European/global pages are not counted as country-specific.",
   "archiveYears": [
     "2026"
   ],
-  "multilingualWindow": "2026-10-26/2026-11-08",
+  "multilingualWindow": "2026-10-26/2026-11-14",
   "languagesAudited": [
     "en",
     "ru",
@@ -11580,9 +11910,5 @@
     "he"
   ],
   "multilingualPagesRead": 36,
-  "scanLimitations": [
-    "EN: 91 calendar days attempted, archive first page only; 404 dates require further verification.",
-    "RU/KA/HE: last 14 days attempted, archive first page only.",
-    "Country/topic tags from archive category and title; cross-language copies share article ID and must not be counted multiple times."
-  ]
+  "scanLimitations": "90+ day EN archive baseline retained from prior full scan; 9–14 Nov 2026 increment added by targeted current-site verification. RU/KA/HE equivalents for the new increment were not exhaustively enumerated in this run, so language counts remain partial."
 }
