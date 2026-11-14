@@ -3,7 +3,7 @@
     "period": "8–14 ноября 2026",
     "updatedAt": "14 ноября 2026",
     "reportUrl": "https://docs.google.com/document/d/10sLFnp0HD_I6UClnGl1KzvrgAUdP5vLRsjU1NSd5xLY/edit",
-    "editorialNote": "Dashboard-only trendwatch refresh on 14 Nov: added ETC autumn/winter travel + AI usage, CoStar/STR October hotel records for Paris/London/Singapore, Eurostat ultimate-investor FDI and Q3 GDP/employment; refreshed Country Coverage with verified site publications through 13 Nov. Previous Google Doc retained as prior editorial pack; no new full RU/EN article document created in this dashboard-only run. GSC/GA4 remain blocked and historical metrics were not relabeled as fresh.",
+    "editorialNote": "Dashboard-only refresh through 14 Nov. Trend Radar plus Country Coverage are synchronized; country×topic matrix rebuilt from the 90+ day publication inventory after direct EN/RU archive audit for 9–14 Nov. Maldives and South Korea added as explicit country rows. Fresh Google metrics remain unavailable and historical GSC/GA4 dates are preserved.",
     "consolidatedDocUrl": "https://docs.google.com/document/d/1x1FAIw6HdUXHzXKeAyK7L_BM_2BpY3jxRj49BQ6ObF8/edit",
     "weeklyFinalDocUrl": "https://docs.google.com/document/d/1h2GNjhMeDgK-eXH0uzcBeYf9shTlSFkh87EhA8glNF8/edit",
     "additionalViralBriefUrl": "https://docs.google.com/document/d/1noak5K9VJW3EaN1FZ9yRM_eoMe9cMRiXNPlOC6unumk/edit",
@@ -28,7 +28,7 @@
       "blockedSources": [
         "GSC Wizard / GA4 connection remains subscription_required; no fresh Google metrics loaded"
       ],
-      "publicationAudit": "Fresh site coverage found for Armenia, Hungary, Albania, Turkey, Serbia, Bulgaria, Belarus, Georgia, Argentina, Australia, Portugal, Sweden and Spain. Cross-border/multi-country pages are not counted as country-specific coverage. No exact International Investment duplicates found in targeted search for ETC Wave 26, CoStar Paris/London/Singapore October hotel records, or Eurostat ultimate-investor FDI.",
+      "publicationAudit": "Direct InternationalInvestment.biz EN and RU daily archives for 9–14 Nov were checked and reconciled by article ID against the country×topic matrix. Multi-country/pan-European articles do not refresh country-specific cells. Newly detected country-specific coverage added Maldives (tourism, 11 Nov) and South Korea (Seoul hotel market, 10 Nov).",
       "seoAccess": "GSC/GA4 not loaded; stored measurements keep their original October dates."
     },
     "latestDailyUpdateDate": "2026-11-14",
@@ -3675,6 +3675,34 @@
           "use": "США: регулятор жилищного финансирования, официальный House Price Index и региональные транзакционные ряды.",
           "priority": "core",
           "role": "verification"
+        },
+        {
+          "name": "Maldives Bureau of Statistics",
+          "url": "https://statisticsmaldives.gov.mv/",
+          "use": "Мальдивы: официальная статистика туризма, населения, экономики и ежемесячные статистические выпуски.",
+          "priority": "core",
+          "role": "verification"
+        },
+        {
+          "name": "Maldives Land and Survey Authority / Geomatics Department",
+          "url": "https://geomatics.gov.mv/",
+          "use": "Мальдивы: кадастровые данные, land survey, land registry and land administration verification.",
+          "priority": "core",
+          "role": "verification"
+        },
+        {
+          "name": "Statistics Korea",
+          "url": "https://kostat.go.kr/eng/index.do",
+          "use": "Южная Корея: официальная статистика жилья, населения, экономики и туризма.",
+          "priority": "core",
+          "role": "verification"
+        },
+        {
+          "name": "Korea Real Estate Board",
+          "url": "https://www.reb.or.kr/rebEng/main.do",
+          "use": "Южная Корея: официальные цены и статистика рынка недвижимости, сделки и мониторинг рынка.",
+          "priority": "core",
+          "role": "verification"
         }
       ]
     }
@@ -4305,7 +4333,7 @@
     "matrix": [
       {
         "country": "Австралия",
-        "lastUpdate": "2026-11-09",
+        "lastUpdate": "2026-11-11",
         "topicCount": 3,
         "topics": [
           {
@@ -4319,7 +4347,7 @@
               "en": "https://internationalinvestment.biz/en/real-estate/9079-australian-property-market-fastest-downturn-in-40-years.html"
             },
             "matchCount": 6,
-            "auditBasis": "incremental current-site verification, 9–14 Nov 2026"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "Инвестиции",
@@ -4332,20 +4360,21 @@
               "en": "https://internationalinvestment.biz/en/real-estate/9079-australian-property-market-fastest-downturn-in-40-years.html"
             },
             "matchCount": 3,
-            "auditBasis": "incremental current-site verification, 9–14 Nov 2026"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "Туризм",
-            "lastPublished": "2026-08-18",
-            "status": "urgent",
-            "lastUrl": "https://internationalinvestment.biz/en/australia/8651-australia-slows-working-holiday-visas-as-migration-tightens.html",
-            "articleId": "8651",
-            "headline": "Australia Slows Working Holiday Visas as Migration Tightens",
+            "lastPublished": "2026-11-11",
+            "status": "fresh",
+            "lastUrl": "https://internationalinvestment.biz/en/tourism/9095-scammers-target-tourist-parks-across-australia.html",
+            "articleId": "9095",
+            "headline": "Scammers Target Tourist Parks Across Australia",
             "languageUrls": {
-              "en": "https://internationalinvestment.biz/en/australia/8651-australia-slows-working-holiday-visas-as-migration-tightens.html"
+              "en": "https://internationalinvestment.biz/en/tourism/9095-scammers-target-tourist-parks-across-australia.html",
+              "ru": "https://internationalinvestment.biz/tourism/9095-moshenniki-atakovali-turisticheskie-parki-avstralii.html"
             },
-            "matchCount": 1,
-            "auditBasis": "language archive, country-specific"
+            "matchCount": 2,
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "Отели и гостиничный бизнес",
@@ -4375,7 +4404,7 @@
       },
       {
         "country": "Австрия",
-        "lastUpdate": "2026-11-05",
+        "lastUpdate": "2026-09-30",
         "topicCount": 5,
         "topics": [
           {
@@ -4389,7 +4418,7 @@
               "en": "https://internationalinvestment.biz/en/austria/8857-austrias-commercial-student-housing-market-remains-small.html"
             },
             "matchCount": 4,
-            "auditBasis": "language archive, country-specific"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "Инвестиции",
@@ -4402,39 +4431,33 @@
               "en": "https://internationalinvestment.biz/en/austria/8857-austrias-commercial-student-housing-market-remains-small.html"
             },
             "matchCount": 1,
-            "auditBasis": "language archive, country-specific"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "Туризм",
-            "lastPublished": "2026-11-05",
-            "status": "fresh",
-            "lastUrl": "https://internationalinvestment.biz/en/business/9048-vienna-hotel-nights-rise-as-august-revenue-falls.html",
-            "articleId": "9048",
-            "headline": "Vienna Hotel Nights Rise as August Revenue Falls",
+            "lastPublished": "2026-08-26",
+            "status": "urgent",
+            "lastUrl": "https://internationalinvestment.biz/en/tourism/8709-drought-dries-barenschutzklamm-waterfalls-in-austria.html",
+            "articleId": "8709",
+            "headline": "Drought Dries Bärenschützklamm Waterfalls in Austria",
             "languageUrls": {
-              "en": "https://internationalinvestment.biz/en/business/9048-vienna-hotel-nights-rise-as-august-revenue-falls.html",
-              "he": "https://internationalinvestment.biz/he/business/9048-vina-magdila-tnuat-tayarut-akh-hakhnasot-yordot.html",
-              "ka": "https://internationalinvestment.biz/ka/business/9048-vena-turistul-nakads-zrdis-tumtsa-sastumroebis-shemosavali-mtsirdeba.html",
-              "ru": "https://internationalinvestment.biz/business/9048-vena-naraschivaet-turpotok-no-vyruchka-otelej-prosedaet.html"
+              "en": "https://internationalinvestment.biz/en/tourism/8709-drought-dries-barenschutzklamm-waterfalls-in-austria.html"
             },
-            "matchCount": 3,
-            "auditBasis": "language archive, country-specific"
+            "matchCount": 2,
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "Отели и гостиничный бизнес",
-            "lastPublished": "2026-11-05",
-            "status": "fresh",
-            "lastUrl": "https://internationalinvestment.biz/en/business/9048-vienna-hotel-nights-rise-as-august-revenue-falls.html",
-            "articleId": "9048",
-            "headline": "Vienna Hotel Nights Rise as August Revenue Falls",
+            "lastPublished": "2026-08-25",
+            "status": "urgent",
+            "lastUrl": "https://internationalinvestment.biz/en/austria/8707-vienna-leads-rentals-alpine-resorts-earn-more.html",
+            "articleId": "8707",
+            "headline": "Vienna Leads Rentals, Alpine Resorts Earn More",
             "languageUrls": {
-              "en": "https://internationalinvestment.biz/en/business/9048-vienna-hotel-nights-rise-as-august-revenue-falls.html",
-              "he": "https://internationalinvestment.biz/he/business/9048-vina-magdila-tnuat-tayarut-akh-hakhnasot-yordot.html",
-              "ka": "https://internationalinvestment.biz/ka/business/9048-vena-turistul-nakads-zrdis-tumtsa-sastumroebis-shemosavali-mtsirdeba.html",
-              "ru": "https://internationalinvestment.biz/business/9048-vena-naraschivaet-turpotok-no-vyruchka-otelej-prosedaet.html"
+              "en": "https://internationalinvestment.biz/en/austria/8707-vienna-leads-rentals-alpine-resorts-earn-more.html"
             },
-            "matchCount": 2,
-            "auditBasis": "language archive, country-specific"
+            "matchCount": 1,
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "ВНЖ и миграция",
@@ -4453,7 +4476,7 @@
               "en": "https://internationalinvestment.biz/en/austria/8858-austria-tightens-property-tax-rules-for-share-deals.html"
             },
             "matchCount": 1,
-            "auditBasis": "language archive, country-specific"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "Регулирование и правила для иностранных покупателей",
@@ -4479,7 +4502,7 @@
               "en": "https://internationalinvestment.biz/en/business/9097-investment-in-albania-growth-and-risks.html"
             },
             "matchCount": 2,
-            "auditBasis": "incremental current-site verification, 9–14 Nov 2026"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "Инвестиции",
@@ -4492,33 +4515,33 @@
               "en": "https://internationalinvestment.biz/en/business/9097-investment-in-albania-growth-and-risks.html"
             },
             "matchCount": 2,
-            "auditBasis": "incremental current-site verification, 9–14 Nov 2026"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "Туризм",
             "lastPublished": "2026-11-09",
             "status": "fresh",
-            "auditBasis": "incremental current-site verification, 9–14 Nov 2026",
             "lastUrl": "https://internationalinvestment.biz/en/tourism/9075-albania-limits-residential-development-in-resort-complexes.html",
             "articleId": "9075",
             "headline": "Albania Limits Residential Development in Resort Complexes",
             "languageUrls": {
               "en": "https://internationalinvestment.biz/en/tourism/9075-albania-limits-residential-development-in-resort-complexes.html"
             },
-            "matchCount": 1
+            "matchCount": 1,
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "Отели и гостиничный бизнес",
             "lastPublished": "2026-11-09",
             "status": "fresh",
-            "auditBasis": "incremental current-site verification, 9–14 Nov 2026",
             "lastUrl": "https://internationalinvestment.biz/en/tourism/9075-albania-limits-residential-development-in-resort-complexes.html",
             "articleId": "9075",
             "headline": "Albania Limits Residential Development in Resort Complexes",
             "languageUrls": {
               "en": "https://internationalinvestment.biz/en/tourism/9075-albania-limits-residential-development-in-resort-complexes.html"
             },
-            "matchCount": 1
+            "matchCount": 1,
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "ВНЖ и миграция",
@@ -4534,16 +4557,9 @@
           },
           {
             "name": "Регулирование и правила для иностранных покупателей",
-            "lastPublished": "2026-11-12",
-            "status": "fresh",
-            "auditBasis": "incremental current-site verification, 9–14 Nov 2026",
-            "lastUrl": "https://internationalinvestment.biz/en/business/9097-investment-in-albania-growth-and-risks.html",
-            "articleId": "9097",
-            "headline": "Investment in Albania: Growth and Risks",
-            "languageUrls": {
-              "en": "https://internationalinvestment.biz/en/business/9097-investment-in-albania-growth-and-risks.html"
-            },
-            "matchCount": 2
+            "lastPublished": null,
+            "status": "unverified",
+            "auditBasis": "no verified foreign-buyer property-rule article in audited archive dataset"
           }
         ]
       },
@@ -4563,20 +4579,20 @@
               "en": "https://internationalinvestment.biz/en/real-estate/9077-buying-land-in-argentina-restrictions-for-foreigners.html"
             },
             "matchCount": 2,
-            "auditBasis": "incremental current-site verification, 9–14 Nov 2026"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "Инвестиции",
             "lastPublished": "2026-11-09",
             "status": "fresh",
-            "auditBasis": "incremental current-site verification, 9–14 Nov 2026",
             "lastUrl": "https://internationalinvestment.biz/en/real-estate/9077-buying-land-in-argentina-restrictions-for-foreigners.html",
             "articleId": "9077",
             "headline": "Buying Land in Argentina: Restrictions for Foreigners",
             "languageUrls": {
               "en": "https://internationalinvestment.biz/en/real-estate/9077-buying-land-in-argentina-restrictions-for-foreigners.html"
             },
-            "matchCount": 1
+            "matchCount": 1,
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "Туризм",
@@ -4601,7 +4617,7 @@
               "en": "https://internationalinvestment.biz/en/news/9090-argentina-tightens-residence-permit-rules.html"
             },
             "matchCount": 2,
-            "auditBasis": "incremental current-site verification, 9–14 Nov 2026"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "Налоги для инвесторов",
@@ -4613,14 +4629,14 @@
             "name": "Регулирование и правила для иностранных покупателей",
             "lastPublished": "2026-11-09",
             "status": "fresh",
-            "auditBasis": "incremental current-site verification, 9–14 Nov 2026",
             "lastUrl": "https://internationalinvestment.biz/en/real-estate/9077-buying-land-in-argentina-restrictions-for-foreigners.html",
             "articleId": "9077",
             "headline": "Buying Land in Argentina: Restrictions for Foreigners",
             "languageUrls": {
               "en": "https://internationalinvestment.biz/en/real-estate/9077-buying-land-in-argentina-restrictions-for-foreigners.html"
             },
-            "matchCount": 1
+            "matchCount": 1,
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           }
         ]
       },
@@ -4637,13 +4653,10 @@
             "articleId": "9116",
             "headline": "Home Purchases by Foreigners in Armenia Rose 47%",
             "languageUrls": {
-              "en": "https://internationalinvestment.biz/en/real-estate/9116-home-purchases-by-foreigners-in-armenia-rose-47.html",
-              "he": "https://internationalinvestment.biz/he/real-estate/9054-nadlan-be-yerevan-aliyot-mehirim-ve-hitchamemut-yeter.html",
-              "ka": "https://internationalinvestment.biz/ka/real-estate/9054-erevnis-udzravi-koneba-fasebis-zrda-gadakhurebis-riski.html",
-              "ru": "https://internationalinvestment.biz/real-estate/9054-nedvizhimost-erevana-rost-cen-i-risk-peregreva.html"
+              "en": "https://internationalinvestment.biz/en/real-estate/9116-home-purchases-by-foreigners-in-armenia-rose-47.html"
             },
             "matchCount": 3,
-            "auditBasis": "incremental current-site verification, 9–14 Nov 2026"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "Инвестиции",
@@ -4653,13 +4666,10 @@
             "articleId": "9116",
             "headline": "Home Purchases by Foreigners in Armenia Rose 47%",
             "languageUrls": {
-              "en": "https://internationalinvestment.biz/en/real-estate/9116-home-purchases-by-foreigners-in-armenia-rose-47.html",
-              "he": "https://internationalinvestment.biz/he/real-estate/9054-nadlan-be-yerevan-aliyot-mehirim-ve-hitchamemut-yeter.html",
-              "ka": "https://internationalinvestment.biz/ka/real-estate/9054-erevnis-udzravi-koneba-fasebis-zrda-gadakhurebis-riski.html",
-              "ru": "https://internationalinvestment.biz/real-estate/9054-nedvizhimost-erevana-rost-cen-i-risk-peregreva.html"
+              "en": "https://internationalinvestment.biz/en/real-estate/9116-home-purchases-by-foreigners-in-armenia-rose-47.html"
             },
             "matchCount": 3,
-            "auditBasis": "incremental current-site verification, 9–14 Nov 2026"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "Туризм",
@@ -4684,7 +4694,7 @@
               "en": "https://internationalinvestment.biz/en/migration/8907-how-to-get-a-residence-permit-in-armenia-in-2026-what-changes-from-november-1.html"
             },
             "matchCount": 4,
-            "auditBasis": "language archive, country-specific"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "Налоги для инвесторов",
@@ -4703,7 +4713,7 @@
               "en": "https://internationalinvestment.biz/en/real-estate/8673-foreign-buyers-become-more-active-in-armenias-real-estate-market.html"
             },
             "matchCount": 1,
-            "auditBasis": "language archive, country-specific"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           }
         ]
       },
@@ -4723,7 +4733,7 @@
               "en": "https://internationalinvestment.biz/en/tourism/9091-belarus-attracts-investors-to-resort-projects.html"
             },
             "matchCount": 2,
-            "auditBasis": "incremental current-site verification, 9–14 Nov 2026"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "Инвестиции",
@@ -4736,7 +4746,7 @@
               "en": "https://internationalinvestment.biz/en/tourism/9091-belarus-attracts-investors-to-resort-projects.html"
             },
             "matchCount": 2,
-            "auditBasis": "incremental current-site verification, 9–14 Nov 2026"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "Туризм",
@@ -4749,20 +4759,20 @@
               "en": "https://internationalinvestment.biz/en/tourism/9091-belarus-attracts-investors-to-resort-projects.html"
             },
             "matchCount": 2,
-            "auditBasis": "incremental current-site verification, 9–14 Nov 2026"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "Отели и гостиничный бизнес",
             "lastPublished": "2026-11-11",
             "status": "fresh",
-            "auditBasis": "incremental current-site verification, 9–14 Nov 2026",
             "lastUrl": "https://internationalinvestment.biz/en/tourism/9091-belarus-attracts-investors-to-resort-projects.html",
             "articleId": "9091",
             "headline": "Belarus Attracts Investors to Resort Projects",
             "languageUrls": {
               "en": "https://internationalinvestment.biz/en/tourism/9091-belarus-attracts-investors-to-resort-projects.html"
             },
-            "matchCount": 1
+            "matchCount": 1,
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "ВНЖ и миграция",
@@ -4793,27 +4803,27 @@
             "name": "Недвижимость",
             "lastPublished": "2026-11-09",
             "status": "fresh",
-            "auditBasis": "incremental current-site verification, 9–14 Nov 2026",
             "lastUrl": "https://internationalinvestment.biz/en/business/9067-belgian-industrial-property-draws-537m-of-capital.html",
             "articleId": "9067",
             "headline": "Belgian Industrial Property Draws EUR537m of Capital",
             "languageUrls": {
               "en": "https://internationalinvestment.biz/en/business/9067-belgian-industrial-property-draws-537m-of-capital.html"
             },
-            "matchCount": 1
+            "matchCount": 1,
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "Инвестиции",
             "lastPublished": "2026-11-09",
             "status": "fresh",
-            "auditBasis": "incremental current-site verification, 9–14 Nov 2026",
             "lastUrl": "https://internationalinvestment.biz/en/business/9067-belgian-industrial-property-draws-537m-of-capital.html",
             "articleId": "9067",
             "headline": "Belgian Industrial Property Draws EUR537m of Capital",
             "languageUrls": {
               "en": "https://internationalinvestment.biz/en/business/9067-belgian-industrial-property-draws-537m-of-capital.html"
             },
-            "matchCount": 1
+            "matchCount": 1,
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "Туризм",
@@ -4849,7 +4859,7 @@
       },
       {
         "country": "Болгария",
-        "lastUpdate": "2026-11-11",
+        "lastUpdate": "2026-11-14",
         "topicCount": 6,
         "topics": [
           {
@@ -4860,13 +4870,10 @@
             "articleId": "9035",
             "headline": "Price Deadlock in Bulgaria: Property Sales Fall 22%",
             "languageUrls": {
-              "en": "https://internationalinvestment.biz/en/real-estate/9035-price-deadlock-in-bulgaria-property-sales-fall-22.html",
-              "he": "https://internationalinvestment.biz/he/real-estate/9035-mavo-satum-mehirim-bulgaria-nadlan-tsanhu.html",
-              "ka": "https://internationalinvestment.biz/ka/real-estate/9035-safaso-chikhi-bulgaretshi-udzravi-konebis-garigebebi.html",
-              "ru": "https://internationalinvestment.biz/real-estate/9035-cenovoj-tupik-v-bolgarii-sdelki-s-nedvizhimostju-upali-na-22.html"
+              "en": "https://internationalinvestment.biz/en/real-estate/9035-price-deadlock-in-bulgaria-property-sales-fall-22.html"
             },
             "matchCount": 6,
-            "auditBasis": "language archive, country-specific"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "Инвестиции",
@@ -4876,13 +4883,10 @@
             "articleId": "9092",
             "headline": "Bulgarian Hotels Post Higher Revenue Despite Weaker Demand",
             "languageUrls": {
-              "en": "https://internationalinvestment.biz/en/tourism/9092-bulgarian-hotels-post-higher-revenue-despite-weaker-demand.html",
-              "he": "https://internationalinvestment.biz/he/real-estate/9035-mavo-satum-mehirim-bulgaria-nadlan-tsanhu.html",
-              "ka": "https://internationalinvestment.biz/ka/real-estate/9035-safaso-chikhi-bulgaretshi-udzravi-konebis-garigebebi.html",
-              "ru": "https://internationalinvestment.biz/real-estate/9035-cenovoj-tupik-v-bolgarii-sdelki-s-nedvizhimostju-upali-na-22.html"
+              "en": "https://internationalinvestment.biz/en/tourism/9092-bulgarian-hotels-post-higher-revenue-despite-weaker-demand.html"
             },
             "matchCount": 7,
-            "auditBasis": "incremental current-site verification, 9–14 Nov 2026"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "Туризм",
@@ -4895,33 +4899,34 @@
               "en": "https://internationalinvestment.biz/en/tourism/9092-bulgarian-hotels-post-higher-revenue-despite-weaker-demand.html"
             },
             "matchCount": 2,
-            "auditBasis": "incremental current-site verification, 9–14 Nov 2026"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "Отели и гостиничный бизнес",
             "lastPublished": "2026-11-11",
             "status": "fresh",
-            "auditBasis": "incremental current-site verification, 9–14 Nov 2026",
             "lastUrl": "https://internationalinvestment.biz/en/tourism/9092-bulgarian-hotels-post-higher-revenue-despite-weaker-demand.html",
             "articleId": "9092",
             "headline": "Bulgarian Hotels Post Higher Revenue Despite Weaker Demand",
             "languageUrls": {
               "en": "https://internationalinvestment.biz/en/tourism/9092-bulgarian-hotels-post-higher-revenue-despite-weaker-demand.html"
             },
-            "matchCount": 1
+            "matchCount": 1,
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "ВНЖ и миграция",
-            "lastPublished": "2026-08-10",
-            "status": "urgent",
-            "lastUrl": "https://internationalinvestment.biz/en/bulgaria/8615-bulgaria-proposes-stricter-permanent-residence-rules.html",
-            "articleId": "8615",
-            "headline": "Bulgaria Proposes Stricter Permanent Residence Rules",
+            "lastPublished": "2026-11-14",
+            "status": "fresh",
+            "lastUrl": "https://internationalinvestment.biz/en/news/9113-bulgaria-tightens-rules-for-obtaining-residence-permits-and-permanent-residency.html",
+            "articleId": "9113",
+            "headline": "Bulgaria Tightens Rules for Obtaining Residence Permits and Permanent Residency",
             "languageUrls": {
-              "en": "https://internationalinvestment.biz/en/bulgaria/8615-bulgaria-proposes-stricter-permanent-residence-rules.html"
+              "en": "https://internationalinvestment.biz/en/news/9113-bulgaria-tightens-rules-for-obtaining-residence-permits-and-permanent-residency.html",
+              "ru": "https://internationalinvestment.biz/news/9113-bolgarija-uzhestochaet-pravila-poluchenija-vnzh-i-pmzh.html"
             },
-            "matchCount": 1,
-            "auditBasis": "language archive, country-specific"
+            "matchCount": 2,
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "Налоги для инвесторов",
@@ -4931,13 +4936,10 @@
             "articleId": "9007",
             "headline": "Property Taxes in Bulgaria Could Double",
             "languageUrls": {
-              "en": "https://internationalinvestment.biz/en/real-estate/9007-property-taxes-in-bulgaria-could-double.html",
-              "he": "https://internationalinvestment.biz/he/real-estate/9007-misei-handlan-be-bulgaria-yekhpilu-atzmam.html",
-              "ka": "https://internationalinvestment.biz/ka/real-estate/9007-bulgaretshi-udzravi-konebis-gadasakhadebi-shesadzloa-gaormagdes.html",
-              "ru": "https://internationalinvestment.biz/real-estate/9007-nalogi-na-nedvizhimost-v-bolgarii-mogut-vyrasti-vdvoe.html"
+              "en": "https://internationalinvestment.biz/en/real-estate/9007-property-taxes-in-bulgaria-could-double.html"
             },
             "matchCount": 1,
-            "auditBasis": "language archive, country-specific"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "Регулирование и правила для иностранных покупателей",
@@ -4987,13 +4989,108 @@
               "en": "https://internationalinvestment.biz/en/migration/8736-bosnia-and-herzegovina-citizenship-for-special-merit-how-to-obtain-it.html"
             },
             "matchCount": 1,
-            "auditBasis": "language archive, country-specific"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "Налоги для инвесторов",
             "lastPublished": null,
             "status": "unverified",
             "auditBasis": "unverified in sampled first-page archives"
+          },
+          {
+            "name": "Регулирование и правила для иностранных покупателей",
+            "lastPublished": null,
+            "status": "unverified",
+            "auditBasis": "unverified in sampled first-page archives"
+          }
+        ]
+      },
+      {
+        "country": "Великобритания",
+        "lastUpdate": "2026-11-07",
+        "topicCount": 6,
+        "topics": [
+          {
+            "name": "Недвижимость",
+            "lastPublished": "2026-11-07",
+            "status": "fresh",
+            "lastUrl": "https://internationalinvestment.biz/en/real-estate/9057-prime-london-rents-rise-as-landlords-hold-back.html",
+            "articleId": "9057",
+            "headline": "Prime London Rents Rise as Landlords Hold Back",
+            "languageUrls": {
+              "en": "https://internationalinvestment.biz/en/real-estate/9057-prime-london-rents-rise-as-landlords-hold-back.html",
+              "he": "https://internationalinvestment.biz/he/real-estate/9057-skhar-dira-yokrah-london-oleh-bemakhsor.html",
+              "ru": "https://internationalinvestment.biz/real-estate/9057-arenda-jelitnyh-kvartir-londona-rastet-na-deficite.html"
+            },
+            "matchCount": 12,
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
+          },
+          {
+            "name": "Инвестиции",
+            "lastPublished": "2026-11-07",
+            "status": "fresh",
+            "lastUrl": "https://internationalinvestment.biz/en/real-estate/9057-prime-london-rents-rise-as-landlords-hold-back.html",
+            "articleId": "9057",
+            "headline": "Prime London Rents Rise as Landlords Hold Back",
+            "languageUrls": {
+              "en": "https://internationalinvestment.biz/en/real-estate/9057-prime-london-rents-rise-as-landlords-hold-back.html",
+              "he": "https://internationalinvestment.biz/he/real-estate/9057-skhar-dira-yokrah-london-oleh-bemakhsor.html",
+              "ru": "https://internationalinvestment.biz/real-estate/9057-arenda-jelitnyh-kvartir-londona-rastet-na-deficite.html"
+            },
+            "matchCount": 8,
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
+          },
+          {
+            "name": "Туризм",
+            "lastPublished": "2026-10-23",
+            "status": "watch",
+            "lastUrl": "https://internationalinvestment.biz/en/business/6943-tax-nightmare-for-hotels-and-cafes-in-the-uk.html",
+            "articleId": "6943",
+            "headline": "UK Hotel Taxes Reshape Premier Inn Investment Plans",
+            "languageUrls": {
+              "en": "https://internationalinvestment.biz/en/business/6943-tax-nightmare-for-hotels-and-cafes-in-the-uk.html"
+            },
+            "matchCount": 2,
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
+          },
+          {
+            "name": "Отели и гостиничный бизнес",
+            "lastPublished": "2026-10-26",
+            "status": "watch",
+            "lastUrl": "https://internationalinvestment.biz/en/business/8996-england-to-introduce-a-short-term-rental-register.html",
+            "articleId": "8996",
+            "headline": "England to Introduce a Short-Term Rental Register",
+            "languageUrls": {
+              "en": "https://internationalinvestment.biz/en/business/8996-england-to-introduce-a-short-term-rental-register.html"
+            },
+            "matchCount": 2,
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
+          },
+          {
+            "name": "ВНЖ и миграция",
+            "lastPublished": "2026-09-09",
+            "status": "urgent",
+            "lastUrl": "https://internationalinvestment.biz/en/britannia/8780-reform-uk-reworks-its-offer-to-wealthy-foreigners.html",
+            "articleId": "8780",
+            "headline": "Reform UK Reworks Its Offer to Wealthy Foreigners",
+            "languageUrls": {
+              "en": "https://internationalinvestment.biz/en/britannia/8780-reform-uk-reworks-its-offer-to-wealthy-foreigners.html"
+            },
+            "matchCount": 2,
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
+          },
+          {
+            "name": "Налоги для инвесторов",
+            "lastPublished": "2026-10-23",
+            "status": "watch",
+            "lastUrl": "https://internationalinvestment.biz/en/business/6943-tax-nightmare-for-hotels-and-cafes-in-the-uk.html",
+            "articleId": "6943",
+            "headline": "UK Hotel Taxes Reshape Premier Inn Investment Plans",
+            "languageUrls": {
+              "en": "https://internationalinvestment.biz/en/business/6943-tax-nightmare-for-hotels-and-cafes-in-the-uk.html"
+            },
+            "matchCount": 1,
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "Регулирование и правила для иностранных покупателей",
@@ -5019,7 +5116,7 @@
               "en": "https://internationalinvestment.biz/en/real-estate/9114-hungarys-property-price-growth-comes-to-a-near-standstill.html"
             },
             "matchCount": 3,
-            "auditBasis": "incremental current-site verification, 9–14 Nov 2026"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "Инвестиции",
@@ -5032,7 +5129,7 @@
               "en": "https://internationalinvestment.biz/en/real-estate/9114-hungarys-property-price-growth-comes-to-a-near-standstill.html"
             },
             "matchCount": 2,
-            "auditBasis": "incremental current-site verification, 9–14 Nov 2026"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "Туризм",
@@ -5063,107 +5160,7 @@
               "en": "https://internationalinvestment.biz/en/hungary/8755-hungary-plans-wealth-tax-above-1-billion-forints.html"
             },
             "matchCount": 1,
-            "auditBasis": "language archive, country-specific"
-          },
-          {
-            "name": "Регулирование и правила для иностранных покупателей",
-            "lastPublished": null,
-            "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
-          }
-        ]
-      },
-      {
-        "country": "Великобритания",
-        "lastUpdate": "2026-11-07",
-        "topicCount": 6,
-        "topics": [
-          {
-            "name": "Недвижимость",
-            "lastPublished": "2026-11-07",
-            "status": "fresh",
-            "lastUrl": "https://internationalinvestment.biz/en/real-estate/9057-prime-london-rents-rise-as-landlords-hold-back.html",
-            "articleId": "9057",
-            "headline": "Prime London Rents Rise as Landlords Hold Back",
-            "languageUrls": {
-              "en": "https://internationalinvestment.biz/en/real-estate/9057-prime-london-rents-rise-as-landlords-hold-back.html",
-              "he": "https://internationalinvestment.biz/he/real-estate/9057-skhar-dira-yokrah-london-oleh-bemakhsor.html",
-              "ka": "https://internationalinvestment.biz/ka/real-estate/9057-londonshi-elituri-binebis-qira-deficitis-fonze-izrdeba.html",
-              "ru": "https://internationalinvestment.biz/real-estate/9057-arenda-jelitnyh-kvartir-londona-rastet-na-deficite.html"
-            },
-            "matchCount": 12,
-            "auditBasis": "language archive, country-specific"
-          },
-          {
-            "name": "Инвестиции",
-            "lastPublished": "2026-11-07",
-            "status": "fresh",
-            "lastUrl": "https://internationalinvestment.biz/en/real-estate/9057-prime-london-rents-rise-as-landlords-hold-back.html",
-            "articleId": "9057",
-            "headline": "Prime London Rents Rise as Landlords Hold Back",
-            "languageUrls": {
-              "en": "https://internationalinvestment.biz/en/real-estate/9057-prime-london-rents-rise-as-landlords-hold-back.html",
-              "he": "https://internationalinvestment.biz/he/real-estate/9057-skhar-dira-yokrah-london-oleh-bemakhsor.html",
-              "ka": "https://internationalinvestment.biz/ka/real-estate/9057-londonshi-elituri-binebis-qira-deficitis-fonze-izrdeba.html",
-              "ru": "https://internationalinvestment.biz/real-estate/9057-arenda-jelitnyh-kvartir-londona-rastet-na-deficite.html"
-            },
-            "matchCount": 8,
-            "auditBasis": "language archive, country-specific"
-          },
-          {
-            "name": "Туризм",
-            "lastPublished": "2026-10-23",
-            "status": "watch",
-            "lastUrl": "https://internationalinvestment.biz/en/business/6943-tax-nightmare-for-hotels-and-cafes-in-the-uk.html",
-            "articleId": "6943",
-            "headline": "UK Hotel Taxes Reshape Premier Inn Investment Plans",
-            "languageUrls": {
-              "en": "https://internationalinvestment.biz/en/business/6943-tax-nightmare-for-hotels-and-cafes-in-the-uk.html"
-            },
-            "matchCount": 2,
-            "auditBasis": "language archive, country-specific"
-          },
-          {
-            "name": "Отели и гостиничный бизнес",
-            "lastPublished": "2026-10-26",
-            "status": "watch",
-            "lastUrl": "https://internationalinvestment.biz/en/business/8996-england-to-introduce-a-short-term-rental-register.html",
-            "articleId": "8996",
-            "headline": "England to Introduce a Short-Term Rental Register",
-            "languageUrls": {
-              "en": "https://internationalinvestment.biz/en/business/8996-england-to-introduce-a-short-term-rental-register.html",
-              "he": "https://internationalinvestment.biz/he/business/8996-be-angliya-yukam-mirkham-le-haskara-le-tvakh-katzar.html",
-              "ka": "https://internationalinvestment.biz/ka/business/8996-inglisshi-moklevadiani-ijaris-reestri-amoqmeddeba.html",
-              "ru": "https://internationalinvestment.biz/business/8996-v-anglii-vvedut-reestr-kratkosrochnoj-arendy.html"
-            },
-            "matchCount": 2,
-            "auditBasis": "language archive, country-specific"
-          },
-          {
-            "name": "ВНЖ и миграция",
-            "lastPublished": "2026-09-09",
-            "status": "urgent",
-            "lastUrl": "https://internationalinvestment.biz/en/britannia/8780-reform-uk-reworks-its-offer-to-wealthy-foreigners.html",
-            "articleId": "8780",
-            "headline": "Reform UK Reworks Its Offer to Wealthy Foreigners",
-            "languageUrls": {
-              "en": "https://internationalinvestment.biz/en/britannia/8780-reform-uk-reworks-its-offer-to-wealthy-foreigners.html"
-            },
-            "matchCount": 2,
-            "auditBasis": "language archive, country-specific"
-          },
-          {
-            "name": "Налоги для инвесторов",
-            "lastPublished": "2026-10-23",
-            "status": "watch",
-            "lastUrl": "https://internationalinvestment.biz/en/business/6943-tax-nightmare-for-hotels-and-cafes-in-the-uk.html",
-            "articleId": "6943",
-            "headline": "UK Hotel Taxes Reshape Premier Inn Investment Plans",
-            "languageUrls": {
-              "en": "https://internationalinvestment.biz/en/business/6943-tax-nightmare-for-hotels-and-cafes-in-the-uk.html"
-            },
-            "matchCount": 1,
-            "auditBasis": "language archive, country-specific"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "Регулирование и правила для иностранных покупателей",
@@ -5175,40 +5172,34 @@
       },
       {
         "country": "Германия",
-        "lastUpdate": "2026-10-26",
+        "lastUpdate": "2026-11-03",
         "topicCount": 5,
         "topics": [
           {
             "name": "Недвижимость",
-            "lastPublished": "2026-10-26",
-            "status": "watch",
-            "lastUrl": "https://internationalinvestment.biz/en/real-estate/8995-berlin-leads-the-ranking-for-utility-costs.html",
-            "articleId": "8995",
-            "headline": "Berlin Leads the Ranking for Utility Costs",
+            "lastPublished": "2026-11-03",
+            "status": "fresh",
+            "lastUrl": "https://internationalinvestment.biz/ka/business/9025-ucxouri-kapitali-evropis-ofisebshi-brundeba.html",
+            "articleId": "9025",
+            "headline": "უცხოური კაპიტალი ევროპის ოფისებში ბრუნდება",
             "languageUrls": {
-              "en": "https://internationalinvestment.biz/en/real-estate/8995-berlin-leads-the-ranking-for-utility-costs.html",
-              "he": "https://internationalinvestment.biz/he/real-estate/8995-berlin-movila-be-aluyot-heshbonot-meshek-habayit.html",
-              "ka": "https://internationalinvestment.biz/ka/real-estate/8995-berlini-komunaluri-momsakhurebis-ghirebulebit-lideria.html",
-              "ru": "https://internationalinvestment.biz/real-estate/8995-berlin-lider-po-stoimosti-kommunalnyh-uslug.html"
+              "ka": "https://internationalinvestment.biz/ka/business/9025-ucxouri-kapitali-evropis-ofisebshi-brundeba.html"
             },
-            "matchCount": 5,
-            "auditBasis": "language archive, country-specific"
+            "matchCount": 6,
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "Инвестиции",
-            "lastPublished": "2026-10-26",
-            "status": "watch",
-            "lastUrl": "https://internationalinvestment.biz/en/real-estate/8995-berlin-leads-the-ranking-for-utility-costs.html",
-            "articleId": "8995",
-            "headline": "Berlin Leads the Ranking for Utility Costs",
+            "lastPublished": "2026-11-03",
+            "status": "fresh",
+            "lastUrl": "https://internationalinvestment.biz/ka/business/9025-ucxouri-kapitali-evropis-ofisebshi-brundeba.html",
+            "articleId": "9025",
+            "headline": "უცხოური კაპიტალი ევროპის ოფისებში ბრუნდება",
             "languageUrls": {
-              "en": "https://internationalinvestment.biz/en/real-estate/8995-berlin-leads-the-ranking-for-utility-costs.html",
-              "he": "https://internationalinvestment.biz/he/real-estate/8995-berlin-movila-be-aluyot-heshbonot-meshek-habayit.html",
-              "ka": "https://internationalinvestment.biz/ka/real-estate/8995-berlini-komunaluri-momsakhurebis-ghirebulebit-lideria.html",
-              "ru": "https://internationalinvestment.biz/real-estate/8995-berlin-lider-po-stoimosti-kommunalnyh-uslug.html"
+              "ka": "https://internationalinvestment.biz/ka/business/9025-ucxouri-kapitali-evropis-ofisebshi-brundeba.html"
             },
-            "matchCount": 5,
-            "auditBasis": "language archive, country-specific"
+            "matchCount": 6,
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "Туризм",
@@ -5221,7 +5212,7 @@
               "en": "https://internationalinvestment.biz/en/business/8988-german-hotel-transaction-volume-falls-by-a-third.html"
             },
             "matchCount": 2,
-            "auditBasis": "language archive, country-specific"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "Отели и гостиничный бизнес",
@@ -5234,20 +5225,21 @@
               "en": "https://internationalinvestment.biz/en/business/8988-german-hotel-transaction-volume-falls-by-a-third.html"
             },
             "matchCount": 1,
-            "auditBasis": "language archive, country-specific"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "ВНЖ и миграция",
-            "lastPublished": "2026-08-21",
-            "status": "urgent",
-            "lastUrl": "https://internationalinvestment.biz/en/migration/8681-how-to-get-a-digital-nomad-visa-for-germany.html",
-            "articleId": "8681",
-            "headline": "How to Get a Digital Nomad Visa for Germany",
+            "lastPublished": "2026-11-02",
+            "status": "fresh",
+            "lastUrl": "https://internationalinvestment.biz/he/news/9027-germanim-mevakshim-miklat-zmani-be-rusya.html",
+            "articleId": "9027",
+            "headline": "גרמנים מבקשים מקלט זמני ברוסיה",
             "languageUrls": {
-              "en": "https://internationalinvestment.biz/en/migration/8681-how-to-get-a-digital-nomad-visa-for-germany.html"
+              "he": "https://internationalinvestment.biz/he/news/9027-germanim-mevakshim-miklat-zmani-be-rusya.html",
+              "ka": "https://internationalinvestment.biz/ka/news/9027-germanelebi-rusetshi-droebit-tavshesafars-itkhoven.html"
             },
-            "matchCount": 1,
-            "auditBasis": "language archive, country-specific"
+            "matchCount": 2,
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "Налоги для инвесторов",
@@ -5279,7 +5271,7 @@
               "en": "https://internationalinvestment.biz/en/real-estate/8889-greece-to-step-up-checks-on-short-term-rental-income.html"
             },
             "matchCount": 6,
-            "auditBasis": "language archive, country-specific"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "Инвестиции",
@@ -5292,7 +5284,7 @@
               "en": "https://internationalinvestment.biz/en/real-estate/8889-greece-to-step-up-checks-on-short-term-rental-income.html"
             },
             "matchCount": 4,
-            "auditBasis": "language archive, country-specific"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "Туризм",
@@ -5305,7 +5297,7 @@
               "en": "https://internationalinvestment.biz/en/greece/8657-south-aegean-leads-eu-tourism-intensity.html"
             },
             "matchCount": 1,
-            "auditBasis": "language archive, country-specific"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "Отели и гостиничный бизнес",
@@ -5318,7 +5310,7 @@
               "en": "https://internationalinvestment.biz/en/real-estate/8889-greece-to-step-up-checks-on-short-term-rental-income.html"
             },
             "matchCount": 2,
-            "auditBasis": "language archive, country-specific"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "ВНЖ и миграция",
@@ -5331,7 +5323,7 @@
               "en": "https://internationalinvestment.biz/en/greece/8882-greece-softens-property-tax-plan-for-non-eu-buyers.html"
             },
             "matchCount": 2,
-            "auditBasis": "language archive, country-specific"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "Налоги для инвесторов",
@@ -5344,7 +5336,7 @@
               "en": "https://internationalinvestment.biz/en/greece/8882-greece-softens-property-tax-plan-for-non-eu-buyers.html"
             },
             "matchCount": 3,
-            "auditBasis": "language archive, country-specific"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "Регулирование и правила для иностранных покупателей",
@@ -5357,28 +5349,28 @@
               "en": "https://internationalinvestment.biz/en/greece/8864-greece-prepares-15-home-tax-for-third-country-buyers.html"
             },
             "matchCount": 1,
-            "auditBasis": "language archive, country-specific"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           }
         ]
       },
       {
         "country": "Грузия",
-        "lastUpdate": "2026-11-13",
+        "lastUpdate": "2026-11-14",
         "topicCount": 7,
         "topics": [
           {
             "name": "Недвижимость",
-            "lastPublished": "2026-11-11",
+            "lastPublished": "2026-11-12",
             "status": "fresh",
-            "lastUrl": "https://internationalinvestment.biz/en/real-estate/9100-tbilisi-apartments-sold-2027-delivery-projects.html",
-            "articleId": "9100",
-            "headline": "74% of Apartments Sold in Tbilisi Projects Due for Delivery in 2027",
+            "lastUrl": "https://internationalinvestment.biz/en/real-estate/9108-tbilisi-residential-real-estate-prices-rentals-yields.html",
+            "articleId": "9108",
+            "headline": "Tbilisi Residential Real Estate Market: Prices, Rentals, and Investment Yields",
             "languageUrls": {
-              "ka": "https://internationalinvestment.biz/ka/business/9072-.html",
-              "en": "https://internationalinvestment.biz/en/real-estate/9100-tbilisi-apartments-sold-2027-delivery-projects.html"
+              "en": "https://internationalinvestment.biz/en/real-estate/9108-tbilisi-residential-real-estate-prices-rentals-yields.html",
+              "ru": "https://internationalinvestment.biz/real-estate/9108-rynok-nedvizhimosti-tbilisi-ceny-arenda-dohodnost.html"
             },
-            "matchCount": 39,
-            "auditBasis": "incremental current-site verification, 9–14 Nov 2026"
+            "matchCount": 47,
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "Инвестиции",
@@ -5388,27 +5380,23 @@
             "articleId": "9107",
             "headline": "Rule of Law: Fresh Data Shows Georgia Ahead of Albania, Moldova, and Ukraine",
             "languageUrls": {
-              "ka": "https://internationalinvestment.biz/ka/business/9072-.html",
               "en": "https://internationalinvestment.biz/en/business/9107-georgia-rule-of-law-world-bank-wgi.html"
             },
-            "matchCount": 37,
-            "auditBasis": "incremental current-site verification, 9–14 Nov 2026"
+            "matchCount": 44,
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "Туризм",
-            "lastPublished": "2026-11-13",
+            "lastPublished": "2026-11-14",
             "status": "fresh",
-            "lastUrl": "https://internationalinvestment.biz/en/tourism/9119-georgian-residents-outbound-travel-statistics-purposes.html",
-            "articleId": "9119",
-            "headline": "Friends, Shopping, and Leisure: Georgian Residents' Outbound Travel",
+            "lastUrl": "https://internationalinvestment.biz/en/tourism/9118-bike-and-wine-italian-journalists-tour-georgia.html",
+            "articleId": "9118",
+            "headline": "\"Bike&Wine\": Italian Journalists Tour Georgia by Bicycle",
             "languageUrls": {
-              "en": "https://internationalinvestment.biz/en/tourism/9119-georgian-residents-outbound-travel-statistics-purposes.html",
-              "he": "https://internationalinvestment.biz/he/tourism/9012-zarim-hotsiu-be-georgia-hamesh-nekuda-sheva-miliard-lari.html",
-              "ka": "https://internationalinvestment.biz/ka/tourism/9012-2026-57.html",
-              "ru": "https://internationalinvestment.biz/tourism/9012-2026-57.html"
+              "en": "https://internationalinvestment.biz/en/tourism/9118-bike-and-wine-italian-journalists-tour-georgia.html"
             },
-            "matchCount": 40,
-            "auditBasis": "incremental current-site verification, 9–14 Nov 2026"
+            "matchCount": 47,
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "Отели и гостиничный бизнес",
@@ -5418,12 +5406,10 @@
             "articleId": "9120",
             "headline": "Record Year for Tbilisi Hotels",
             "languageUrls": {
-              "en": "https://internationalinvestment.biz/en/business/9120-record-year-for-tbilisi-hotels.html",
-              "he": "https://internationalinvestment.biz/he/business/9062-bina-melachutit-be-anaf-hamelonaot-perspektivot.html",
-              "ru": "https://internationalinvestment.biz/business/9062-ai.html"
+              "en": "https://internationalinvestment.biz/en/business/9120-record-year-for-tbilisi-hotels.html"
             },
-            "matchCount": 10,
-            "auditBasis": "incremental current-site verification, 9–14 Nov 2026"
+            "matchCount": 12,
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "ВНЖ и миграция",
@@ -5433,39 +5419,29 @@
             "articleId": "9111",
             "headline": "Employment of Foreigners in Georgia: Work Permit Deadline",
             "languageUrls": {
-              "en": "https://internationalinvestment.biz/en/migration/9111-foreign-employment-georgia-work-permit-deadline.html",
-              "he": "https://internationalinvestment.biz/he/business/9000-mi-kone-nadlan-bebatumi-reayon-im-yazam.html",
-              "ka": "https://internationalinvestment.biz/ka/business/9000-httpsinternationalinvestmentbizkabusiness9000-html.html",
-              "ru": "https://internationalinvestment.biz/business/9000-httpsinternationalinvestmentbizkabusiness9000-html.html"
+              "en": "https://internationalinvestment.biz/en/migration/9111-foreign-employment-georgia-work-permit-deadline.html"
             },
             "matchCount": 4,
-            "auditBasis": "incremental current-site verification, 9–14 Nov 2026"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "Налоги для инвесторов",
-            "lastPublished": "2026-09-29",
-            "status": "stale",
-            "lastUrl": "https://internationalinvestment.biz/en/real-estate/8876-georgia-to-abolish-property-tax-for-incomes-up-to-gel-100000.html",
-            "articleId": "8876",
-            "headline": "Georgia to Abolish Property Tax for Incomes Up to GEL 100,000",
+            "lastPublished": "2026-11-02",
+            "status": "fresh",
+            "lastUrl": "https://internationalinvestment.biz/he/business/9032-be-georgia-mispar-proyektey-habniya-ole-ve-mesira-yoredet.html",
+            "articleId": "9032",
+            "headline": "בגאורגיה מספר פרויקטי הבנייה החדשים עולה, בעוד מסירת המבנים יורדת",
             "languageUrls": {
-              "en": "https://internationalinvestment.biz/en/real-estate/8876-georgia-to-abolish-property-tax-for-incomes-up-to-gel-100000.html"
+              "he": "https://internationalinvestment.biz/he/business/9032-be-georgia-mispar-proyektey-habniya-ole-ve-mesira-yoredet.html"
             },
-            "matchCount": 1,
-            "auditBasis": "language archive, country-specific"
+            "matchCount": 3,
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "Регулирование и правила для иностранных покупателей",
-            "lastPublished": "2026-11-13",
-            "status": "fresh",
-            "auditBasis": "incremental current-site verification, 9–14 Nov 2026",
-            "lastUrl": "https://internationalinvestment.biz/en/migration/9111-foreign-employment-georgia-work-permit-deadline.html",
-            "articleId": "9111",
-            "headline": "Employment of Foreigners in Georgia: Work Permit Deadline",
-            "languageUrls": {
-              "en": "https://internationalinvestment.biz/en/migration/9111-foreign-employment-georgia-work-permit-deadline.html"
-            },
-            "matchCount": 1
+            "lastPublished": null,
+            "status": "unverified",
+            "auditBasis": "no verified foreign-buyer property-rule article in audited archive dataset"
           }
         ]
       },
@@ -5482,13 +5458,10 @@
             "articleId": "9040",
             "headline": "Five Danish Hotels With 928 Rooms Change Hands",
             "languageUrls": {
-              "en": "https://internationalinvestment.biz/en/business/9040-five-danish-hotels-with-928-rooms-change-hands.html",
-              "he": "https://internationalinvestment.biz/he/business/9040-hamisha-melonot-bedenmark-mahlifim-bealim.html",
-              "ka": "https://internationalinvestment.biz/ka/business/9040-daniis-khuti-sastumro-mflobels-itsvlis.html",
-              "ru": "https://internationalinvestment.biz/business/9040-pjat-otelej-danii-na-928-nomerov-menjajut-sobstvennikov.html"
+              "en": "https://internationalinvestment.biz/en/business/9040-five-danish-hotels-with-928-rooms-change-hands.html"
             },
             "matchCount": 1,
-            "auditBasis": "language archive, country-specific"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "Инвестиции",
@@ -5498,13 +5471,10 @@
             "articleId": "9040",
             "headline": "Five Danish Hotels With 928 Rooms Change Hands",
             "languageUrls": {
-              "en": "https://internationalinvestment.biz/en/business/9040-five-danish-hotels-with-928-rooms-change-hands.html",
-              "he": "https://internationalinvestment.biz/he/business/9040-hamisha-melonot-bedenmark-mahlifim-bealim.html",
-              "ka": "https://internationalinvestment.biz/ka/business/9040-daniis-khuti-sastumro-mflobels-itsvlis.html",
-              "ru": "https://internationalinvestment.biz/business/9040-pjat-otelej-danii-na-928-nomerov-menjajut-sobstvennikov.html"
+              "en": "https://internationalinvestment.biz/en/business/9040-five-danish-hotels-with-928-rooms-change-hands.html"
             },
             "matchCount": 1,
-            "auditBasis": "language archive, country-specific"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "Туризм",
@@ -5514,13 +5484,10 @@
             "articleId": "9040",
             "headline": "Five Danish Hotels With 928 Rooms Change Hands",
             "languageUrls": {
-              "en": "https://internationalinvestment.biz/en/business/9040-five-danish-hotels-with-928-rooms-change-hands.html",
-              "he": "https://internationalinvestment.biz/he/business/9040-hamisha-melonot-bedenmark-mahlifim-bealim.html",
-              "ka": "https://internationalinvestment.biz/ka/business/9040-daniis-khuti-sastumro-mflobels-itsvlis.html",
-              "ru": "https://internationalinvestment.biz/business/9040-pjat-otelej-danii-na-928-nomerov-menjajut-sobstvennikov.html"
+              "en": "https://internationalinvestment.biz/en/business/9040-five-danish-hotels-with-928-rooms-change-hands.html"
             },
             "matchCount": 2,
-            "auditBasis": "language archive, country-specific"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "Отели и гостиничный бизнес",
@@ -5530,13 +5497,10 @@
             "articleId": "9040",
             "headline": "Five Danish Hotels With 928 Rooms Change Hands",
             "languageUrls": {
-              "en": "https://internationalinvestment.biz/en/business/9040-five-danish-hotels-with-928-rooms-change-hands.html",
-              "he": "https://internationalinvestment.biz/he/business/9040-hamisha-melonot-bedenmark-mahlifim-bealim.html",
-              "ka": "https://internationalinvestment.biz/ka/business/9040-daniis-khuti-sastumro-mflobels-itsvlis.html",
-              "ru": "https://internationalinvestment.biz/business/9040-pjat-otelej-danii-na-928-nomerov-menjajut-sobstvennikov.html"
+              "en": "https://internationalinvestment.biz/en/business/9040-five-danish-hotels-with-928-rooms-change-hands.html"
             },
             "matchCount": 1,
-            "auditBasis": "language archive, country-specific"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "ВНЖ и миграция",
@@ -5549,7 +5513,7 @@
               "en": "https://internationalinvestment.biz/en/denmark/8703-denmark-pushes-eu-toward-tougher-external-borders.html"
             },
             "matchCount": 1,
-            "auditBasis": "language archive, country-specific"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "Налоги для инвесторов",
@@ -5587,7 +5551,7 @@
               "en": "https://internationalinvestment.biz/en/egypt/8609-egypt-inflation-accelerates-again-in-july.html"
             },
             "matchCount": 1,
-            "auditBasis": "language archive, country-specific"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "Туризм",
@@ -5600,149 +5564,7 @@
               "en": "https://internationalinvestment.biz/en/news/8848-cairo-airport-replaces-paper-visas-with-qr-codes.html"
             },
             "matchCount": 3,
-            "auditBasis": "language archive, country-specific"
-          },
-          {
-            "name": "Отели и гостиничный бизнес",
-            "lastPublished": null,
-            "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
-          },
-          {
-            "name": "ВНЖ и миграция",
-            "lastPublished": null,
-            "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
-          },
-          {
-            "name": "Налоги для инвесторов",
-            "lastPublished": null,
-            "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
-          },
-          {
-            "name": "Регулирование и правила для иностранных покупателей",
-            "lastPublished": null,
-            "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
-          }
-        ]
-      },
-      {
-        "country": "Индонезия",
-        "lastUpdate": "2026-11-03",
-        "topicCount": 3,
-        "topics": [
-          {
-            "name": "Недвижимость",
-            "lastPublished": "2026-11-03",
-            "status": "fresh",
-            "lastUrl": "https://internationalinvestment.biz/en/business/9038-bali-villa-rental-yields-what-lies-behind-promises-of-1015-a-year.html",
-            "articleId": "9038",
-            "headline": "Bali Villa Rental Yields: What Lies Behind Promises of 10–15% a Year",
-            "languageUrls": {
-              "en": "https://internationalinvestment.biz/en/business/9038-bali-villa-rental-yields-what-lies-behind-promises-of-1015-a-year.html",
-              "he": "https://internationalinvestment.biz/he/business/9038-tshuot-vilot-be-bali-havtahot-vesikuim.html",
-              "ka": "https://internationalinvestment.biz/ka/business/9038-vilebis-shemosavlianoba-balize-ra-imaleba-dapirebebshi.html",
-              "ru": "https://internationalinvestment.biz/business/9038-dohodnost-vill-na-bali-chto-skryvaetsja-za-obeschanijami-1015-godovyh.html"
-            },
-            "matchCount": 4,
-            "auditBasis": "language archive, country-specific"
-          },
-          {
-            "name": "Инвестиции",
-            "lastPublished": "2026-11-03",
-            "status": "fresh",
-            "lastUrl": "https://internationalinvestment.biz/en/business/9038-bali-villa-rental-yields-what-lies-behind-promises-of-1015-a-year.html",
-            "articleId": "9038",
-            "headline": "Bali Villa Rental Yields: What Lies Behind Promises of 10–15% a Year",
-            "languageUrls": {
-              "en": "https://internationalinvestment.biz/en/business/9038-bali-villa-rental-yields-what-lies-behind-promises-of-1015-a-year.html",
-              "he": "https://internationalinvestment.biz/he/business/9038-tshuot-vilot-be-bali-havtahot-vesikuim.html",
-              "ka": "https://internationalinvestment.biz/ka/business/9038-vilebis-shemosavlianoba-balize-ra-imaleba-dapirebebshi.html",
-              "ru": "https://internationalinvestment.biz/business/9038-dohodnost-vill-na-bali-chto-skryvaetsja-za-obeschanijami-1015-godovyh.html"
-            },
-            "matchCount": 2,
-            "auditBasis": "language archive, country-specific"
-          },
-          {
-            "name": "Туризм",
-            "lastPublished": "2026-10-30",
-            "status": "watch",
-            "lastUrl": "https://internationalinvestment.biz/en/tourism/9008-boat-carrying-russian-tourists-explodes-in-bali.html",
-            "articleId": "9008",
-            "headline": "Boat carrying Russian tourists explodes in Bali",
-            "languageUrls": {
-              "en": "https://internationalinvestment.biz/en/tourism/9008-boat-carrying-russian-tourists-explodes-in-bali.html",
-              "he": "https://internationalinvestment.biz/he/tourism/9008-sirat-manoa-im-tayarim-rusim-hitpotztza-be-bali.html",
-              "ka": "https://internationalinvestment.biz/ka/tourism/9008-balize-katargha-rus-turistebtan-ertad-afetqda.html",
-              "ru": "https://internationalinvestment.biz/tourism/9008-na-bali-vzorvalsja-kater-s-rossijskimi-turistami.html"
-            },
-            "matchCount": 4,
-            "auditBasis": "language archive, country-specific"
-          },
-          {
-            "name": "Отели и гостиничный бизнес",
-            "lastPublished": null,
-            "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
-          },
-          {
-            "name": "ВНЖ и миграция",
-            "lastPublished": null,
-            "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
-          },
-          {
-            "name": "Налоги для инвесторов",
-            "lastPublished": null,
-            "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
-          },
-          {
-            "name": "Регулирование и правила для иностранных покупателей",
-            "lastPublished": null,
-            "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
-          }
-        ]
-      },
-      {
-        "country": "Индия",
-        "lastUpdate": "2026-10-23",
-        "topicCount": 2,
-        "topics": [
-          {
-            "name": "Недвижимость",
-            "lastPublished": null,
-            "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
-          },
-          {
-            "name": "Инвестиции",
-            "lastPublished": "2026-08-14",
-            "status": "urgent",
-            "lastUrl": "https://internationalinvestment.biz/en/india/8567-foreign-funds-return-to-indian-stocks.html",
-            "articleId": "8567",
-            "headline": "Foreign Funds Return to Indian Stocks",
-            "languageUrls": {
-              "en": "https://internationalinvestment.biz/en/india/8567-foreign-funds-return-to-indian-stocks.html"
-            },
-            "matchCount": 1,
-            "auditBasis": "language archive, country-specific"
-          },
-          {
-            "name": "Туризм",
-            "lastPublished": "2026-10-23",
-            "status": "watch",
-            "lastUrl": "https://internationalinvestment.biz/en/india/8987-india-becomes-skyscanners-largest-market.html",
-            "articleId": "8987",
-            "headline": "India Becomes Skyscanner’s Largest Market",
-            "languageUrls": {
-              "en": "https://internationalinvestment.biz/en/india/8987-india-becomes-skyscanners-largest-market.html"
-            },
-            "matchCount": 3,
-            "auditBasis": "language archive, country-specific"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "Отели и гостиничный бизнес",
@@ -5786,7 +5608,7 @@
               "en": "https://internationalinvestment.biz/en/business/8890-mass-cancellations-of-new-build-home-deals-in-southern-israel.html"
             },
             "matchCount": 11,
-            "auditBasis": "language archive, country-specific"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "Инвестиции",
@@ -5799,7 +5621,7 @@
               "en": "https://internationalinvestment.biz/en/business/8902-israels-gdp-surges-after-early-year-contraction.html"
             },
             "matchCount": 8,
-            "auditBasis": "language archive, country-specific"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "Туризм",
@@ -5812,7 +5634,7 @@
               "en": "https://internationalinvestment.biz/en/tourism/8933-tourism-in-israel-in-2026-demand-and-outlook.html"
             },
             "matchCount": 3,
-            "auditBasis": "language archive, country-specific"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "Отели и гостиничный бизнес",
@@ -5825,7 +5647,7 @@
               "en": "https://internationalinvestment.biz/en/business/8918-israeli-hotels-lose-one-million-overnight-stays-in-2026.html"
             },
             "matchCount": 1,
-            "auditBasis": "language archive, country-specific"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "ВНЖ и миграция",
@@ -5838,7 +5660,7 @@
               "en": "https://internationalinvestment.biz/en/news/8856-more-than-20000-people-immigrated-to-israel-in-one-year.html"
             },
             "matchCount": 2,
-            "auditBasis": "language archive, country-specific"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "Налоги для инвесторов",
@@ -5855,170 +5677,53 @@
         ]
       },
       {
-        "country": "Испания",
-        "lastUpdate": "2026-11-12",
-        "topicCount": 5,
+        "country": "Индия",
+        "lastUpdate": "2026-10-23",
+        "topicCount": 2,
         "topics": [
           {
             "name": "Недвижимость",
-            "lastPublished": "2026-11-09",
-            "status": "fresh",
-            "lastUrl": "https://internationalinvestment.biz/en/news/9078-madrid-to-build-1-billion-city-of-health-complex.html",
-            "articleId": "9078",
-            "headline": "Madrid to Build EUR1 Billion City of Health Complex",
-            "languageUrls": {
-              "en": "https://internationalinvestment.biz/en/news/9078-madrid-to-build-1-billion-city-of-health-complex.html",
-              "he": "https://internationalinvestment.biz/he/real-estate/9045-kol-socher-shlishi-bisfarad-mitachat-lekav-haoni.html",
-              "ka": "https://internationalinvestment.biz/ka/real-estate/9045-espanetshi-qoveli-mesame-damqiravebeli-sigharibis-zghvars-mighmaa.html",
-              "ru": "https://internationalinvestment.biz/real-estate/9045-kazhdyj-tretij-arendator-v-ispanii-za-chertoj-bednosti.html"
-            },
-            "matchCount": 9,
-            "auditBasis": "incremental current-site verification, 9–14 Nov 2026"
+            "lastPublished": null,
+            "status": "unverified",
+            "auditBasis": "unverified in sampled first-page archives"
           },
           {
             "name": "Инвестиции",
-            "lastPublished": "2026-11-09",
-            "status": "fresh",
-            "lastUrl": "https://internationalinvestment.biz/en/news/9078-madrid-to-build-1-billion-city-of-health-complex.html",
-            "articleId": "9078",
-            "headline": "Madrid to Build EUR1 Billion City of Health Complex",
+            "lastPublished": "2026-08-14",
+            "status": "urgent",
+            "lastUrl": "https://internationalinvestment.biz/en/india/8567-foreign-funds-return-to-indian-stocks.html",
+            "articleId": "8567",
+            "headline": "Foreign Funds Return to Indian Stocks",
             "languageUrls": {
-              "en": "https://internationalinvestment.biz/en/news/9078-madrid-to-build-1-billion-city-of-health-complex.html",
-              "he": "https://internationalinvestment.biz/he/real-estate/8880-hagbalot-hadashot-beshuk-haskhirut-bisfarad.html",
-              "ka": "https://internationalinvestment.biz/ka/real-estate/8880-akhali-shezgudvebi-espanetis-ijaris-bazarze.html",
-              "ru": "https://internationalinvestment.biz/real-estate/8880-novye-ogranichenija-na-rynke-arendy-ispanii.html"
+              "en": "https://internationalinvestment.biz/en/india/8567-foreign-funds-return-to-indian-stocks.html"
             },
-            "matchCount": 6,
-            "auditBasis": "incremental current-site verification, 9–14 Nov 2026"
+            "matchCount": 1,
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "Туризм",
-            "lastPublished": "2026-11-07",
-            "status": "fresh",
-            "lastUrl": "https://internationalinvestment.biz/en/business/9063-wizz-air-launches-domestic-flights-in-spain.html",
-            "articleId": "9063",
-            "headline": "Wizz Air Launches Domestic Flights in Spain",
-            "languageUrls": {
-              "en": "https://internationalinvestment.biz/en/business/9063-wizz-air-launches-domestic-flights-in-spain.html",
-              "he": "https://internationalinvestment.biz/he/business/9063-wizz-air-meshika-tisot-pnim-be-sfarad.html",
-              "ka": "https://internationalinvestment.biz/ka/business/9063-wizz-air-espanetshi-shida-reisebs-itskebs.html",
-              "ru": "https://internationalinvestment.biz/business/9063-wizz-air-zapuskaet-vnutrennie-rejsy-po-ispanii.html"
-            },
-            "matchCount": 5,
-            "auditBasis": "language archive, country-specific"
-          },
-          {
-            "name": "Отели и гостиничный бизнес",
-            "lastPublished": "2026-11-03",
-            "status": "fresh",
-            "lastUrl": "https://internationalinvestment.biz/en/news/9033-madridbarcelona-high-speed-rail-line-could-close-for-two-years.html",
-            "articleId": "9033",
-            "headline": "Madrid–Barcelona High-Speed Rail Line Could Close for Two Years",
-            "languageUrls": {
-              "en": "https://internationalinvestment.biz/en/news/9033-madridbarcelona-high-speed-rail-line-could-close-for-two-years.html",
-              "he": "https://internationalinvestment.biz/he/news/9033-madrid-barcelona-kav-harakevet-hamehira-leshnataim.html",
-              "ka": "https://internationalinvestment.biz/ka/news/9033-madridi-barselona-chqarosnuli-magistrali-sheidzleba-daiketos.html",
-              "ru": "https://internationalinvestment.biz/news/9033-madridbarselona-skorostnuju-magistral-mogut-zakryt-na-dva-goda.html"
-            },
-            "matchCount": 2,
-            "auditBasis": "language archive, country-specific"
-          },
-          {
-            "name": "ВНЖ и миграция",
-            "lastPublished": "2026-11-12",
-            "status": "fresh",
-            "lastUrl": "https://internationalinvestment.biz/en/migration/9103-migration-crisis-in-the-canary-islands.html",
-            "articleId": "9103",
-            "headline": "Migration Crisis in the Canary Islands",
-            "languageUrls": {
-              "en": "https://internationalinvestment.biz/en/migration/9103-migration-crisis-in-the-canary-islands.html"
-            },
-            "matchCount": 7,
-            "auditBasis": "incremental current-site verification, 9–14 Nov 2026"
-          },
-          {
-            "name": "Налоги для инвесторов",
-            "lastPublished": null,
-            "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
-          },
-          {
-            "name": "Регулирование и правила для иностранных покупателей",
-            "lastPublished": null,
-            "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
-          }
-        ]
-      },
-      {
-        "country": "Италия",
-        "lastUpdate": "2026-11-13",
-        "topicCount": 6,
-        "topics": [
-          {
-            "name": "Недвижимость",
-            "lastPublished": "2026-10-21",
+            "lastPublished": "2026-10-23",
             "status": "watch",
-            "lastUrl": "https://internationalinvestment.biz/en/tourism/8963-grand-prix-and-fashion-drive-milan-hotel-rates-higher.html",
-            "articleId": "8963",
-            "headline": "Grand Prix and Fashion Drive Milan Hotel Rates Higher",
+            "lastUrl": "https://internationalinvestment.biz/en/india/8987-india-becomes-skyscanners-largest-market.html",
+            "articleId": "8987",
+            "headline": "India Becomes Skyscanner’s Largest Market",
             "languageUrls": {
-              "en": "https://internationalinvestment.biz/en/tourism/8963-grand-prix-and-fashion-drive-milan-hotel-rates-higher.html"
-            },
-            "matchCount": 5,
-            "auditBasis": "language archive, country-specific"
-          },
-          {
-            "name": "Инвестиции",
-            "lastPublished": "2026-10-17",
-            "status": "watch",
-            "lastUrl": "https://internationalinvestment.biz/en/real-estate/8956-italy-funds-housing-for-tourism-workers.html",
-            "articleId": "8956",
-            "headline": "Italy Funds Housing for Tourism Workers",
-            "languageUrls": {
-              "en": "https://internationalinvestment.biz/en/real-estate/8956-italy-funds-housing-for-tourism-workers.html"
+              "en": "https://internationalinvestment.biz/en/india/8987-india-becomes-skyscanners-largest-market.html"
             },
             "matchCount": 3,
-            "auditBasis": "language archive, country-specific"
-          },
-          {
-            "name": "Туризм",
-            "lastPublished": "2026-10-21",
-            "status": "watch",
-            "lastUrl": "https://internationalinvestment.biz/en/tourism/8963-grand-prix-and-fashion-drive-milan-hotel-rates-higher.html",
-            "articleId": "8963",
-            "headline": "Grand Prix and Fashion Drive Milan Hotel Rates Higher",
-            "languageUrls": {
-              "en": "https://internationalinvestment.biz/en/tourism/8963-grand-prix-and-fashion-drive-milan-hotel-rates-higher.html"
-            },
-            "matchCount": 2,
-            "auditBasis": "language archive, country-specific"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "Отели и гостиничный бизнес",
-            "lastPublished": "2026-10-21",
-            "status": "watch",
-            "lastUrl": "https://internationalinvestment.biz/en/tourism/8963-grand-prix-and-fashion-drive-milan-hotel-rates-higher.html",
-            "articleId": "8963",
-            "headline": "Grand Prix and Fashion Drive Milan Hotel Rates Higher",
-            "languageUrls": {
-              "en": "https://internationalinvestment.biz/en/tourism/8963-grand-prix-and-fashion-drive-milan-hotel-rates-higher.html"
-            },
-            "matchCount": 1,
-            "auditBasis": "language archive, country-specific"
+            "lastPublished": null,
+            "status": "unverified",
+            "auditBasis": "unverified in sampled first-page archives"
           },
           {
             "name": "ВНЖ и миграция",
-            "lastPublished": "2026-11-13",
-            "status": "fresh",
-            "auditBasis": "incremental current-site verification, 9–14 Nov 2026",
-            "lastUrl": "https://internationalinvestment.biz/en/news/9109-italian-citizenship-by-descent-fraud-and-corruption.html",
-            "articleId": "9109",
-            "headline": "Italian Citizenship by Descent: Fraud and Corruption",
-            "languageUrls": {
-              "en": "https://internationalinvestment.biz/en/news/9109-italian-citizenship-by-descent-fraud-and-corruption.html"
-            },
-            "matchCount": 1
+            "lastPublished": null,
+            "status": "unverified",
+            "auditBasis": "unverified in sampled first-page archives"
           },
           {
             "name": "Налоги для инвесторов",
@@ -6028,16 +5733,79 @@
           },
           {
             "name": "Регулирование и правила для иностранных покупателей",
-            "lastPublished": "2026-10-14",
-            "status": "stale",
-            "lastUrl": "https://internationalinvestment.biz/en/italy/7943-rome-housing-market-gains-momentum.html",
-            "articleId": "7943",
-            "headline": "Foreign Buyers Return to Rome's Prime Property Market",
+            "lastPublished": null,
+            "status": "unverified",
+            "auditBasis": "unverified in sampled first-page archives"
+          }
+        ]
+      },
+      {
+        "country": "Индонезия",
+        "lastUpdate": "2026-11-03",
+        "topicCount": 3,
+        "topics": [
+          {
+            "name": "Недвижимость",
+            "lastPublished": "2026-11-03",
+            "status": "fresh",
+            "lastUrl": "https://internationalinvestment.biz/en/business/9038-bali-villa-rental-yields-what-lies-behind-promises-of-1015-a-year.html",
+            "articleId": "9038",
+            "headline": "Bali Villa Rental Yields: What Lies Behind Promises of 10–15% a Year",
             "languageUrls": {
-              "en": "https://internationalinvestment.biz/en/italy/7943-rome-housing-market-gains-momentum.html"
+              "en": "https://internationalinvestment.biz/en/business/9038-bali-villa-rental-yields-what-lies-behind-promises-of-1015-a-year.html"
             },
-            "matchCount": 1,
-            "auditBasis": "language archive, country-specific"
+            "matchCount": 4,
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
+          },
+          {
+            "name": "Инвестиции",
+            "lastPublished": "2026-11-03",
+            "status": "fresh",
+            "lastUrl": "https://internationalinvestment.biz/en/business/9038-bali-villa-rental-yields-what-lies-behind-promises-of-1015-a-year.html",
+            "articleId": "9038",
+            "headline": "Bali Villa Rental Yields: What Lies Behind Promises of 10–15% a Year",
+            "languageUrls": {
+              "en": "https://internationalinvestment.biz/en/business/9038-bali-villa-rental-yields-what-lies-behind-promises-of-1015-a-year.html"
+            },
+            "matchCount": 2,
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
+          },
+          {
+            "name": "Туризм",
+            "lastPublished": "2026-10-30",
+            "status": "watch",
+            "lastUrl": "https://internationalinvestment.biz/en/tourism/9008-boat-carrying-russian-tourists-explodes-in-bali.html",
+            "articleId": "9008",
+            "headline": "Boat carrying Russian tourists explodes in Bali",
+            "languageUrls": {
+              "en": "https://internationalinvestment.biz/en/tourism/9008-boat-carrying-russian-tourists-explodes-in-bali.html"
+            },
+            "matchCount": 4,
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
+          },
+          {
+            "name": "Отели и гостиничный бизнес",
+            "lastPublished": null,
+            "status": "unverified",
+            "auditBasis": "unverified in sampled first-page archives"
+          },
+          {
+            "name": "ВНЖ и миграция",
+            "lastPublished": null,
+            "status": "unverified",
+            "auditBasis": "unverified in sampled first-page archives"
+          },
+          {
+            "name": "Налоги для инвесторов",
+            "lastPublished": null,
+            "status": "unverified",
+            "auditBasis": "unverified in sampled first-page archives"
+          },
+          {
+            "name": "Регулирование и правила для иностранных покупателей",
+            "lastPublished": null,
+            "status": "unverified",
+            "auditBasis": "unverified in sampled first-page archives"
           }
         ]
       },
@@ -6060,7 +5828,7 @@
               "ru": "https://internationalinvestment.biz/business/9047-arenda-skladov-dublina-vyrosla-na-65.html"
             },
             "matchCount": 8,
-            "auditBasis": "language archive, country-specific"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "Инвестиции",
@@ -6076,7 +5844,7 @@
               "ru": "https://internationalinvestment.biz/business/9047-arenda-skladov-dublina-vyrosla-na-65.html"
             },
             "matchCount": 4,
-            "auditBasis": "language archive, country-specific"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "Туризм",
@@ -6095,7 +5863,7 @@
               "en": "https://internationalinvestment.biz/en/business/8959-ireland-plans-national-short-term-rental-register.html"
             },
             "matchCount": 1,
-            "auditBasis": "language archive, country-specific"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "ВНЖ и миграция",
@@ -6114,7 +5882,7 @@
               "en": "https://internationalinvestment.biz/en/ireland/8670-ireland-debates-wider-vat-cut-for-new-homes.html"
             },
             "matchCount": 1,
-            "auditBasis": "language archive, country-specific"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "Регулирование и правила для иностранных покупателей",
@@ -6140,7 +5908,7 @@
               "en": "https://internationalinvestment.biz/en/iceland/8680-iceland-house-prices-fall-behind-inflation.html"
             },
             "matchCount": 3,
-            "auditBasis": "language archive, country-specific"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "Инвестиции",
@@ -6153,7 +5921,7 @@
               "en": "https://internationalinvestment.biz/en/iceland/8646-icelands-capital-housing-market-shifts-toward-cheaper-homes.html"
             },
             "matchCount": 1,
-            "auditBasis": "language archive, country-specific"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "Туризм",
@@ -6172,7 +5940,7 @@
               "en": "https://internationalinvestment.biz/en/iceland/8658-reykjavik-airbnb-supply-falls-nearly-20-as-revenue-slips.html"
             },
             "matchCount": 1,
-            "auditBasis": "language archive, country-specific"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "ВНЖ и миграция",
@@ -6191,6 +5959,191 @@
             "lastPublished": null,
             "status": "unverified",
             "auditBasis": "unverified in sampled first-page archives"
+          }
+        ]
+      },
+      {
+        "country": "Испания",
+        "lastUpdate": "2026-11-12",
+        "topicCount": 6,
+        "topics": [
+          {
+            "name": "Недвижимость",
+            "lastPublished": "2026-11-09",
+            "status": "fresh",
+            "lastUrl": "https://internationalinvestment.biz/en/news/9078-madrid-to-build-1-billion-city-of-health-complex.html",
+            "articleId": "9078",
+            "headline": "Madrid to Build EUR1 Billion City of Health Complex",
+            "languageUrls": {
+              "en": "https://internationalinvestment.biz/en/news/9078-madrid-to-build-1-billion-city-of-health-complex.html"
+            },
+            "matchCount": 9,
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
+          },
+          {
+            "name": "Инвестиции",
+            "lastPublished": "2026-11-09",
+            "status": "fresh",
+            "lastUrl": "https://internationalinvestment.biz/en/news/9078-madrid-to-build-1-billion-city-of-health-complex.html",
+            "articleId": "9078",
+            "headline": "Madrid to Build EUR1 Billion City of Health Complex",
+            "languageUrls": {
+              "en": "https://internationalinvestment.biz/en/news/9078-madrid-to-build-1-billion-city-of-health-complex.html"
+            },
+            "matchCount": 6,
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
+          },
+          {
+            "name": "Туризм",
+            "lastPublished": "2026-11-08",
+            "status": "fresh",
+            "lastUrl": "https://internationalinvestment.biz/ka/tourism/9070-patara-sastumroebis-stumrebi-mzad-arian-nomrebi-binebze-gatsvalon.html",
+            "articleId": "9070",
+            "headline": "პატარა სასტუმროების სტუმრები მზად არიან ნომრები ბინებზე გაცვალონ",
+            "languageUrls": {
+              "ka": "https://internationalinvestment.biz/ka/tourism/9070-patara-sastumroebis-stumrebi-mzad-arian-nomrebi-binebze-gatsvalon.html"
+            },
+            "matchCount": 6,
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
+          },
+          {
+            "name": "Отели и гостиничный бизнес",
+            "lastPublished": "2026-11-08",
+            "status": "fresh",
+            "lastUrl": "https://internationalinvestment.biz/ka/tourism/9070-patara-sastumroebis-stumrebi-mzad-arian-nomrebi-binebze-gatsvalon.html",
+            "articleId": "9070",
+            "headline": "პატარა სასტუმროების სტუმრები მზად არიან ნომრები ბინებზე გაცვალონ",
+            "languageUrls": {
+              "ka": "https://internationalinvestment.biz/ka/tourism/9070-patara-sastumroebis-stumrebi-mzad-arian-nomrebi-binebze-gatsvalon.html"
+            },
+            "matchCount": 3,
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
+          },
+          {
+            "name": "ВНЖ и миграция",
+            "lastPublished": "2026-11-12",
+            "status": "fresh",
+            "lastUrl": "https://internationalinvestment.biz/en/migration/9103-migration-crisis-in-the-canary-islands.html",
+            "articleId": "9103",
+            "headline": "Migration Crisis in the Canary Islands",
+            "languageUrls": {
+              "en": "https://internationalinvestment.biz/en/migration/9103-migration-crisis-in-the-canary-islands.html"
+            },
+            "matchCount": 8,
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
+          },
+          {
+            "name": "Налоги для инвесторов",
+            "lastPublished": "2026-10-26",
+            "status": "watch",
+            "lastUrl": "https://internationalinvestment.biz/he/news/8997-sefarad-movila-be-igud-ha-eropi-be-gidul-ashrot-shehiya.html",
+            "articleId": "8997",
+            "headline": "ספרד מובילה באיחוד האירופי בגידול במספר הרוסים בעלי אשרת שהייה",
+            "languageUrls": {
+              "he": "https://internationalinvestment.biz/he/news/8997-sefarad-movila-be-igud-ha-eropi-be-gidul-ashrot-shehiya.html"
+            },
+            "matchCount": 1,
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
+          },
+          {
+            "name": "Регулирование и правила для иностранных покупателей",
+            "lastPublished": null,
+            "status": "unverified",
+            "auditBasis": "unverified in sampled first-page archives"
+          }
+        ]
+      },
+      {
+        "country": "Италия",
+        "lastUpdate": "2026-11-13",
+        "topicCount": 6,
+        "topics": [
+          {
+            "name": "Недвижимость",
+            "lastPublished": "2026-10-21",
+            "status": "watch",
+            "lastUrl": "https://internationalinvestment.biz/en/tourism/8963-grand-prix-and-fashion-drive-milan-hotel-rates-higher.html",
+            "articleId": "8963",
+            "headline": "Grand Prix and Fashion Drive Milan Hotel Rates Higher",
+            "languageUrls": {
+              "en": "https://internationalinvestment.biz/en/tourism/8963-grand-prix-and-fashion-drive-milan-hotel-rates-higher.html"
+            },
+            "matchCount": 5,
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
+          },
+          {
+            "name": "Инвестиции",
+            "lastPublished": "2026-11-05",
+            "status": "fresh",
+            "lastUrl": "https://internationalinvestment.biz/en/business/9048-vienna-hotel-nights-rise-as-august-revenue-falls.html",
+            "articleId": "9048",
+            "headline": "Vienna Hotel Nights Rise as August Revenue Falls",
+            "languageUrls": {
+              "en": "https://internationalinvestment.biz/en/business/9048-vienna-hotel-nights-rise-as-august-revenue-falls.html",
+              "ru": "https://internationalinvestment.biz/business/9048-vena-naraschivaet-turpotok-no-vyruchka-otelej-prosedaet.html"
+            },
+            "matchCount": 4,
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
+          },
+          {
+            "name": "Туризм",
+            "lastPublished": "2026-11-05",
+            "status": "fresh",
+            "lastUrl": "https://internationalinvestment.biz/en/business/9048-vienna-hotel-nights-rise-as-august-revenue-falls.html",
+            "articleId": "9048",
+            "headline": "Vienna Hotel Nights Rise as August Revenue Falls",
+            "languageUrls": {
+              "en": "https://internationalinvestment.biz/en/business/9048-vienna-hotel-nights-rise-as-august-revenue-falls.html",
+              "ru": "https://internationalinvestment.biz/business/9048-vena-naraschivaet-turpotok-no-vyruchka-otelej-prosedaet.html"
+            },
+            "matchCount": 3,
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
+          },
+          {
+            "name": "Отели и гостиничный бизнес",
+            "lastPublished": "2026-11-05",
+            "status": "fresh",
+            "lastUrl": "https://internationalinvestment.biz/en/business/9048-vienna-hotel-nights-rise-as-august-revenue-falls.html",
+            "articleId": "9048",
+            "headline": "Vienna Hotel Nights Rise as August Revenue Falls",
+            "languageUrls": {
+              "en": "https://internationalinvestment.biz/en/business/9048-vienna-hotel-nights-rise-as-august-revenue-falls.html",
+              "ru": "https://internationalinvestment.biz/business/9048-vena-naraschivaet-turpotok-no-vyruchka-otelej-prosedaet.html"
+            },
+            "matchCount": 2,
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
+          },
+          {
+            "name": "ВНЖ и миграция",
+            "lastPublished": "2026-11-13",
+            "status": "fresh",
+            "lastUrl": "https://internationalinvestment.biz/en/news/9109-italian-citizenship-by-descent-fraud-and-corruption.html",
+            "articleId": "9109",
+            "headline": "Italian Citizenship by Descent: Fraud and Corruption",
+            "languageUrls": {
+              "en": "https://internationalinvestment.biz/en/news/9109-italian-citizenship-by-descent-fraud-and-corruption.html"
+            },
+            "matchCount": 1,
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
+          },
+          {
+            "name": "Налоги для инвесторов",
+            "lastPublished": null,
+            "status": "unverified",
+            "auditBasis": "unverified in sampled first-page archives"
+          },
+          {
+            "name": "Регулирование и правила для иностранных покупателей",
+            "lastPublished": "2026-10-14",
+            "status": "stale",
+            "lastUrl": "https://internationalinvestment.biz/en/italy/7943-rome-housing-market-gains-momentum.html",
+            "articleId": "7943",
+            "headline": "Foreign Buyers Return to Rome's Prime Property Market",
+            "languageUrls": {
+              "en": "https://internationalinvestment.biz/en/italy/7943-rome-housing-market-gains-momentum.html"
+            },
+            "matchCount": 1,
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           }
         ]
       },
@@ -6216,7 +6169,7 @@
               "en": "https://internationalinvestment.biz/en/kazakkhstan/8741-kazakhstan-recovers-25-billion-in-state-assets.html"
             },
             "matchCount": 2,
-            "auditBasis": "language archive, country-specific"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "Туризм",
@@ -6229,7 +6182,7 @@
               "en": "https://internationalinvestment.biz/en/tourism/8948-kazakhstan-introduces-electronic-entry-authorization.html"
             },
             "matchCount": 1,
-            "auditBasis": "language archive, country-specific"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "Отели и гостиничный бизнес",
@@ -6245,13 +6198,10 @@
             "articleId": "7750",
             "headline": "Kazakhstan Residence Rules in 2026: Who Is Exempt",
             "languageUrls": {
-              "en": "https://internationalinvestment.biz/en/migration/7750-new-rules-for-kazakhstan-residency-permits-2026-language-points-system-and-financial-threshold.html",
-              "he": "https://internationalinvestment.biz/he/migration/7750-ashrat-shehiya-kazakhstan-2026-pturim-hadashim.html",
-              "ka": "https://internationalinvestment.biz/ka/migration/7750-qazaqetis-binadrobis-nebartva-2026-gamonaklisebi.html",
-              "ru": "https://internationalinvestment.biz/migration/7750-novye-pravila-poluchenija-vnzh-kazahstana-2026-jazyk-bally-i-finansovyj-porog.html"
+              "en": "https://internationalinvestment.biz/en/migration/7750-new-rules-for-kazakhstan-residency-permits-2026-language-points-system-and-financial-threshold.html"
             },
             "matchCount": 2,
-            "auditBasis": "language archive, country-specific"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "Налоги для инвесторов",
@@ -6283,7 +6233,7 @@
               "en": "https://internationalinvestment.biz/en/canada/8661-canadian-home-prices-stabilize-as-listings-fall.html"
             },
             "matchCount": 1,
-            "auditBasis": "language archive, country-specific"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "Инвестиции",
@@ -6296,7 +6246,7 @@
               "en": "https://internationalinvestment.biz/en/business/8810-canada-fast-tracks-tax-rulings-for-c1-billion-investments.html"
             },
             "matchCount": 1,
-            "auditBasis": "language archive, country-specific"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "Туризм",
@@ -6327,7 +6277,7 @@
               "en": "https://internationalinvestment.biz/en/business/8810-canada-fast-tracks-tax-rulings-for-c1-billion-investments.html"
             },
             "matchCount": 1,
-            "auditBasis": "language archive, country-specific"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "Регулирование и правила для иностранных покупателей",
@@ -6402,7 +6352,7 @@
               "en": "https://internationalinvestment.biz/en/china/8815-china-home-prices-continue-to-fall.html"
             },
             "matchCount": 5,
-            "auditBasis": "language archive, country-specific"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "Инвестиции",
@@ -6415,7 +6365,7 @@
               "en": "https://internationalinvestment.biz/en/china/8809-china-nears-a-decision-on-fresh-stimulus.html"
             },
             "matchCount": 1,
-            "auditBasis": "language archive, country-specific"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "Туризм",
@@ -6428,7 +6378,7 @@
               "en": "https://internationalinvestment.biz/en/china/8630-china-visa-free-travel-drives-inbound-tourism-recovery-in-2026.html"
             },
             "matchCount": 2,
-            "auditBasis": "language archive, country-specific"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "Отели и гостиничный бизнес",
@@ -6472,7 +6422,7 @@
               "en": "https://internationalinvestment.biz/en/investments/8984-latvia-may-abolish-its-golden-visas.html"
             },
             "matchCount": 3,
-            "auditBasis": "language archive, country-specific"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "Инвестиции",
@@ -6485,7 +6435,7 @@
               "en": "https://internationalinvestment.biz/en/investments/8984-latvia-may-abolish-its-golden-visas.html"
             },
             "matchCount": 3,
-            "auditBasis": "language archive, country-specific"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "Туризм",
@@ -6498,7 +6448,7 @@
               "en": "https://internationalinvestment.biz/en/latvia/8760-latvias-foreign-tourism-slips-in-first-half.html"
             },
             "matchCount": 1,
-            "auditBasis": "language archive, country-specific"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "Отели и гостиничный бизнес",
@@ -6511,7 +6461,7 @@
               "en": "https://internationalinvestment.biz/en/investments/8637-rigas-airbnb-supply-outpaces-revenue-growth.html"
             },
             "matchCount": 1,
-            "auditBasis": "language archive, country-specific"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "ВНЖ и миграция",
@@ -6524,7 +6474,7 @@
               "en": "https://internationalinvestment.biz/en/investments/8984-latvia-may-abolish-its-golden-visas.html"
             },
             "matchCount": 2,
-            "auditBasis": "language archive, country-specific"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "Налоги для инвесторов",
@@ -6553,13 +6503,10 @@
             "articleId": "8759",
             "headline": "Lithuanian Apartment Prices Accelerate Across Major Cities",
             "languageUrls": {
-              "en": "https://internationalinvestment.biz/en/litva/8759-lithuanian-apartment-prices-accelerate-across-major-cities.html",
-              "he": "https://internationalinvestment.biz/he/litva/8759-mehirei-dirot-belita-heitzu-et-haaliya.html",
-              "ka": "https://internationalinvestment.biz/ka/litva/8759-lietuva-binebis-fasebi-izrdeba.html",
-              "ru": "https://internationalinvestment.biz/litva/8759-ceny-na-kvartiry-v-litve-uskorili-rost.html"
+              "en": "https://internationalinvestment.biz/en/litva/8759-lithuanian-apartment-prices-accelerate-across-major-cities.html"
             },
             "matchCount": 2,
-            "auditBasis": "language archive, country-specific"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "Инвестиции",
@@ -6572,7 +6519,7 @@
               "en": "https://internationalinvestment.biz/en/analytics/8752-lithuanias-economy-accelerates-in-the-second-quarter.html"
             },
             "matchCount": 1,
-            "auditBasis": "language archive, country-specific"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "Туризм",
@@ -6603,6 +6550,63 @@
             "lastPublished": null,
             "status": "unverified",
             "auditBasis": "unverified in sampled first-page archives"
+          }
+        ]
+      },
+      {
+        "country": "Мальдивы",
+        "lastUpdate": "2026-11-11",
+        "topicCount": 1,
+        "topics": [
+          {
+            "name": "Недвижимость",
+            "lastPublished": null,
+            "status": "unverified",
+            "auditBasis": "no verified country-specific article in audited archive dataset"
+          },
+          {
+            "name": "Инвестиции",
+            "lastPublished": null,
+            "status": "unverified",
+            "auditBasis": "no verified country-specific article in audited archive dataset"
+          },
+          {
+            "name": "Туризм",
+            "lastPublished": "2026-11-11",
+            "status": "fresh",
+            "lastUrl": "https://internationalinvestment.biz/en/tourism/9102-maldives-introduces-email-verification-for-tourists.html",
+            "articleId": "9102",
+            "headline": "Maldives Introduces Email Verification for Tourists",
+            "languageUrls": {
+              "en": "https://internationalinvestment.biz/en/tourism/9102-maldives-introduces-email-verification-for-tourists.html",
+              "ru": "https://internationalinvestment.biz/tourism/9102-maldivy-proverjajut-pochtu-turistov.html"
+            },
+            "matchCount": 1,
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
+          },
+          {
+            "name": "Отели и гостиничный бизнес",
+            "lastPublished": null,
+            "status": "unverified",
+            "auditBasis": "no verified country-specific article in audited archive dataset"
+          },
+          {
+            "name": "ВНЖ и миграция",
+            "lastPublished": null,
+            "status": "unverified",
+            "auditBasis": "no verified country-specific article in audited archive dataset"
+          },
+          {
+            "name": "Налоги для инвесторов",
+            "lastPublished": null,
+            "status": "unverified",
+            "auditBasis": "no verified country-specific article in audited archive dataset"
+          },
+          {
+            "name": "Регулирование и правила для иностранных покупателей",
+            "lastPublished": null,
+            "status": "unverified",
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           }
         ]
       },
@@ -6656,75 +6660,6 @@
         ]
       },
       {
-        "country": "Норвегия",
-        "lastUpdate": "2026-11-02",
-        "topicCount": 2,
-        "topics": [
-          {
-            "name": "Недвижимость",
-            "lastPublished": "2026-11-02",
-            "status": "fresh",
-            "lastUrl": "https://internationalinvestment.biz/en/business/9024-norways-sovereign-fund-commits-15bn-to-european-warehouses.html",
-            "articleId": "9024",
-            "headline": "Norway's Sovereign Fund Commits €1.5bn to European Warehouses",
-            "languageUrls": {
-              "en": "https://internationalinvestment.biz/en/business/9024-norways-sovereign-fund-commits-15bn-to-european-warehouses.html",
-              "he": "https://internationalinvestment.biz/he/business/9024-keren-haneft-hanorvegit-tashkia-bemaasim-beeropa.html",
-              "ka": "https://internationalinvestment.biz/ka/business/9024-norvegiis-navtobis-fondi-evropis-satskobebshi-investitsiebs-dabandebs.html",
-              "ru": "https://internationalinvestment.biz/business/9024-norvezhskij-neftjanoj-fond-vlozhit-15-mlrd-v-sklady-evropy.html"
-            },
-            "matchCount": 1,
-            "auditBasis": "language archive, country-specific"
-          },
-          {
-            "name": "Инвестиции",
-            "lastPublished": "2026-11-02",
-            "status": "fresh",
-            "lastUrl": "https://internationalinvestment.biz/en/business/9024-norways-sovereign-fund-commits-15bn-to-european-warehouses.html",
-            "articleId": "9024",
-            "headline": "Norway's Sovereign Fund Commits €1.5bn to European Warehouses",
-            "languageUrls": {
-              "en": "https://internationalinvestment.biz/en/business/9024-norways-sovereign-fund-commits-15bn-to-european-warehouses.html",
-              "he": "https://internationalinvestment.biz/he/business/9024-keren-haneft-hanorvegit-tashkia-bemaasim-beeropa.html",
-              "ka": "https://internationalinvestment.biz/ka/business/9024-norvegiis-navtobis-fondi-evropis-satskobebshi-investitsiebs-dabandebs.html",
-              "ru": "https://internationalinvestment.biz/business/9024-norvezhskij-neftjanoj-fond-vlozhit-15-mlrd-v-sklady-evropy.html"
-            },
-            "matchCount": 1,
-            "auditBasis": "language archive, country-specific"
-          },
-          {
-            "name": "Туризм",
-            "lastPublished": null,
-            "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
-          },
-          {
-            "name": "Отели и гостиничный бизнес",
-            "lastPublished": null,
-            "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
-          },
-          {
-            "name": "ВНЖ и миграция",
-            "lastPublished": null,
-            "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
-          },
-          {
-            "name": "Налоги для инвесторов",
-            "lastPublished": null,
-            "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
-          },
-          {
-            "name": "Регулирование и правила для иностранных покупателей",
-            "lastPublished": null,
-            "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
-          }
-        ]
-      },
-      {
         "country": "Нидерланды",
         "lastUpdate": "2026-10-30",
         "topicCount": 5,
@@ -6738,12 +6673,10 @@
             "headline": "Dutch Hotels Miss the Wider Property Investment Rebound",
             "languageUrls": {
               "en": "https://internationalinvestment.biz/en/business/9002-dutch-hotels-miss-the-wider-property-investment-rebound.html",
-              "he": "https://internationalinvestment.biz/he/business/9002-melonot-be-holand-mefagrim-acharei-shuk-hanadlan.html",
-              "ka": "https://internationalinvestment.biz/ka/business/9002-niderlandebis-sastumroebi-udzravi-konebis-bazars-chamorcheba.html",
               "ru": "https://internationalinvestment.biz/business/9002-oteli-niderlandov-otstajut-ot-rynka-nedvizhimosti.html"
             },
             "matchCount": 2,
-            "auditBasis": "language archive, country-specific"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "Инвестиции",
@@ -6754,12 +6687,10 @@
             "headline": "Dutch Hotels Miss the Wider Property Investment Rebound",
             "languageUrls": {
               "en": "https://internationalinvestment.biz/en/business/9002-dutch-hotels-miss-the-wider-property-investment-rebound.html",
-              "he": "https://internationalinvestment.biz/he/business/9002-melonot-be-holand-mefagrim-acharei-shuk-hanadlan.html",
-              "ka": "https://internationalinvestment.biz/ka/business/9002-niderlandebis-sastumroebi-udzravi-konebis-bazars-chamorcheba.html",
               "ru": "https://internationalinvestment.biz/business/9002-oteli-niderlandov-otstajut-ot-rynka-nedvizhimosti.html"
             },
             "matchCount": 3,
-            "auditBasis": "language archive, country-specific"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "Туризм",
@@ -6770,12 +6701,10 @@
             "headline": "Dutch VAT Rates Updated",
             "languageUrls": {
               "en": "https://internationalinvestment.biz/en/business/6728-dutch-vat-rates-updated.html",
-              "he": "https://internationalinvestment.biz/he/business/6728-maam-be-holand-ma-mishtane.html",
-              "ka": "https://internationalinvestment.biz/ka/business/6728-dghege-niderlandebshi-ra-icvleba.html",
               "ru": "https://internationalinvestment.biz/business/6728-nds-v-niderlandah-chto-menjaetsja.html"
             },
             "matchCount": 2,
-            "auditBasis": "language archive, country-specific"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "Отели и гостиничный бизнес",
@@ -6786,12 +6715,10 @@
             "headline": "Dutch Hotels Miss the Wider Property Investment Rebound",
             "languageUrls": {
               "en": "https://internationalinvestment.biz/en/business/9002-dutch-hotels-miss-the-wider-property-investment-rebound.html",
-              "he": "https://internationalinvestment.biz/he/business/9002-melonot-be-holand-mefagrim-acharei-shuk-hanadlan.html",
-              "ka": "https://internationalinvestment.biz/ka/business/9002-niderlandebis-sastumroebi-udzravi-konebis-bazars-chamorcheba.html",
               "ru": "https://internationalinvestment.biz/business/9002-oteli-niderlandov-otstajut-ot-rynka-nedvizhimosti.html"
             },
             "matchCount": 1,
-            "auditBasis": "language archive, country-specific"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "ВНЖ и миграция",
@@ -6807,13 +6734,73 @@
             "articleId": "6728",
             "headline": "Dutch VAT Rates Updated",
             "languageUrls": {
-              "en": "https://internationalinvestment.biz/en/business/6728-dutch-vat-rates-updated.html",
-              "he": "https://internationalinvestment.biz/he/business/6728-maam-be-holand-ma-mishtane.html",
-              "ka": "https://internationalinvestment.biz/ka/business/6728-dghege-niderlandebshi-ra-icvleba.html",
-              "ru": "https://internationalinvestment.biz/business/6728-nds-v-niderlandah-chto-menjaetsja.html"
+              "en": "https://internationalinvestment.biz/en/business/6728-dutch-vat-rates-updated.html"
             },
             "matchCount": 1,
-            "auditBasis": "language archive, country-specific"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
+          },
+          {
+            "name": "Регулирование и правила для иностранных покупателей",
+            "lastPublished": null,
+            "status": "unverified",
+            "auditBasis": "unverified in sampled first-page archives"
+          }
+        ]
+      },
+      {
+        "country": "Норвегия",
+        "lastUpdate": "2026-11-02",
+        "topicCount": 2,
+        "topics": [
+          {
+            "name": "Недвижимость",
+            "lastPublished": "2026-11-02",
+            "status": "fresh",
+            "lastUrl": "https://internationalinvestment.biz/en/business/9024-norways-sovereign-fund-commits-15bn-to-european-warehouses.html",
+            "articleId": "9024",
+            "headline": "Norway's Sovereign Fund Commits €1.5bn to European Warehouses",
+            "languageUrls": {
+              "en": "https://internationalinvestment.biz/en/business/9024-norways-sovereign-fund-commits-15bn-to-european-warehouses.html"
+            },
+            "matchCount": 1,
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
+          },
+          {
+            "name": "Инвестиции",
+            "lastPublished": "2026-11-02",
+            "status": "fresh",
+            "lastUrl": "https://internationalinvestment.biz/en/business/9024-norways-sovereign-fund-commits-15bn-to-european-warehouses.html",
+            "articleId": "9024",
+            "headline": "Norway's Sovereign Fund Commits €1.5bn to European Warehouses",
+            "languageUrls": {
+              "en": "https://internationalinvestment.biz/en/business/9024-norways-sovereign-fund-commits-15bn-to-european-warehouses.html"
+            },
+            "matchCount": 1,
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
+          },
+          {
+            "name": "Туризм",
+            "lastPublished": null,
+            "status": "unverified",
+            "auditBasis": "unverified in sampled first-page archives"
+          },
+          {
+            "name": "Отели и гостиничный бизнес",
+            "lastPublished": null,
+            "status": "unverified",
+            "auditBasis": "unverified in sampled first-page archives"
+          },
+          {
+            "name": "ВНЖ и миграция",
+            "lastPublished": null,
+            "status": "unverified",
+            "auditBasis": "unverified in sampled first-page archives"
+          },
+          {
+            "name": "Налоги для инвесторов",
+            "lastPublished": null,
+            "status": "unverified",
+            "auditBasis": "unverified in sampled first-page archives"
           },
           {
             "name": "Регулирование и правила для иностранных покупателей",
@@ -6837,12 +6824,11 @@
             "headline": "Dubai Home Prices Fall for the First Time in Several Years",
             "languageUrls": {
               "en": "https://internationalinvestment.biz/en/real-estate/9046-dubai-home-prices-fall-for-the-first-time-in-several-years.html",
-              "he": "https://internationalinvestment.biz/he/real-estate/9046-mehirei-hadiyur-bedubai-yardu-lerishona.html",
               "ka": "https://internationalinvestment.biz/ka/real-estate/9046-dubayshi-satskhovreblis-pasebi-pirvelad-shemtsirda.html",
               "ru": "https://internationalinvestment.biz/real-estate/9046-ceny-na-zhile-v-dubae-snizilis-vpervye-za-neskolko-let.html"
             },
             "matchCount": 9,
-            "auditBasis": "language archive, country-specific"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "Инвестиции",
@@ -6853,12 +6839,11 @@
             "headline": "Dubai Home Prices Fall for the First Time in Several Years",
             "languageUrls": {
               "en": "https://internationalinvestment.biz/en/real-estate/9046-dubai-home-prices-fall-for-the-first-time-in-several-years.html",
-              "he": "https://internationalinvestment.biz/he/real-estate/9046-mehirei-hadiyur-bedubai-yardu-lerishona.html",
               "ka": "https://internationalinvestment.biz/ka/real-estate/9046-dubayshi-satskhovreblis-pasebi-pirvelad-shemtsirda.html",
               "ru": "https://internationalinvestment.biz/real-estate/9046-ceny-na-zhile-v-dubae-snizilis-vpervye-za-neskolko-let.html"
             },
             "matchCount": 7,
-            "auditBasis": "language archive, country-specific"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "Туризм",
@@ -6869,12 +6854,11 @@
             "headline": "Ras Al Khaimah Hotels Reposition Ahead of Wynn Opening",
             "languageUrls": {
               "en": "https://internationalinvestment.biz/en/business/9020-ras-al-khaimah-hotels-reposition-ahead-of-wynn-opening.html",
-              "he": "https://internationalinvestment.biz/he/business/9020-malonot-ras-al-khaimah-meshannim-model-wynn.html",
               "ka": "https://internationalinvestment.biz/ka/business/9020-ras-al-khaimas-sastumroebi-cvlian-biznesmodels.html",
               "ru": "https://internationalinvestment.biz/business/9020-oteli-ras-jel-hajmy-menjajut-model-biznesa-pered-otkrytiem-wynn.html"
             },
             "matchCount": 5,
-            "auditBasis": "language archive, country-specific"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "Отели и гостиничный бизнес",
@@ -6885,12 +6869,11 @@
             "headline": "Ras Al Khaimah Hotels Reposition Ahead of Wynn Opening",
             "languageUrls": {
               "en": "https://internationalinvestment.biz/en/business/9020-ras-al-khaimah-hotels-reposition-ahead-of-wynn-opening.html",
-              "he": "https://internationalinvestment.biz/he/business/9020-malonot-ras-al-khaimah-meshannim-model-wynn.html",
               "ka": "https://internationalinvestment.biz/ka/business/9020-ras-al-khaimas-sastumroebi-cvlian-biznesmodels.html",
               "ru": "https://internationalinvestment.biz/business/9020-oteli-ras-jel-hajmy-menjajut-model-biznesa-pered-otkrytiem-wynn.html"
             },
             "matchCount": 2,
-            "auditBasis": "language archive, country-specific"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "ВНЖ и миграция",
@@ -6928,7 +6911,7 @@
               "en": "https://internationalinvestment.biz/en/paraguay/8771-asuncion-property-market-accelerates-as-construction-booms.html"
             },
             "matchCount": 1,
-            "auditBasis": "language archive, country-specific"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "Инвестиции",
@@ -6941,7 +6924,7 @@
               "en": "https://internationalinvestment.biz/en/paraguay/8771-asuncion-property-market-accelerates-as-construction-booms.html"
             },
             "matchCount": 1,
-            "auditBasis": "language archive, country-specific"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "Туризм",
@@ -6991,7 +6974,7 @@
               "en": "https://internationalinvestment.biz/en/poland/8784-poland-poised-to-hold-rates-at-375.html"
             },
             "matchCount": 2,
-            "auditBasis": "language archive, country-specific"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "Инвестиции",
@@ -7004,7 +6987,7 @@
               "en": "https://internationalinvestment.biz/en/poland/8784-poland-poised-to-hold-rates-at-375.html"
             },
             "matchCount": 1,
-            "auditBasis": "language archive, country-specific"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "Туризм",
@@ -7054,7 +7037,7 @@
               "en": "https://internationalinvestment.biz/en/real-estate/9087-portugal-leads-eu-rise-in-house-prices-relative-to-income.html"
             },
             "matchCount": 3,
-            "auditBasis": "incremental current-site verification, 9–14 Nov 2026"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "Инвестиции",
@@ -7067,7 +7050,7 @@
               "en": "https://internationalinvestment.biz/en/real-estate/9087-portugal-leads-eu-rise-in-house-prices-relative-to-income.html"
             },
             "matchCount": 2,
-            "auditBasis": "incremental current-site verification, 9–14 Nov 2026"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "Туризм",
@@ -7080,7 +7063,7 @@
               "en": "https://internationalinvestment.biz/en/tourism/8966-portugal-picks-lufthansa-to-buy-449-of-tap.html"
             },
             "matchCount": 1,
-            "auditBasis": "language archive, country-specific"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "Отели и гостиничный бизнес",
@@ -7099,7 +7082,7 @@
               "en": "https://internationalinvestment.biz/en/portugal/8830-portugal-approves-pension-bonus-and-income-tax-cuts.html"
             },
             "matchCount": 1,
-            "auditBasis": "language archive, country-specific"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "Налоги для инвесторов",
@@ -7112,7 +7095,7 @@
               "en": "https://internationalinvestment.biz/en/portugal/8830-portugal-approves-pension-bonus-and-income-tax-cuts.html"
             },
             "matchCount": 1,
-            "auditBasis": "language archive, country-specific"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "Регулирование и правила для иностранных покупателей",
@@ -7124,7 +7107,7 @@
       },
       {
         "country": "Россия",
-        "lastUpdate": "2026-11-07",
+        "lastUpdate": "2026-11-13",
         "topicCount": 3,
         "topics": [
           {
@@ -7136,28 +7119,24 @@
             "headline": "Russia May End Its IT Mortgage Program Early",
             "languageUrls": {
               "en": "https://internationalinvestment.biz/en/real-estate/9065-russia-may-end-its-it-mortgage-program-early.html",
-              "he": "https://internationalinvestment.biz/he/real-estate/9065-mashkantat-it-be-rusiya-alula-lehisaher-mukdam.html",
-              "ka": "https://internationalinvestment.biz/ka/real-estate/9065-rusetshi-it-ipoteka-shesadzloa-vadaze-adre-daikhuros.html",
               "ru": "https://internationalinvestment.biz/real-estate/9065-it-ipoteku-v-rossii-mogut-zakryt-dosrochno.html"
             },
             "matchCount": 4,
-            "auditBasis": "language archive, country-specific"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "Инвестиции",
-            "lastPublished": "2026-11-07",
+            "lastPublished": "2026-11-13",
             "status": "fresh",
-            "lastUrl": "https://internationalinvestment.biz/en/real-estate/9065-russia-may-end-its-it-mortgage-program-early.html",
-            "articleId": "9065",
-            "headline": "Russia May End Its IT Mortgage Program Early",
+            "lastUrl": "https://internationalinvestment.biz/en/news/9112-russia-proposes-30000-ruble-limit-on-bank-transfers.html",
+            "articleId": "9112",
+            "headline": "Russia Proposes 30,000-Ruble Limit on Bank Transfers",
             "languageUrls": {
-              "en": "https://internationalinvestment.biz/en/real-estate/9065-russia-may-end-its-it-mortgage-program-early.html",
-              "he": "https://internationalinvestment.biz/he/real-estate/9065-mashkantat-it-be-rusiya-alula-lehisaher-mukdam.html",
-              "ka": "https://internationalinvestment.biz/ka/real-estate/9065-rusetshi-it-ipoteka-shesadzloa-vadaze-adre-daikhuros.html",
-              "ru": "https://internationalinvestment.biz/real-estate/9065-it-ipoteku-v-rossii-mogut-zakryt-dosrochno.html"
+              "en": "https://internationalinvestment.biz/en/news/9112-russia-proposes-30000-ruble-limit-on-bank-transfers.html",
+              "ru": "https://internationalinvestment.biz/news/9112-v-rossii-predlozhili-limit-na-perevody-v-30-000-rublej.html"
             },
-            "matchCount": 5,
-            "auditBasis": "language archive, country-specific"
+            "matchCount": 6,
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "Туризм",
@@ -7170,7 +7149,7 @@
               "en": "https://internationalinvestment.biz/en/tourism/8893-russia-targets-107-million-tourist-trips-as-bookings-decline.html"
             },
             "matchCount": 2,
-            "auditBasis": "language archive, country-specific"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "Отели и гостиничный бизнес",
@@ -7214,7 +7193,7 @@
               "en": "https://internationalinvestment.biz/en/real-estate/8928-romania-property-market-splits-as-foreign-capital-grows.html"
             },
             "matchCount": 2,
-            "auditBasis": "language archive, country-specific"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "Инвестиции",
@@ -7227,7 +7206,7 @@
               "en": "https://internationalinvestment.biz/en/real-estate/8928-romania-property-market-splits-as-foreign-capital-grows.html"
             },
             "matchCount": 1,
-            "auditBasis": "language archive, country-specific"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "Туризм",
@@ -7274,13 +7253,10 @@
             "articleId": "9098",
             "headline": "Serbia Plans Unified Real Estate Listings Database",
             "languageUrls": {
-              "en": "https://internationalinvestment.biz/en/real-estate/9098-serbia-plans-unified-real-estate-listings-database.html",
-              "he": "https://internationalinvestment.biz/he/investments/9029-krisat-alta-banka-be-serbiya-hesbonot-kesafim.html",
-              "ka": "https://internationalinvestment.biz/ka/investments/9029-alta-bankas-kraxi-serbetshi-ra-bedi-etseva-depozitebs.html",
-              "ru": "https://internationalinvestment.biz/investments/9029-krah-alta-banka-v-serbii-chto-budet-s-dengami-vkladchikov-iz-rossii.html"
+              "en": "https://internationalinvestment.biz/en/real-estate/9098-serbia-plans-unified-real-estate-listings-database.html"
             },
             "matchCount": 5,
-            "auditBasis": "incremental current-site verification, 9–14 Nov 2026"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "Инвестиции",
@@ -7290,13 +7266,10 @@
             "articleId": "9098",
             "headline": "Serbia Plans Unified Real Estate Listings Database",
             "languageUrls": {
-              "en": "https://internationalinvestment.biz/en/real-estate/9098-serbia-plans-unified-real-estate-listings-database.html",
-              "he": "https://internationalinvestment.biz/he/investments/9029-krisat-alta-banka-be-serbiya-hesbonot-kesafim.html",
-              "ka": "https://internationalinvestment.biz/ka/investments/9029-alta-bankas-kraxi-serbetshi-ra-bedi-etseva-depozitebs.html",
-              "ru": "https://internationalinvestment.biz/investments/9029-krah-alta-banka-v-serbii-chto-budet-s-dengami-vkladchikov-iz-rossii.html"
+              "en": "https://internationalinvestment.biz/en/real-estate/9098-serbia-plans-unified-real-estate-listings-database.html"
             },
             "matchCount": 3,
-            "auditBasis": "incremental current-site verification, 9–14 Nov 2026"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "Туризм",
@@ -7324,16 +7297,9 @@
           },
           {
             "name": "Регулирование и правила для иностранных покупателей",
-            "lastPublished": "2026-11-11",
-            "status": "fresh",
-            "auditBasis": "incremental current-site verification, 9–14 Nov 2026",
-            "lastUrl": "https://internationalinvestment.biz/en/real-estate/9098-serbia-plans-unified-real-estate-listings-database.html",
-            "articleId": "9098",
-            "headline": "Serbia Plans Unified Real Estate Listings Database",
-            "languageUrls": {
-              "en": "https://internationalinvestment.biz/en/real-estate/9098-serbia-plans-unified-real-estate-listings-database.html"
-            },
-            "matchCount": 1
+            "lastPublished": null,
+            "status": "unverified",
+            "auditBasis": "no verified foreign-buyer property-rule article in audited archive dataset"
           }
         ]
       },
@@ -7402,7 +7368,7 @@
               "en": "https://internationalinvestment.biz/en/slovakia/8804-slovakia-reforms-building-rules-as-housing-starts-slide.html"
             },
             "matchCount": 2,
-            "auditBasis": "language archive, country-specific"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "Инвестиции",
@@ -7415,7 +7381,7 @@
               "en": "https://internationalinvestment.biz/en/slovakia/8801-four-in-ten-companies-would-not-choose-slovakia.html"
             },
             "matchCount": 1,
-            "auditBasis": "language archive, country-specific"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "Туризм",
@@ -7465,7 +7431,7 @@
               "en": "https://internationalinvestment.biz/en/slovenia/8785-ljubljanas-million-euro-deals-are-increasingly-about-land.html"
             },
             "matchCount": 1,
-            "auditBasis": "language archive, country-specific"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "Инвестиции",
@@ -7484,7 +7450,7 @@
               "en": "https://internationalinvestment.biz/en/slovenia/8787-foreign-tourist-arrivals-to-slovenia-rise-74.html"
             },
             "matchCount": 1,
-            "auditBasis": "language archive, country-specific"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "Отели и гостиничный бизнес",
@@ -7514,7 +7480,7 @@
       },
       {
         "country": "США",
-        "lastUpdate": "2026-11-02",
+        "lastUpdate": "2026-11-14",
         "topicCount": 4,
         "topics": [
           {
@@ -7528,7 +7494,7 @@
               "en": "https://internationalinvestment.biz/en/usa/8861-us-mortgage-rates-climb-above-7-again.html"
             },
             "matchCount": 9,
-            "auditBasis": "language archive, country-specific"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "Инвестиции",
@@ -7541,20 +7507,21 @@
               "en": "https://internationalinvestment.biz/en/investments/8904-eb-5-in-2026-how-much-does-a-us-investor-visa-cost.html"
             },
             "matchCount": 4,
-            "auditBasis": "language archive, country-specific"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "Туризм",
-            "lastPublished": "2026-09-09",
-            "status": "urgent",
-            "lastUrl": "https://internationalinvestment.biz/en/tourism/8783-us-introduces-visa-bonds-of-up-to-20000-for-tourists-from-50-countries.html",
-            "articleId": "8783",
-            "headline": "US Introduces Visa Bonds of Up to $20,000 for Tourists From 50 Countries",
+            "lastPublished": "2026-11-14",
+            "status": "fresh",
+            "lastUrl": "https://internationalinvestment.biz/en/tourism/9123-tanker-hits-cruise-ship-in-the-us.html",
+            "articleId": "9123",
+            "headline": "Tanker Hits Cruise Ship in the US",
             "languageUrls": {
-              "en": "https://internationalinvestment.biz/en/tourism/8783-us-introduces-visa-bonds-of-up-to-20000-for-tourists-from-50-countries.html"
+              "en": "https://internationalinvestment.biz/en/tourism/9123-tanker-hits-cruise-ship-in-the-us.html",
+              "ru": "https://internationalinvestment.biz/tourism/9123-tanker-protaranil-kruiznoe-sudno-v-ssha.html"
             },
-            "matchCount": 4,
-            "auditBasis": "language archive, country-specific"
+            "matchCount": 6,
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "Отели и гостиничный бизнес",
@@ -7570,13 +7537,10 @@
             "articleId": "9026",
             "headline": "US Again Postpones DV-2027 Green Card Lottery",
             "languageUrls": {
-              "en": "https://internationalinvestment.biz/en/news/9026-us-again-postpones-dv-2027-green-card-lottery.html",
-              "he": "https://internationalinvestment.biz/he/news/9026-arhav-shuv-dachata-hagralat-green-card-dv-2027.html",
-              "ka": "https://internationalinvestment.biz/ka/news/9026-ashsh-m-kvlav-gadado-grin-kartis-lotaria-dv-2027.html",
-              "ru": "https://internationalinvestment.biz/news/9026-ssha-vnov-otlozhili-lotereju-grin-kart-dv-2027.html"
+              "en": "https://internationalinvestment.biz/en/news/9026-us-again-postpones-dv-2027-green-card-lottery.html"
             },
             "matchCount": 7,
-            "auditBasis": "language archive, country-specific"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "Налоги для инвесторов",
@@ -7605,13 +7569,10 @@
             "articleId": "9006",
             "headline": "Villa Owners in Thailand Could Lose Their Land",
             "languageUrls": {
-              "en": "https://internationalinvestment.biz/en/real-estate/9006-villa-owners-in-thailand-could-lose-their-land.html",
-              "he": "https://internationalinvestment.biz/he/real-estate/9006-baalei-vilot-be-thailand-alulim-leabed-karka.html",
-              "ka": "https://internationalinvestment.biz/ka/real-estate/9006-tailandshi-vilebis-mflobelebma-sheidzleba-mitsa-dakargon.html",
-              "ru": "https://internationalinvestment.biz/real-estate/9006-vladelcy-vill-v-tailande-mogut-lishitsja-zemli.html"
+              "en": "https://internationalinvestment.biz/en/real-estate/9006-villa-owners-in-thailand-could-lose-their-land.html"
             },
             "matchCount": 4,
-            "auditBasis": "language archive, country-specific"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "Инвестиции",
@@ -7621,13 +7582,10 @@
             "articleId": "9006",
             "headline": "Villa Owners in Thailand Could Lose Their Land",
             "languageUrls": {
-              "en": "https://internationalinvestment.biz/en/real-estate/9006-villa-owners-in-thailand-could-lose-their-land.html",
-              "he": "https://internationalinvestment.biz/he/real-estate/9006-baalei-vilot-be-thailand-alulim-leabed-karka.html",
-              "ka": "https://internationalinvestment.biz/ka/real-estate/9006-tailandshi-vilebis-mflobelebma-sheidzleba-mitsa-dakargon.html",
-              "ru": "https://internationalinvestment.biz/real-estate/9006-vladelcy-vill-v-tailande-mogut-lishitsja-zemli.html"
+              "en": "https://internationalinvestment.biz/en/real-estate/9006-villa-owners-in-thailand-could-lose-their-land.html"
             },
             "matchCount": 4,
-            "auditBasis": "language archive, country-specific"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "Туризм",
@@ -7640,7 +7598,7 @@
               "en": "https://internationalinvestment.biz/en/thailand/8816-thailand-plans-new-domestic-travel-subsidies.html"
             },
             "matchCount": 3,
-            "auditBasis": "language archive, country-specific"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "Отели и гостиничный бизнес",
@@ -7659,7 +7617,7 @@
               "en": "https://internationalinvestment.biz/en/business/8908-thailands-ltr-visas-generated-128-billion.html"
             },
             "matchCount": 2,
-            "auditBasis": "language archive, country-specific"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "Налоги для инвесторов",
@@ -7678,7 +7636,7 @@
               "en": "https://internationalinvestment.biz/en/real-estate/8917-thailand-property-2026-foreign-buyers-shift-to-more-expensive-condos.html"
             },
             "matchCount": 1,
-            "auditBasis": "language archive, country-specific"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           }
         ]
       },
@@ -7698,7 +7656,7 @@
               "en": "https://internationalinvestment.biz/en/real-estate/9104-turkey-lowers-cap-on-residential-rent-increases.html"
             },
             "matchCount": 10,
-            "auditBasis": "incremental current-site verification, 9–14 Nov 2026"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "Инвестиции",
@@ -7711,7 +7669,7 @@
               "en": "https://internationalinvestment.biz/en/real-estate/8975-turkey-changes-property-valuation-rules-for-citizenship.html"
             },
             "matchCount": 9,
-            "auditBasis": "language archive, country-specific"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "Туризм",
@@ -7724,7 +7682,7 @@
               "en": "https://internationalinvestment.biz/en/turkey/8775-antalya-loses-665000-tourists-in-eight-months.html"
             },
             "matchCount": 2,
-            "auditBasis": "language archive, country-specific"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "Отели и гостиничный бизнес",
@@ -7743,7 +7701,7 @@
               "en": "https://internationalinvestment.biz/en/real-estate/8945-turkey-revokes-investors-citizenship.html"
             },
             "matchCount": 3,
-            "auditBasis": "language archive, country-specific"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "Налоги для инвесторов",
@@ -7782,7 +7740,7 @@
               "en": "https://internationalinvestment.biz/en/uzbekistan/8614-uzbekistan-property-transactions-rise-25-in-first-half.html"
             },
             "matchCount": 1,
-            "auditBasis": "language archive, country-specific"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "Инвестиции",
@@ -7838,7 +7796,7 @@
               "en": "https://internationalinvestment.biz/en/real-estate/8724-how-ukraines-new-build-housing-market-has-changed-over-four-years.html"
             },
             "matchCount": 1,
-            "auditBasis": "language archive, country-specific"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "Инвестиции",
@@ -7851,7 +7809,7 @@
               "en": "https://internationalinvestment.biz/en/real-estate/8724-how-ukraines-new-build-housing-market-has-changed-over-four-years.html"
             },
             "matchCount": 1,
-            "auditBasis": "language archive, country-specific"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "Туризм",
@@ -7901,7 +7859,7 @@
               "en": "https://internationalinvestment.biz/en/philippines/8714-manila-condo-inventory-hits-record-as-values-weaken.html"
             },
             "matchCount": 1,
-            "auditBasis": "language archive, country-specific"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "Инвестиции",
@@ -7914,7 +7872,7 @@
               "en": "https://internationalinvestment.biz/en/philippines/8728-philippines-inflation-trap-forces-rates-higher.html"
             },
             "matchCount": 1,
-            "auditBasis": "language archive, country-specific"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "Туризм",
@@ -7964,7 +7922,7 @@
               "en": "https://internationalinvestment.biz/en/real-estate/8937-finlands-housing-market-home-prices-fall-faster-than-anywhere-else-in-the-eu.html"
             },
             "matchCount": 4,
-            "auditBasis": "language archive, country-specific"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "Инвестиции",
@@ -7977,7 +7935,7 @@
               "en": "https://internationalinvestment.biz/en/real-estate/8937-finlands-housing-market-home-prices-fall-faster-than-anywhere-else-in-the-eu.html"
             },
             "matchCount": 2,
-            "auditBasis": "language archive, country-specific"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "Туризм",
@@ -7990,7 +7948,7 @@
               "en": "https://internationalinvestment.biz/en/finland/8831-lapland-holiday-home-demand-has-quadrupled.html"
             },
             "matchCount": 1,
-            "auditBasis": "language archive, country-specific"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "Отели и гостиничный бизнес",
@@ -8003,7 +7961,7 @@
               "en": "https://internationalinvestment.biz/en/finland/8831-lapland-holiday-home-demand-has-quadrupled.html"
             },
             "matchCount": 1,
-            "auditBasis": "language archive, country-specific"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "ВНЖ и миграция",
@@ -8016,7 +7974,7 @@
               "en": "https://internationalinvestment.biz/en/migration/8638-finland-to-introduce-citizenship-examination.html"
             },
             "matchCount": 1,
-            "auditBasis": "language archive, country-specific"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "Налоги для инвесторов",
@@ -8047,11 +8005,10 @@
             "languageUrls": {
               "en": "https://internationalinvestment.biz/en/real-estate/9051-frances-property-market-slows-ahead-of-the-2027-presidential-election.html",
               "he": "https://internationalinvestment.biz/he/real-estate/9051-shuk-handlan-batzarfat-meat-likrat-habchirot.html",
-              "ka": "https://internationalinvestment.biz/ka/real-estate/9051-safrangetis-udzravi-qonebis-bazari-archevnebis-tsin-neldeba.html",
               "ru": "https://internationalinvestment.biz/real-estate/9051-rynok-nedvizhimosti-francii-zamedljaetsja-pered-vyborami.html"
             },
             "matchCount": 2,
-            "auditBasis": "language archive, country-specific"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "Инвестиции",
@@ -8063,11 +8020,10 @@
             "languageUrls": {
               "en": "https://internationalinvestment.biz/en/real-estate/9051-frances-property-market-slows-ahead-of-the-2027-presidential-election.html",
               "he": "https://internationalinvestment.biz/he/real-estate/9051-shuk-handlan-batzarfat-meat-likrat-habchirot.html",
-              "ka": "https://internationalinvestment.biz/ka/real-estate/9051-safrangetis-udzravi-qonebis-bazari-archevnebis-tsin-neldeba.html",
               "ru": "https://internationalinvestment.biz/real-estate/9051-rynok-nedvizhimosti-francii-zamedljaetsja-pered-vyborami.html"
             },
             "matchCount": 3,
-            "auditBasis": "language archive, country-specific"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "Туризм",
@@ -8117,7 +8073,7 @@
               "en": "https://internationalinvestment.biz/en/croatia/8822-croatia-home-prices-rise-as-sales-collapse.html"
             },
             "matchCount": 2,
-            "auditBasis": "language archive, country-specific"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "Инвестиции",
@@ -8130,7 +8086,7 @@
               "en": "https://internationalinvestment.biz/en/investments/8843-croatia-has-buyers-but-too-few-properties-for-sale.html"
             },
             "matchCount": 3,
-            "auditBasis": "language archive, country-specific"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "Туризм",
@@ -8143,7 +8099,7 @@
               "en": "https://internationalinvestment.biz/en/croatia/8850-croatia-ends-summer-with-a-record-august.html"
             },
             "matchCount": 2,
-            "auditBasis": "language archive, country-specific"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "Отели и гостиничный бизнес",
@@ -8187,7 +8143,7 @@
               "en": "https://internationalinvestment.biz/en/real-estate/8930-foreign-owners-sell-homes-in-budva.html"
             },
             "matchCount": 4,
-            "auditBasis": "language archive, country-specific"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "Инвестиции",
@@ -8200,7 +8156,7 @@
               "en": "https://internationalinvestment.biz/en/real-estate/8930-foreign-owners-sell-homes-in-budva.html"
             },
             "matchCount": 4,
-            "auditBasis": "language archive, country-specific"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "Туризм",
@@ -8213,7 +8169,7 @@
               "en": "https://internationalinvestment.biz/en/montenegro/8797-montenegro-tourism-grows-nearly-8.html"
             },
             "matchCount": 2,
-            "auditBasis": "language archive, country-specific"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "Отели и гостиничный бизнес",
@@ -8226,7 +8182,7 @@
               "en": "https://internationalinvestment.biz/en/montenegro/8794-montenegro-moves-to-rewrite-hotel-investment-rules.html"
             },
             "matchCount": 1,
-            "auditBasis": "language archive, country-specific"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "ВНЖ и миграция",
@@ -8264,7 +8220,7 @@
               "en": "https://internationalinvestment.biz/en/czech/8838-czech-mortgage-rates-rise-for-sixth-straight-month.html"
             },
             "matchCount": 1,
-            "auditBasis": "language archive, country-specific"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "Инвестиции",
@@ -8277,7 +8233,7 @@
               "en": "https://internationalinvestment.biz/en/czech/8847-czechia-could-face-a-500000-worker-gap.html"
             },
             "matchCount": 1,
-            "auditBasis": "language archive, country-specific"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "Туризм",
@@ -8302,7 +8258,7 @@
               "en": "https://internationalinvestment.biz/en/czech/8847-czechia-could-face-a-500000-worker-gap.html"
             },
             "matchCount": 1,
-            "auditBasis": "language archive, country-specific"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "Налоги для инвесторов",
@@ -8334,7 +8290,7 @@
               "en": "https://internationalinvestment.biz/en/real-estate/8903-switzerland-prepares-restrictions-for-foreign-property-buyers.html"
             },
             "matchCount": 1,
-            "auditBasis": "language archive, country-specific"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "Инвестиции",
@@ -8347,7 +8303,7 @@
               "en": "https://internationalinvestment.biz/en/real-estate/8903-switzerland-prepares-restrictions-for-foreign-property-buyers.html"
             },
             "matchCount": 2,
-            "auditBasis": "language archive, country-specific"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "Туризм",
@@ -8360,7 +8316,7 @@
               "en": "https://internationalinvestment.biz/en/switzerland/8528-swiss-tourism-growth-remains-concentrated.html"
             },
             "matchCount": 1,
-            "auditBasis": "language archive, country-specific"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "Отели и гостиничный бизнес",
@@ -8404,7 +8360,7 @@
               "en": "https://internationalinvestment.biz/en/business/9085-sweden-property-investment-climbs-40-in-nine-months.html"
             },
             "matchCount": 2,
-            "auditBasis": "incremental current-site verification, 9–14 Nov 2026"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "Инвестиции",
@@ -8417,7 +8373,7 @@
               "en": "https://internationalinvestment.biz/en/business/9085-sweden-property-investment-climbs-40-in-nine-months.html"
             },
             "matchCount": 2,
-            "auditBasis": "incremental current-site verification, 9–14 Nov 2026"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "Туризм",
@@ -8467,7 +8423,7 @@
               "en": "https://internationalinvestment.biz/en/estonia/8851-local-investors-gain-ground-in-estonia.html"
             },
             "matchCount": 2,
-            "auditBasis": "language archive, country-specific"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "Инвестиции",
@@ -8480,7 +8436,7 @@
               "en": "https://internationalinvestment.biz/en/business/8855-estonia-scraps-part-of-planned-tax-hikes.html"
             },
             "matchCount": 3,
-            "auditBasis": "language archive, country-specific"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "Туризм",
@@ -8490,13 +8446,10 @@
             "articleId": "8580",
             "headline": "Estonia’s Guest Nights Outpace Hotel Room Growth",
             "languageUrls": {
-              "en": "https://internationalinvestment.biz/en/estonia/8580-foreign-stays-lift-estonias-tourism-recovery.html",
-              "he": "https://internationalinvestment.biz/he/estonia/8580-estonia-linot-hatayarim-tsomhot-maher-yoter.html",
-              "ka": "https://internationalinvestment.biz/ka/estonia/8580-estoneti-turistebis-gamistrevebi-izrdeba-fondze-srapad.html",
-              "ru": "https://internationalinvestment.biz/estonia/8580-inostrannye-nochevki-podderzhali-turizm-jestonii.html"
+              "en": "https://internationalinvestment.biz/en/estonia/8580-foreign-stays-lift-estonias-tourism-recovery.html"
             },
             "matchCount": 2,
-            "auditBasis": "language archive, country-specific"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "Отели и гостиничный бизнес",
@@ -8506,13 +8459,10 @@
             "articleId": "8580",
             "headline": "Estonia’s Guest Nights Outpace Hotel Room Growth",
             "languageUrls": {
-              "en": "https://internationalinvestment.biz/en/estonia/8580-foreign-stays-lift-estonias-tourism-recovery.html",
-              "he": "https://internationalinvestment.biz/he/estonia/8580-estonia-linot-hatayarim-tsomhot-maher-yoter.html",
-              "ka": "https://internationalinvestment.biz/ka/estonia/8580-estoneti-turistebis-gamistrevebi-izrdeba-fondze-srapad.html",
-              "ru": "https://internationalinvestment.biz/estonia/8580-inostrannye-nochevki-podderzhali-turizm-jestonii.html"
+              "en": "https://internationalinvestment.biz/en/estonia/8580-foreign-stays-lift-estonias-tourism-recovery.html"
             },
             "matchCount": 1,
-            "auditBasis": "language archive, country-specific"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "ВНЖ и миграция",
@@ -8531,13 +8481,94 @@
               "en": "https://internationalinvestment.biz/en/business/8855-estonia-scraps-part-of-planned-tax-hikes.html"
             },
             "matchCount": 1,
-            "auditBasis": "language archive, country-specific"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
             "name": "Регулирование и правила для иностранных покупателей",
             "lastPublished": null,
             "status": "unverified",
             "auditBasis": "unverified in sampled first-page archives"
+          }
+        ]
+      },
+      {
+        "country": "Южная Корея",
+        "lastUpdate": "2026-11-10",
+        "topicCount": 4,
+        "topics": [
+          {
+            "name": "Недвижимость",
+            "lastPublished": "2026-11-10",
+            "status": "fresh",
+            "lastUrl": "https://internationalinvestment.biz/en/business/9086-seoul-hotel-demand-may-outpace-room-supply-until-2032.html",
+            "articleId": "9086",
+            "headline": "Seoul Hotel Demand May Outpace Room Supply Until 2032",
+            "languageUrls": {
+              "en": "https://internationalinvestment.biz/en/business/9086-seoul-hotel-demand-may-outpace-room-supply-until-2032.html",
+              "ru": "https://internationalinvestment.biz/business/9086-seulu-ne-hvatit-gostinichnyh-nomerov-do-2032-goda.html"
+            },
+            "matchCount": 1,
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
+          },
+          {
+            "name": "Инвестиции",
+            "lastPublished": "2026-11-10",
+            "status": "fresh",
+            "lastUrl": "https://internationalinvestment.biz/en/business/9086-seoul-hotel-demand-may-outpace-room-supply-until-2032.html",
+            "articleId": "9086",
+            "headline": "Seoul Hotel Demand May Outpace Room Supply Until 2032",
+            "languageUrls": {
+              "en": "https://internationalinvestment.biz/en/business/9086-seoul-hotel-demand-may-outpace-room-supply-until-2032.html",
+              "ru": "https://internationalinvestment.biz/business/9086-seulu-ne-hvatit-gostinichnyh-nomerov-do-2032-goda.html"
+            },
+            "matchCount": 1,
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
+          },
+          {
+            "name": "Туризм",
+            "lastPublished": "2026-11-10",
+            "status": "fresh",
+            "lastUrl": "https://internationalinvestment.biz/en/business/9086-seoul-hotel-demand-may-outpace-room-supply-until-2032.html",
+            "articleId": "9086",
+            "headline": "Seoul Hotel Demand May Outpace Room Supply Until 2032",
+            "languageUrls": {
+              "en": "https://internationalinvestment.biz/en/business/9086-seoul-hotel-demand-may-outpace-room-supply-until-2032.html",
+              "ru": "https://internationalinvestment.biz/business/9086-seulu-ne-hvatit-gostinichnyh-nomerov-do-2032-goda.html"
+            },
+            "matchCount": 1,
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
+          },
+          {
+            "name": "Отели и гостиничный бизнес",
+            "lastPublished": "2026-11-10",
+            "status": "fresh",
+            "lastUrl": "https://internationalinvestment.biz/en/business/9086-seoul-hotel-demand-may-outpace-room-supply-until-2032.html",
+            "articleId": "9086",
+            "headline": "Seoul Hotel Demand May Outpace Room Supply Until 2032",
+            "languageUrls": {
+              "en": "https://internationalinvestment.biz/en/business/9086-seoul-hotel-demand-may-outpace-room-supply-until-2032.html",
+              "ru": "https://internationalinvestment.biz/business/9086-seulu-ne-hvatit-gostinichnyh-nomerov-do-2032-goda.html"
+            },
+            "matchCount": 1,
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
+          },
+          {
+            "name": "ВНЖ и миграция",
+            "lastPublished": null,
+            "status": "unverified",
+            "auditBasis": "no verified country-specific article in audited archive dataset"
+          },
+          {
+            "name": "Налоги для инвесторов",
+            "lastPublished": null,
+            "status": "unverified",
+            "auditBasis": "no verified country-specific article in audited archive dataset"
+          },
+          {
+            "name": "Регулирование и правила для иностранных покупателей",
+            "lastPublished": null,
+            "status": "unverified",
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           }
         ]
       },
@@ -8620,15 +8651,15 @@
     "methodology": {
       "start": "2026-08-10",
       "end": "2026-11-14",
-      "engArchivesAttempted": 91,
-      "engArchivesRead": 86,
-      "multilingualWindow": "2026-10-26/2026-11-08",
+      "engArchivesAttempted": 97,
+      "engArchivesRead": 92,
+      "multilingualWindow": "2026-10-26/2026-11-14",
       "multilingualPagesRead": 36,
-      "observedArticleVariants": 712,
-      "uniqueArticleIds": 465,
-      "countryScopedArticles": 343,
+      "observedArticleVariants": 772,
+      "uniqueArticleIds": 507,
+      "countryScopedArticles": 391,
       "partialCrossCountryArticles": 69,
-      "limitations": "EN 91 dates attempted; five dates returned 404; some daily archives paginate, only page 1 checked. RU/KA/HE 14 recent dates each. Unverified cells are not claims of zero coverage. Article date extracted from dated archive; tags and titles used for editorial taxonomy.",
+      "limitations": "90+ day baseline uses dated archive scans with some first-page/pagination limits. The 9–14 Nov increment was checked directly in EN and RU daily archives. Absence from a sampled archive is not treated as proof of no historical coverage.",
       "seoDataStatus": "Historical analytics measurements only; no new GA4/GSC data loaded on 14 Nov.",
       "corrections": [
         {
@@ -8638,7 +8669,12 @@
       ],
       "auditAt": "2026-11-14",
       "recentIncrementalWindow": "2026-11-09/2026-11-14",
-      "recentIncrementalMethod": "Targeted current-site search/page verification for new RU/EN country-specific articles; prior 90+ day archive retained. Cross-border pages not counted as country-specific."
+      "recentIncrementalMethod": "Targeted current-site search/page verification for new RU/EN country-specific articles; prior 90+ day archive retained. Cross-border pages not counted as country-specific.",
+      "recentLanguagesAudited": [
+        "en",
+        "ru"
+      ],
+      "kaHeThrough": "2026-11-08"
     },
     "sync": {
       "trendRadarData": "./data/trends.json",
@@ -8648,7 +8684,8 @@
       "analyticsLanguagePeriod": "20–26.09.2026",
       "gscLastMeasured": "10.10.2026",
       "ga4LastMeasured": "12.10.2026",
-      "seoMetricsSource": "archive-only first-party snapshot; not current"
+      "seoMetricsSource": "archive-only first-party snapshot; not current",
+      "sitePublicationsAudit": "Direct EN/RU daily archives 9–14 Nov 2026 reconciled by article ID; KA/HE incremental scan remains through 8 Nov."
     }
   },
   "dailyUpdate": {
