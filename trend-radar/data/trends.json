@@ -1,39 +1,38 @@
 {
   "meta": {
-    "period": "3–9 ноября 2026",
-    "updatedAt": "9 ноября 2026",
+    "period": "8–14 ноября 2026",
+    "updatedAt": "14 ноября 2026",
     "reportUrl": "https://docs.google.com/document/d/10sLFnp0HD_I6UClnGl1KzvrgAUdP5vLRsjU1NSd5xLY/edit",
-    "editorialNote": "Four NEW full Russian and native-English articles prepared on Nov 9 (US Travel Nov5 forecast, OECD Nov4 housing, ETC Nov5 tourism, Airbnb Nov5 earnings), with four source-backed charts, four covers, four native tables and 32 RU/EN social drafts in one Google Doc. Previous period archived once. GSC/GA4 blocked subscription_required; SEO qualitative.",
+    "editorialNote": "Dashboard-only trendwatch refresh on 14 Nov: added ETC autumn/winter travel + AI usage, CoStar/STR October hotel records for Paris/London/Singapore, Eurostat ultimate-investor FDI and Q3 GDP/employment; refreshed Country Coverage with verified site publications through 13 Nov. Previous Google Doc retained as prior editorial pack; no new full RU/EN article document created in this dashboard-only run. GSC/GA4 remain blocked and historical metrics were not relabeled as fresh.",
     "consolidatedDocUrl": "https://docs.google.com/document/d/1x1FAIw6HdUXHzXKeAyK7L_BM_2BpY3jxRj49BQ6ObF8/edit",
     "weeklyFinalDocUrl": "https://docs.google.com/document/d/1h2GNjhMeDgK-eXH0uzcBeYf9shTlSFkh87EhA8glNF8/edit",
     "additionalViralBriefUrl": "https://docs.google.com/document/d/1noak5K9VJW3EaN1FZ9yRM_eoMe9cMRiXNPlOC6unumk/edit",
     "sourceAudit": {
-      "window": "2026-11-03/2026-11-09",
-      "updatedAt": "2026-11-09",
+      "window": "2026-11-08/2026-11-14",
+      "updatedAt": "2026-11-14",
       "verifiedPrimarySources": [
-        "U.S. Travel Association Fall 2026 Forecast 5 Nov",
-        "U.S. NTTO government 2026 arrival forecast (alternative model)",
-        "OECD Regions and Cities at a Glance 2026 Housing 4 Nov",
-        "European Travel Commission Q3/2026 release 5 Nov",
-        "Airbnb Q3 2026 earnings 5 Nov"
+        "European Travel Commission Wave 26, 9 Nov 2026",
+        "CoStar/STR Paris October preliminary, 11 Nov 2026",
+        "CoStar/STR London October preliminary, 11 Nov 2026",
+        "CoStar/STR Singapore October preliminary, 11 Nov 2026",
+        "Eurostat ultimate investing economy FDI, 11 Nov 2026",
+        "Eurostat GDP and employment Q3 flash, 13 Nov 2026"
       ],
       "monitoredWithoutNewConfirmedLead": [
-        "TravelDailyNews feed updated through Nov6 (signal checks)",
-        "CoStar/STR Nov6 RevPAR already in previous issue",
-        "Skift news feed Nov8-9 no stronger independently verified issue than original sources",
-        "Eurostat release calendar Nov9, house price-income country values not yet verified",
-        "INE Spain early Nov hotel/tourism data already in prior issue",
-        "Geostat Sept construction CCI Nov6 original PDF not validated"
+        "TravelDailyNews 10–13 Nov: several hotel/development/AI-booking leads; no stronger primary-source item selected over ETC/CoStar/Eurostat",
+        "Skift: Nov 11 Travel Commerce Summit and recent capital/AI coverage checked; no stronger independently verified item selected",
+        "UN Tourism: no distinct relevant 8–14 Nov release surfaced in accessible search",
+        "Eurostat release calendar checked through 13 Nov",
+        "InternationalInvestment.biz recent RU/EN coverage checked through 13–14 Nov search results"
       ],
       "blockedSources": [
-        "UN Tourism web site: bot_blocked on attempted direct fetch",
-        "GSC Wizard: payment_required, linked GA4 inaccessible"
+        "GSC Wizard / GA4 connection remains subscription_required; no fresh Google metrics loaded"
       ],
-      "publicationAudit": "InternationalInvestment.biz public RU/EN targeted searches on Nov9: US #7798 older 2025 release, Airbnb #8683 older Q2 2026, EU housing #8905, Portugal housing #8781, existing European travel #8701. New four original events had no exact publicly indexed duplicates in checked results; private CMS drafts not inspected.",
-      "seoAccess": "GSC Wizard subscription_required; last measured stored query sample 10 Oct 2026."
+      "publicationAudit": "Fresh site coverage found for Armenia, Hungary, Albania, Turkey, Serbia, Bulgaria, Belarus, Georgia, Argentina, Australia, Portugal, Sweden and Spain. Cross-border/multi-country pages are not counted as country-specific coverage. No exact International Investment duplicates found in targeted search for ETC Wave 26, CoStar Paris/London/Singapore October hotel records, or Eurostat ultimate-investor FDI.",
+      "seoAccess": "GSC/GA4 not loaded; stored measurements keep their original October dates."
     },
-    "latestDailyUpdateDate": "2026-11-08",
-    "nextEditorialPlanDate": "2026-11-09"
+    "latestDailyUpdateDate": "2026-11-14",
+    "nextEditorialPlanDate": "2026-11-15"
   },
   "categories": [
     "Все",
@@ -44,6 +43,106 @@
     "Инвестиции"
   ],
   "trends": [
+    {
+      "id": "etc-autumn-winter-travel-ai-nov9-2026",
+      "title": "ETC: 76% европейцев планируют поездки, 40% используют AI",
+      "category": "Туризм",
+      "priority": "urgent",
+      "status": "new_candidate",
+      "decision": "new_article",
+      "editorialUrgency": "4/5 — ВЫСОКИЙ (48h)",
+      "publishedAt": "2026-11-09",
+      "verifiedOn": "2026-11-14",
+      "signal": "ETC Wave 26: 76% Europeans plan an overnight trip between Oct 2026 and Mar 2027, +3% vs last year; 40% of intending travellers use AI for inspiration, planning or booking, rising to 56% among ages 18–24.",
+      "why": "Strong tourism-demand and AI-distribution crossover with country-level source-market data and direct AI-search relevance.",
+      "editorialAngle": "Как зимний турспрос в Европе смещается к city breaks и культурным поездкам, и где AI уже влияет на выбор и бронирование.",
+      "seoAngle": "Europe winter travel 2026 2027; AI travel planning Europe; ETC Wave 26",
+      "sources": [
+        {
+          "label": "ETC press release, 9 Nov 2026",
+          "url": "https://etc-corporate.org/news/europeans-seek-city-breaks-and-culture-heritage-trips-as-three-in-four-plan-to-travel-this-autumn-and-winter/"
+        },
+        {
+          "label": "ETC Wave 26 report",
+          "url": "https://etc-corporate.org/reports/monitoring-sentiment-for-intra-european-travel-autumn-winter-2026-2027/"
+        }
+      ],
+      "publishedCoverage": "No exact duplicate found in targeted International Investment search on 14 Nov; NEW comparative RU/EN candidate."
+    },
+    {
+      "id": "costar-paris-london-singapore-october-nov11-2026",
+      "title": "Париж, Лондон и Сингапур обновили гостиничные рекорды",
+      "category": "Туризм",
+      "priority": "urgent",
+      "status": "new_candidate",
+      "decision": "new_article",
+      "editorialUrgency": "4/5 — ВЫСОКИЙ (48h)",
+      "publishedAt": "2026-11-11",
+      "verifiedOn": "2026-11-14",
+      "signal": "CoStar/STR October preliminary: Paris ADR EUR474.64 (+13.5%) and RevPAR EUR406.20 (+15.4%); London RevPAR GBP178.81 (+5.5%) with 86.0% occupancy; Singapore ADR SGD400.74 (+5.3%) and RevPAR SGD340.49 (+8.1%).",
+      "why": "Three same-day primary STR releases support a single comparative hotel-performance story without conflating ADR, occupancy and RevPAR.",
+      "editorialAngle": "Что дали Парижу Fashion Week, Лондону BFI Film Festival и Сингапуру Formula 1 — сравнить ценовой и загрузочный эффект.",
+      "seoAngle": "Paris hotel ADR October 2026; London hotel RevPAR October 2026; Singapore hotel RevPAR Formula 1",
+      "sources": [
+        {
+          "label": "CoStar/STR Paris, 11 Nov",
+          "url": "https://www.costar.com/products/str-benchmark/resources/press-releases/london-hotels-posted-highest-october-revpar-record"
+        },
+        {
+          "label": "CoStar/STR London, 11 Nov",
+          "url": "https://www.costar.com/products/str-benchmark/resources/press-releases/london-hotels-posted-highest-october-revpar-0"
+        },
+        {
+          "label": "CoStar/STR Singapore, 11 Nov",
+          "url": "https://www.costar.com/products/str-benchmark/resources/press-releases/formula-1-drove-singapore-hotel-performance-all"
+        }
+      ],
+      "publishedCoverage": "No exact October record story found in targeted International Investment search; NEW comparative article recommended."
+    },
+    {
+      "id": "eurostat-fdi-ultimate-investor-2025-nov11-2026",
+      "title": "Eurostat: США лидируют среди конечных инвесторов в ЕС",
+      "category": "Инвестиции",
+      "priority": "high",
+      "status": "new_candidate",
+      "decision": "new_article",
+      "editorialUrgency": "4/5 — ВЫСОКИЙ (48h)",
+      "publishedAt": "2026-11-11",
+      "verifiedOn": "2026-11-14",
+      "signal": "Eurostat: among 14 reporting EU countries, the United States accounted for 15.4% of inward FDI by ultimate investing economy, Germany 11.5%, France 9.4%, UK 9.3%, Switzerland 5.8%. Czechia, Romania and Estonia had the highest EU-origin shares; Cyprus had 79.4% from non-EU ultimate investors.",
+      "why": "The ultimate-investor view strips out part of intermediary-country distortion and is directly relevant to cross-border capital coverage.",
+      "editorialAngle": "Кто реально контролирует входящий капитал в ЕС и почему immediate investor country может искажать картину.",
+      "seoAngle": "EU foreign direct investment ultimate investor 2025; FDI Czechia Romania Estonia Cyprus",
+      "sources": [
+        {
+          "label": "Eurostat, 11 Nov 2026",
+          "url": "https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20261111-3"
+        }
+      ],
+      "publishedCoverage": "No exact ultimate-investor FDI article found in targeted International Investment search on 14 Nov."
+    },
+    {
+      "id": "eurostat-gdp-employment-q3-nov13-2026",
+      "title": "Еврозона: ВВП +0,4%, занятость без роста",
+      "category": "Инвестиции",
+      "priority": "medium",
+      "status": "watch",
+      "decision": "update_or_context",
+      "editorialUrgency": "3/5 — НА НЕДЕЛЕ",
+      "publishedAt": "2026-11-13",
+      "verifiedOn": "2026-11-14",
+      "signal": "Eurostat Q3 2026 t+45 flash: GDP +0.4% q/q in the euro area and +0.5% in the EU; employment was stable q/q in both. GDP +1.3% y/y euro area and +1.5% EU.",
+      "why": "Useful macro context for property and capital-market stories; GDP growth rates confirm the Oct 30 preliminary release while adding employment.",
+      "editorialAngle": "Использовать как макрообновление и контекст для инвестиционных рынков, а не как отдельную недвижимость без связки с капиталом.",
+      "seoAngle": "euro area GDP Q3 2026 employment; EU GDP 2026",
+      "sources": [
+        {
+          "label": "Eurostat, 13 Nov 2026",
+          "url": "https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-13112026-ap"
+        }
+      ],
+      "publishedCoverage": "Treat as UPDATE/context because GDP headline was already available in preliminary Eurostat release on 30 Oct."
+    },
     {
       "id": "oecd-cities-housing-affordability-nov4-2026",
       "title": "OECD: жильё в городских центрах на 27% дороже среднего по стране",
@@ -3079,6 +3178,19 @@
         "ETC Europe arrivals +3% summer 2026 and Airbnb Q3 revenue +19% added Nov 8 as briefs"
       ],
       "reportUrl": "https://docs.google.com/document/d/1LEYDEi40WJiVaBqfebpaDlD3gVrnQgSN15osXibB8x8/edit"
+    },
+    {
+      "period": "3–9 ноября 2026",
+      "endDate": "2026-11-09",
+      "savedAt": "14 ноября 2026",
+      "summary": "Выпуск 3–9 ноября: U.S. Travel, OECD housing, ETC Q3 и Airbnb Q3; dashboard-only архив перед обновлением трендрадара за 8–14 ноября.",
+      "keyPoints": [
+        "U.S. Travel: real international visitor spending forecast $163bn, -6.3% in 2026",
+        "OECD: urban-centre housing price premium +27% versus national averages",
+        "ETC Q3: Europe arrivals +3%, Malta +18%, Slovakia +15%",
+        "Airbnb Q3: revenue $4.9bn, +19%"
+      ],
+      "reportUrl": "https://docs.google.com/document/d/10sLFnp0HD_I6UClnGl1KzvrgAUdP5vLRsjU1NSd5xLY/edit"
     }
   ],
   "monitoringSources": [
@@ -3568,7 +3680,7 @@
     }
   ],
   "seoSignals": {
-    "updatedAt": "9 ноября 2026",
+    "updatedAt": "14 ноября 2026",
     "sourceStatus": {
       "yandexWebmaster": "not_loaded",
       "googleSearchConsole": "blocked_subscription_required",
@@ -3717,14 +3829,14 @@
         "currentPeriodDataLoaded": false
       }
     ],
-    "sourceNote": "9 Nov 2026: GSC Wizard Primary trial/subscription expired (payment_required/subscription_required), GA4 via connection unavailable. Historical query rows and their actual dates (10 Oct 2026) preserved unaltered; no fabricated current impressions/clicks/AI citations."
+    "sourceNote": "14 Nov 2026: GSC/GA4 fresh data still unavailable through the connected SEO tool; historical query rows retain their real measurement date (10 Oct 2026). Trend and coverage dashboards refreshed without changing old search metrics."
   },
   "sourcePolicy": {
     "dynamicCountryStats": true,
     "rule": "Если в текущем трендрадаре или публикациях International Investment появляется страна, которой нет в списке локальных источников, найти ее официальный государственный статистический орган и релевантный регулятор/реестр недвижимости, проверить официальный домен и добавить их в мониторинг как verification-источники."
   },
   "coverageMonitoring": {
-    "updatedAt": "9 ноября 2026",
+    "updatedAt": "14 ноября 2026",
     "auditWindowDays": 90,
     "freshnessRules": {
       "freshMaxDays": 14,
@@ -3750,34 +3862,89 @@
     ],
     "gaps": [
       {
-        "country": "Airbnb / мировые рынки",
-        "theme": "Q3 2026 platform earnings and hotels",
-        "status": "high",
-        "reason": "Full 8-post social pack and bilingual earnings analysis, primary company source."
+        "country": "Франция",
+        "lastUpdate": "2026-11-05",
+        "priority": "urgent",
+        "reason": "CoStar/STR 11 Nov: Paris set a monthly ADR record at EUR474.64 (+13.5% y/y) and second-highest RevPAR EUR406.20 (+15.4%). No exact October record article found in targeted site search; strong hotel-investment operating signal.",
+        "topics": [
+          {
+            "name": "Отели и гостиничный бизнес",
+            "lastPublished": null,
+            "status": "unverified"
+          }
+        ],
+        "signalAt": "2026-11-11",
+        "sourceUrl": "https://www.costar.com/products/str-benchmark/resources/press-releases/london-hotels-posted-highest-october-revpar-record",
+        "decision": "new"
+      },
+      {
+        "country": "Великобритания",
+        "lastUpdate": "2026-11-07",
+        "priority": "urgent",
+        "reason": "CoStar/STR 11 Nov: London posted its highest October RevPAR on record, GBP178.81 (+5.5%), with occupancy 86.0%. Targeted site search found no exact monthly record story.",
+        "topics": [
+          {
+            "name": "Отели и гостиничный бизнес",
+            "lastPublished": "2026-10-26",
+            "status": "watch",
+            "lastUrl": "https://internationalinvestment.biz/en/business/8996-england-to-introduce-a-short-term-rental-register.html"
+          }
+        ],
+        "signalAt": "2026-11-11",
+        "sourceUrl": "https://www.costar.com/products/str-benchmark/resources/press-releases/london-hotels-posted-highest-october-revpar-0",
+        "decision": "new"
+      },
+      {
+        "country": "Сингапур",
+        "lastUpdate": null,
+        "priority": "urgent",
+        "reason": "CoStar/STR 11 Nov: Singapore reached all-time monthly ADR SGD400.74 and RevPAR SGD340.49 in October; Formula 1 weekend produced the strongest daily levels since 2008. No exact site duplicate found.",
+        "topics": [
+          {
+            "name": "Отели и гостиничный бизнес",
+            "lastPublished": null,
+            "status": "unverified"
+          }
+        ],
+        "signalAt": "2026-11-11",
+        "sourceUrl": "https://www.costar.com/products/str-benchmark/resources/press-releases/formula-1-drove-singapore-hotel-performance-all",
+        "decision": "new"
       },
       {
         "country": "Европа / ETC",
-        "theme": "European tourism Q3 arrivals original comparative data",
-        "status": "high",
-        "reason": "Full country table and graph in November 9 report, ready to publish."
+        "priority": "high",
+        "reason": "ETC Wave 26 (9 Nov): 76% plan overnight travel Oct 2026–Mar 2027; AI is used by 40% of intending travellers and 56% of ages 18–24. New demand + AI-distribution angle not covered by the Q3 arrivals story.",
+        "topics": [
+          {
+            "name": "Туризм",
+            "lastPublished": null,
+            "status": "unverified"
+          }
+        ],
+        "signalAt": "2026-11-09",
+        "sourceUrl": "https://etc-corporate.org/news/europeans-seek-city-breaks-and-culture-heritage-trips-as-three-in-four-plan-to-travel-this-autumn-and-winter/",
+        "decision": "new"
       },
       {
-        "country": "OECD / города",
-        "theme": "Urban housing price premiums vs income and vacancy",
-        "status": "urgent",
-        "reason": "OECD Nov4 original, city +27%, commuting -15%, outside -34%, source year differs by country. Full bilingual draft in report."
-      },
-      {
-        "country": "США",
-        "theme": "US international visitor spending 2026 forecast vs NTTO",
-        "status": "urgent",
-        "reason": "U.S. Travel Nov5 real spend forecast -$11bn to $163bn, NTTO separate 70.5m arrival projection; full RU/EN in report."
+        "country": "ЕС / FDI",
+        "priority": "high",
+        "reason": "Eurostat 11 Nov reveals ultimate-investor origin for inward FDI in 14 countries: US 15.4%, Germany 11.5%, France 9.4%, UK 9.3%. Useful for Czechia, Romania, Estonia and Cyprus country investment clusters.",
+        "topics": [
+          {
+            "name": "Инвестиции",
+            "lastPublished": null,
+            "status": "unverified"
+          }
+        ],
+        "signalAt": "2026-11-11",
+        "sourceUrl": "https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20261111-3",
+        "decision": "new"
       },
       {
         "country": "Мальта",
         "lastUpdate": null,
         "priority": "high",
-        "reason": "ETC Q3/2026: рост международных прибытий на 18% год к году. В просмотренных дневных архивах не подтверждена отдельная публикация по Мальте; требуется проверка пагинации и странового раздела. Сравнить турпоток и нагрузку на размещение.",
+        "reason": "ETC Q3 still shows Malta +18% international arrivals; current audit found no new country-specific tourism article after the previous gap. Keep as a country-level tourism opportunity.",
         "topics": [
           {
             "name": "Туризм",
@@ -3787,15 +3954,13 @@
         ],
         "signalAt": "2026-11-05",
         "sourceUrl": "https://etc-corporate.org/reports/european-tourism-trends-prospects-q3-2026/",
-        "additionalSourceUrl": "https://nso.gov.mt/inbound-tourism-august-2026/",
-        "decision": "verify_then_new",
-        "coverageStatus": "unverified"
+        "decision": "verify_then_new"
       },
       {
         "country": "Словакия",
-        "lastUpdate": "2026-09-20",
+        "lastUpdate": "2026-09-15",
         "priority": "high",
-        "reason": "ETC: +15% международных прибытий летом 2026. В исследованных 90-дневных англоязычных архивах тематическая страновая публикация не подтверждена. Интересны туристическая инфраструктура и гостиничный спрос.",
+        "reason": "ETC Q3: Slovakia +15% international arrivals. No new country-specific tourism article was verified in the 9–14 Nov incremental check.",
         "topics": [
           {
             "name": "Туризм",
@@ -3805,14 +3970,13 @@
         ],
         "signalAt": "2026-11-05",
         "sourceUrl": "https://etc-corporate.org/reports/european-tourism-trends-prospects-q3-2026/",
-        "decision": "verify_then_new",
-        "coverageStatus": "unverified"
+        "decision": "verify_then_new"
       },
       {
         "country": "Ирландия",
         "lastUpdate": "2026-11-07",
         "priority": "high",
-        "reason": "ETC: +13% прибытий летом 2026. Последние статьи сайта посвящены складам и краткосрочной аренде, но не динамике турпотока. Проверить отдельные категории и актуальные данные размещения.",
+        "reason": "ETC Q3: Ireland +13% arrivals; current site coverage remains concentrated on property/STR rather than fresh tourism-demand data.",
         "topics": [
           {
             "name": "Туризм",
@@ -3822,133 +3986,7 @@
         ],
         "signalAt": "2026-11-05",
         "sourceUrl": "https://etc-corporate.org/reports/european-tourism-trends-prospects-q3-2026/",
-        "decision": "verify_then_new",
-        "coverageStatus": "unverified"
-      },
-      {
-        "country": "Исландия",
-        "lastUpdate": "2026-08-24",
-        "priority": "high",
-        "reason": "Statistics Iceland: гостиничные ночёвки в сентябре +3% г/г после августовского снижения 2,5%. Последний найденный профильный материал 21 августа; повод — разворот спроса и региональные различия.",
-        "topics": [
-          {
-            "name": "Отели и гостиничный бизнес",
-            "lastPublished": "2026-08-21",
-            "status": "urgent",
-            "lastUrl": "https://internationalinvestment.biz/en/iceland/8658-reykjavik-airbnb-supply-falls-nearly-20-as-revenue-slips.html"
-          }
-        ],
-        "signalAt": "2026-10-29",
-        "sourceUrl": "https://statice.is/publications/news-archive/tourism/overnight-stays-in-september-2026/",
-        "decision": "new_or_update",
-        "coverageStatus": "urgent"
-      },
-      {
-        "country": "Бельгия",
-        "lastUpdate": "2026-10-30",
-        "priority": "high",
-        "reason": "Statbel: цены во II квартале +2,1% г/г, но число сделок с существующим жильём −11%. Страновая статья не подтверждена в доступных 90-дневных дневных архивах; проверить глубже перед публикацией.",
-        "topics": [
-          {
-            "name": "Недвижимость",
-            "lastPublished": null,
-            "status": "unverified"
-          }
-        ],
-        "signalAt": "2026-09-25",
-        "sourceUrl": "https://statbel.fgov.be/en/themes/housing/house-price-index",
-        "additionalSourceUrl": "https://statbel.fgov.be/en/themes/housing/sales-secondary-market",
-        "decision": "verify_then_new",
-        "coverageStatus": "unverified"
-      },
-      {
-        "country": "Греция",
-        "lastUpdate": "2026-10-05",
-        "priority": "high",
-        "reason": "Глава Минмиграции Греции предупредил об отзыве Golden Visa за скрытые скидки и обход запрета на краткосрочную аренду. Проверить действующую норму и обновить материал о правилах ВНЖ, не выдавая выступление за новый закон.",
-        "topics": [
-          {
-            "name": "ВНЖ и миграция",
-            "lastPublished": "2026-10-03",
-            "status": "stale",
-            "lastUrl": "https://internationalinvestment.biz/en/greece/8882-greece-softens-property-tax-plan-for-non-eu-buyers.html"
-          }
-        ],
-        "signalAt": "2026-10-15",
-        "sourceUrl": "https://www.ertnews.gr/eidiseis/th-pleyris-tha-afaireitai-i-golden-visa-an-diapistonontai-symfonies-ekptosis-kai-paraviasi-tis-apagoreysis-vraxyxronias-misthosis/",
-        "decision": "update_existing",
-        "coverageStatus": "stale"
-      },
-      {
-        "country": "Черногория",
-        "lastUpdate": "2026-10-12",
-        "priority": "high",
-        "reason": "ETC: +10% международных прибытий летом; последнее найденное отдельное туристическое обновление 17 сентября. Сравнить рост турпотока с загрузкой прибрежных отелей и доходностью размещения.",
-        "topics": [
-          {
-            "name": "Туризм",
-            "lastPublished": "2026-09-17",
-            "status": "stale",
-            "lastUrl": "https://internationalinvestment.biz/en/montenegro/8797-montenegro-tourism-grows-nearly-8.html"
-          }
-        ],
-        "signalAt": "2026-11-05",
-        "sourceUrl": "https://etc-corporate.org/reports/european-tourism-trends-prospects-q3-2026/",
-        "decision": "update_existing",
-        "coverageStatus": "stale"
-      },
-      {
-        "country": "Румыния",
-        "lastUpdate": "2026-10-11",
-        "priority": "medium",
-        "reason": "ETC: +10% международных прибытий летом 2026. В проанализированных архивах отдельное туристическое обновление не подтвердилось; проверить национальную статистику и динамику ночёвок перед выбором темы.",
-        "topics": [
-          {
-            "name": "Туризм",
-            "lastPublished": null,
-            "status": "unverified"
-          }
-        ],
-        "signalAt": "2026-11-05",
-        "sourceUrl": "https://etc-corporate.org/reports/european-tourism-trends-prospects-q3-2026/",
-        "decision": "verify_then_new",
-        "coverageStatus": "unverified"
-      },
-      {
-        "country": "Польша",
-        "lastUpdate": "2026-10-31",
-        "priority": "medium",
-        "reason": "ETC: +11% международных прибытий летом 2026. В 90-дневной просмотренной части архива не найдено отдельного странового туристического материала; для статьи нужны локальные данные ночёвок и ADR.",
-        "topics": [
-          {
-            "name": "Туризм",
-            "lastPublished": null,
-            "status": "unverified"
-          }
-        ],
-        "signalAt": "2026-11-05",
-        "sourceUrl": "https://etc-corporate.org/reports/european-tourism-trends-prospects-q3-2026/",
-        "decision": "verify_then_new",
-        "coverageStatus": "unverified"
-      },
-      {
-        "country": "Испания",
-        "lastUpdate": "2026-11-07",
-        "priority": "medium",
-        "reason": "INE: расходы иностранных туристов в сентябре +8,1%, прибытия +4,3%. Тема в целом fresh благодаря статье о Wizz Air 7 ноября, но она не заменяет отдельный анализ туристических расходов; проверить дубли перед новым материалом.",
-        "topics": [
-          {
-            "name": "Туризм",
-            "lastPublished": "2026-11-07",
-            "status": "fresh",
-            "lastUrl": "https://internationalinvestment.biz/en/business/9063-wizz-air-launches-domestic-flights-in-spain.html"
-          }
-        ],
-        "signalAt": "2026-11-04",
-        "sourceUrl": "https://www.ine.es/dyngs/Prensa/en/EGATUR0926.htm?print=1",
-        "additionalSourceUrl": "https://www.lamoncloa.gob.es/lang/en/gobierno/news/Paginas/2026/20261105-international-tourists-spending.aspx",
-        "decision": "new_specific_release",
-        "coverageStatus": "fresh"
+        "decision": "verify_then_new"
       }
     ],
     "previousSignalQueue": [
@@ -4047,39 +4085,254 @@
         "theme": "Hotel RevPAR and tourism capital allocation",
         "status": "high",
         "reason": "CoStar/STR 6 Nov и Skift 2 Nov дают два новых независимых сигнала; проверить отсутствие дублей в CMS перед публикацией."
+      },
+      {
+        "country": "Airbnb / мировые рынки",
+        "theme": "Q3 2026 platform earnings and hotels",
+        "status": "high",
+        "reason": "Full 8-post social pack and bilingual earnings analysis, primary company source.",
+        "archivedAt": "2026-11-14"
+      },
+      {
+        "country": "Европа / ETC",
+        "theme": "European tourism Q3 arrivals original comparative data",
+        "status": "high",
+        "reason": "Full country table and graph in November 9 report, ready to publish.",
+        "archivedAt": "2026-11-14"
+      },
+      {
+        "country": "OECD / города",
+        "theme": "Urban housing price premiums vs income and vacancy",
+        "status": "urgent",
+        "reason": "OECD Nov4 original, city +27%, commuting -15%, outside -34%, source year differs by country. Full bilingual draft in report.",
+        "archivedAt": "2026-11-14"
+      },
+      {
+        "country": "США",
+        "theme": "US international visitor spending 2026 forecast vs NTTO",
+        "status": "urgent",
+        "reason": "U.S. Travel Nov5 real spend forecast -$11bn to $163bn, NTTO separate 70.5m arrival projection; full RU/EN in report.",
+        "archivedAt": "2026-11-14"
+      },
+      {
+        "country": "Мальта",
+        "lastUpdate": null,
+        "priority": "high",
+        "reason": "ETC Q3/2026: рост международных прибытий на 18% год к году. В просмотренных дневных архивах не подтверждена отдельная публикация по Мальте; требуется проверка пагинации и странового раздела. Сравнить турпоток и нагрузку на размещение.",
+        "topics": [
+          {
+            "name": "Туризм",
+            "lastPublished": null,
+            "status": "unverified"
+          }
+        ],
+        "signalAt": "2026-11-05",
+        "sourceUrl": "https://etc-corporate.org/reports/european-tourism-trends-prospects-q3-2026/",
+        "additionalSourceUrl": "https://nso.gov.mt/inbound-tourism-august-2026/",
+        "decision": "verify_then_new",
+        "coverageStatus": "unverified",
+        "archivedAt": "2026-11-14"
+      },
+      {
+        "country": "Словакия",
+        "lastUpdate": "2026-09-20",
+        "priority": "high",
+        "reason": "ETC: +15% международных прибытий летом 2026. В исследованных 90-дневных англоязычных архивах тематическая страновая публикация не подтверждена. Интересны туристическая инфраструктура и гостиничный спрос.",
+        "topics": [
+          {
+            "name": "Туризм",
+            "lastPublished": null,
+            "status": "unverified"
+          }
+        ],
+        "signalAt": "2026-11-05",
+        "sourceUrl": "https://etc-corporate.org/reports/european-tourism-trends-prospects-q3-2026/",
+        "decision": "verify_then_new",
+        "coverageStatus": "unverified",
+        "archivedAt": "2026-11-14"
+      },
+      {
+        "country": "Ирландия",
+        "lastUpdate": "2026-11-07",
+        "priority": "high",
+        "reason": "ETC: +13% прибытий летом 2026. Последние статьи сайта посвящены складам и краткосрочной аренде, но не динамике турпотока. Проверить отдельные категории и актуальные данные размещения.",
+        "topics": [
+          {
+            "name": "Туризм",
+            "lastPublished": null,
+            "status": "unverified"
+          }
+        ],
+        "signalAt": "2026-11-05",
+        "sourceUrl": "https://etc-corporate.org/reports/european-tourism-trends-prospects-q3-2026/",
+        "decision": "verify_then_new",
+        "coverageStatus": "unverified",
+        "archivedAt": "2026-11-14"
+      },
+      {
+        "country": "Исландия",
+        "lastUpdate": "2026-08-24",
+        "priority": "high",
+        "reason": "Statistics Iceland: гостиничные ночёвки в сентябре +3% г/г после августовского снижения 2,5%. Последний найденный профильный материал 21 августа; повод — разворот спроса и региональные различия.",
+        "topics": [
+          {
+            "name": "Отели и гостиничный бизнес",
+            "lastPublished": "2026-08-21",
+            "status": "urgent",
+            "lastUrl": "https://internationalinvestment.biz/en/iceland/8658-reykjavik-airbnb-supply-falls-nearly-20-as-revenue-slips.html"
+          }
+        ],
+        "signalAt": "2026-10-29",
+        "sourceUrl": "https://statice.is/publications/news-archive/tourism/overnight-stays-in-september-2026/",
+        "decision": "new_or_update",
+        "coverageStatus": "urgent",
+        "archivedAt": "2026-11-14"
+      },
+      {
+        "country": "Бельгия",
+        "lastUpdate": "2026-10-30",
+        "priority": "high",
+        "reason": "Statbel: цены во II квартале +2,1% г/г, но число сделок с существующим жильём −11%. Страновая статья не подтверждена в доступных 90-дневных дневных архивах; проверить глубже перед публикацией.",
+        "topics": [
+          {
+            "name": "Недвижимость",
+            "lastPublished": null,
+            "status": "unverified"
+          }
+        ],
+        "signalAt": "2026-09-25",
+        "sourceUrl": "https://statbel.fgov.be/en/themes/housing/house-price-index",
+        "additionalSourceUrl": "https://statbel.fgov.be/en/themes/housing/sales-secondary-market",
+        "decision": "verify_then_new",
+        "coverageStatus": "unverified",
+        "archivedAt": "2026-11-14"
+      },
+      {
+        "country": "Греция",
+        "lastUpdate": "2026-10-05",
+        "priority": "high",
+        "reason": "Глава Минмиграции Греции предупредил об отзыве Golden Visa за скрытые скидки и обход запрета на краткосрочную аренду. Проверить действующую норму и обновить материал о правилах ВНЖ, не выдавая выступление за новый закон.",
+        "topics": [
+          {
+            "name": "ВНЖ и миграция",
+            "lastPublished": "2026-10-03",
+            "status": "stale",
+            "lastUrl": "https://internationalinvestment.biz/en/greece/8882-greece-softens-property-tax-plan-for-non-eu-buyers.html"
+          }
+        ],
+        "signalAt": "2026-10-15",
+        "sourceUrl": "https://www.ertnews.gr/eidiseis/th-pleyris-tha-afaireitai-i-golden-visa-an-diapistonontai-symfonies-ekptosis-kai-paraviasi-tis-apagoreysis-vraxyxronias-misthosis/",
+        "decision": "update_existing",
+        "coverageStatus": "stale",
+        "archivedAt": "2026-11-14"
+      },
+      {
+        "country": "Черногория",
+        "lastUpdate": "2026-10-12",
+        "priority": "high",
+        "reason": "ETC: +10% международных прибытий летом; последнее найденное отдельное туристическое обновление 17 сентября. Сравнить рост турпотока с загрузкой прибрежных отелей и доходностью размещения.",
+        "topics": [
+          {
+            "name": "Туризм",
+            "lastPublished": "2026-09-17",
+            "status": "stale",
+            "lastUrl": "https://internationalinvestment.biz/en/montenegro/8797-montenegro-tourism-grows-nearly-8.html"
+          }
+        ],
+        "signalAt": "2026-11-05",
+        "sourceUrl": "https://etc-corporate.org/reports/european-tourism-trends-prospects-q3-2026/",
+        "decision": "update_existing",
+        "coverageStatus": "stale",
+        "archivedAt": "2026-11-14"
+      },
+      {
+        "country": "Румыния",
+        "lastUpdate": "2026-10-11",
+        "priority": "medium",
+        "reason": "ETC: +10% международных прибытий летом 2026. В проанализированных архивах отдельное туристическое обновление не подтвердилось; проверить национальную статистику и динамику ночёвок перед выбором темы.",
+        "topics": [
+          {
+            "name": "Туризм",
+            "lastPublished": null,
+            "status": "unverified"
+          }
+        ],
+        "signalAt": "2026-11-05",
+        "sourceUrl": "https://etc-corporate.org/reports/european-tourism-trends-prospects-q3-2026/",
+        "decision": "verify_then_new",
+        "coverageStatus": "unverified",
+        "archivedAt": "2026-11-14"
+      },
+      {
+        "country": "Польша",
+        "lastUpdate": "2026-10-31",
+        "priority": "medium",
+        "reason": "ETC: +11% международных прибытий летом 2026. В 90-дневной просмотренной части архива не найдено отдельного странового туристического материала; для статьи нужны локальные данные ночёвок и ADR.",
+        "topics": [
+          {
+            "name": "Туризм",
+            "lastPublished": null,
+            "status": "unverified"
+          }
+        ],
+        "signalAt": "2026-11-05",
+        "sourceUrl": "https://etc-corporate.org/reports/european-tourism-trends-prospects-q3-2026/",
+        "decision": "verify_then_new",
+        "coverageStatus": "unverified",
+        "archivedAt": "2026-11-14"
+      },
+      {
+        "country": "Испания",
+        "lastUpdate": "2026-11-07",
+        "priority": "medium",
+        "reason": "INE: расходы иностранных туристов в сентябре +8,1%, прибытия +4,3%. Тема в целом fresh благодаря статье о Wizz Air 7 ноября, но она не заменяет отдельный анализ туристических расходов; проверить дубли перед новым материалом.",
+        "topics": [
+          {
+            "name": "Туризм",
+            "lastPublished": "2026-11-07",
+            "status": "fresh",
+            "lastUrl": "https://internationalinvestment.biz/en/business/9063-wizz-air-launches-domestic-flights-in-spain.html"
+          }
+        ],
+        "signalAt": "2026-11-04",
+        "sourceUrl": "https://www.ine.es/dyngs/Prensa/en/EGATUR0926.htm?print=1",
+        "additionalSourceUrl": "https://www.lamoncloa.gob.es/lang/en/gobierno/news/Paginas/2026/20261105-international-tourists-spending.aspx",
+        "decision": "new_specific_release",
+        "coverageStatus": "fresh",
+        "archivedAt": "2026-11-14"
       }
     ],
     "matrix": [
       {
         "country": "Австралия",
-        "lastUpdate": "2026-09-23",
+        "lastUpdate": "2026-11-09",
         "topicCount": 3,
         "topics": [
           {
             "name": "Недвижимость",
-            "lastPublished": "2026-09-23",
-            "status": "stale",
-            "lastUrl": "https://internationalinvestment.biz/en/australia/8807-bathla-crisis-adds-risk-to-australias-housing-supply.html",
-            "articleId": "8807",
-            "headline": "Bathla Crisis Adds Risk to Australia’s Housing Supply",
+            "lastPublished": "2026-11-09",
+            "status": "fresh",
+            "lastUrl": "https://internationalinvestment.biz/en/real-estate/9079-australian-property-market-fastest-downturn-in-40-years.html",
+            "articleId": "9079",
+            "headline": "Australian Property Market: Fastest Downturn in 40 Years",
             "languageUrls": {
-              "en": "https://internationalinvestment.biz/en/australia/8807-bathla-crisis-adds-risk-to-australias-housing-supply.html"
+              "en": "https://internationalinvestment.biz/en/real-estate/9079-australian-property-market-fastest-downturn-in-40-years.html"
             },
-            "matchCount": 5,
-            "auditBasis": "language archive, country-specific"
+            "matchCount": 6,
+            "auditBasis": "incremental current-site verification, 9–14 Nov 2026"
           },
           {
             "name": "Инвестиции",
-            "lastPublished": "2026-09-23",
-            "status": "stale",
-            "lastUrl": "https://internationalinvestment.biz/en/australia/8807-bathla-crisis-adds-risk-to-australias-housing-supply.html",
-            "articleId": "8807",
-            "headline": "Bathla Crisis Adds Risk to Australia’s Housing Supply",
+            "lastPublished": "2026-11-09",
+            "status": "fresh",
+            "lastUrl": "https://internationalinvestment.biz/en/real-estate/9079-australian-property-market-fastest-downturn-in-40-years.html",
+            "articleId": "9079",
+            "headline": "Australian Property Market: Fastest Downturn in 40 Years",
             "languageUrls": {
-              "en": "https://internationalinvestment.biz/en/australia/8807-bathla-crisis-adds-risk-to-australias-housing-supply.html"
+              "en": "https://internationalinvestment.biz/en/real-estate/9079-australian-property-market-fastest-downturn-in-40-years.html"
             },
-            "matchCount": 2,
-            "auditBasis": "language archive, country-specific"
+            "matchCount": 3,
+            "auditBasis": "incremental current-site verification, 9–14 Nov 2026"
           },
           {
             "name": "Туризм",
@@ -4212,46 +4465,60 @@
       },
       {
         "country": "Албания",
-        "lastUpdate": "2026-08-25",
-        "topicCount": 2,
+        "lastUpdate": "2026-11-12",
+        "topicCount": 5,
         "topics": [
           {
             "name": "Недвижимость",
-            "lastPublished": "2026-08-25",
-            "status": "urgent",
-            "lastUrl": "https://internationalinvestment.biz/en/real-estate/8699-housing-rent-in-tirana-takes-up-93-of-the-average-salary.html",
-            "articleId": "8699",
-            "headline": "Housing rent in Tirana takes up 93% of the average salary",
+            "lastPublished": "2026-11-12",
+            "status": "fresh",
+            "lastUrl": "https://internationalinvestment.biz/en/business/9097-investment-in-albania-growth-and-risks.html",
+            "articleId": "9097",
+            "headline": "Investment in Albania: Growth and Risks",
             "languageUrls": {
-              "en": "https://internationalinvestment.biz/en/real-estate/8699-housing-rent-in-tirana-takes-up-93-of-the-average-salary.html"
+              "en": "https://internationalinvestment.biz/en/business/9097-investment-in-albania-growth-and-risks.html"
             },
-            "matchCount": 1,
-            "auditBasis": "language archive, country-specific"
+            "matchCount": 2,
+            "auditBasis": "incremental current-site verification, 9–14 Nov 2026"
           },
           {
             "name": "Инвестиции",
-            "lastPublished": "2026-08-25",
-            "status": "urgent",
-            "lastUrl": "https://internationalinvestment.biz/en/real-estate/8699-housing-rent-in-tirana-takes-up-93-of-the-average-salary.html",
-            "articleId": "8699",
-            "headline": "Housing rent in Tirana takes up 93% of the average salary",
+            "lastPublished": "2026-11-12",
+            "status": "fresh",
+            "lastUrl": "https://internationalinvestment.biz/en/business/9097-investment-in-albania-growth-and-risks.html",
+            "articleId": "9097",
+            "headline": "Investment in Albania: Growth and Risks",
             "languageUrls": {
-              "en": "https://internationalinvestment.biz/en/real-estate/8699-housing-rent-in-tirana-takes-up-93-of-the-average-salary.html"
+              "en": "https://internationalinvestment.biz/en/business/9097-investment-in-albania-growth-and-risks.html"
             },
-            "matchCount": 1,
-            "auditBasis": "language archive, country-specific"
+            "matchCount": 2,
+            "auditBasis": "incremental current-site verification, 9–14 Nov 2026"
           },
           {
             "name": "Туризм",
-            "lastPublished": null,
-            "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "lastPublished": "2026-11-09",
+            "status": "fresh",
+            "auditBasis": "incremental current-site verification, 9–14 Nov 2026",
+            "lastUrl": "https://internationalinvestment.biz/en/tourism/9075-albania-limits-residential-development-in-resort-complexes.html",
+            "articleId": "9075",
+            "headline": "Albania Limits Residential Development in Resort Complexes",
+            "languageUrls": {
+              "en": "https://internationalinvestment.biz/en/tourism/9075-albania-limits-residential-development-in-resort-complexes.html"
+            },
+            "matchCount": 1
           },
           {
             "name": "Отели и гостиничный бизнес",
-            "lastPublished": null,
-            "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "lastPublished": "2026-11-09",
+            "status": "fresh",
+            "auditBasis": "incremental current-site verification, 9–14 Nov 2026",
+            "lastUrl": "https://internationalinvestment.biz/en/tourism/9075-albania-limits-residential-development-in-resort-complexes.html",
+            "articleId": "9075",
+            "headline": "Albania Limits Residential Development in Resort Complexes",
+            "languageUrls": {
+              "en": "https://internationalinvestment.biz/en/tourism/9075-albania-limits-residential-development-in-resort-complexes.html"
+            },
+            "matchCount": 1
           },
           {
             "name": "ВНЖ и миграция",
@@ -4267,35 +4534,49 @@
           },
           {
             "name": "Регулирование и правила для иностранных покупателей",
-            "lastPublished": null,
-            "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "lastPublished": "2026-11-12",
+            "status": "fresh",
+            "auditBasis": "incremental current-site verification, 9–14 Nov 2026",
+            "lastUrl": "https://internationalinvestment.biz/en/business/9097-investment-in-albania-growth-and-risks.html",
+            "articleId": "9097",
+            "headline": "Investment in Albania: Growth and Risks",
+            "languageUrls": {
+              "en": "https://internationalinvestment.biz/en/business/9097-investment-in-albania-growth-and-risks.html"
+            },
+            "matchCount": 2
           }
         ]
       },
       {
         "country": "Аргентина",
-        "lastUpdate": "2026-09-07",
-        "topicCount": 2,
+        "lastUpdate": "2026-11-10",
+        "topicCount": 4,
         "topics": [
           {
             "name": "Недвижимость",
-            "lastPublished": "2026-09-03",
-            "status": "urgent",
-            "lastUrl": "https://internationalinvestment.biz/en/argentina/8758-argentina-rents-rise-but-lag-inflation.html",
-            "articleId": "8758",
-            "headline": "Argentina Rents Rise but Lag Inflation",
+            "lastPublished": "2026-11-09",
+            "status": "fresh",
+            "lastUrl": "https://internationalinvestment.biz/en/real-estate/9077-buying-land-in-argentina-restrictions-for-foreigners.html",
+            "articleId": "9077",
+            "headline": "Buying Land in Argentina: Restrictions for Foreigners",
             "languageUrls": {
-              "en": "https://internationalinvestment.biz/en/argentina/8758-argentina-rents-rise-but-lag-inflation.html"
+              "en": "https://internationalinvestment.biz/en/real-estate/9077-buying-land-in-argentina-restrictions-for-foreigners.html"
             },
-            "matchCount": 1,
-            "auditBasis": "language archive, country-specific"
+            "matchCount": 2,
+            "auditBasis": "incremental current-site verification, 9–14 Nov 2026"
           },
           {
             "name": "Инвестиции",
-            "lastPublished": null,
-            "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "lastPublished": "2026-11-09",
+            "status": "fresh",
+            "auditBasis": "incremental current-site verification, 9–14 Nov 2026",
+            "lastUrl": "https://internationalinvestment.biz/en/real-estate/9077-buying-land-in-argentina-restrictions-for-foreigners.html",
+            "articleId": "9077",
+            "headline": "Buying Land in Argentina: Restrictions for Foreigners",
+            "languageUrls": {
+              "en": "https://internationalinvestment.biz/en/real-estate/9077-buying-land-in-argentina-restrictions-for-foreigners.html"
+            },
+            "matchCount": 1
           },
           {
             "name": "Туризм",
@@ -4311,16 +4592,16 @@
           },
           {
             "name": "ВНЖ и миграция",
-            "lastPublished": "2026-09-07",
-            "status": "urgent",
-            "lastUrl": "https://internationalinvestment.biz/en/argentina/8762-argentina-draws-families-while-investor-citizenship-remains-uncertain.html",
-            "articleId": "8762",
-            "headline": "Argentina Draws Families While Investor Citizenship Remains Uncertain",
+            "lastPublished": "2026-11-10",
+            "status": "fresh",
+            "lastUrl": "https://internationalinvestment.biz/en/news/9090-argentina-tightens-residence-permit-rules.html",
+            "articleId": "9090",
+            "headline": "Argentina Tightens Residence Permit Rules",
             "languageUrls": {
-              "en": "https://internationalinvestment.biz/en/argentina/8762-argentina-draws-families-while-investor-citizenship-remains-uncertain.html"
+              "en": "https://internationalinvestment.biz/en/news/9090-argentina-tightens-residence-permit-rules.html"
             },
-            "matchCount": 1,
-            "auditBasis": "language archive, country-specific"
+            "matchCount": 2,
+            "auditBasis": "incremental current-site verification, 9–14 Nov 2026"
           },
           {
             "name": "Налоги для инвесторов",
@@ -4330,48 +4611,55 @@
           },
           {
             "name": "Регулирование и правила для иностранных покупателей",
-            "lastPublished": null,
-            "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "lastPublished": "2026-11-09",
+            "status": "fresh",
+            "auditBasis": "incremental current-site verification, 9–14 Nov 2026",
+            "lastUrl": "https://internationalinvestment.biz/en/real-estate/9077-buying-land-in-argentina-restrictions-for-foreigners.html",
+            "articleId": "9077",
+            "headline": "Buying Land in Argentina: Restrictions for Foreigners",
+            "languageUrls": {
+              "en": "https://internationalinvestment.biz/en/real-estate/9077-buying-land-in-argentina-restrictions-for-foreigners.html"
+            },
+            "matchCount": 1
           }
         ]
       },
       {
         "country": "Армения",
-        "lastUpdate": "2026-11-05",
+        "lastUpdate": "2026-11-13",
         "topicCount": 4,
         "topics": [
           {
             "name": "Недвижимость",
-            "lastPublished": "2026-11-05",
+            "lastPublished": "2026-11-13",
             "status": "fresh",
-            "lastUrl": "https://internationalinvestment.biz/en/real-estate/9054-yerevan-real-estate-rising-prices-and-the-risk-of-overheating.html",
-            "articleId": "9054",
-            "headline": "Yerevan Real Estate: Rising Prices and the Risk of Overheating",
+            "lastUrl": "https://internationalinvestment.biz/en/real-estate/9116-home-purchases-by-foreigners-in-armenia-rose-47.html",
+            "articleId": "9116",
+            "headline": "Home Purchases by Foreigners in Armenia Rose 47%",
             "languageUrls": {
-              "en": "https://internationalinvestment.biz/en/real-estate/9054-yerevan-real-estate-rising-prices-and-the-risk-of-overheating.html",
+              "en": "https://internationalinvestment.biz/en/real-estate/9116-home-purchases-by-foreigners-in-armenia-rose-47.html",
               "he": "https://internationalinvestment.biz/he/real-estate/9054-nadlan-be-yerevan-aliyot-mehirim-ve-hitchamemut-yeter.html",
               "ka": "https://internationalinvestment.biz/ka/real-estate/9054-erevnis-udzravi-koneba-fasebis-zrda-gadakhurebis-riski.html",
               "ru": "https://internationalinvestment.biz/real-estate/9054-nedvizhimost-erevana-rost-cen-i-risk-peregreva.html"
             },
-            "matchCount": 2,
-            "auditBasis": "language archive, country-specific"
+            "matchCount": 3,
+            "auditBasis": "incremental current-site verification, 9–14 Nov 2026"
           },
           {
             "name": "Инвестиции",
-            "lastPublished": "2026-11-05",
+            "lastPublished": "2026-11-13",
             "status": "fresh",
-            "lastUrl": "https://internationalinvestment.biz/en/real-estate/9054-yerevan-real-estate-rising-prices-and-the-risk-of-overheating.html",
-            "articleId": "9054",
-            "headline": "Yerevan Real Estate: Rising Prices and the Risk of Overheating",
+            "lastUrl": "https://internationalinvestment.biz/en/real-estate/9116-home-purchases-by-foreigners-in-armenia-rose-47.html",
+            "articleId": "9116",
+            "headline": "Home Purchases by Foreigners in Armenia Rose 47%",
             "languageUrls": {
-              "en": "https://internationalinvestment.biz/en/real-estate/9054-yerevan-real-estate-rising-prices-and-the-risk-of-overheating.html",
+              "en": "https://internationalinvestment.biz/en/real-estate/9116-home-purchases-by-foreigners-in-armenia-rose-47.html",
               "he": "https://internationalinvestment.biz/he/real-estate/9054-nadlan-be-yerevan-aliyot-mehirim-ve-hitchamemut-yeter.html",
               "ka": "https://internationalinvestment.biz/ka/real-estate/9054-erevnis-udzravi-koneba-fasebis-zrda-gadakhurebis-riski.html",
               "ru": "https://internationalinvestment.biz/real-estate/9054-nedvizhimost-erevana-rost-cen-i-risk-peregreva.html"
             },
-            "matchCount": 2,
-            "auditBasis": "language archive, country-specific"
+            "matchCount": 3,
+            "auditBasis": "incremental current-site verification, 9–14 Nov 2026"
           },
           {
             "name": "Туризм",
@@ -4421,53 +4709,60 @@
       },
       {
         "country": "Беларусь",
-        "lastUpdate": "2026-09-16",
-        "topicCount": 3,
+        "lastUpdate": "2026-11-11",
+        "topicCount": 4,
         "topics": [
           {
             "name": "Недвижимость",
-            "lastPublished": "2026-09-16",
-            "status": "stale",
-            "lastUrl": "https://internationalinvestment.biz/en/real-estate/8819-v-belarus-an-old-estate-linked-to-the-legend-of-napoleons-gold-is-being-put-up-for-sale.html",
-            "articleId": "8819",
-            "headline": "В Belarus, an old estate linked to the legend of Napoleon’s gold is being put up for sale",
+            "lastPublished": "2026-11-11",
+            "status": "fresh",
+            "lastUrl": "https://internationalinvestment.biz/en/tourism/9091-belarus-attracts-investors-to-resort-projects.html",
+            "articleId": "9091",
+            "headline": "Belarus Attracts Investors to Resort Projects",
             "languageUrls": {
-              "en": "https://internationalinvestment.biz/en/real-estate/8819-v-belarus-an-old-estate-linked-to-the-legend-of-napoleons-gold-is-being-put-up-for-sale.html"
+              "en": "https://internationalinvestment.biz/en/tourism/9091-belarus-attracts-investors-to-resort-projects.html"
             },
-            "matchCount": 1,
-            "auditBasis": "language archive, country-specific"
+            "matchCount": 2,
+            "auditBasis": "incremental current-site verification, 9–14 Nov 2026"
           },
           {
             "name": "Инвестиции",
-            "lastPublished": "2026-09-16",
-            "status": "stale",
-            "lastUrl": "https://internationalinvestment.biz/en/real-estate/8819-v-belarus-an-old-estate-linked-to-the-legend-of-napoleons-gold-is-being-put-up-for-sale.html",
-            "articleId": "8819",
-            "headline": "В Belarus, an old estate linked to the legend of Napoleon’s gold is being put up for sale",
+            "lastPublished": "2026-11-11",
+            "status": "fresh",
+            "lastUrl": "https://internationalinvestment.biz/en/tourism/9091-belarus-attracts-investors-to-resort-projects.html",
+            "articleId": "9091",
+            "headline": "Belarus Attracts Investors to Resort Projects",
             "languageUrls": {
-              "en": "https://internationalinvestment.biz/en/real-estate/8819-v-belarus-an-old-estate-linked-to-the-legend-of-napoleons-gold-is-being-put-up-for-sale.html"
+              "en": "https://internationalinvestment.biz/en/tourism/9091-belarus-attracts-investors-to-resort-projects.html"
             },
-            "matchCount": 1,
-            "auditBasis": "language archive, country-specific"
+            "matchCount": 2,
+            "auditBasis": "incremental current-site verification, 9–14 Nov 2026"
           },
           {
             "name": "Туризм",
-            "lastPublished": "2026-08-18",
-            "status": "urgent",
-            "lastUrl": "https://internationalinvestment.biz/en/news/8656-foreigners-in-belarus-153000-visits-in-2026.html",
-            "articleId": "8656",
-            "headline": "Foreigners in Belarus: 153,000 Visits in 2026",
+            "lastPublished": "2026-11-11",
+            "status": "fresh",
+            "lastUrl": "https://internationalinvestment.biz/en/tourism/9091-belarus-attracts-investors-to-resort-projects.html",
+            "articleId": "9091",
+            "headline": "Belarus Attracts Investors to Resort Projects",
             "languageUrls": {
-              "en": "https://internationalinvestment.biz/en/news/8656-foreigners-in-belarus-153000-visits-in-2026.html"
+              "en": "https://internationalinvestment.biz/en/tourism/9091-belarus-attracts-investors-to-resort-projects.html"
             },
-            "matchCount": 1,
-            "auditBasis": "language archive, country-specific"
+            "matchCount": 2,
+            "auditBasis": "incremental current-site verification, 9–14 Nov 2026"
           },
           {
             "name": "Отели и гостиничный бизнес",
-            "lastPublished": null,
-            "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "lastPublished": "2026-11-11",
+            "status": "fresh",
+            "auditBasis": "incremental current-site verification, 9–14 Nov 2026",
+            "lastUrl": "https://internationalinvestment.biz/en/tourism/9091-belarus-attracts-investors-to-resort-projects.html",
+            "articleId": "9091",
+            "headline": "Belarus Attracts Investors to Resort Projects",
+            "languageUrls": {
+              "en": "https://internationalinvestment.biz/en/tourism/9091-belarus-attracts-investors-to-resort-projects.html"
+            },
+            "matchCount": 1
           },
           {
             "name": "ВНЖ и миграция",
@@ -4491,20 +4786,34 @@
       },
       {
         "country": "Бельгия",
-        "lastUpdate": "2026-10-30",
-        "topicCount": 0,
+        "lastUpdate": "2026-11-09",
+        "topicCount": 2,
         "topics": [
           {
             "name": "Недвижимость",
-            "lastPublished": null,
-            "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "lastPublished": "2026-11-09",
+            "status": "fresh",
+            "auditBasis": "incremental current-site verification, 9–14 Nov 2026",
+            "lastUrl": "https://internationalinvestment.biz/en/business/9067-belgian-industrial-property-draws-537m-of-capital.html",
+            "articleId": "9067",
+            "headline": "Belgian Industrial Property Draws EUR537m of Capital",
+            "languageUrls": {
+              "en": "https://internationalinvestment.biz/en/business/9067-belgian-industrial-property-draws-537m-of-capital.html"
+            },
+            "matchCount": 1
           },
           {
             "name": "Инвестиции",
-            "lastPublished": null,
-            "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "lastPublished": "2026-11-09",
+            "status": "fresh",
+            "auditBasis": "incremental current-site verification, 9–14 Nov 2026",
+            "lastUrl": "https://internationalinvestment.biz/en/business/9067-belgian-industrial-property-draws-537m-of-capital.html",
+            "articleId": "9067",
+            "headline": "Belgian Industrial Property Draws EUR537m of Capital",
+            "languageUrls": {
+              "en": "https://internationalinvestment.biz/en/business/9067-belgian-industrial-property-draws-537m-of-capital.html"
+            },
+            "matchCount": 1
           },
           {
             "name": "Туризм",
@@ -4540,8 +4849,8 @@
       },
       {
         "country": "Болгария",
-        "lastUpdate": "2026-11-03",
-        "topicCount": 5,
+        "lastUpdate": "2026-11-11",
+        "topicCount": 6,
         "topics": [
           {
             "name": "Недвижимость",
@@ -4561,38 +4870,45 @@
           },
           {
             "name": "Инвестиции",
-            "lastPublished": "2026-11-03",
+            "lastPublished": "2026-11-11",
             "status": "fresh",
-            "lastUrl": "https://internationalinvestment.biz/en/real-estate/9035-price-deadlock-in-bulgaria-property-sales-fall-22.html",
-            "articleId": "9035",
-            "headline": "Price Deadlock in Bulgaria: Property Sales Fall 22%",
+            "lastUrl": "https://internationalinvestment.biz/en/tourism/9092-bulgarian-hotels-post-higher-revenue-despite-weaker-demand.html",
+            "articleId": "9092",
+            "headline": "Bulgarian Hotels Post Higher Revenue Despite Weaker Demand",
             "languageUrls": {
-              "en": "https://internationalinvestment.biz/en/real-estate/9035-price-deadlock-in-bulgaria-property-sales-fall-22.html",
+              "en": "https://internationalinvestment.biz/en/tourism/9092-bulgarian-hotels-post-higher-revenue-despite-weaker-demand.html",
               "he": "https://internationalinvestment.biz/he/real-estate/9035-mavo-satum-mehirim-bulgaria-nadlan-tsanhu.html",
               "ka": "https://internationalinvestment.biz/ka/real-estate/9035-safaso-chikhi-bulgaretshi-udzravi-konebis-garigebebi.html",
               "ru": "https://internationalinvestment.biz/real-estate/9035-cenovoj-tupik-v-bolgarii-sdelki-s-nedvizhimostju-upali-na-22.html"
             },
-            "matchCount": 6,
-            "auditBasis": "language archive, country-specific"
+            "matchCount": 7,
+            "auditBasis": "incremental current-site verification, 9–14 Nov 2026"
           },
           {
             "name": "Туризм",
-            "lastPublished": "2026-08-19",
-            "status": "urgent",
-            "lastUrl": "https://internationalinvestment.biz/en/bulgaria/8619-bulgaria-plans-incentives-for-new-air-routes.html",
-            "articleId": "8619",
-            "headline": "Bulgaria Plans Incentives for New Air Routes",
+            "lastPublished": "2026-11-11",
+            "status": "fresh",
+            "lastUrl": "https://internationalinvestment.biz/en/tourism/9092-bulgarian-hotels-post-higher-revenue-despite-weaker-demand.html",
+            "articleId": "9092",
+            "headline": "Bulgarian Hotels Post Higher Revenue Despite Weaker Demand",
             "languageUrls": {
-              "en": "https://internationalinvestment.biz/en/bulgaria/8619-bulgaria-plans-incentives-for-new-air-routes.html"
+              "en": "https://internationalinvestment.biz/en/tourism/9092-bulgarian-hotels-post-higher-revenue-despite-weaker-demand.html"
             },
-            "matchCount": 1,
-            "auditBasis": "language archive, country-specific"
+            "matchCount": 2,
+            "auditBasis": "incremental current-site verification, 9–14 Nov 2026"
           },
           {
             "name": "Отели и гостиничный бизнес",
-            "lastPublished": null,
-            "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "lastPublished": "2026-11-11",
+            "status": "fresh",
+            "auditBasis": "incremental current-site verification, 9–14 Nov 2026",
+            "lastUrl": "https://internationalinvestment.biz/en/tourism/9092-bulgarian-hotels-post-higher-revenue-despite-weaker-demand.html",
+            "articleId": "9092",
+            "headline": "Bulgarian Hotels Post Higher Revenue Despite Weaker Demand",
+            "languageUrls": {
+              "en": "https://internationalinvestment.biz/en/tourism/9092-bulgarian-hotels-post-higher-revenue-despite-weaker-demand.html"
+            },
+            "matchCount": 1
           },
           {
             "name": "ВНЖ и миграция",
@@ -4689,34 +5005,34 @@
       },
       {
         "country": "Венгрия",
-        "lastUpdate": "2026-09-03",
+        "lastUpdate": "2026-11-13",
         "topicCount": 3,
         "topics": [
           {
             "name": "Недвижимость",
-            "lastPublished": "2026-09-03",
-            "status": "urgent",
-            "lastUrl": "https://internationalinvestment.biz/en/hungary/8755-hungary-plans-wealth-tax-above-1-billion-forints.html",
-            "articleId": "8755",
-            "headline": "Hungary Plans Wealth Tax Above 1 Billion Forints",
+            "lastPublished": "2026-11-13",
+            "status": "fresh",
+            "lastUrl": "https://internationalinvestment.biz/en/real-estate/9114-hungarys-property-price-growth-comes-to-a-near-standstill.html",
+            "articleId": "9114",
+            "headline": "Hungary's Property Price Growth Comes to a Near Standstill",
             "languageUrls": {
-              "en": "https://internationalinvestment.biz/en/hungary/8755-hungary-plans-wealth-tax-above-1-billion-forints.html"
+              "en": "https://internationalinvestment.biz/en/real-estate/9114-hungarys-property-price-growth-comes-to-a-near-standstill.html"
             },
-            "matchCount": 2,
-            "auditBasis": "language archive, country-specific"
+            "matchCount": 3,
+            "auditBasis": "incremental current-site verification, 9–14 Nov 2026"
           },
           {
             "name": "Инвестиции",
-            "lastPublished": "2026-09-03",
-            "status": "urgent",
-            "lastUrl": "https://internationalinvestment.biz/en/hungary/8755-hungary-plans-wealth-tax-above-1-billion-forints.html",
-            "articleId": "8755",
-            "headline": "Hungary Plans Wealth Tax Above 1 Billion Forints",
+            "lastPublished": "2026-11-13",
+            "status": "fresh",
+            "lastUrl": "https://internationalinvestment.biz/en/real-estate/9114-hungarys-property-price-growth-comes-to-a-near-standstill.html",
+            "articleId": "9114",
+            "headline": "Hungary's Property Price Growth Comes to a Near Standstill",
             "languageUrls": {
-              "en": "https://internationalinvestment.biz/en/hungary/8755-hungary-plans-wealth-tax-above-1-billion-forints.html"
+              "en": "https://internationalinvestment.biz/en/real-estate/9114-hungarys-property-price-growth-comes-to-a-near-standstill.html"
             },
-            "matchCount": 1,
-            "auditBasis": "language archive, country-specific"
+            "matchCount": 2,
+            "auditBasis": "incremental current-site verification, 9–14 Nov 2026"
           },
           {
             "name": "Туризм",
@@ -4810,7 +5126,7 @@
           {
             "name": "Отели и гостиничный бизнес",
             "lastPublished": "2026-10-26",
-            "status": "fresh",
+            "status": "watch",
             "lastUrl": "https://internationalinvestment.biz/en/business/8996-england-to-introduce-a-short-term-rental-register.html",
             "articleId": "8996",
             "headline": "England to Introduce a Short-Term Rental Register",
@@ -4826,7 +5142,7 @@
           {
             "name": "ВНЖ и миграция",
             "lastPublished": "2026-09-09",
-            "status": "stale",
+            "status": "urgent",
             "lastUrl": "https://internationalinvestment.biz/en/britannia/8780-reform-uk-reworks-its-offer-to-wealthy-foreigners.html",
             "articleId": "8780",
             "headline": "Reform UK Reworks Its Offer to Wealthy Foreigners",
@@ -4865,7 +5181,7 @@
           {
             "name": "Недвижимость",
             "lastPublished": "2026-10-26",
-            "status": "fresh",
+            "status": "watch",
             "lastUrl": "https://internationalinvestment.biz/en/real-estate/8995-berlin-leads-the-ranking-for-utility-costs.html",
             "articleId": "8995",
             "headline": "Berlin Leads the Ranking for Utility Costs",
@@ -4881,7 +5197,7 @@
           {
             "name": "Инвестиции",
             "lastPublished": "2026-10-26",
-            "status": "fresh",
+            "status": "watch",
             "lastUrl": "https://internationalinvestment.biz/en/real-estate/8995-berlin-leads-the-ranking-for-utility-costs.html",
             "articleId": "8995",
             "headline": "Berlin Leads the Ranking for Utility Costs",
@@ -5047,81 +5363,83 @@
       },
       {
         "country": "Грузия",
-        "lastUpdate": "2026-11-08",
-        "topicCount": 6,
+        "lastUpdate": "2026-11-13",
+        "topicCount": 7,
         "topics": [
           {
             "name": "Недвижимость",
-            "lastPublished": "2026-11-08",
+            "lastPublished": "2026-11-11",
             "status": "fresh",
-            "lastUrl": "https://internationalinvestment.biz/ka/business/9072-.html",
-            "articleId": "9072",
-            "headline": "საქართველოში ბიზნესკლიმატი კვლავ ბუმის ფაზაშია - სექტორებს შორის მშენებლობა ლიდერობს",
+            "lastUrl": "https://internationalinvestment.biz/en/real-estate/9100-tbilisi-apartments-sold-2027-delivery-projects.html",
+            "articleId": "9100",
+            "headline": "74% of Apartments Sold in Tbilisi Projects Due for Delivery in 2027",
             "languageUrls": {
-              "ka": "https://internationalinvestment.biz/ka/business/9072-.html"
+              "ka": "https://internationalinvestment.biz/ka/business/9072-.html",
+              "en": "https://internationalinvestment.biz/en/real-estate/9100-tbilisi-apartments-sold-2027-delivery-projects.html"
             },
-            "matchCount": 38,
-            "auditBasis": "language archive, country-specific"
+            "matchCount": 39,
+            "auditBasis": "incremental current-site verification, 9–14 Nov 2026"
           },
           {
             "name": "Инвестиции",
-            "lastPublished": "2026-11-08",
+            "lastPublished": "2026-11-12",
             "status": "fresh",
-            "lastUrl": "https://internationalinvestment.biz/ka/business/9072-.html",
-            "articleId": "9072",
-            "headline": "საქართველოში ბიზნესკლიმატი კვლავ ბუმის ფაზაშია - სექტორებს შორის მშენებლობა ლიდერობს",
+            "lastUrl": "https://internationalinvestment.biz/en/business/9107-georgia-rule-of-law-world-bank-wgi.html",
+            "articleId": "9107",
+            "headline": "Rule of Law: Fresh Data Shows Georgia Ahead of Albania, Moldova, and Ukraine",
             "languageUrls": {
-              "ka": "https://internationalinvestment.biz/ka/business/9072-.html"
+              "ka": "https://internationalinvestment.biz/ka/business/9072-.html",
+              "en": "https://internationalinvestment.biz/en/business/9107-georgia-rule-of-law-world-bank-wgi.html"
             },
-            "matchCount": 36,
-            "auditBasis": "language archive, country-specific"
+            "matchCount": 37,
+            "auditBasis": "incremental current-site verification, 9–14 Nov 2026"
           },
           {
             "name": "Туризм",
-            "lastPublished": "2026-11-08",
+            "lastPublished": "2026-11-13",
             "status": "fresh",
-            "lastUrl": "https://internationalinvestment.biz/en/tourism/9012-2026-57.html",
-            "articleId": "9012",
-            "headline": "Foreign Visitors Spent GEL 5.7 Billion in Georgia in Q3 2026",
+            "lastUrl": "https://internationalinvestment.biz/en/tourism/9119-georgian-residents-outbound-travel-statistics-purposes.html",
+            "articleId": "9119",
+            "headline": "Friends, Shopping, and Leisure: Georgian Residents' Outbound Travel",
             "languageUrls": {
-              "en": "https://internationalinvestment.biz/en/tourism/9012-2026-57.html",
+              "en": "https://internationalinvestment.biz/en/tourism/9119-georgian-residents-outbound-travel-statistics-purposes.html",
               "he": "https://internationalinvestment.biz/he/tourism/9012-zarim-hotsiu-be-georgia-hamesh-nekuda-sheva-miliard-lari.html",
               "ka": "https://internationalinvestment.biz/ka/tourism/9012-2026-57.html",
               "ru": "https://internationalinvestment.biz/tourism/9012-2026-57.html"
             },
-            "matchCount": 39,
-            "auditBasis": "language archive, country-specific"
+            "matchCount": 40,
+            "auditBasis": "incremental current-site verification, 9–14 Nov 2026"
           },
           {
             "name": "Отели и гостиничный бизнес",
-            "lastPublished": "2026-11-06",
+            "lastPublished": "2026-11-13",
             "status": "fresh",
-            "lastUrl": "https://internationalinvestment.biz/en/business/9062-ai-in-hospitality-practice-and-future-prospects.html",
-            "articleId": "9062",
-            "headline": "AI in Hospitality: Practical Applications and Future Prospects",
+            "lastUrl": "https://internationalinvestment.biz/en/business/9120-record-year-for-tbilisi-hotels.html",
+            "articleId": "9120",
+            "headline": "Record Year for Tbilisi Hotels",
             "languageUrls": {
-              "en": "https://internationalinvestment.biz/en/business/9062-ai-in-hospitality-practice-and-future-prospects.html",
+              "en": "https://internationalinvestment.biz/en/business/9120-record-year-for-tbilisi-hotels.html",
               "he": "https://internationalinvestment.biz/he/business/9062-bina-melachutit-be-anaf-hamelonaot-perspektivot.html",
               "ru": "https://internationalinvestment.biz/business/9062-ai.html"
             },
-            "matchCount": 9,
-            "auditBasis": "language archive, country-specific"
+            "matchCount": 10,
+            "auditBasis": "incremental current-site verification, 9–14 Nov 2026"
           },
           {
             "name": "ВНЖ и миграция",
-            "lastPublished": "2026-10-27",
+            "lastPublished": "2026-11-13",
             "status": "fresh",
-            "lastUrl": "https://internationalinvestment.biz/en/business/9000-who-is-buying-property-in-batumi-interview-with-a-real-estate-developer.html",
-            "articleId": "9000",
-            "headline": "Who Is Buying Property in Batumi? Interview with a Real Estate Developer",
+            "lastUrl": "https://internationalinvestment.biz/en/migration/9111-foreign-employment-georgia-work-permit-deadline.html",
+            "articleId": "9111",
+            "headline": "Employment of Foreigners in Georgia: Work Permit Deadline",
             "languageUrls": {
-              "en": "https://internationalinvestment.biz/en/business/9000-who-is-buying-property-in-batumi-interview-with-a-real-estate-developer.html",
+              "en": "https://internationalinvestment.biz/en/migration/9111-foreign-employment-georgia-work-permit-deadline.html",
               "he": "https://internationalinvestment.biz/he/business/9000-mi-kone-nadlan-bebatumi-reayon-im-yazam.html",
               "ka": "https://internationalinvestment.biz/ka/business/9000-httpsinternationalinvestmentbizkabusiness9000-html.html",
               "ru": "https://internationalinvestment.biz/business/9000-httpsinternationalinvestmentbizkabusiness9000-html.html"
             },
-            "matchCount": 3,
-            "auditBasis": "language archive, country-specific"
+            "matchCount": 4,
+            "auditBasis": "incremental current-site verification, 9–14 Nov 2026"
           },
           {
             "name": "Налоги для инвесторов",
@@ -5138,9 +5456,16 @@
           },
           {
             "name": "Регулирование и правила для иностранных покупателей",
-            "lastPublished": null,
-            "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "lastPublished": "2026-11-13",
+            "status": "fresh",
+            "auditBasis": "incremental current-site verification, 9–14 Nov 2026",
+            "lastUrl": "https://internationalinvestment.biz/en/migration/9111-foreign-employment-georgia-work-permit-deadline.html",
+            "articleId": "9111",
+            "headline": "Employment of Foreigners in Georgia: Work Permit Deadline",
+            "languageUrls": {
+              "en": "https://internationalinvestment.biz/en/migration/9111-foreign-employment-georgia-work-permit-deadline.html"
+            },
+            "matchCount": 1
           }
         ]
       },
@@ -5343,7 +5668,7 @@
           {
             "name": "Туризм",
             "lastPublished": "2026-10-30",
-            "status": "fresh",
+            "status": "watch",
             "lastUrl": "https://internationalinvestment.biz/en/tourism/9008-boat-carrying-russian-tourists-explodes-in-bali.html",
             "articleId": "9008",
             "headline": "Boat carrying Russian tourists explodes in Bali",
@@ -5479,7 +5804,7 @@
           {
             "name": "Туризм",
             "lastPublished": "2026-10-12",
-            "status": "watch",
+            "status": "stale",
             "lastUrl": "https://internationalinvestment.biz/en/tourism/8933-tourism-in-israel-in-2026-demand-and-outlook.html",
             "articleId": "8933",
             "headline": "Tourism in Israel in 2026: Demand and Outlook",
@@ -5531,40 +5856,40 @@
       },
       {
         "country": "Испания",
-        "lastUpdate": "2026-11-07",
+        "lastUpdate": "2026-11-12",
         "topicCount": 5,
         "topics": [
           {
             "name": "Недвижимость",
-            "lastPublished": "2026-11-04",
+            "lastPublished": "2026-11-09",
             "status": "fresh",
-            "lastUrl": "https://internationalinvestment.biz/en/real-estate/9045-one-in-three-renters-in-spain-lives-below-the-poverty-line.html",
-            "articleId": "9045",
-            "headline": "One in Three Renters in Spain Lives Below the Poverty Line",
+            "lastUrl": "https://internationalinvestment.biz/en/news/9078-madrid-to-build-1-billion-city-of-health-complex.html",
+            "articleId": "9078",
+            "headline": "Madrid to Build EUR1 Billion City of Health Complex",
             "languageUrls": {
-              "en": "https://internationalinvestment.biz/en/real-estate/9045-one-in-three-renters-in-spain-lives-below-the-poverty-line.html",
+              "en": "https://internationalinvestment.biz/en/news/9078-madrid-to-build-1-billion-city-of-health-complex.html",
               "he": "https://internationalinvestment.biz/he/real-estate/9045-kol-socher-shlishi-bisfarad-mitachat-lekav-haoni.html",
               "ka": "https://internationalinvestment.biz/ka/real-estate/9045-espanetshi-qoveli-mesame-damqiravebeli-sigharibis-zghvars-mighmaa.html",
               "ru": "https://internationalinvestment.biz/real-estate/9045-kazhdyj-tretij-arendator-v-ispanii-za-chertoj-bednosti.html"
             },
-            "matchCount": 8,
-            "auditBasis": "language archive, country-specific"
+            "matchCount": 9,
+            "auditBasis": "incremental current-site verification, 9–14 Nov 2026"
           },
           {
             "name": "Инвестиции",
-            "lastPublished": "2026-11-01",
+            "lastPublished": "2026-11-09",
             "status": "fresh",
-            "lastUrl": "https://internationalinvestment.biz/en/real-estate/8880-new-restrictions-on-spains-rental-market.html",
-            "articleId": "8880",
-            "headline": "Spain Repeals Two Housing Decrees After Parliamentary Vote",
+            "lastUrl": "https://internationalinvestment.biz/en/news/9078-madrid-to-build-1-billion-city-of-health-complex.html",
+            "articleId": "9078",
+            "headline": "Madrid to Build EUR1 Billion City of Health Complex",
             "languageUrls": {
-              "en": "https://internationalinvestment.biz/en/real-estate/8880-new-restrictions-on-spains-rental-market.html",
+              "en": "https://internationalinvestment.biz/en/news/9078-madrid-to-build-1-billion-city-of-health-complex.html",
               "he": "https://internationalinvestment.biz/he/real-estate/8880-hagbalot-hadashot-beshuk-haskhirut-bisfarad.html",
               "ka": "https://internationalinvestment.biz/ka/real-estate/8880-akhali-shezgudvebi-espanetis-ijaris-bazarze.html",
               "ru": "https://internationalinvestment.biz/real-estate/8880-novye-ogranichenija-na-rynke-arendy-ispanii.html"
             },
-            "matchCount": 5,
-            "auditBasis": "language archive, country-specific"
+            "matchCount": 6,
+            "auditBasis": "incremental current-site verification, 9–14 Nov 2026"
           },
           {
             "name": "Туризм",
@@ -5600,16 +5925,16 @@
           },
           {
             "name": "ВНЖ и миграция",
-            "lastPublished": "2026-09-11",
-            "status": "stale",
-            "lastUrl": "https://internationalinvestment.biz/en/news/8795-western-sahara-natives-to-be-granted-spanish-citizenship.html",
-            "articleId": "8795",
-            "headline": "Western Sahara Natives to Be Granted Spanish Citizenship",
+            "lastPublished": "2026-11-12",
+            "status": "fresh",
+            "lastUrl": "https://internationalinvestment.biz/en/migration/9103-migration-crisis-in-the-canary-islands.html",
+            "articleId": "9103",
+            "headline": "Migration Crisis in the Canary Islands",
             "languageUrls": {
-              "en": "https://internationalinvestment.biz/en/news/8795-western-sahara-natives-to-be-granted-spanish-citizenship.html"
+              "en": "https://internationalinvestment.biz/en/migration/9103-migration-crisis-in-the-canary-islands.html"
             },
-            "matchCount": 6,
-            "auditBasis": "language archive, country-specific"
+            "matchCount": 7,
+            "auditBasis": "incremental current-site verification, 9–14 Nov 2026"
           },
           {
             "name": "Налоги для инвесторов",
@@ -5627,8 +5952,8 @@
       },
       {
         "country": "Италия",
-        "lastUpdate": "2026-10-21",
-        "topicCount": 5,
+        "lastUpdate": "2026-11-13",
+        "topicCount": 6,
         "topics": [
           {
             "name": "Недвижимость",
@@ -5684,9 +6009,16 @@
           },
           {
             "name": "ВНЖ и миграция",
-            "lastPublished": null,
-            "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "lastPublished": "2026-11-13",
+            "status": "fresh",
+            "auditBasis": "incremental current-site verification, 9–14 Nov 2026",
+            "lastUrl": "https://internationalinvestment.biz/en/news/9109-italian-citizenship-by-descent-fraud-and-corruption.html",
+            "articleId": "9109",
+            "headline": "Italian Citizenship by Descent: Fraud and Corruption",
+            "languageUrls": {
+              "en": "https://internationalinvestment.biz/en/news/9109-italian-citizenship-by-descent-fraud-and-corruption.html"
+            },
+            "matchCount": 1
           },
           {
             "name": "Налоги для инвесторов",
@@ -5697,7 +6029,7 @@
           {
             "name": "Регулирование и правила для иностранных покупателей",
             "lastPublished": "2026-10-14",
-            "status": "watch",
+            "status": "stale",
             "lastUrl": "https://internationalinvestment.biz/en/italy/7943-rome-housing-market-gains-momentum.html",
             "articleId": "7943",
             "headline": "Foreign Buyers Return to Rome's Prime Property Market",
@@ -6075,7 +6407,7 @@
           {
             "name": "Инвестиции",
             "lastPublished": "2026-09-14",
-            "status": "stale",
+            "status": "urgent",
             "lastUrl": "https://internationalinvestment.biz/en/china/8809-china-nears-a-decision-on-fresh-stimulus.html",
             "articleId": "8809",
             "headline": "China Nears a Decision on Fresh Stimulus",
@@ -6158,7 +6490,7 @@
           {
             "name": "Туризм",
             "lastPublished": "2026-09-12",
-            "status": "stale",
+            "status": "urgent",
             "lastUrl": "https://internationalinvestment.biz/en/latvia/8760-latvias-foreign-tourism-slips-in-first-half.html",
             "articleId": "8760",
             "headline": "Latvia’s Foreign Tourism Slips in First Half",
@@ -6400,7 +6732,7 @@
           {
             "name": "Недвижимость",
             "lastPublished": "2026-10-27",
-            "status": "fresh",
+            "status": "watch",
             "lastUrl": "https://internationalinvestment.biz/en/business/9002-dutch-hotels-miss-the-wider-property-investment-rebound.html",
             "articleId": "9002",
             "headline": "Dutch Hotels Miss the Wider Property Investment Rebound",
@@ -6416,7 +6748,7 @@
           {
             "name": "Инвестиции",
             "lastPublished": "2026-10-27",
-            "status": "fresh",
+            "status": "watch",
             "lastUrl": "https://internationalinvestment.biz/en/business/9002-dutch-hotels-miss-the-wider-property-investment-rebound.html",
             "articleId": "9002",
             "headline": "Dutch Hotels Miss the Wider Property Investment Rebound",
@@ -6432,7 +6764,7 @@
           {
             "name": "Туризм",
             "lastPublished": "2026-10-30",
-            "status": "fresh",
+            "status": "watch",
             "lastUrl": "https://internationalinvestment.biz/en/business/6728-dutch-vat-rates-updated.html",
             "articleId": "6728",
             "headline": "Dutch VAT Rates Updated",
@@ -6448,7 +6780,7 @@
           {
             "name": "Отели и гостиничный бизнес",
             "lastPublished": "2026-10-27",
-            "status": "fresh",
+            "status": "watch",
             "lastUrl": "https://internationalinvestment.biz/en/business/9002-dutch-hotels-miss-the-wider-property-investment-rebound.html",
             "articleId": "9002",
             "headline": "Dutch Hotels Miss the Wider Property Investment Rebound",
@@ -6470,7 +6802,7 @@
           {
             "name": "Налоги для инвесторов",
             "lastPublished": "2026-10-30",
-            "status": "fresh",
+            "status": "watch",
             "lastUrl": "https://internationalinvestment.biz/en/business/6728-dutch-vat-rates-updated.html",
             "articleId": "6728",
             "headline": "Dutch VAT Rates Updated",
@@ -6645,13 +6977,13 @@
       },
       {
         "country": "Польша",
-        "lastUpdate": "2026-10-31",
+        "lastUpdate": "2026-09-09",
         "topicCount": 2,
         "topics": [
           {
             "name": "Недвижимость",
             "lastPublished": "2026-09-09",
-            "status": "stale",
+            "status": "urgent",
             "lastUrl": "https://internationalinvestment.biz/en/poland/8784-poland-poised-to-hold-rates-at-375.html",
             "articleId": "8784",
             "headline": "Poland Poised to Hold Rates at 3.75%",
@@ -6664,7 +6996,7 @@
           {
             "name": "Инвестиции",
             "lastPublished": "2026-09-09",
-            "status": "stale",
+            "status": "urgent",
             "lastUrl": "https://internationalinvestment.biz/en/poland/8784-poland-poised-to-hold-rates-at-375.html",
             "articleId": "8784",
             "headline": "Poland Poised to Hold Rates at 3.75%",
@@ -6708,34 +7040,34 @@
       },
       {
         "country": "Португалия",
-        "lastUpdate": "2026-10-21",
+        "lastUpdate": "2026-11-10",
         "topicCount": 5,
         "topics": [
           {
             "name": "Недвижимость",
-            "lastPublished": "2026-09-08",
-            "status": "urgent",
-            "lastUrl": "https://internationalinvestment.biz/en/portugal/8781-portugal-secures-15-billion-for-social-housing.html",
-            "articleId": "8781",
-            "headline": "Portugal Secures €1.5 Billion for Social Housing",
+            "lastPublished": "2026-11-10",
+            "status": "fresh",
+            "lastUrl": "https://internationalinvestment.biz/en/real-estate/9087-portugal-leads-eu-rise-in-house-prices-relative-to-income.html",
+            "articleId": "9087",
+            "headline": "Portugal Leads EU Rise in House Prices Relative to Income",
             "languageUrls": {
-              "en": "https://internationalinvestment.biz/en/portugal/8781-portugal-secures-15-billion-for-social-housing.html"
+              "en": "https://internationalinvestment.biz/en/real-estate/9087-portugal-leads-eu-rise-in-house-prices-relative-to-income.html"
             },
-            "matchCount": 2,
-            "auditBasis": "language archive, country-specific"
+            "matchCount": 3,
+            "auditBasis": "incremental current-site verification, 9–14 Nov 2026"
           },
           {
             "name": "Инвестиции",
-            "lastPublished": "2026-08-19",
-            "status": "urgent",
-            "lastUrl": "https://internationalinvestment.biz/en/news/8666-average-house-prices-in-portugal-reach-435000.html",
-            "articleId": "8666",
-            "headline": "Average House Prices in Portugal Reach €435,000",
+            "lastPublished": "2026-11-10",
+            "status": "fresh",
+            "lastUrl": "https://internationalinvestment.biz/en/real-estate/9087-portugal-leads-eu-rise-in-house-prices-relative-to-income.html",
+            "articleId": "9087",
+            "headline": "Portugal Leads EU Rise in House Prices Relative to Income",
             "languageUrls": {
-              "en": "https://internationalinvestment.biz/en/news/8666-average-house-prices-in-portugal-reach-435000.html"
+              "en": "https://internationalinvestment.biz/en/real-estate/9087-portugal-leads-eu-rise-in-house-prices-relative-to-income.html"
             },
-            "matchCount": 1,
-            "auditBasis": "language archive, country-specific"
+            "matchCount": 2,
+            "auditBasis": "incremental current-site verification, 9–14 Nov 2026"
           },
           {
             "name": "Туризм",
@@ -6874,7 +7206,7 @@
           {
             "name": "Недвижимость",
             "lastPublished": "2026-10-11",
-            "status": "watch",
+            "status": "stale",
             "lastUrl": "https://internationalinvestment.biz/en/real-estate/8928-romania-property-market-splits-as-foreign-capital-grows.html",
             "articleId": "8928",
             "headline": "Romania property market splits as foreign capital grows",
@@ -6887,7 +7219,7 @@
           {
             "name": "Инвестиции",
             "lastPublished": "2026-10-11",
-            "status": "watch",
+            "status": "stale",
             "lastUrl": "https://internationalinvestment.biz/en/real-estate/8928-romania-property-market-splits-as-foreign-capital-grows.html",
             "articleId": "8928",
             "headline": "Romania property market splits as foreign capital grows",
@@ -6931,40 +7263,40 @@
       },
       {
         "country": "Сербия",
-        "lastUpdate": "2026-11-02",
-        "topicCount": 2,
+        "lastUpdate": "2026-11-11",
+        "topicCount": 3,
         "topics": [
           {
             "name": "Недвижимость",
-            "lastPublished": "2026-11-02",
+            "lastPublished": "2026-11-11",
             "status": "fresh",
-            "lastUrl": "https://internationalinvestment.biz/en/investments/9029-alta-banka-collapse-in-serbia-what-happens-to-russian-depositors-money.html",
-            "articleId": "9029",
-            "headline": "Alta Banka Collapse in Serbia: What Happens to Russian Depositors' Money",
+            "lastUrl": "https://internationalinvestment.biz/en/real-estate/9098-serbia-plans-unified-real-estate-listings-database.html",
+            "articleId": "9098",
+            "headline": "Serbia Plans Unified Real Estate Listings Database",
             "languageUrls": {
-              "en": "https://internationalinvestment.biz/en/investments/9029-alta-banka-collapse-in-serbia-what-happens-to-russian-depositors-money.html",
+              "en": "https://internationalinvestment.biz/en/real-estate/9098-serbia-plans-unified-real-estate-listings-database.html",
               "he": "https://internationalinvestment.biz/he/investments/9029-krisat-alta-banka-be-serbiya-hesbonot-kesafim.html",
               "ka": "https://internationalinvestment.biz/ka/investments/9029-alta-bankas-kraxi-serbetshi-ra-bedi-etseva-depozitebs.html",
               "ru": "https://internationalinvestment.biz/investments/9029-krah-alta-banka-v-serbii-chto-budet-s-dengami-vkladchikov-iz-rossii.html"
             },
-            "matchCount": 4,
-            "auditBasis": "language archive, country-specific"
+            "matchCount": 5,
+            "auditBasis": "incremental current-site verification, 9–14 Nov 2026"
           },
           {
             "name": "Инвестиции",
-            "lastPublished": "2026-11-02",
+            "lastPublished": "2026-11-11",
             "status": "fresh",
-            "lastUrl": "https://internationalinvestment.biz/en/investments/9029-alta-banka-collapse-in-serbia-what-happens-to-russian-depositors-money.html",
-            "articleId": "9029",
-            "headline": "Alta Banka Collapse in Serbia: What Happens to Russian Depositors' Money",
+            "lastUrl": "https://internationalinvestment.biz/en/real-estate/9098-serbia-plans-unified-real-estate-listings-database.html",
+            "articleId": "9098",
+            "headline": "Serbia Plans Unified Real Estate Listings Database",
             "languageUrls": {
-              "en": "https://internationalinvestment.biz/en/investments/9029-alta-banka-collapse-in-serbia-what-happens-to-russian-depositors-money.html",
+              "en": "https://internationalinvestment.biz/en/real-estate/9098-serbia-plans-unified-real-estate-listings-database.html",
               "he": "https://internationalinvestment.biz/he/investments/9029-krisat-alta-banka-be-serbiya-hesbonot-kesafim.html",
               "ka": "https://internationalinvestment.biz/ka/investments/9029-alta-bankas-kraxi-serbetshi-ra-bedi-etseva-depozitebs.html",
               "ru": "https://internationalinvestment.biz/investments/9029-krah-alta-banka-v-serbii-chto-budet-s-dengami-vkladchikov-iz-rossii.html"
             },
-            "matchCount": 2,
-            "auditBasis": "language archive, country-specific"
+            "matchCount": 3,
+            "auditBasis": "incremental current-site verification, 9–14 Nov 2026"
           },
           {
             "name": "Туризм",
@@ -6992,9 +7324,16 @@
           },
           {
             "name": "Регулирование и правила для иностранных покупателей",
-            "lastPublished": null,
-            "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "lastPublished": "2026-11-11",
+            "status": "fresh",
+            "auditBasis": "incremental current-site verification, 9–14 Nov 2026",
+            "lastUrl": "https://internationalinvestment.biz/en/real-estate/9098-serbia-plans-unified-real-estate-listings-database.html",
+            "articleId": "9098",
+            "headline": "Serbia Plans Unified Real Estate Listings Database",
+            "languageUrls": {
+              "en": "https://internationalinvestment.biz/en/real-estate/9098-serbia-plans-unified-real-estate-listings-database.html"
+            },
+            "matchCount": 1
           }
         ]
       },
@@ -7049,7 +7388,7 @@
       },
       {
         "country": "Словакия",
-        "lastUpdate": "2026-09-20",
+        "lastUpdate": "2026-09-15",
         "topicCount": 2,
         "topics": [
           {
@@ -7068,7 +7407,7 @@
           {
             "name": "Инвестиции",
             "lastPublished": "2026-09-13",
-            "status": "stale",
+            "status": "urgent",
             "lastUrl": "https://internationalinvestment.biz/en/slovakia/8801-four-in-ten-companies-would-not-choose-slovakia.html",
             "articleId": "8801",
             "headline": "Four in Ten Companies Would Not Choose Slovakia",
@@ -7118,7 +7457,7 @@
           {
             "name": "Недвижимость",
             "lastPublished": "2026-09-09",
-            "status": "stale",
+            "status": "urgent",
             "lastUrl": "https://internationalinvestment.biz/en/slovenia/8785-ljubljanas-million-euro-deals-are-increasingly-about-land.html",
             "articleId": "8785",
             "headline": "Ljubljana's Million-Euro Deals Are Increasingly About Land",
@@ -7137,7 +7476,7 @@
           {
             "name": "Туризм",
             "lastPublished": "2026-09-11",
-            "status": "stale",
+            "status": "urgent",
             "lastUrl": "https://internationalinvestment.biz/en/slovenia/8787-foreign-tourist-arrivals-to-slovenia-rise-74.html",
             "articleId": "8787",
             "headline": "Foreign Tourist Arrivals to Slovenia Rise 7.4%",
@@ -7207,7 +7546,7 @@
           {
             "name": "Туризм",
             "lastPublished": "2026-09-09",
-            "status": "stale",
+            "status": "urgent",
             "lastUrl": "https://internationalinvestment.biz/en/tourism/8783-us-introduces-visa-bonds-of-up-to-20000-for-tourists-from-50-countries.html",
             "articleId": "8783",
             "headline": "US Introduces Visa Bonds of Up to $20,000 for Tourists From 50 Countries",
@@ -7261,7 +7600,7 @@
           {
             "name": "Недвижимость",
             "lastPublished": "2026-10-30",
-            "status": "fresh",
+            "status": "watch",
             "lastUrl": "https://internationalinvestment.biz/en/real-estate/9006-villa-owners-in-thailand-could-lose-their-land.html",
             "articleId": "9006",
             "headline": "Villa Owners in Thailand Could Lose Their Land",
@@ -7277,7 +7616,7 @@
           {
             "name": "Инвестиции",
             "lastPublished": "2026-10-30",
-            "status": "fresh",
+            "status": "watch",
             "lastUrl": "https://internationalinvestment.biz/en/real-estate/9006-villa-owners-in-thailand-could-lose-their-land.html",
             "articleId": "9006",
             "headline": "Villa Owners in Thailand Could Lose Their Land",
@@ -7331,7 +7670,7 @@
           {
             "name": "Регулирование и правила для иностранных покупателей",
             "lastPublished": "2026-10-09",
-            "status": "watch",
+            "status": "stale",
             "lastUrl": "https://internationalinvestment.biz/en/real-estate/8917-thailand-property-2026-foreign-buyers-shift-to-more-expensive-condos.html",
             "articleId": "8917",
             "headline": "Thailand Property 2026: Foreign Buyers Shift to More Expensive Condos",
@@ -7345,21 +7684,21 @@
       },
       {
         "country": "Турция",
-        "lastUpdate": "2026-10-21",
+        "lastUpdate": "2026-11-12",
         "topicCount": 5,
         "topics": [
           {
             "name": "Недвижимость",
-            "lastPublished": "2026-10-21",
-            "status": "watch",
-            "lastUrl": "https://internationalinvestment.biz/en/real-estate/8975-turkey-changes-property-valuation-rules-for-citizenship.html",
-            "articleId": "8975",
-            "headline": "Turkey Changes Property Valuation Rules for Citizenship",
+            "lastPublished": "2026-11-12",
+            "status": "fresh",
+            "lastUrl": "https://internationalinvestment.biz/en/real-estate/9104-turkey-lowers-cap-on-residential-rent-increases.html",
+            "articleId": "9104",
+            "headline": "Turkey Lowers Cap on Residential Rent Increases",
             "languageUrls": {
-              "en": "https://internationalinvestment.biz/en/real-estate/8975-turkey-changes-property-valuation-rules-for-citizenship.html"
+              "en": "https://internationalinvestment.biz/en/real-estate/9104-turkey-lowers-cap-on-residential-rent-increases.html"
             },
-            "matchCount": 9,
-            "auditBasis": "language archive, country-specific"
+            "matchCount": 10,
+            "auditBasis": "incremental current-site verification, 9–14 Nov 2026"
           },
           {
             "name": "Инвестиции",
@@ -7396,7 +7735,7 @@
           {
             "name": "ВНЖ и миграция",
             "lastPublished": "2026-10-14",
-            "status": "watch",
+            "status": "stale",
             "lastUrl": "https://internationalinvestment.biz/en/real-estate/8945-turkey-revokes-investors-citizenship.html",
             "articleId": "8945",
             "headline": "Turkey Revokes Investors’ Citizenship",
@@ -7414,16 +7753,16 @@
           },
           {
             "name": "Регулирование и правила для иностранных покупателей",
-            "lastPublished": "2026-10-07",
-            "status": "stale",
-            "lastUrl": "https://internationalinvestment.biz/en/real-estate/8911-foreign-buyers-keep-retreating-from-turkiye-housing.html",
-            "articleId": "8911",
-            "headline": "Foreign Buyers Keep Retreating From Türkiye Housing",
+            "lastPublished": "2026-11-12",
+            "status": "fresh",
+            "lastUrl": "https://internationalinvestment.biz/en/real-estate/9104-turkey-lowers-cap-on-residential-rent-increases.html",
+            "articleId": "9104",
+            "headline": "Turkey Lowers Cap on Residential Rent Increases",
             "languageUrls": {
-              "en": "https://internationalinvestment.biz/en/real-estate/8911-foreign-buyers-keep-retreating-from-turkiye-housing.html"
+              "en": "https://internationalinvestment.biz/en/real-estate/9104-turkey-lowers-cap-on-residential-rent-increases.html"
             },
-            "matchCount": 1,
-            "auditBasis": "language archive, country-specific"
+            "matchCount": 2,
+            "auditBasis": "incremental current-site verification, 9–14 Nov 2026"
           }
         ]
       },
@@ -7617,7 +7956,7 @@
           {
             "name": "Недвижимость",
             "lastPublished": "2026-10-13",
-            "status": "watch",
+            "status": "stale",
             "lastUrl": "https://internationalinvestment.biz/en/real-estate/8937-finlands-housing-market-home-prices-fall-faster-than-anywhere-else-in-the-eu.html",
             "articleId": "8937",
             "headline": "Finland's Housing Market: Home Prices Fall Faster Than Anywhere Else in the EU",
@@ -7630,7 +7969,7 @@
           {
             "name": "Инвестиции",
             "lastPublished": "2026-10-13",
-            "status": "watch",
+            "status": "stale",
             "lastUrl": "https://internationalinvestment.biz/en/real-estate/8937-finlands-housing-market-home-prices-fall-faster-than-anywhere-else-in-the-eu.html",
             "articleId": "8937",
             "headline": "Finland's Housing Market: Home Prices Fall Faster Than Anywhere Else in the EU",
@@ -7840,7 +8179,7 @@
           {
             "name": "Недвижимость",
             "lastPublished": "2026-10-12",
-            "status": "watch",
+            "status": "stale",
             "lastUrl": "https://internationalinvestment.biz/en/real-estate/8930-foreign-owners-sell-homes-in-budva.html",
             "articleId": "8930",
             "headline": "Foreign owners sell homes in Budva",
@@ -7853,7 +8192,7 @@
           {
             "name": "Инвестиции",
             "lastPublished": "2026-10-12",
-            "status": "watch",
+            "status": "stale",
             "lastUrl": "https://internationalinvestment.biz/en/real-estate/8930-foreign-owners-sell-homes-in-budva.html",
             "articleId": "8930",
             "headline": "Foreign owners sell homes in Budva",
@@ -7879,7 +8218,7 @@
           {
             "name": "Отели и гостиничный бизнес",
             "lastPublished": "2026-09-11",
-            "status": "stale",
+            "status": "urgent",
             "lastUrl": "https://internationalinvestment.biz/en/montenegro/8794-montenegro-moves-to-rewrite-hotel-investment-rules.html",
             "articleId": "8794",
             "headline": "Montenegro Moves to Rewrite Hotel Investment Rules",
@@ -8051,34 +8390,34 @@
       },
       {
         "country": "Швеция",
-        "lastUpdate": "2026-10-21",
+        "lastUpdate": "2026-11-10",
         "topicCount": 2,
         "topics": [
           {
             "name": "Недвижимость",
-            "lastPublished": "2026-10-21",
-            "status": "watch",
-            "lastUrl": "https://internationalinvestment.biz/en/real-estate/8974-stockholm-industrial-sites-could-become-3200-homes.html",
-            "articleId": "8974",
-            "headline": "Stockholm Industrial Sites Could Become 3,200 Homes",
+            "lastPublished": "2026-11-10",
+            "status": "fresh",
+            "lastUrl": "https://internationalinvestment.biz/en/business/9085-sweden-property-investment-climbs-40-in-nine-months.html",
+            "articleId": "9085",
+            "headline": "Sweden Property Investment Climbs 40% in Nine Months",
             "languageUrls": {
-              "en": "https://internationalinvestment.biz/en/real-estate/8974-stockholm-industrial-sites-could-become-3200-homes.html"
+              "en": "https://internationalinvestment.biz/en/business/9085-sweden-property-investment-climbs-40-in-nine-months.html"
             },
-            "matchCount": 1,
-            "auditBasis": "language archive, country-specific"
+            "matchCount": 2,
+            "auditBasis": "incremental current-site verification, 9–14 Nov 2026"
           },
           {
             "name": "Инвестиции",
-            "lastPublished": "2026-10-21",
-            "status": "watch",
-            "lastUrl": "https://internationalinvestment.biz/en/real-estate/8974-stockholm-industrial-sites-could-become-3200-homes.html",
-            "articleId": "8974",
-            "headline": "Stockholm Industrial Sites Could Become 3,200 Homes",
+            "lastPublished": "2026-11-10",
+            "status": "fresh",
+            "lastUrl": "https://internationalinvestment.biz/en/business/9085-sweden-property-investment-climbs-40-in-nine-months.html",
+            "articleId": "9085",
+            "headline": "Sweden Property Investment Climbs 40% in Nine Months",
             "languageUrls": {
-              "en": "https://internationalinvestment.biz/en/real-estate/8974-stockholm-industrial-sites-could-become-3200-homes.html"
+              "en": "https://internationalinvestment.biz/en/business/9085-sweden-property-investment-climbs-40-in-nine-months.html"
             },
-            "matchCount": 1,
-            "auditBasis": "language archive, country-specific"
+            "matchCount": 2,
+            "auditBasis": "incremental current-site verification, 9–14 Nov 2026"
           },
           {
             "name": "Туризм",
@@ -8146,7 +8485,7 @@
           {
             "name": "Туризм",
             "lastPublished": "2026-10-27",
-            "status": "fresh",
+            "status": "watch",
             "lastUrl": "https://internationalinvestment.biz/en/estonia/8580-foreign-stays-lift-estonias-tourism-recovery.html",
             "articleId": "8580",
             "headline": "Estonia’s Guest Nights Outpace Hotel Room Growth",
@@ -8162,7 +8501,7 @@
           {
             "name": "Отели и гостиничный бизнес",
             "lastPublished": "2026-10-27",
-            "status": "fresh",
+            "status": "watch",
             "lastUrl": "https://internationalinvestment.biz/en/estonia/8580-foreign-stays-lift-estonias-tourism-recovery.html",
             "articleId": "8580",
             "headline": "Estonia’s Guest Nights Outpace Hotel Room Growth",
@@ -8255,50 +8594,32 @@
     "crossBorderSignals": [
       {
         "country": "Европа / ETC",
-        "theme": "Q3/2026 arrivals country comparison",
+        "theme": "Autumn-winter travel demand + AI planning",
         "status": "urgent",
-        "reason": "ETC 5 Nov original: +3% Europe, Malta +18%, Slovakia +15%, Ireland +13%."
+        "reason": "ETC 9 Nov: 76% plan travel; AI used by 40%, 56% among 18–24."
+      },
+      {
+        "country": "Франция / Великобритания / Сингапур",
+        "theme": "October hotel records",
+        "status": "urgent",
+        "reason": "CoStar/STR 11 Nov: Paris ADR record, London October RevPAR record, Singapore ADR/RevPAR records."
       },
       {
         "country": "ЕС",
-        "theme": "EU tourism strategy 4 Nov implemented timetable",
-        "status": "urgent",
-        "reason": "Actual Commission release now replaces future-tense site #8962."
-      },
-      {
-        "country": "Еврозона",
-        "theme": "October HICP / real estate financing",
+        "theme": "Ultimate-investor FDI",
         "status": "high",
-        "reason": "Eurostat 4 Nov: flash October 4.0%, energy 20.8%; connect to actual housing and lending data after separate verification."
+        "reason": "Eurostat 11 Nov: US largest ultimate-investor share across 14 reporting countries."
       },
       {
-        "country": "Европа / EMEA",
-        "theme": "Q3 living and PBSA investment",
-        "status": "urgent",
-        "reason": "JLL 2 Nov: YTD €44.6bn +8%, Q3 €11bn -12%; strong investment comparison angle."
-      },
-      {
-        "country": "Глобально / Европа",
-        "theme": "Agentic travel booking",
-        "status": "urgent",
-        "reason": "AI переходит от discovery к транзакции; отдельный SEO/AI-кластер, не закрытый материалом про видимость отелей."
-      },
-      {
-        "country": "Европейский союз",
-        "theme": "Eurostat November tourism and construction data",
+        "country": "Еврозона / ЕС",
+        "theme": "Q3 GDP and employment flash",
         "status": "watch",
-        "reason": "Релизы 2–6 ноября: проверить первичные таблицы и обновить существующие EU/туристические страницы, не публиковать цифры по календарю."
-      },
-      {
-        "country": "США / глобально",
-        "theme": "Hotel RevPAR and tourism capital allocation",
-        "status": "high",
-        "reason": "CoStar/STR 6 Nov и Skift 2 Nov дают два новых независимых сигнала; проверить отсутствие дублей в CMS перед публикацией."
+        "reason": "Eurostat 13 Nov: GDP +0.4%/+0.5% q/q, employment flat."
       }
     ],
     "methodology": {
       "start": "2026-08-10",
-      "end": "2026-11-08",
+      "end": "2026-11-14",
       "engArchivesAttempted": 91,
       "engArchivesRead": 86,
       "multilingualWindow": "2026-10-26/2026-11-08",
@@ -8308,13 +8629,16 @@
       "countryScopedArticles": 343,
       "partialCrossCountryArticles": 69,
       "limitations": "EN 91 dates attempted; five dates returned 404; some daily archives paginate, only page 1 checked. RU/KA/HE 14 recent dates each. Unverified cells are not claims of zero coverage. Article date extracted from dated archive; tags and titles used for editorial taxonomy.",
-      "seoDataStatus": "Historical analytics measurements only; no new GA4 or GSC data loaded.",
+      "seoDataStatus": "Historical analytics measurements only; no new GA4/GSC data loaded on 14 Nov.",
       "corrections": [
         {
           "articleId": "9048",
           "note": "Vienna hotel article tagged Italy on EN site; classified as Austria in monitor based on article title."
         }
-      ]
+      ],
+      "auditAt": "2026-11-14",
+      "recentIncrementalWindow": "2026-11-09/2026-11-14",
+      "recentIncrementalMethod": "Targeted current-site search/page verification for new RU/EN country-specific articles; prior 90+ day archive retained. Cross-border pages not counted as country-specific."
     },
     "sync": {
       "trendRadarData": "./data/trends.json",
@@ -8328,43 +8652,43 @@
     }
   },
   "dailyUpdate": {
-    "date": "9 ноября 2026",
+    "date": "14 ноября 2026",
     "items": [
       {
-        "label": "5/5 ГОРИТ / NEW / READY RU+EN",
-        "title": "США: международные туристические расходы в 2026 году -$11 млрд",
-        "source": "U.S. Travel, 5 Nov",
-        "url": "https://www.ustravel.org/press/new-forecast-11-billion-drop-international-visitor-spending-raises-stakes-congress-after",
+        "label": "4/5 ВЫСОКИЙ / NEW",
+        "title": "ETC: 76% европейцев планируют поездки, 40% используют AI",
+        "source": "ETC Wave 26, 9 Nov",
+        "url": "https://etc-corporate.org/news/europeans-seek-city-breaks-and-culture-heritage-trips-as-three-in-four-plan-to-travel-this-autumn-and-winter/",
         "priority": "urgent",
-        "signal": "Inflation-adjusted forecast $163bn, -6.3%; different NTTO arrival estimate 70.5m vs U.S. Travel 67.8m, separately labeled.",
-        "action": "Publish new RU/EN from single Google Doc, 1 chart + cover + table + 8 SMM drafts; crosslink existing #7798."
+        "signal": "76% plan overnight travel Oct–Mar; AI usage 40%, age 18–24: 56%.",
+        "action": "NEW comparative RU/EN story; connect tourism demand with AI discovery/booking."
       },
       {
-        "label": "5/5 ГОРИТ / NEW / READY RU+EN",
-        "title": "OECD: ценовая премия жилья городских центров +27%",
-        "source": "OECD Housing, 4 Nov",
-        "url": "https://www.oecd.org/en/publications/oecd-regions-and-cities-at-a-glance-2026_1fc64125-en/full-report/housing_1396cade.html",
+        "label": "4/5 ВЫСОКИЙ / NEW",
+        "title": "Париж, Лондон и Сингапур: октябрьские гостиничные рекорды",
+        "source": "CoStar/STR, 11 Nov",
+        "url": "https://www.costar.com/products/str-benchmark/resources/press-releases/preliminary",
         "priority": "urgent",
-        "signal": "Urban +27%, commuting -15%, outside FUA -34% relative to each national average; mixed original reference years.",
-        "action": "Publish full RU/EN housing comparison with 3-geography table+chart, crosslink EU housing and Portugal."
+        "signal": "Paris ADR EUR474.64; London RevPAR GBP178.81; Singapore RevPAR SGD340.49; each metric kept separate.",
+        "action": "NEW comparison; do not equate ADR/RevPAR with investor yield."
       },
       {
-        "label": "4/5 ВЫСОКИЙ / NEW / READY RU+EN",
-        "title": "ETC: Мальта +18%, Словакия +15%, Европа +3%",
-        "source": "European Travel Commission Q3, 5 Nov",
-        "url": "https://etc-corporate.org/reports/european-tourism-trends-prospects-q3-2026/",
+        "label": "4/5 ВЫСОКИЙ / NEW",
+        "title": "Eurostat: конечные инвесторы FDI в 14 странах ЕС",
+        "source": "Eurostat, 11 Nov",
+        "url": "https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20261111-3",
         "priority": "high",
-        "signal": "Tourist arrivals summer 2026, year on year; Spain +5%, France +3%, Italy +1%.",
-        "action": "Publish complete RU/EN European destinations comparison, table and original graph."
+        "signal": "US 15.4% of reported inward FDI by ultimate investor; Germany 11.5%, France 9.4%, UK 9.3%.",
+        "action": "NEW investment analysis with country table."
       },
       {
-        "label": "4/5 ВЫСОКИЙ / NEW / READY RU+EN",
-        "title": "Airbnb Q3: выручка +19% до $4,9 млрд",
-        "source": "Airbnb 5 Nov",
-        "url": "https://news.airbnb.com/airbnb-q3-2026-financial-results",
-        "priority": "high",
-        "signal": "GBV $27.7bn +21%, Nights and Seats +16%, adjusted EBITDA $2.5bn +22%; platform metrics.",
-        "action": "Publish complete RU/EN Q3 earnings analysis and link earlier Q2 article #8683; chart/table and 8 social drafts."
+        "label": "3/5 НА НЕДЕЛЕ / UPDATE",
+        "title": "Еврозона: GDP +0.4%, employment flat in Q3",
+        "source": "Eurostat, 13 Nov",
+        "url": "https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-13112026-ap",
+        "priority": "medium",
+        "signal": "t+45 flash adds employment to the Oct 30 GDP preliminary release.",
+        "action": "Use as macro update/context; avoid duplicate standalone GDP story."
       }
     ]
   }
