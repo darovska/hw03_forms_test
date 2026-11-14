@@ -4380,25 +4380,25 @@
             "name": "Отели и гостиничный бизнес",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "ВНЖ и миграция",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "Налоги для инвесторов",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "Регулирование и правила для иностранных покупателей",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           }
         ]
       },
@@ -4463,7 +4463,7 @@
             "name": "ВНЖ и миграция",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "Налоги для инвесторов",
@@ -4482,14 +4482,14 @@
             "name": "Регулирование и правила для иностранных покупателей",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           }
         ]
       },
       {
         "country": "Албания",
         "lastUpdate": "2026-11-12",
-        "topicCount": 5,
+        "topicCount": 3,
         "topics": [
           {
             "name": "Недвижимость",
@@ -4501,7 +4501,7 @@
             "languageUrls": {
               "en": "https://internationalinvestment.biz/en/business/9097-investment-in-albania-growth-and-risks.html"
             },
-            "matchCount": 2,
+            "matchCount": 3,
             "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           },
           {
@@ -4532,34 +4532,27 @@
           },
           {
             "name": "Отели и гостиничный бизнес",
-            "lastPublished": "2026-11-09",
-            "status": "fresh",
-            "lastUrl": "https://internationalinvestment.biz/en/tourism/9075-albania-limits-residential-development-in-resort-complexes.html",
-            "articleId": "9075",
-            "headline": "Albania Limits Residential Development in Resort Complexes",
-            "languageUrls": {
-              "en": "https://internationalinvestment.biz/en/tourism/9075-albania-limits-residential-development-in-resort-complexes.html"
-            },
-            "matchCount": 1,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
+            "lastPublished": null,
+            "status": "unverified",
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "ВНЖ и миграция",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "Налоги для инвесторов",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "Регулирование и правила для иностранных покупателей",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "no verified foreign-buyer property-rule article in audited archive dataset"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           }
         ]
       },
@@ -4598,13 +4591,13 @@
             "name": "Туризм",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "Отели и гостиничный бизнес",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "ВНЖ и миграция",
@@ -4623,7 +4616,7 @@
             "name": "Налоги для инвесторов",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "Регулирование и правила для иностранных покупателей",
@@ -4675,13 +4668,13 @@
             "name": "Туризм",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "Отели и гостиничный бизнес",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "ВНЖ и миграция",
@@ -4700,7 +4693,7 @@
             "name": "Налоги для инвесторов",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "Регулирование и правила для иностранных покупателей",
@@ -4778,19 +4771,19 @@
             "name": "ВНЖ и миграция",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "Налоги для инвесторов",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "Регулирование и правила для иностранных покупателей",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           }
         ]
       },
@@ -4829,31 +4822,31 @@
             "name": "Туризм",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "Отели и гостиничный бизнес",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "ВНЖ и миграция",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "Налоги для инвесторов",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "Регулирование и правила для иностранных покупателей",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           }
         ]
       },
@@ -4945,7 +4938,7 @@
             "name": "Регулирование и правила для иностранных покупателей",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           }
         ]
       },
@@ -4958,25 +4951,25 @@
             "name": "Недвижимость",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "Инвестиции",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "Туризм",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "Отели и гостиничный бизнес",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "ВНЖ и миграция",
@@ -4995,13 +4988,13 @@
             "name": "Налоги для инвесторов",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "Регулирование и правила для иностранных покупателей",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           }
         ]
       },
@@ -5096,7 +5089,7 @@
             "name": "Регулирование и правила для иностранных покупателей",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           }
         ]
       },
@@ -5135,19 +5128,19 @@
             "name": "Туризм",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "Отели и гостиничный бизнес",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "ВНЖ и миграция",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "Налоги для инвесторов",
@@ -5166,7 +5159,7 @@
             "name": "Регулирование и правила для иностранных покупателей",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           }
         ]
       },
@@ -5245,13 +5238,13 @@
             "name": "Налоги для инвесторов",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "Регулирование и правила для иностранных покупателей",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           }
         ]
       },
@@ -5356,7 +5349,7 @@
       {
         "country": "Грузия",
         "lastUpdate": "2026-11-14",
-        "topicCount": 7,
+        "topicCount": 6,
         "topics": [
           {
             "name": "Недвижимость",
@@ -5441,7 +5434,7 @@
             "name": "Регулирование и правила для иностранных покупателей",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "no verified foreign-buyer property-rule article in audited archive dataset"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           }
         ]
       },
@@ -5519,13 +5512,13 @@
             "name": "Налоги для инвесторов",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "Регулирование и правила для иностранных покупателей",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           }
         ]
       },
@@ -5538,7 +5531,7 @@
             "name": "Недвижимость",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "Инвестиции",
@@ -5570,25 +5563,25 @@
             "name": "Отели и гостиничный бизнес",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "ВНЖ и миграция",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "Налоги для инвесторов",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "Регулирование и правила для иностранных покупателей",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           }
         ]
       },
@@ -5666,13 +5659,13 @@
             "name": "Налоги для инвесторов",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "Регулирование и правила для иностранных покупателей",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           }
         ]
       },
@@ -5685,7 +5678,7 @@
             "name": "Недвижимость",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "Инвестиции",
@@ -5717,25 +5710,25 @@
             "name": "Отели и гостиничный бизнес",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "ВНЖ и миграция",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "Налоги для инвесторов",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "Регулирование и правила для иностранных покупателей",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           }
         ]
       },
@@ -5787,25 +5780,25 @@
             "name": "Отели и гостиничный бизнес",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "ВНЖ и миграция",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "Налоги для инвесторов",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "Регулирование и правила для иностранных покупателей",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           }
         ]
       },
@@ -5850,7 +5843,7 @@
             "name": "Туризм",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "Отели и гостиничный бизнес",
@@ -5869,7 +5862,7 @@
             "name": "ВНЖ и миграция",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "Налоги для инвесторов",
@@ -5888,7 +5881,7 @@
             "name": "Регулирование и правила для иностранных покупателей",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           }
         ]
       },
@@ -5927,7 +5920,7 @@
             "name": "Туризм",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "Отели и гостиничный бизнес",
@@ -5946,19 +5939,19 @@
             "name": "ВНЖ и миграция",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "Налоги для инвесторов",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "Регулирование и правила для иностранных покупателей",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           }
         ]
       },
@@ -6049,7 +6042,7 @@
             "name": "Регулирование и правила для иностранных покупателей",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           }
         ]
       },
@@ -6130,7 +6123,7 @@
             "name": "Налоги для инвесторов",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "Регулирование и правила для иностранных покупателей",
@@ -6156,7 +6149,7 @@
             "name": "Недвижимость",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "Инвестиции",
@@ -6188,7 +6181,7 @@
             "name": "Отели и гостиничный бизнес",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "ВНЖ и миграция",
@@ -6207,13 +6200,13 @@
             "name": "Налоги для инвесторов",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "Регулирование и правила для иностранных покупателей",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           }
         ]
       },
@@ -6252,19 +6245,19 @@
             "name": "Туризм",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "Отели и гостиничный бизнес",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "ВНЖ и миграция",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "Налоги для инвесторов",
@@ -6283,7 +6276,7 @@
             "name": "Регулирование и правила для иностранных покупателей",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           }
         ]
       },
@@ -6296,43 +6289,43 @@
             "name": "Недвижимость",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "Инвестиции",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "Туризм",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "Отели и гостиничный бизнес",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "ВНЖ и миграция",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "Налоги для инвесторов",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "Регулирование и правила для иностранных покупателей",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           }
         ]
       },
@@ -6384,25 +6377,25 @@
             "name": "Отели и гостиничный бизнес",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "ВНЖ и миграция",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "Налоги для инвесторов",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "Регулирование и правила для иностранных покупателей",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           }
         ]
       },
@@ -6480,13 +6473,13 @@
             "name": "Налоги для инвесторов",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "Регулирование и правила для иностранных покупателей",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           }
         ]
       },
@@ -6525,31 +6518,31 @@
             "name": "Туризм",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "Отели и гостиничный бизнес",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "ВНЖ и миграция",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "Налоги для инвесторов",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "Регулирование и правила для иностранных покупателей",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           }
         ]
       },
@@ -6619,43 +6612,43 @@
             "name": "Недвижимость",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "Инвестиции",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "Туризм",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "Отели и гостиничный бизнес",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "ВНЖ и миграция",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "Налоги для инвесторов",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "Регулирование и правила для иностранных покупателей",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           }
         ]
       },
@@ -6724,7 +6717,7 @@
             "name": "ВНЖ и миграция",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "Налоги для инвесторов",
@@ -6743,7 +6736,7 @@
             "name": "Регулирование и правила для иностранных покупателей",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           }
         ]
       },
@@ -6782,31 +6775,31 @@
             "name": "Туризм",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "Отели и гостиничный бизнес",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "ВНЖ и миграция",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "Налоги для инвесторов",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "Регулирование и правила для иностранных покупателей",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           }
         ]
       },
@@ -6879,19 +6872,19 @@
             "name": "ВНЖ и миграция",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "Налоги для инвесторов",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "Регулирование и правила для иностранных покупателей",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           }
         ]
       },
@@ -6930,31 +6923,31 @@
             "name": "Туризм",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "Отели и гостиничный бизнес",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "ВНЖ и миграция",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "Налоги для инвесторов",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "Регулирование и правила для иностранных покупателей",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           }
         ]
       },
@@ -6993,31 +6986,31 @@
             "name": "Туризм",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "Отели и гостиничный бизнес",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "ВНЖ и миграция",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "Налоги для инвесторов",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "Регулирование и правила для иностранных покупателей",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           }
         ]
       },
@@ -7069,7 +7062,7 @@
             "name": "Отели и гостиничный бизнес",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "ВНЖ и миграция",
@@ -7101,7 +7094,7 @@
             "name": "Регулирование и правила для иностранных покупателей",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           }
         ]
       },
@@ -7155,25 +7148,25 @@
             "name": "Отели и гостиничный бизнес",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "ВНЖ и миграция",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "Налоги для инвесторов",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "Регулирование и правила для иностранных покупателей",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           }
         ]
       },
@@ -7212,38 +7205,38 @@
             "name": "Туризм",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "Отели и гостиничный бизнес",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "ВНЖ и миграция",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "Налоги для инвесторов",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "Регулирование и правила для иностранных покупателей",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           }
         ]
       },
       {
         "country": "Сербия",
         "lastUpdate": "2026-11-11",
-        "topicCount": 3,
+        "topicCount": 2,
         "topics": [
           {
             "name": "Недвижимость",
@@ -7275,31 +7268,31 @@
             "name": "Туризм",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "Отели и гостиничный бизнес",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "ВНЖ и миграция",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "Налоги для инвесторов",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "Регулирование и правила для иностранных покупателей",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "no verified foreign-buyer property-rule article in audited archive dataset"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           }
         ]
       },
@@ -7312,43 +7305,43 @@
             "name": "Недвижимость",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "Инвестиции",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "Туризм",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "Отели и гостиничный бизнес",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "ВНЖ и миграция",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "Налоги для инвесторов",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "Регулирование и правила для иностранных покупателей",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           }
         ]
       },
@@ -7387,31 +7380,31 @@
             "name": "Туризм",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "Отели и гостиничный бизнес",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "ВНЖ и миграция",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "Налоги для инвесторов",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "Регулирование и правила для иностранных покупателей",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           }
         ]
       },
@@ -7437,7 +7430,7 @@
             "name": "Инвестиции",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "Туризм",
@@ -7456,25 +7449,25 @@
             "name": "Отели и гостиничный бизнес",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "ВНЖ и миграция",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "Налоги для инвесторов",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "Регулирование и правила для иностранных покупателей",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           }
         ]
       },
@@ -7527,7 +7520,7 @@
             "name": "Отели и гостиничный бизнес",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "ВНЖ и миграция",
@@ -7546,13 +7539,13 @@
             "name": "Налоги для инвесторов",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "Регулирование и правила для иностранных покупателей",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           }
         ]
       },
@@ -7604,7 +7597,7 @@
             "name": "Отели и гостиничный бизнес",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "ВНЖ и миграция",
@@ -7623,7 +7616,7 @@
             "name": "Налоги для инвесторов",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "Регулирование и правила для иностранных покупателей",
@@ -7688,7 +7681,7 @@
             "name": "Отели и гостиничный бизнес",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "ВНЖ и миграция",
@@ -7707,20 +7700,20 @@
             "name": "Налоги для инвесторов",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "Регулирование и правила для иностранных покупателей",
-            "lastPublished": "2026-11-12",
-            "status": "fresh",
-            "lastUrl": "https://internationalinvestment.biz/en/real-estate/9104-turkey-lowers-cap-on-residential-rent-increases.html",
-            "articleId": "9104",
-            "headline": "Turkey Lowers Cap on Residential Rent Increases",
+            "lastPublished": "2026-10-07",
+            "status": "stale",
+            "lastUrl": "https://internationalinvestment.biz/en/real-estate/8911-foreign-buyers-keep-retreating-from-turkiye-housing.html",
+            "articleId": "8911",
+            "headline": "Foreign Buyers Keep Retreating From Türkiye Housing",
             "languageUrls": {
-              "en": "https://internationalinvestment.biz/en/real-estate/9104-turkey-lowers-cap-on-residential-rent-increases.html"
+              "en": "https://internationalinvestment.biz/en/real-estate/8911-foreign-buyers-keep-retreating-from-turkiye-housing.html"
             },
-            "matchCount": 2,
-            "auditBasis": "incremental current-site verification, 9–14 Nov 2026"
+            "matchCount": 1,
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-14"
           }
         ]
       },
@@ -7746,37 +7739,37 @@
             "name": "Инвестиции",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "Туризм",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "Отели и гостиничный бизнес",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "ВНЖ и миграция",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "Налоги для инвесторов",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "Регулирование и правила для иностранных покупателей",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           }
         ]
       },
@@ -7815,31 +7808,31 @@
             "name": "Туризм",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "Отели и гостиничный бизнес",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "ВНЖ и миграция",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "Налоги для инвесторов",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "Регулирование и правила для иностранных покупателей",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           }
         ]
       },
@@ -7878,31 +7871,31 @@
             "name": "Туризм",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "Отели и гостиничный бизнес",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "ВНЖ и миграция",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "Налоги для инвесторов",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "Регулирование и правила для иностранных покупателей",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           }
         ]
       },
@@ -7980,13 +7973,13 @@
             "name": "Налоги для инвесторов",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "Регулирование и правила для иностранных покупателей",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           }
         ]
       },
@@ -8029,31 +8022,31 @@
             "name": "Туризм",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "Отели и гостиничный бизнес",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "ВНЖ и миграция",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "Налоги для инвесторов",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "Регулирование и правила для иностранных покупателей",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           }
         ]
       },
@@ -8105,25 +8098,25 @@
             "name": "Отели и гостиничный бизнес",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "ВНЖ и миграция",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "Налоги для инвесторов",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "Регулирование и правила для иностранных покупателей",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           }
         ]
       },
@@ -8188,19 +8181,19 @@
             "name": "ВНЖ и миграция",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "Налоги для инвесторов",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "Регулирование и правила для иностранных покупателей",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           }
         ]
       },
@@ -8239,13 +8232,13 @@
             "name": "Туризм",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "Отели и гостиничный бизнес",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "ВНЖ и миграция",
@@ -8264,13 +8257,13 @@
             "name": "Налоги для инвесторов",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "Регулирование и правила для иностранных покупателей",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           }
         ]
       },
@@ -8322,25 +8315,25 @@
             "name": "Отели и гостиничный бизнес",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "ВНЖ и миграция",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "Налоги для инвесторов",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "Регулирование и правила для иностранных покупателей",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           }
         ]
       },
@@ -8379,31 +8372,31 @@
             "name": "Туризм",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "Отели и гостиничный бизнес",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "ВНЖ и миграция",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "Налоги для инвесторов",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "Регулирование и правила для иностранных покупателей",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           }
         ]
       },
@@ -8468,7 +8461,7 @@
             "name": "ВНЖ и миграция",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "Налоги для инвесторов",
@@ -8487,7 +8480,7 @@
             "name": "Регулирование и правила для иностранных покупателей",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           }
         ]
       },
@@ -8581,43 +8574,43 @@
             "name": "Недвижимость",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "Инвестиции",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "Туризм",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "Отели и гостиничный бизнес",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "ВНЖ и миграция",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "Налоги для инвесторов",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           },
           {
             "name": "Регулирование и правила для иностранных покупателей",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "unverified in sampled first-page archives"
+            "auditBasis": "no verified country-specific article in audited archive dataset"
           }
         ]
       }
@@ -8685,7 +8678,7 @@
       "gscLastMeasured": "10.10.2026",
       "ga4LastMeasured": "12.10.2026",
       "seoMetricsSource": "archive-only first-party snapshot; not current",
-      "sitePublicationsAudit": "Direct EN/RU daily archives 9–14 Nov 2026 reconciled by article ID; KA/HE incremental scan remains through 8 Nov."
+      "sitePublicationsAudit": "Direct EN/RU daily archives 9–14 Nov 2026 reconciled by article ID and semantic topic mapping; KA/HE incremental scan remains through 8 Nov."
     }
   },
   "dailyUpdate": {
