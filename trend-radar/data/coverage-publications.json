@@ -3,8 +3,8 @@
   "window": "2026-08-10/2026-11-14",
   "language": "en",
   "source": "internationalinvestment.biz/en/YYYY/MM/DD date archives",
-  "pagesAttempted": 91,
-  "pagesRead": 86,
+  "pagesAttempted": 97,
+  "pagesRead": 92,
   "articles": [
     {
       "id": "9070",
@@ -11807,6 +11807,556 @@
       "themes": [
         "ВНЖ и миграция"
       ]
+    },
+    {
+      "id": "9084",
+      "date": "2026-11-09",
+      "title": "Georgia's Hotel Market: Batumi Room Rates Surge as Tbilisi Occupancy Climbs",
+      "url": "https://internationalinvestment.biz/en/business/9084-georgia-hotel-market-batumi-rates-tbilisi-occupancy.html",
+      "lang": "en",
+      "countries": [
+        "Грузия"
+      ],
+      "scope": "country",
+      "themes": [
+        "Инвестиции",
+        "Туризм",
+        "Отели и гостиничный бизнес"
+      ]
+    },
+    {
+      "id": "9084",
+      "date": "2026-11-09",
+      "title": "Гостиничный рынок Грузии: в Батуми растут цены на номера, в Тбилиси — загрузка",
+      "url": "https://internationalinvestment.biz/business/9084-gostinichnyj-rynok-gruzii-batumi-i-tbilisi.html",
+      "lang": "ru",
+      "countries": [
+        "Грузия"
+      ],
+      "scope": "country",
+      "themes": [
+        "Инвестиции",
+        "Туризм",
+        "Отели и гостиничный бизнес"
+      ]
+    },
+    {
+      "id": "9083",
+      "date": "2026-11-09",
+      "title": "China Eastern Airlines to Boost Shanghai – Tbilisi Flight Frequency to Five Times Weekly from 2027",
+      "url": "https://internationalinvestment.biz/en/business/9083-china-eastern-airlines-shanghai-tbilisi-flights-2027.html",
+      "lang": "en",
+      "countries": [
+        "Грузия"
+      ],
+      "scope": "country",
+      "themes": [
+        "Инвестиции",
+        "Туризм"
+      ]
+    },
+    {
+      "id": "9083",
+      "date": "2026-11-09",
+      "title": "China Eastern Airlines увеличит частоту рейсов между Шанхаем и Тбилиси",
+      "url": "https://internationalinvestment.biz/business/9083-china-eastern-airlines-2027.html",
+      "lang": "ru",
+      "countries": [
+        "Грузия"
+      ],
+      "scope": "country",
+      "themes": [
+        "Инвестиции",
+        "Туризм"
+      ]
+    },
+    {
+      "id": "9076",
+      "date": "2026-11-09",
+      "title": "10,883 Apartments Sold in Batumi in 2026 — Galt & Taggart",
+      "url": "https://internationalinvestment.biz/en/real-estate/9076-batumi-apartment-sales-2026-galt-taggart.html",
+      "lang": "en",
+      "countries": [
+        "Грузия"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость"
+      ]
+    },
+    {
+      "id": "9076",
+      "date": "2026-11-09",
+      "title": "В 2026 году в Батуми продано 10 883 квартиры — Galt & Taggart",
+      "url": "https://internationalinvestment.biz/real-estate/9076-2026-10883.html",
+      "lang": "ru",
+      "countries": [
+        "Грузия"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость"
+      ]
+    },
+    {
+      "id": "9074",
+      "date": "2026-11-09",
+      "title": "OPUS Signature: A New Development Project in Batumi",
+      "url": "https://internationalinvestment.biz/en/real-estate/9074-opus-signature-new-development-project-batumi.html",
+      "lang": "en",
+      "countries": [
+        "Грузия"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость"
+      ]
+    },
+    {
+      "id": "9074",
+      "date": "2026-11-09",
+      "title": "OPUS Signature — новый девелоперский проект в Батуми",
+      "url": "https://internationalinvestment.biz/real-estate/9074-opus-signature.html",
+      "lang": "ru",
+      "countries": [
+        "Грузия"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость"
+      ]
+    },
+    {
+      "id": "9094",
+      "date": "2026-11-10",
+      "title": "Over 15,000 Apartments for Sale in Batumi Residential Real Estate Market",
+      "url": "https://internationalinvestment.biz/en/business/9094-over-15000-apartments-for-sale-in-batumi.html",
+      "lang": "en",
+      "countries": [
+        "Грузия"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость",
+        "Инвестиции"
+      ]
+    },
+    {
+      "id": "9094",
+      "date": "2026-11-10",
+      "title": "В Батуми продается более 15 000 квартир",
+      "url": "https://internationalinvestment.biz/business/9094-15.html",
+      "lang": "ru",
+      "countries": [
+        "Грузия"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость",
+        "Инвестиции"
+      ]
+    },
+    {
+      "id": "9093",
+      "date": "2026-11-10",
+      "title": "Six International Consortia to Compete for Tbilisi City Train Project: ADB Releases Shortlist",
+      "url": "https://internationalinvestment.biz/en/investments/9093-adb-shortlist-six-consortia-tbilisi-city-train.html",
+      "lang": "en",
+      "countries": [
+        "Грузия"
+      ],
+      "scope": "country",
+      "themes": [
+        "Инвестиции"
+      ]
+    },
+    {
+      "id": "9093",
+      "date": "2026-11-10",
+      "title": "За проект наземного поезда Тбилиси поборются 6 международных консорциумов",
+      "url": "https://internationalinvestment.biz/investments/9093-6-adb.html",
+      "lang": "ru",
+      "countries": [
+        "Грузия"
+      ],
+      "scope": "country",
+      "themes": [
+        "Инвестиции"
+      ]
+    },
+    {
+      "id": "9088",
+      "date": "2026-11-10",
+      "title": "Tbilisi Districts: Where Are Prices Highest and Sales Strongest?",
+      "url": "https://internationalinvestment.biz/en/real-estate/9088-tbilisi-districts-property-prices-and-sales.html",
+      "lang": "en",
+      "countries": [
+        "Грузия"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость"
+      ]
+    },
+    {
+      "id": "9086",
+      "date": "2026-11-10",
+      "title": "Seoul Hotel Demand May Outpace Room Supply Until 2032",
+      "url": "https://internationalinvestment.biz/en/business/9086-seoul-hotel-demand-may-outpace-room-supply-until-2032.html",
+      "lang": "en",
+      "countries": [
+        "Южная Корея"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость",
+        "Инвестиции",
+        "Туризм",
+        "Отели и гостиничный бизнес"
+      ]
+    },
+    {
+      "id": "9086",
+      "date": "2026-11-10",
+      "title": "Сеулу не хватит гостиничных номеров до 2032 года",
+      "url": "https://internationalinvestment.biz/business/9086-seulu-ne-hvatit-gostinichnyh-nomerov-do-2032-goda.html",
+      "lang": "ru",
+      "countries": [
+        "Южная Корея"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость",
+        "Инвестиции",
+        "Туризм",
+        "Отели и гостиничный бизнес"
+      ]
+    },
+    {
+      "id": "9095",
+      "date": "2026-11-11",
+      "title": "Scammers Target Tourist Parks Across Australia",
+      "url": "https://internationalinvestment.biz/en/tourism/9095-scammers-target-tourist-parks-across-australia.html",
+      "lang": "en",
+      "countries": [
+        "Австралия"
+      ],
+      "scope": "country",
+      "themes": [
+        "Туризм"
+      ]
+    },
+    {
+      "id": "9095",
+      "date": "2026-11-11",
+      "title": "Мошенники атаковали туристические парки Австралии",
+      "url": "https://internationalinvestment.biz/tourism/9095-moshenniki-atakovali-turisticheskie-parki-avstralii.html",
+      "lang": "ru",
+      "countries": [
+        "Австралия"
+      ],
+      "scope": "country",
+      "themes": [
+        "Туризм"
+      ]
+    },
+    {
+      "id": "9101",
+      "date": "2026-11-11",
+      "title": "\"Emotions are Georgia\": Georgia's Tourism Roadshow in Kazakhstan",
+      "url": "https://internationalinvestment.biz/en/tourism/9101-emotions-are-georgia-tourism-roadshow-kazakhstan.html",
+      "lang": "en",
+      "countries": [
+        "Грузия"
+      ],
+      "scope": "country",
+      "themes": [
+        "Туризм"
+      ]
+    },
+    {
+      "id": "9101",
+      "date": "2026-11-11",
+      "title": "«Emotions are Georgia»: туристическое роуд-шоу Грузии в Казахстане",
+      "url": "https://internationalinvestment.biz/tourism/9101-emotions-are-georgia.html",
+      "lang": "ru",
+      "countries": [
+        "Грузия"
+      ],
+      "scope": "country",
+      "themes": [
+        "Туризм"
+      ]
+    },
+    {
+      "id": "9099",
+      "date": "2026-11-11",
+      "title": "New Boulevard Leads in Sales, Old Batumi in Prices: Fresh Batumi Real Estate Trends by District",
+      "url": "https://internationalinvestment.biz/en/business/9099-batumi-real-estate-trends-prices-and-sales-by-district.html",
+      "lang": "en",
+      "countries": [
+        "Грузия"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость",
+        "Инвестиции"
+      ]
+    },
+    {
+      "id": "9099",
+      "date": "2026-11-11",
+      "title": "Новый бульвар лидирует по продажам, Старый Батуми — по цене",
+      "url": "https://internationalinvestment.biz/business/9099-novyj-bulvar-lidiruet-po-prodazham-staryj-batumi-ceny.html",
+      "lang": "ru",
+      "countries": [
+        "Грузия"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость",
+        "Инвестиции"
+      ]
+    },
+    {
+      "id": "9102",
+      "date": "2026-11-11",
+      "title": "Maldives Introduces Email Verification for Tourists",
+      "url": "https://internationalinvestment.biz/en/tourism/9102-maldives-introduces-email-verification-for-tourists.html",
+      "lang": "en",
+      "countries": [
+        "Мальдивы"
+      ],
+      "scope": "country",
+      "themes": [
+        "Туризм"
+      ]
+    },
+    {
+      "id": "9102",
+      "date": "2026-11-11",
+      "title": "Мальдивы проверяют почту туристов",
+      "url": "https://internationalinvestment.biz/tourism/9102-maldivy-proverjajut-pochtu-turistov.html",
+      "lang": "ru",
+      "countries": [
+        "Мальдивы"
+      ],
+      "scope": "country",
+      "themes": [
+        "Туризм"
+      ]
+    },
+    {
+      "id": "9108",
+      "date": "2026-11-12",
+      "title": "Tbilisi Residential Real Estate Market: Prices, Rentals, and Investment Yields",
+      "url": "https://internationalinvestment.biz/en/real-estate/9108-tbilisi-residential-real-estate-prices-rentals-yields.html",
+      "lang": "en",
+      "countries": [
+        "Грузия"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость"
+      ]
+    },
+    {
+      "id": "9108",
+      "date": "2026-11-12",
+      "title": "Рынок жилой недвижимости Тбилиси — цены, аренда и доходность инвестиций",
+      "url": "https://internationalinvestment.biz/real-estate/9108-rynok-nedvizhimosti-tbilisi-ceny-arenda-dohodnost.html",
+      "lang": "ru",
+      "countries": [
+        "Грузия"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость"
+      ]
+    },
+    {
+      "id": "9106",
+      "date": "2026-11-12",
+      "title": "Tskhaltubo Needs a New Strategy to Attract Tourists as Visitor Numbers Decline",
+      "url": "https://internationalinvestment.biz/en/business/9106-tskhaltubo-needs-new-tourism-strategy.html",
+      "lang": "en",
+      "countries": [
+        "Грузия"
+      ],
+      "scope": "country",
+      "themes": [
+        "Инвестиции",
+        "Туризм"
+      ]
+    },
+    {
+      "id": "9106",
+      "date": "2026-11-12",
+      "title": "Цхалтубо нужна новая стратегия привлечения туристов: число отдыхающих на курорте сократилось",
+      "url": "https://internationalinvestment.biz/business/9106-tshaltubo-nuzhna-novaya-strategiya-privlecheniya-turistov.html",
+      "lang": "ru",
+      "countries": [
+        "Грузия"
+      ],
+      "scope": "country",
+      "themes": [
+        "Инвестиции",
+        "Туризм"
+      ]
+    },
+    {
+      "id": "9112",
+      "date": "2026-11-13",
+      "title": "Russia Proposes 30,000-Ruble Limit on Bank Transfers",
+      "url": "https://internationalinvestment.biz/en/news/9112-russia-proposes-30000-ruble-limit-on-bank-transfers.html",
+      "lang": "en",
+      "countries": [
+        "Россия"
+      ],
+      "scope": "country",
+      "themes": [
+        "Инвестиции"
+      ]
+    },
+    {
+      "id": "9112",
+      "date": "2026-11-13",
+      "title": "В России предложили лимит на переводы в 30 000 рублей",
+      "url": "https://internationalinvestment.biz/news/9112-v-rossii-predlozhili-limit-na-perevody-v-30-000-rublej.html",
+      "lang": "ru",
+      "countries": [
+        "Россия"
+      ],
+      "scope": "country",
+      "themes": [
+        "Инвестиции"
+      ]
+    },
+    {
+      "id": "9115",
+      "date": "2026-11-13",
+      "title": "Gandagana: A Journey Through Adjara Without Leaving the City",
+      "url": "https://internationalinvestment.biz/en/tourism/9115-gandagana-festival-adjara-culture-in-batumi.html",
+      "lang": "en",
+      "countries": [
+        "Грузия"
+      ],
+      "scope": "country",
+      "themes": [
+        "Туризм"
+      ]
+    },
+    {
+      "id": "9115",
+      "date": "2026-11-13",
+      "title": "«Гандагана» — путешествие по Аджарии не выезжая из города",
+      "url": "https://internationalinvestment.biz/tourism/9115-gandagana-puteshestvie-po-adzharii.html",
+      "lang": "ru",
+      "countries": [
+        "Грузия"
+      ],
+      "scope": "country",
+      "themes": [
+        "Туризм"
+      ]
+    },
+    {
+      "id": "9118",
+      "date": "2026-11-14",
+      "title": "\"Bike&Wine\": Italian Journalists Tour Georgia by Bicycle",
+      "url": "https://internationalinvestment.biz/en/tourism/9118-bike-and-wine-italian-journalists-tour-georgia.html",
+      "lang": "en",
+      "countries": [
+        "Грузия"
+      ],
+      "scope": "country",
+      "themes": [
+        "Туризм"
+      ]
+    },
+    {
+      "id": "9123",
+      "date": "2026-11-14",
+      "title": "Tanker Hits Cruise Ship in the US",
+      "url": "https://internationalinvestment.biz/en/tourism/9123-tanker-hits-cruise-ship-in-the-us.html",
+      "lang": "en",
+      "countries": [
+        "США"
+      ],
+      "scope": "country",
+      "themes": [
+        "Туризм"
+      ]
+    },
+    {
+      "id": "9123",
+      "date": "2026-11-14",
+      "title": "Танкер протаранил круизное судно в США",
+      "url": "https://internationalinvestment.biz/tourism/9123-tanker-protaranil-kruiznoe-sudno-v-ssha.html",
+      "lang": "ru",
+      "countries": [
+        "США"
+      ],
+      "scope": "country",
+      "themes": [
+        "Туризм"
+      ]
+    },
+    {
+      "id": "9124",
+      "date": "2026-11-14",
+      "title": "Thousands of US Flights Canceled After Major Technical Outage",
+      "url": "https://internationalinvestment.biz/en/business/9124-thousands-of-us-flights-canceled-after-major-technical-outage.html",
+      "lang": "en",
+      "countries": [
+        "США"
+      ],
+      "scope": "country",
+      "themes": [
+        "Туризм"
+      ]
+    },
+    {
+      "id": "9124",
+      "date": "2026-11-14",
+      "title": "Тысячи авиарейсов отменены в США после масштабного сбоя",
+      "url": "https://internationalinvestment.biz/business/9124-tysjachi-aviarejsov-otmeneny-v-ssha-posle-masshtabnogo-sboja.html",
+      "lang": "ru",
+      "countries": [
+        "США"
+      ],
+      "scope": "country",
+      "themes": [
+        "Туризм"
+      ]
+    },
+    {
+      "id": "9113",
+      "date": "2026-11-14",
+      "title": "Bulgaria Tightens Rules for Obtaining Residence Permits and Permanent Residency",
+      "url": "https://internationalinvestment.biz/en/news/9113-bulgaria-tightens-rules-for-obtaining-residence-permits-and-permanent-residency.html",
+      "lang": "en",
+      "countries": [
+        "Болгария"
+      ],
+      "scope": "country",
+      "themes": [
+        "ВНЖ и миграция"
+      ]
+    },
+    {
+      "id": "9113",
+      "date": "2026-11-14",
+      "title": "Болгария ужесточает правила получения ВНЖ и ПМЖ",
+      "url": "https://internationalinvestment.biz/news/9113-bolgarija-uzhestochaet-pravila-poluchenija-vnzh-i-pmzh.html",
+      "lang": "ru",
+      "countries": [
+        "Болгария"
+      ],
+      "scope": "country",
+      "themes": [
+        "ВНЖ и миграция"
+      ]
     }
   ],
   "errors": [
@@ -11898,7 +12448,7 @@
       }
     }
   ],
-  "limitations": "Archive baseline is not re-crawled from scratch in this incremental dashboard refresh; recent country-specific EN pages were verified and appended. Pan-European/global pages are not counted as country-specific.",
+  "limitations": "90+ day baseline uses dated archive scans with some first-page/pagination limits. The 9–14 Nov increment was checked directly in EN and RU daily archives. Absence from a sampled archive is not treated as proof of no historical coverage.",
   "archiveYears": [
     "2026"
   ],
@@ -11910,5 +12460,11 @@
     "he"
   ],
   "multilingualPagesRead": 36,
-  "scanLimitations": "90+ day EN archive baseline retained from prior full scan; 9–14 Nov 2026 increment added by targeted current-site verification. RU/KA/HE equivalents for the new increment were not exhaustively enumerated in this run, so language counts remain partial."
+  "scanLimitations": "Direct daily archives EN and RU were checked for 9–14 Nov 2026 and reconciled by article ID. KA/HE remain audited only through 8 Nov in this incremental run. Multi-country and pan-European articles are retained separately and must not refresh country-specific matrix cells.",
+  "recentIncrementalWindow": "2026-11-09/2026-11-14",
+  "recentLanguagesAudited": [
+    "en",
+    "ru"
+  ],
+  "kaHeThrough": "2026-11-08"
 }
