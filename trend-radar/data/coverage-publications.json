@@ -1,6 +1,6 @@
 {
-  "auditAt": "2026-11-14",
-  "window": "2026-08-10/2026-11-14",
+  "auditAt": "2026-11-16",
+  "window": "2026-08-10/2026-11-16",
   "language": "en",
   "source": "internationalinvestment.biz/en/YYYY/MM/DD date archives",
   "pagesAttempted": 97,
@@ -12352,6 +12352,146 @@
       "themes": [
         "ВНЖ и миграция"
       ]
+    },
+    {
+      "id": "9117",
+      "date": "2026-11-15",
+      "title": "France Cuts Residence Permit Processing Times",
+      "url": "https://internationalinvestment.biz/en/news/9117-france-cuts-residence-permit-processing-times.html",
+      "lang": "en",
+      "countries": [
+        "Франция"
+      ],
+      "scope": "country",
+      "themes": [
+        "ВНЖ и миграция"
+      ]
+    },
+    {
+      "id": "9117",
+      "date": "2026-11-15",
+      "title": "Франция сократила сроки рассмотрения ВНЖ",
+      "url": "https://internationalinvestment.biz/news/9117-francija-sokratila-sroki-rassmotrenija-vnzh.html",
+      "lang": "ru",
+      "countries": [
+        "Франция"
+      ],
+      "scope": "country",
+      "themes": [
+        "ВНЖ и миграция"
+      ]
+    },
+    {
+      "id": "9122",
+      "date": "2026-11-16",
+      "title": "Uzbekistan Changes Real Estate Investment Terms: 20 Years of Tax Incentives",
+      "url": "https://internationalinvestment.biz/en/business/9122-uzbekistan-changes-real-estate-investment-terms-20-years-of-tax-incentives.html",
+      "lang": "en",
+      "countries": [
+        "Узбекистан"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость",
+        "Инвестиции",
+        "Налоги для инвесторов"
+      ]
+    },
+    {
+      "id": "9122",
+      "date": "2026-11-16",
+      "title": "Узбекистан меняет условия инвестиций в недвижимость: льготы на 20 лет",
+      "url": "https://internationalinvestment.biz/business/9122-uzbekistan-menjaet-uslovija-investicij-v-nedvizhimost-lgoty-na-20-let.html",
+      "lang": "ru",
+      "countries": [
+        "Узбекистан"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость",
+        "Инвестиции",
+        "Налоги для инвесторов"
+      ]
+    },
+    {
+      "id": "9128",
+      "date": "2026-11-16",
+      "title": "Short-Term Rental Rates in Greece Rise by 8%",
+      "url": "https://internationalinvestment.biz/en/real-estate/9128-short-term-rental-rates-in-greece-rise-by-8.html",
+      "lang": "en",
+      "countries": [
+        "Греция"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость",
+        "Инвестиции",
+        "Туризм"
+      ]
+    },
+    {
+      "id": "9128",
+      "date": "2026-11-16",
+      "title": "Краткосрочная аренда в Греции подорожала на 8%",
+      "url": "https://internationalinvestment.biz/real-estate/9128-kratkosrochnaja-arenda-v-grecii-podorozhala-na-8.html",
+      "lang": "ru",
+      "countries": [
+        "Греция"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость",
+        "Инвестиции",
+        "Туризм"
+      ]
+    },
+    {
+      "id": "9130",
+      "date": "2026-11-16",
+      "title": "76% of Europeans Plan Trips, 40% Use AI",
+      "url": "https://internationalinvestment.biz/en/tourism/9130-76-of-europeans-plan-trips-40-use-ai.html",
+      "lang": "en",
+      "countries": [
+        "Германия",
+        "Великобритания",
+        "Франция",
+        "Нидерланды",
+        "Италия",
+        "Бельгия",
+        "Швейцария",
+        "Испания",
+        "Польша",
+        "Австрия"
+      ],
+      "scope": "multi-country",
+      "themes": [
+        "Туризм",
+        "Отели и гостиничный бизнес"
+      ]
+    },
+    {
+      "id": "9130",
+      "date": "2026-11-16",
+      "title": "76% европейцев планируют поездки, 40% используют AI",
+      "url": "https://internationalinvestment.biz/tourism/9130-76-evropejcev-planirujut-poezdki-40-ispolzujut-ai.html",
+      "lang": "ru",
+      "countries": [
+        "Германия",
+        "Великобритания",
+        "Франция",
+        "Нидерланды",
+        "Италия",
+        "Бельгия",
+        "Швейцария",
+        "Испания",
+        "Польша",
+        "Австрия"
+      ],
+      "scope": "multi-country",
+      "themes": [
+        "Туризм",
+        "Отели и гостиничный бизнес"
+      ]
     }
   ],
   "errors": [
@@ -12443,11 +12583,11 @@
       }
     }
   ],
-  "limitations": "90+ day baseline uses dated archive scans with some first-page/pagination limits. The 9–14 Nov increment was checked directly in EN and RU daily archives. Absence from a sampled archive is not treated as proof of no historical coverage.",
+  "limitations": "90+ day baseline retained from dated archive scans; 15–16 Nov increment verified directly in EN/RU. Absence from indexed search alone is not treated as proof of no historical coverage.",
   "archiveYears": [
     "2026"
   ],
-  "multilingualWindow": "2026-10-26/2026-11-14",
+  "multilingualWindow": "2026-10-26/2026-11-16",
   "languagesAudited": [
     "en",
     "ru",
@@ -12455,8 +12595,8 @@
     "he"
   ],
   "multilingualPagesRead": 36,
-  "scanLimitations": "Direct daily archives EN and RU were checked for 9–14 Nov 2026 and reconciled by article ID. Semantic topic mapping was normalized: rent caps, work permits and listing databases do not count as foreign-buyer property regulation unless the article explicitly concerns foreign purchasers. KA/HE remain audited only through 8 Nov.",
-  "recentIncrementalWindow": "2026-11-09/2026-11-14",
+  "scanLimitations": "Direct EN/RU daily archives for 15–16 Nov 2026 reconciled by article ID. Multi-country ETC article 9130 is retained for deduplication but does not refresh country-specific matrix cells. KA/HE incremental audit remains through 8 Nov.",
+  "recentIncrementalWindow": "2026-11-15/2026-11-16",
   "recentLanguagesAudited": [
     "en",
     "ru"
