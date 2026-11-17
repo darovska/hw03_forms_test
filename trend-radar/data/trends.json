@@ -1,37 +1,37 @@
 {
   "meta": {
-    "period": "10–16 ноября 2026",
-    "updatedAt": "16 ноября 2026",
-    "reportUrl": "https://docs.google.com/document/d/1WQ6CrcFYnX_GTeeevP0T5VsMP8p2NWlBB79l6R6RSvY/edit",
-    "editorialNote": "Trendwatch and Country Coverage refreshed through 16 Nov 2026. Selection document contains verified NEW/UPDATE candidates only; full RU/EN article drafts are intentionally deferred until editor selection and will be produced in a separate Google Doc. ETC Wave 26 article is now published as ID 9130. Fresh GSC/GA4 reads remain blocked by subscription_required; historical metrics retain their actual October measurement dates.",
+    "period": "11–17 ноября 2026",
+    "updatedAt": "17 ноября 2026",
+    "reportUrl": "https://docs.google.com/document/d/11Cjhzu4fqAXJwYWPzbLhq9xpCKuk2jon0IEguPISd04/edit",
+    "editorialNote": "Trendwatch refreshed through 17 Nov 2026. Outward FATS, Vienna short-term-rental rules and Germany residence-permit proposal are already published on II today. New strongest candidates: CBRE European Hotels, Cendyn hotel GEO/SEO benchmark, EPRS Affordable Housing Act update, Eurostat asylum August. London hotel pipeline remains HOLD until open quantitative source is verified.",
     "consolidatedDocUrl": "https://docs.google.com/document/d/1x1FAIw6HdUXHzXKeAyK7L_BM_2BpY3jxRj49BQ6ObF8/edit",
     "weeklyFinalDocUrl": "https://docs.google.com/document/d/1h2GNjhMeDgK-eXH0uzcBeYf9shTlSFkh87EhA8glNF8/edit",
     "additionalViralBriefUrl": "https://docs.google.com/document/d/1noak5K9VJW3EaN1FZ9yRM_eoMe9cMRiXNPlOC6unumk/edit",
     "sourceAudit": {
-      "window": "2026-11-10/2026-11-16",
-      "updatedAt": "2026-11-16",
+      "window": "2026-11-11/2026-11-17",
+      "updatedAt": "2026-11-17",
       "verifiedPrimarySources": [
-        "Eurostat outward FATS / foreign affiliates, 16 Nov 2026",
-        "Cushman & Wakefield Global Office Supply, 10 Nov 2026",
-        "Cushman & Wakefield Hotel Operator Compass, 10 Nov 2026",
-        "CBRE Irish Hotel Market 2026, 11 Nov 2026",
-        "Statistical Office of the Republic of Serbia construction activity Q3 2026, 10 Nov 2026"
+        "CBRE European Hotels Figures November 2026, 16 Nov",
+        "Cendyn Hotel Visibility Report 2026, 16 Nov",
+        "European Parliament Research Service Affordable Housing Act briefing, updated 11 Nov",
+        "Eurostat asylum applications August 2026, published 16 Nov",
+        "Eurostat outward FATS 2024, published 16 Nov"
       ],
       "monitoredWithoutNewConfirmedLead": [
-        "CoStar 13 Nov: hotel equity and London transaction signals checked; retained as supporting/watch signals rather than standalone priority",
-        "Skift/AirDNA 10 Nov: Europe short-term rental September data checked; mapped to update existing II analysis rather than a new duplicate",
-        "Eurostat release calendar checked through 18 Nov: final October HICP due 17 Nov; construction production due 18 Nov",
-        "Latvia September tourism release scheduled for 16 Nov; indexable table had not yet exposed verified September values at check time",
-        "InternationalInvestment.biz EN/RU daily archives checked for 15–16 Nov"
+        "CoStar/STR: London limited-service hotel pipeline signal 17 Nov; quantitative details not open, kept HOLD",
+        "TravelDailyNews: 16–17 Nov hospitality and regulation signal scan",
+        "Skift: no 11–17 Nov story stronger than selected verified priorities in current scan",
+        "UN Tourism: no newly indexed release changing current II radar in current scan",
+        "InternationalInvestment.biz EN/RU daily archive checked for 17 Nov"
       ],
       "blockedSources": [
-        "GSC Wizard / GA4 current check 16 Nov: payment_required / subscription_required"
+        "GSC Wizard / GA4 current check 17 Nov: payment_required / subscription_required"
       ],
-      "publicationAudit": "Direct EN/RU archives 15–16 Nov: France residence-permit article 9117, Uzbekistan real-estate tax incentives 9122, Greece short-term rental analysis 9128, and multi-country ETC AI travel article 9130. Article 9130 closes the ETC Wave 26 duplicate gap; multi-country pages do not refresh individual country matrix cells.",
-      "seoAccess": "No fresh GSC/GA4 metrics loaded on 16 Nov because the connected GSC Wizard account returned subscription_required. Historical measurements remain dated Oct 10 (GSC) and Oct 12 (GA4)."
+      "publicationAudit": "Direct EN/RU daily archive 17 Nov: ID 9138 outward FATS multi-country, ID 9139 Vienna short-term rentals, ID 9140 Germany residence permits. These are removed from NEW queue.",
+      "seoAccess": "No fresh GSC/GA4 metrics loaded on 17 Nov because GSC Wizard returned subscription_required. Historical measurements retain their actual dates."
     },
-    "latestDailyUpdateDate": "2026-11-16",
-    "nextEditorialPlanDate": "2026-11-17"
+    "latestDailyUpdateDate": "2026-11-17",
+    "nextEditorialPlanDate": "2026-11-18"
   },
   "categories": [
     "Все",
@@ -43,15 +43,136 @@
   ],
   "trends": [
     {
-      "id": "eurostat-outward-fats-nov16-2026",
-      "title": "Eurostat: 60% оборота зарубежных филиалов компаний ЕС создаётся вне ЕС",
-      "category": "Инвестиции",
-      "priority": "urgent",
+      "id": "costar-london-limited-service-pipeline-nov17-2026",
+      "title": "Лондон: pipeline отелей смещается в limited-service",
+      "category": "Отели и гостиничный бизнес",
+      "priority": "medium",
+      "status": "hold_verify",
+      "decision": "hold_for_verification",
+      "editorialUrgency": "3/5 — НА НЕДЕЛЕ / HOLD",
+      "publishedAt": "2026-11-17",
+      "verifiedOn": "2026-11-17",
+      "signal": "CoStar 17 Nov reports London hotel construction pipeline increasingly concentrated in limited-service and central/eastern submarkets.",
+      "why": "Potentially strong London supply story, but open source does not expose the room counts/submarket split needed for publication-quality analysis.",
+      "editorialAngle": "Hold until quantitative pipeline figures or a second open methodology-bearing source is available.",
+      "seoAngle": "London hotel pipeline 2026; limited service hotels London; hotel development London",
+      "sources": [
+        {
+          "label": "CoStar Hotels, 17 Nov",
+          "url": "https://www.costar.com/news/hotels"
+        }
+      ],
+      "publishedCoverage": "HOLD — no article until quantitative verification."
+    },
+    {
+      "id": "eurostat-asylum-august-nov16-2026",
+      "title": "Заявления на убежище в ЕС упали на 33%",
+      "category": "ВНЖ и миграция",
+      "priority": "high",
       "status": "new_candidate",
       "decision": "new_article",
       "editorialUrgency": "4/5 — ВЫСОКИЙ (48h)",
       "publishedAt": "2026-11-16",
-      "verifiedOn": "2026-11-16",
+      "verifiedOn": "2026-11-17",
+      "signal": "Eurostat: 34,835 first-time asylum applications in August 2026, -33% y/y and +2% m/m; France, Italy, Greece, Germany and Spain received 71%. Methodology changed from July 2026 to registered applications.",
+      "why": "Strong official migration comparison with country concentration and a methodology break that should be explained; distinct from temporary protection and residence permits.",
+      "editorialAngle": "Поток заявлений ниже прошлогоднего, но нагрузка всё сильнее концентрируется в пяти странах; развести asylum, temporary protection и ВНЖ.",
+      "seoAngle": "EU asylum applications 2026; Eurostat asylum August 2026; migration EU 2026; заявления на убежище ЕС",
+      "sources": [
+        {
+          "label": "Eurostat, 16 Nov",
+          "url": "https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20261116-1"
+        }
+      ],
+      "publishedCoverage": "No exact August asylum article found. Crosslink temporary-protection ID 9105 only as a separate legal regime."
+    },
+    {
+      "id": "eu-affordable-housing-act-eprs-nov11-2026",
+      "title": "Affordable Housing Act: ЕС уточнил критерии housing stress",
+      "category": "Недвижимость",
+      "priority": "high",
+      "status": "update_candidate",
+      "decision": "update_existing",
+      "editorialUrgency": "4/5 — ВЫСОКИЙ (48h)",
+      "publishedAt": "2026-11-11",
+      "verifiedOn": "2026-11-17",
+      "signal": "EPRS briefing: proposed housing-stress designation requires price-to-income ratio >=8, increase over 10 years and no easing over 3 years; occasional letting of primary residences excluded. Proposal COM(2026)599 remains in ordinary legislative procedure and adds no new EU funding.",
+      "why": "Fresh procedural and threshold detail materially improves the September II article without creating a competing URL.",
+      "editorialAngle": "Update the existing Affordable Housing Act article with the exact housing-stress test, scope/exclusions and legislative status.",
+      "seoAngle": "EU Affordable Housing Act 2026; housing stress EU; short-term rental restrictions Europe; price to income ratio 8",
+      "sources": [
+        {
+          "label": "EPRS briefing, updated 11 Nov",
+          "url": "https://eprs.europarl.europa.eu/EPRS_BRI%282026%29797026"
+        },
+        {
+          "label": "European Parliament Legislative Observatory",
+          "url": "https://oeil.europarl.europa.eu/oeil/en/document-summary?id=1912810"
+        }
+      ],
+      "publishedCoverage": {
+        "decision": "update",
+        "url": "https://internationalinvestment.biz/en/real-estate/8812-eu-proposes-new-restrictions-on-short-term-housing-rentals.html"
+      }
+    },
+    {
+      "id": "cendyn-hotel-visibility-nov16-2026",
+      "title": "GEO и SEO: отели увеличили органическую выручку на 116%",
+      "category": "Отели и гостиничный бизнес",
+      "priority": "high",
+      "status": "new_candidate",
+      "decision": "new_article",
+      "editorialUrgency": "4/5 — ВЫСОКИЙ (48h)",
+      "publishedAt": "2026-11-16",
+      "verifiedOn": "2026-11-17",
+      "signal": "Cendyn benchmark across 148 hotels: organic bookings +66%, organic revenue +116%, conversion +58% comparing H1 to H2 2025 among hotels incorporating GEO into broader SEO/digital activity.",
+      "why": "Provides a measurable AI-search/distribution angle for hotels, but must be framed as a vendor benchmark and association rather than causal proof of GEO alone.",
+      "editorialAngle": "Что в hotel GEO уже можно измерять деньгами и где эффект всё ещё смешан с SEO, content and technical changes.",
+      "seoAngle": "hotel GEO 2026; hotel SEO AI search; hotel organic revenue; generative engine optimization hotels",
+      "sources": [
+        {
+          "label": "Cendyn Hotel Visibility Report release",
+          "url": "https://www.cendyn.com/news/cendyn-hotel-visibility-report-2026/"
+        },
+        {
+          "label": "Cendyn report landing page",
+          "url": "https://www.cendyn.com/library/cendyn-hotel-visibility-report/"
+        }
+      ],
+      "publishedCoverage": "No exact Cendyn benchmark article found; crosslink II ETC+AI ID 9130 and existing AI travel-search analysis."
+    },
+    {
+      "id": "cbre-europe-hotels-nov16-2026",
+      "title": "Европейские отели: RevPAR +5%, инвестиции €15,7 млрд",
+      "category": "Отели и гостиничный бизнес",
+      "priority": "urgent",
+      "status": "new_candidate",
+      "decision": "new_article",
+      "editorialUrgency": "5/5 — ГОРИТ (24h)",
+      "publishedAt": "2026-11-16",
+      "verifiedOn": "2026-11-17",
+      "signal": "CBRE: European hotel RevPAR +5.0% YTD September, ADR +4.1%; hotel investment €15.7bn YTD, below €17.1bn a year earlier but 18% above the 10-year Q1-Q3 average. Hotel pipeline CAGR 0.5% for 2026-2031 vs 4.0% CAGR for hotel nights.",
+      "why": "Combines operations, capital and supply into a direct investment story; limited pipeline growth relative to nights is the strongest durable angle.",
+      "editorialAngle": "Европейские отели: спрос растёт быстрее нового предложения — где формируется дефицит качественного номерного фонда.",
+      "seoAngle": "European hotel investment 2026; Europe hotel RevPAR 2026; hotel pipeline Europe; инвестиции в отели Европы",
+      "sources": [
+        {
+          "label": "CBRE European Hotels Figures November 2026",
+          "url": "https://www.cbre.co.uk/insights/figures/european-hotels-figures-november-2026"
+        }
+      ],
+      "publishedCoverage": "No exact 16 Nov CBRE European Hotels story found in II 17 Nov archive."
+    },
+    {
+      "id": "eurostat-outward-fats-nov16-2026",
+      "title": "Eurostat: 60% оборота зарубежных филиалов компаний ЕС создаётся вне ЕС",
+      "category": "Инвестиции",
+      "priority": "urgent",
+      "status": "covered",
+      "decision": "covered_published",
+      "editorialUrgency": "4/5 — ВЫСОКИЙ (48h)",
+      "publishedAt": "2026-11-16",
+      "verifiedOn": "2026-11-17",
       "signal": "49.7% of EU-controlled foreign affiliates are outside the EU; they generate 60.2% of net turnover and employ 61.1% of workers in those foreign affiliates. Outside-EU turnover shares: Ireland 77.6%, Netherlands 67.0%, Germany 63.3%.",
       "why": "New official outward-FATS comparison shows where EU-controlled corporate activity is ultimately located and monetised, distinct from inward FDI and immediate-investor statistics.",
       "editorialAngle": "Где европейские компании фактически зарабатывают за пределами ЕС и какие экономики сильнее связаны с внешними корпоративными сетями.",
@@ -62,7 +183,12 @@
           "url": "https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20261116-2"
         }
       ],
-      "publishedCoverage": "No exact International Investment duplicate found in the 15–16 Nov publication audit."
+      "publishedCoverage": {
+        "en": "https://internationalinvestment.biz/en/business/9138-60-of-eu-foreign-affiliate-turnover-comes-from-outside-eu.html",
+        "ru": "https://internationalinvestment.biz/business/9138-60-oborota-zarubezhnyh-filialov-es-vne-evropy.html",
+        "articleId": "9138",
+        "publishedAt": "2026-11-17"
+      }
     },
     {
       "id": "cushman-global-office-supply-nov10-2026",
@@ -3362,6 +3488,19 @@
         "Eurostat Q3 flash: GDP +0.4% euro area, employment flat"
       ],
       "reportUrl": "https://docs.google.com/document/d/10sLFnp0HD_I6UClnGl1KzvrgAUdP5vLRsjU1NSd5xLY/edit"
+    },
+    {
+      "period": "10–16 ноября 2026",
+      "endDate": "2026-11-16",
+      "savedAt": "17 ноября 2026",
+      "summary": "Период 10–16 ноября: outward FATS Eurostat, global office supply, hotel operator expansion, Dublin hotels, Serbia construction and Europe STR updates; закрыт перед ежедневным обновлением 11–17 ноября.",
+      "keyPoints": [
+        "Eurostat outward FATS selected as NEW and published on II on 17 Nov as ID 9138",
+        "Office and hotel operator expansion remain in editorial queue",
+        "Serbia construction and Europe STR retained as UPDATE candidates",
+        "GSC/GA4 remained blocked by subscription_required"
+      ],
+      "reportUrl": "https://docs.google.com/document/d/1WQ6CrcFYnX_GTeeevP0T5VsMP8p2NWlBB79l6R6RSvY/edit"
     }
   ],
   "monitoringSources": [
@@ -3893,7 +4032,7 @@
     }
   ],
   "seoSignals": {
-    "updatedAt": "16 ноября 2026",
+    "updatedAt": "17 ноября 2026",
     "sourceStatus": {
       "yandexWebmaster": "not_loaded",
       "googleSearchConsole": "blocked_subscription_required",
@@ -4042,14 +4181,14 @@
         "currentPeriodDataLoaded": false
       }
     ],
-    "sourceNote": "16 Nov 2026: connected GSC Wizard returned payment_required / subscription_required; no fresh GSC or GA4 metrics loaded. Historical query rows retain their real October measurement dates."
+    "sourceNote": "17 Nov 2026: GSC Wizard returned payment_required / subscription_required; no fresh GSC or GA4 metrics loaded. Historical rows keep their actual measurement dates."
   },
   "sourcePolicy": {
     "dynamicCountryStats": true,
     "rule": "Если в текущем трендрадаре или публикациях International Investment появляется страна, которой нет в списке локальных источников, найти ее официальный государственный статистический орган и релевантный регулятор/реестр недвижимости, проверить официальный домен и добавить их в мониторинг как verification-источники."
   },
   "coverageMonitoring": {
-    "updatedAt": "16 ноября 2026",
+    "updatedAt": "17 ноября 2026",
     "auditWindowDays": 90,
     "freshnessRules": {
       "freshMaxDays": 14,
@@ -4638,7 +4777,7 @@
               "en": "https://internationalinvestment.biz/en/real-estate/9079-australian-property-market-fastest-downturn-in-40-years.html"
             },
             "matchCount": 6,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Инвестиции",
@@ -4651,7 +4790,7 @@
               "en": "https://internationalinvestment.biz/en/real-estate/9079-australian-property-market-fastest-downturn-in-40-years.html"
             },
             "matchCount": 3,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Туризм",
@@ -4665,7 +4804,7 @@
               "ru": "https://internationalinvestment.biz/tourism/9095-moshenniki-atakovali-turisticheskie-parki-avstralii.html"
             },
             "matchCount": 2,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Отели и гостиничный бизнес",
@@ -4695,34 +4834,36 @@
       },
       {
         "country": "Австрия",
-        "lastUpdate": "2026-09-30",
+        "lastUpdate": "2026-11-17",
         "topicCount": 5,
         "topics": [
           {
             "name": "Недвижимость",
-            "lastPublished": "2026-09-30",
-            "status": "stale",
-            "lastUrl": "https://internationalinvestment.biz/en/austria/8857-austrias-commercial-student-housing-market-remains-small.html",
-            "articleId": "8857",
-            "headline": "Austria’s Commercial Student Housing Market Remains Small",
+            "lastPublished": "2026-11-17",
+            "status": "fresh",
+            "lastUrl": "https://internationalinvestment.biz/en/real-estate/9139-vienna-tightens-rules-for-short-term-apartment-rentals.html",
+            "articleId": "9139",
+            "headline": "Vienna Tightens Rules for Short-Term Apartment Rentals",
             "languageUrls": {
-              "en": "https://internationalinvestment.biz/en/austria/8857-austrias-commercial-student-housing-market-remains-small.html"
+              "en": "https://internationalinvestment.biz/en/real-estate/9139-vienna-tightens-rules-for-short-term-apartment-rentals.html",
+              "ru": "https://internationalinvestment.biz/real-estate/9139-vena-uzhestochaet-pravila-kratkosrochnoj-arendy-kvartir.html"
             },
-            "matchCount": 4,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "matchCount": 5,
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Инвестиции",
-            "lastPublished": "2026-09-30",
-            "status": "stale",
-            "lastUrl": "https://internationalinvestment.biz/en/austria/8857-austrias-commercial-student-housing-market-remains-small.html",
-            "articleId": "8857",
-            "headline": "Austria’s Commercial Student Housing Market Remains Small",
+            "lastPublished": "2026-11-17",
+            "status": "fresh",
+            "lastUrl": "https://internationalinvestment.biz/en/real-estate/9139-vienna-tightens-rules-for-short-term-apartment-rentals.html",
+            "articleId": "9139",
+            "headline": "Vienna Tightens Rules for Short-Term Apartment Rentals",
             "languageUrls": {
-              "en": "https://internationalinvestment.biz/en/austria/8857-austrias-commercial-student-housing-market-remains-small.html"
+              "en": "https://internationalinvestment.biz/en/real-estate/9139-vienna-tightens-rules-for-short-term-apartment-rentals.html",
+              "ru": "https://internationalinvestment.biz/real-estate/9139-vena-uzhestochaet-pravila-kratkosrochnoj-arendy-kvartir.html"
             },
-            "matchCount": 1,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "matchCount": 2,
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Туризм",
@@ -4735,7 +4876,7 @@
               "en": "https://internationalinvestment.biz/en/tourism/8709-drought-dries-barenschutzklamm-waterfalls-in-austria.html"
             },
             "matchCount": 2,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Отели и гостиничный бизнес",
@@ -4748,7 +4889,7 @@
               "en": "https://internationalinvestment.biz/en/austria/8707-vienna-leads-rentals-alpine-resorts-earn-more.html"
             },
             "matchCount": 1,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "ВНЖ и миграция",
@@ -4767,7 +4908,7 @@
               "en": "https://internationalinvestment.biz/en/austria/8858-austria-tightens-property-tax-rules-for-share-deals.html"
             },
             "matchCount": 1,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Регулирование и правила для иностранных покупателей",
@@ -4793,7 +4934,7 @@
               "en": "https://internationalinvestment.biz/en/business/9097-investment-in-albania-growth-and-risks.html"
             },
             "matchCount": 3,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Инвестиции",
@@ -4806,7 +4947,7 @@
               "en": "https://internationalinvestment.biz/en/business/9097-investment-in-albania-growth-and-risks.html"
             },
             "matchCount": 2,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Туризм",
@@ -4819,7 +4960,7 @@
               "en": "https://internationalinvestment.biz/en/tourism/9075-albania-limits-residential-development-in-resort-complexes.html"
             },
             "matchCount": 1,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Отели и гостиничный бизнес",
@@ -4863,7 +5004,7 @@
               "en": "https://internationalinvestment.biz/en/real-estate/9077-buying-land-in-argentina-restrictions-for-foreigners.html"
             },
             "matchCount": 2,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Инвестиции",
@@ -4876,7 +5017,7 @@
               "en": "https://internationalinvestment.biz/en/real-estate/9077-buying-land-in-argentina-restrictions-for-foreigners.html"
             },
             "matchCount": 1,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Туризм",
@@ -4901,7 +5042,7 @@
               "en": "https://internationalinvestment.biz/en/news/9090-argentina-tightens-residence-permit-rules.html"
             },
             "matchCount": 2,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Налоги для инвесторов",
@@ -4920,7 +5061,7 @@
               "en": "https://internationalinvestment.biz/en/real-estate/9077-buying-land-in-argentina-restrictions-for-foreigners.html"
             },
             "matchCount": 1,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           }
         ]
       },
@@ -4940,7 +5081,7 @@
               "en": "https://internationalinvestment.biz/en/real-estate/9116-home-purchases-by-foreigners-in-armenia-rose-47.html"
             },
             "matchCount": 3,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Инвестиции",
@@ -4953,7 +5094,7 @@
               "en": "https://internationalinvestment.biz/en/real-estate/9116-home-purchases-by-foreigners-in-armenia-rose-47.html"
             },
             "matchCount": 3,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Туризм",
@@ -4978,7 +5119,7 @@
               "en": "https://internationalinvestment.biz/en/migration/8907-how-to-get-a-residence-permit-in-armenia-in-2026-what-changes-from-november-1.html"
             },
             "matchCount": 4,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Налоги для инвесторов",
@@ -4997,7 +5138,7 @@
               "en": "https://internationalinvestment.biz/en/real-estate/8673-foreign-buyers-become-more-active-in-armenias-real-estate-market.html"
             },
             "matchCount": 1,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           }
         ]
       },
@@ -5017,7 +5158,7 @@
               "en": "https://internationalinvestment.biz/en/tourism/9091-belarus-attracts-investors-to-resort-projects.html"
             },
             "matchCount": 2,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Инвестиции",
@@ -5030,7 +5171,7 @@
               "en": "https://internationalinvestment.biz/en/tourism/9091-belarus-attracts-investors-to-resort-projects.html"
             },
             "matchCount": 2,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Туризм",
@@ -5043,7 +5184,7 @@
               "en": "https://internationalinvestment.biz/en/tourism/9091-belarus-attracts-investors-to-resort-projects.html"
             },
             "matchCount": 2,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Отели и гостиничный бизнес",
@@ -5056,7 +5197,7 @@
               "en": "https://internationalinvestment.biz/en/tourism/9091-belarus-attracts-investors-to-resort-projects.html"
             },
             "matchCount": 1,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "ВНЖ и миграция",
@@ -5094,7 +5235,7 @@
               "en": "https://internationalinvestment.biz/en/business/9067-belgian-industrial-property-draws-537m-of-capital.html"
             },
             "matchCount": 1,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Инвестиции",
@@ -5107,7 +5248,7 @@
               "en": "https://internationalinvestment.biz/en/business/9067-belgian-industrial-property-draws-537m-of-capital.html"
             },
             "matchCount": 1,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Туризм",
@@ -5157,7 +5298,7 @@
               "en": "https://internationalinvestment.biz/en/real-estate/9035-price-deadlock-in-bulgaria-property-sales-fall-22.html"
             },
             "matchCount": 6,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Инвестиции",
@@ -5170,7 +5311,7 @@
               "en": "https://internationalinvestment.biz/en/tourism/9092-bulgarian-hotels-post-higher-revenue-despite-weaker-demand.html"
             },
             "matchCount": 7,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Туризм",
@@ -5183,7 +5324,7 @@
               "en": "https://internationalinvestment.biz/en/tourism/9092-bulgarian-hotels-post-higher-revenue-despite-weaker-demand.html"
             },
             "matchCount": 2,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Отели и гостиничный бизнес",
@@ -5196,7 +5337,7 @@
               "en": "https://internationalinvestment.biz/en/tourism/9092-bulgarian-hotels-post-higher-revenue-despite-weaker-demand.html"
             },
             "matchCount": 1,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "ВНЖ и миграция",
@@ -5210,7 +5351,7 @@
               "ru": "https://internationalinvestment.biz/news/9113-bolgarija-uzhestochaet-pravila-poluchenija-vnzh-i-pmzh.html"
             },
             "matchCount": 2,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Налоги для инвесторов",
@@ -5223,7 +5364,7 @@
               "en": "https://internationalinvestment.biz/en/real-estate/9007-property-taxes-in-bulgaria-could-double.html"
             },
             "matchCount": 1,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Регулирование и правила для иностранных покупателей",
@@ -5273,7 +5414,7 @@
               "en": "https://internationalinvestment.biz/en/migration/8736-bosnia-and-herzegovina-citizenship-for-special-merit-how-to-obtain-it.html"
             },
             "matchCount": 1,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Налоги для инвесторов",
@@ -5307,7 +5448,7 @@
               "ru": "https://internationalinvestment.biz/real-estate/9057-arenda-jelitnyh-kvartir-londona-rastet-na-deficite.html"
             },
             "matchCount": 12,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Инвестиции",
@@ -5322,7 +5463,7 @@
               "ru": "https://internationalinvestment.biz/real-estate/9057-arenda-jelitnyh-kvartir-londona-rastet-na-deficite.html"
             },
             "matchCount": 8,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Туризм",
@@ -5335,7 +5476,7 @@
               "en": "https://internationalinvestment.biz/en/business/6943-tax-nightmare-for-hotels-and-cafes-in-the-uk.html"
             },
             "matchCount": 2,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Отели и гостиничный бизнес",
@@ -5348,7 +5489,7 @@
               "en": "https://internationalinvestment.biz/en/business/8996-england-to-introduce-a-short-term-rental-register.html"
             },
             "matchCount": 2,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "ВНЖ и миграция",
@@ -5361,7 +5502,7 @@
               "en": "https://internationalinvestment.biz/en/britannia/8780-reform-uk-reworks-its-offer-to-wealthy-foreigners.html"
             },
             "matchCount": 2,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Налоги для инвесторов",
@@ -5374,7 +5515,7 @@
               "en": "https://internationalinvestment.biz/en/business/6943-tax-nightmare-for-hotels-and-cafes-in-the-uk.html"
             },
             "matchCount": 1,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Регулирование и правила для иностранных покупателей",
@@ -5400,7 +5541,7 @@
               "en": "https://internationalinvestment.biz/en/real-estate/9114-hungarys-property-price-growth-comes-to-a-near-standstill.html"
             },
             "matchCount": 3,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Инвестиции",
@@ -5413,7 +5554,7 @@
               "en": "https://internationalinvestment.biz/en/real-estate/9114-hungarys-property-price-growth-comes-to-a-near-standstill.html"
             },
             "matchCount": 2,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Туризм",
@@ -5444,7 +5585,7 @@
               "en": "https://internationalinvestment.biz/en/hungary/8755-hungary-plans-wealth-tax-above-1-billion-forints.html"
             },
             "matchCount": 1,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Регулирование и правила для иностранных покупателей",
@@ -5456,7 +5597,7 @@
       },
       {
         "country": "Германия",
-        "lastUpdate": "2026-11-03",
+        "lastUpdate": "2026-11-17",
         "topicCount": 5,
         "topics": [
           {
@@ -5470,7 +5611,7 @@
               "ka": "https://internationalinvestment.biz/ka/business/9025-ucxouri-kapitali-evropis-ofisebshi-brundeba.html"
             },
             "matchCount": 6,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Инвестиции",
@@ -5483,7 +5624,7 @@
               "ka": "https://internationalinvestment.biz/ka/business/9025-ucxouri-kapitali-evropis-ofisebshi-brundeba.html"
             },
             "matchCount": 6,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Туризм",
@@ -5496,7 +5637,7 @@
               "en": "https://internationalinvestment.biz/en/business/8988-german-hotel-transaction-volume-falls-by-a-third.html"
             },
             "matchCount": 2,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Отели и гостиничный бизнес",
@@ -5509,21 +5650,21 @@
               "en": "https://internationalinvestment.biz/en/business/8988-german-hotel-transaction-volume-falls-by-a-third.html"
             },
             "matchCount": 1,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "ВНЖ и миграция",
-            "lastPublished": "2026-11-02",
+            "lastPublished": "2026-11-17",
             "status": "fresh",
-            "lastUrl": "https://internationalinvestment.biz/he/news/9027-germanim-mevakshim-miklat-zmani-be-rusya.html",
-            "articleId": "9027",
-            "headline": "גרמנים מבקשים מקלט זמני ברוסיה",
+            "lastUrl": "https://internationalinvestment.biz/en/news/9140-germany-proposes-expanding-eligibility-for-residence-permits.html",
+            "articleId": "9140",
+            "headline": "Germany Proposes Expanding Eligibility for Residence Permits",
             "languageUrls": {
-              "he": "https://internationalinvestment.biz/he/news/9027-germanim-mevakshim-miklat-zmani-be-rusya.html",
-              "ka": "https://internationalinvestment.biz/ka/news/9027-germanelebi-rusetshi-droebit-tavshesafars-itkhoven.html"
+              "en": "https://internationalinvestment.biz/en/news/9140-germany-proposes-expanding-eligibility-for-residence-permits.html",
+              "ru": "https://internationalinvestment.biz/news/9140-v-germanii-predlozhili-rasshirit-osnovanija-dlja-poluchenija-vnzh.html"
             },
-            "matchCount": 2,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "matchCount": 3,
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Налоги для инвесторов",
@@ -5556,7 +5697,7 @@
               "ru": "https://internationalinvestment.biz/real-estate/9128-kratkosrochnaja-arenda-v-grecii-podorozhala-na-8.html"
             },
             "matchCount": 7,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Инвестиции",
@@ -5570,7 +5711,7 @@
               "ru": "https://internationalinvestment.biz/real-estate/9128-kratkosrochnaja-arenda-v-grecii-podorozhala-na-8.html"
             },
             "matchCount": 5,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Туризм",
@@ -5584,7 +5725,7 @@
               "ru": "https://internationalinvestment.biz/real-estate/9128-kratkosrochnaja-arenda-v-grecii-podorozhala-na-8.html"
             },
             "matchCount": 2,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Отели и гостиничный бизнес",
@@ -5597,7 +5738,7 @@
               "en": "https://internationalinvestment.biz/en/real-estate/8889-greece-to-step-up-checks-on-short-term-rental-income.html"
             },
             "matchCount": 2,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "ВНЖ и миграция",
@@ -5610,7 +5751,7 @@
               "en": "https://internationalinvestment.biz/en/greece/8882-greece-softens-property-tax-plan-for-non-eu-buyers.html"
             },
             "matchCount": 2,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Налоги для инвесторов",
@@ -5623,7 +5764,7 @@
               "en": "https://internationalinvestment.biz/en/greece/8882-greece-softens-property-tax-plan-for-non-eu-buyers.html"
             },
             "matchCount": 3,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Регулирование и правила для иностранных покупателей",
@@ -5636,7 +5777,7 @@
               "en": "https://internationalinvestment.biz/en/greece/8864-greece-prepares-15-home-tax-for-third-country-buyers.html"
             },
             "matchCount": 1,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           }
         ]
       },
@@ -5657,7 +5798,7 @@
               "ru": "https://internationalinvestment.biz/real-estate/9108-rynok-nedvizhimosti-tbilisi-ceny-arenda-dohodnost.html"
             },
             "matchCount": 47,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Инвестиции",
@@ -5670,7 +5811,7 @@
               "en": "https://internationalinvestment.biz/en/business/9107-georgia-rule-of-law-world-bank-wgi.html"
             },
             "matchCount": 44,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Туризм",
@@ -5683,7 +5824,7 @@
               "en": "https://internationalinvestment.biz/en/tourism/9118-bike-and-wine-italian-journalists-tour-georgia.html"
             },
             "matchCount": 47,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Отели и гостиничный бизнес",
@@ -5696,7 +5837,7 @@
               "en": "https://internationalinvestment.biz/en/business/9120-record-year-for-tbilisi-hotels.html"
             },
             "matchCount": 12,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "ВНЖ и миграция",
@@ -5709,12 +5850,12 @@
               "en": "https://internationalinvestment.biz/en/migration/9111-foreign-employment-georgia-work-permit-deadline.html"
             },
             "matchCount": 4,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Налоги для инвесторов",
             "lastPublished": "2026-11-02",
-            "status": "fresh",
+            "status": "watch",
             "lastUrl": "https://internationalinvestment.biz/he/business/9032-be-georgia-mispar-proyektey-habniya-ole-ve-mesira-yoredet.html",
             "articleId": "9032",
             "headline": "בגאורגיה מספר פרויקטי הבנייה החדשים עולה, בעוד מסירת המבנים יורדת",
@@ -5722,7 +5863,7 @@
               "he": "https://internationalinvestment.biz/he/business/9032-be-georgia-mispar-proyektey-habniya-ole-ve-mesira-yoredet.html"
             },
             "matchCount": 3,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Регулирование и правила для иностранных покупателей",
@@ -5748,7 +5889,7 @@
               "en": "https://internationalinvestment.biz/en/business/9040-five-danish-hotels-with-928-rooms-change-hands.html"
             },
             "matchCount": 1,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Инвестиции",
@@ -5761,7 +5902,7 @@
               "en": "https://internationalinvestment.biz/en/business/9040-five-danish-hotels-with-928-rooms-change-hands.html"
             },
             "matchCount": 1,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Туризм",
@@ -5774,7 +5915,7 @@
               "en": "https://internationalinvestment.biz/en/business/9040-five-danish-hotels-with-928-rooms-change-hands.html"
             },
             "matchCount": 2,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Отели и гостиничный бизнес",
@@ -5787,7 +5928,7 @@
               "en": "https://internationalinvestment.biz/en/business/9040-five-danish-hotels-with-928-rooms-change-hands.html"
             },
             "matchCount": 1,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "ВНЖ и миграция",
@@ -5800,7 +5941,7 @@
               "en": "https://internationalinvestment.biz/en/denmark/8703-denmark-pushes-eu-toward-tougher-external-borders.html"
             },
             "matchCount": 1,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Налоги для инвесторов",
@@ -5838,7 +5979,7 @@
               "en": "https://internationalinvestment.biz/en/egypt/8609-egypt-inflation-accelerates-again-in-july.html"
             },
             "matchCount": 1,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Туризм",
@@ -5851,7 +5992,7 @@
               "en": "https://internationalinvestment.biz/en/news/8848-cairo-airport-replaces-paper-visas-with-qr-codes.html"
             },
             "matchCount": 3,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Отели и гостиничный бизнес",
@@ -5895,7 +6036,7 @@
               "en": "https://internationalinvestment.biz/en/business/8890-mass-cancellations-of-new-build-home-deals-in-southern-israel.html"
             },
             "matchCount": 11,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Инвестиции",
@@ -5908,7 +6049,7 @@
               "en": "https://internationalinvestment.biz/en/business/8902-israels-gdp-surges-after-early-year-contraction.html"
             },
             "matchCount": 8,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Туризм",
@@ -5921,7 +6062,7 @@
               "en": "https://internationalinvestment.biz/en/tourism/8933-tourism-in-israel-in-2026-demand-and-outlook.html"
             },
             "matchCount": 3,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Отели и гостиничный бизнес",
@@ -5934,7 +6075,7 @@
               "en": "https://internationalinvestment.biz/en/business/8918-israeli-hotels-lose-one-million-overnight-stays-in-2026.html"
             },
             "matchCount": 1,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "ВНЖ и миграция",
@@ -5947,7 +6088,7 @@
               "en": "https://internationalinvestment.biz/en/news/8856-more-than-20000-people-immigrated-to-israel-in-one-year.html"
             },
             "matchCount": 2,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Налоги для инвесторов",
@@ -5985,7 +6126,7 @@
               "en": "https://internationalinvestment.biz/en/india/8567-foreign-funds-return-to-indian-stocks.html"
             },
             "matchCount": 1,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Туризм",
@@ -5998,7 +6139,7 @@
               "en": "https://internationalinvestment.biz/en/india/8987-india-becomes-skyscanners-largest-market.html"
             },
             "matchCount": 3,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Отели и гостиничный бизнес",
@@ -6042,7 +6183,7 @@
               "en": "https://internationalinvestment.biz/en/business/9038-bali-villa-rental-yields-what-lies-behind-promises-of-1015-a-year.html"
             },
             "matchCount": 4,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Инвестиции",
@@ -6055,7 +6196,7 @@
               "en": "https://internationalinvestment.biz/en/business/9038-bali-villa-rental-yields-what-lies-behind-promises-of-1015-a-year.html"
             },
             "matchCount": 2,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Туризм",
@@ -6068,7 +6209,7 @@
               "en": "https://internationalinvestment.biz/en/tourism/9008-boat-carrying-russian-tourists-explodes-in-bali.html"
             },
             "matchCount": 4,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Отели и гостиничный бизнес",
@@ -6115,7 +6256,7 @@
               "ru": "https://internationalinvestment.biz/business/9047-arenda-skladov-dublina-vyrosla-na-65.html"
             },
             "matchCount": 8,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Инвестиции",
@@ -6131,7 +6272,7 @@
               "ru": "https://internationalinvestment.biz/business/9047-arenda-skladov-dublina-vyrosla-na-65.html"
             },
             "matchCount": 4,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Туризм",
@@ -6150,7 +6291,7 @@
               "en": "https://internationalinvestment.biz/en/business/8959-ireland-plans-national-short-term-rental-register.html"
             },
             "matchCount": 1,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "ВНЖ и миграция",
@@ -6169,7 +6310,7 @@
               "en": "https://internationalinvestment.biz/en/ireland/8670-ireland-debates-wider-vat-cut-for-new-homes.html"
             },
             "matchCount": 1,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Регулирование и правила для иностранных покупателей",
@@ -6195,7 +6336,7 @@
               "en": "https://internationalinvestment.biz/en/iceland/8680-iceland-house-prices-fall-behind-inflation.html"
             },
             "matchCount": 3,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Инвестиции",
@@ -6208,7 +6349,7 @@
               "en": "https://internationalinvestment.biz/en/iceland/8646-icelands-capital-housing-market-shifts-toward-cheaper-homes.html"
             },
             "matchCount": 1,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Туризм",
@@ -6227,7 +6368,7 @@
               "en": "https://internationalinvestment.biz/en/iceland/8658-reykjavik-airbnb-supply-falls-nearly-20-as-revenue-slips.html"
             },
             "matchCount": 1,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "ВНЖ и миграция",
@@ -6265,7 +6406,7 @@
               "en": "https://internationalinvestment.biz/en/news/9078-madrid-to-build-1-billion-city-of-health-complex.html"
             },
             "matchCount": 9,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Инвестиции",
@@ -6278,7 +6419,7 @@
               "en": "https://internationalinvestment.biz/en/news/9078-madrid-to-build-1-billion-city-of-health-complex.html"
             },
             "matchCount": 6,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Туризм",
@@ -6291,7 +6432,7 @@
               "ka": "https://internationalinvestment.biz/ka/tourism/9070-patara-sastumroebis-stumrebi-mzad-arian-nomrebi-binebze-gatsvalon.html"
             },
             "matchCount": 6,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Отели и гостиничный бизнес",
@@ -6304,7 +6445,7 @@
               "ka": "https://internationalinvestment.biz/ka/tourism/9070-patara-sastumroebis-stumrebi-mzad-arian-nomrebi-binebze-gatsvalon.html"
             },
             "matchCount": 3,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "ВНЖ и миграция",
@@ -6317,7 +6458,7 @@
               "en": "https://internationalinvestment.biz/en/migration/9103-migration-crisis-in-the-canary-islands.html"
             },
             "matchCount": 8,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Налоги для инвесторов",
@@ -6330,7 +6471,7 @@
               "he": "https://internationalinvestment.biz/he/news/8997-sefarad-movila-be-igud-ha-eropi-be-gidul-ashrot-shehiya.html"
             },
             "matchCount": 1,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Регулирование и правила для иностранных покупателей",
@@ -6356,7 +6497,7 @@
               "en": "https://internationalinvestment.biz/en/tourism/8963-grand-prix-and-fashion-drive-milan-hotel-rates-higher.html"
             },
             "matchCount": 5,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Инвестиции",
@@ -6370,7 +6511,7 @@
               "ru": "https://internationalinvestment.biz/business/9048-vena-naraschivaet-turpotok-no-vyruchka-otelej-prosedaet.html"
             },
             "matchCount": 4,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Туризм",
@@ -6384,7 +6525,7 @@
               "ru": "https://internationalinvestment.biz/business/9048-vena-naraschivaet-turpotok-no-vyruchka-otelej-prosedaet.html"
             },
             "matchCount": 3,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Отели и гостиничный бизнес",
@@ -6398,7 +6539,7 @@
               "ru": "https://internationalinvestment.biz/business/9048-vena-naraschivaet-turpotok-no-vyruchka-otelej-prosedaet.html"
             },
             "matchCount": 2,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "ВНЖ и миграция",
@@ -6411,7 +6552,7 @@
               "en": "https://internationalinvestment.biz/en/news/9109-italian-citizenship-by-descent-fraud-and-corruption.html"
             },
             "matchCount": 1,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Налоги для инвесторов",
@@ -6430,7 +6571,7 @@
               "en": "https://internationalinvestment.biz/en/italy/7943-rome-housing-market-gains-momentum.html"
             },
             "matchCount": 1,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           }
         ]
       },
@@ -6456,7 +6597,7 @@
               "en": "https://internationalinvestment.biz/en/kazakkhstan/8741-kazakhstan-recovers-25-billion-in-state-assets.html"
             },
             "matchCount": 2,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Туризм",
@@ -6469,7 +6610,7 @@
               "en": "https://internationalinvestment.biz/en/tourism/8948-kazakhstan-introduces-electronic-entry-authorization.html"
             },
             "matchCount": 1,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Отели и гостиничный бизнес",
@@ -6488,7 +6629,7 @@
               "en": "https://internationalinvestment.biz/en/migration/7750-new-rules-for-kazakhstan-residency-permits-2026-language-points-system-and-financial-threshold.html"
             },
             "matchCount": 2,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Налоги для инвесторов",
@@ -6520,7 +6661,7 @@
               "en": "https://internationalinvestment.biz/en/canada/8661-canadian-home-prices-stabilize-as-listings-fall.html"
             },
             "matchCount": 1,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Инвестиции",
@@ -6533,7 +6674,7 @@
               "en": "https://internationalinvestment.biz/en/business/8810-canada-fast-tracks-tax-rulings-for-c1-billion-investments.html"
             },
             "matchCount": 1,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Туризм",
@@ -6564,7 +6705,7 @@
               "en": "https://internationalinvestment.biz/en/business/8810-canada-fast-tracks-tax-rulings-for-c1-billion-investments.html"
             },
             "matchCount": 1,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Регулирование и правила для иностранных покупателей",
@@ -6639,7 +6780,7 @@
               "en": "https://internationalinvestment.biz/en/china/8815-china-home-prices-continue-to-fall.html"
             },
             "matchCount": 5,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Инвестиции",
@@ -6652,7 +6793,7 @@
               "en": "https://internationalinvestment.biz/en/china/8809-china-nears-a-decision-on-fresh-stimulus.html"
             },
             "matchCount": 1,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Туризм",
@@ -6665,7 +6806,7 @@
               "en": "https://internationalinvestment.biz/en/china/8630-china-visa-free-travel-drives-inbound-tourism-recovery-in-2026.html"
             },
             "matchCount": 2,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Отели и гостиничный бизнес",
@@ -6709,7 +6850,7 @@
               "en": "https://internationalinvestment.biz/en/investments/8984-latvia-may-abolish-its-golden-visas.html"
             },
             "matchCount": 3,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Инвестиции",
@@ -6722,7 +6863,7 @@
               "en": "https://internationalinvestment.biz/en/investments/8984-latvia-may-abolish-its-golden-visas.html"
             },
             "matchCount": 3,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Туризм",
@@ -6735,7 +6876,7 @@
               "en": "https://internationalinvestment.biz/en/latvia/8760-latvias-foreign-tourism-slips-in-first-half.html"
             },
             "matchCount": 1,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Отели и гостиничный бизнес",
@@ -6748,7 +6889,7 @@
               "en": "https://internationalinvestment.biz/en/investments/8637-rigas-airbnb-supply-outpaces-revenue-growth.html"
             },
             "matchCount": 1,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "ВНЖ и миграция",
@@ -6761,7 +6902,7 @@
               "en": "https://internationalinvestment.biz/en/investments/8984-latvia-may-abolish-its-golden-visas.html"
             },
             "matchCount": 2,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Налоги для инвесторов",
@@ -6785,7 +6926,7 @@
           {
             "name": "Недвижимость",
             "lastPublished": "2026-11-02",
-            "status": "fresh",
+            "status": "watch",
             "lastUrl": "https://internationalinvestment.biz/en/litva/8759-lithuanian-apartment-prices-accelerate-across-major-cities.html",
             "articleId": "8759",
             "headline": "Lithuanian Apartment Prices Accelerate Across Major Cities",
@@ -6793,7 +6934,7 @@
               "en": "https://internationalinvestment.biz/en/litva/8759-lithuanian-apartment-prices-accelerate-across-major-cities.html"
             },
             "matchCount": 2,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Инвестиции",
@@ -6806,7 +6947,7 @@
               "en": "https://internationalinvestment.biz/en/analytics/8752-lithuanias-economy-accelerates-in-the-second-quarter.html"
             },
             "matchCount": 1,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Туризм",
@@ -6869,7 +7010,7 @@
               "ru": "https://internationalinvestment.biz/tourism/9102-maldivy-proverjajut-pochtu-turistov.html"
             },
             "matchCount": 1,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Отели и гостиничный бизнес",
@@ -6963,7 +7104,7 @@
               "ru": "https://internationalinvestment.biz/business/9002-oteli-niderlandov-otstajut-ot-rynka-nedvizhimosti.html"
             },
             "matchCount": 2,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Инвестиции",
@@ -6977,7 +7118,7 @@
               "ru": "https://internationalinvestment.biz/business/9002-oteli-niderlandov-otstajut-ot-rynka-nedvizhimosti.html"
             },
             "matchCount": 3,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Туризм",
@@ -6991,7 +7132,7 @@
               "ru": "https://internationalinvestment.biz/business/6728-nds-v-niderlandah-chto-menjaetsja.html"
             },
             "matchCount": 2,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Отели и гостиничный бизнес",
@@ -7005,7 +7146,7 @@
               "ru": "https://internationalinvestment.biz/business/9002-oteli-niderlandov-otstajut-ot-rynka-nedvizhimosti.html"
             },
             "matchCount": 1,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "ВНЖ и миграция",
@@ -7024,7 +7165,7 @@
               "en": "https://internationalinvestment.biz/en/business/6728-dutch-vat-rates-updated.html"
             },
             "matchCount": 1,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Регулирование и правила для иностранных покупателей",
@@ -7042,7 +7183,7 @@
           {
             "name": "Недвижимость",
             "lastPublished": "2026-11-02",
-            "status": "fresh",
+            "status": "watch",
             "lastUrl": "https://internationalinvestment.biz/en/business/9024-norways-sovereign-fund-commits-15bn-to-european-warehouses.html",
             "articleId": "9024",
             "headline": "Norway's Sovereign Fund Commits €1.5bn to European Warehouses",
@@ -7050,12 +7191,12 @@
               "en": "https://internationalinvestment.biz/en/business/9024-norways-sovereign-fund-commits-15bn-to-european-warehouses.html"
             },
             "matchCount": 1,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Инвестиции",
             "lastPublished": "2026-11-02",
-            "status": "fresh",
+            "status": "watch",
             "lastUrl": "https://internationalinvestment.biz/en/business/9024-norways-sovereign-fund-commits-15bn-to-european-warehouses.html",
             "articleId": "9024",
             "headline": "Norway's Sovereign Fund Commits €1.5bn to European Warehouses",
@@ -7063,7 +7204,7 @@
               "en": "https://internationalinvestment.biz/en/business/9024-norways-sovereign-fund-commits-15bn-to-european-warehouses.html"
             },
             "matchCount": 1,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Туризм",
@@ -7115,7 +7256,7 @@
               "ru": "https://internationalinvestment.biz/real-estate/9046-ceny-na-zhile-v-dubae-snizilis-vpervye-za-neskolko-let.html"
             },
             "matchCount": 9,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Инвестиции",
@@ -7130,7 +7271,7 @@
               "ru": "https://internationalinvestment.biz/real-estate/9046-ceny-na-zhile-v-dubae-snizilis-vpervye-za-neskolko-let.html"
             },
             "matchCount": 7,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Туризм",
@@ -7145,7 +7286,7 @@
               "ru": "https://internationalinvestment.biz/business/9020-oteli-ras-jel-hajmy-menjajut-model-biznesa-pered-otkrytiem-wynn.html"
             },
             "matchCount": 5,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Отели и гостиничный бизнес",
@@ -7160,7 +7301,7 @@
               "ru": "https://internationalinvestment.biz/business/9020-oteli-ras-jel-hajmy-menjajut-model-biznesa-pered-otkrytiem-wynn.html"
             },
             "matchCount": 2,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "ВНЖ и миграция",
@@ -7198,7 +7339,7 @@
               "en": "https://internationalinvestment.biz/en/paraguay/8771-asuncion-property-market-accelerates-as-construction-booms.html"
             },
             "matchCount": 1,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Инвестиции",
@@ -7211,7 +7352,7 @@
               "en": "https://internationalinvestment.biz/en/paraguay/8771-asuncion-property-market-accelerates-as-construction-booms.html"
             },
             "matchCount": 1,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Туризм",
@@ -7261,7 +7402,7 @@
               "en": "https://internationalinvestment.biz/en/poland/8784-poland-poised-to-hold-rates-at-375.html"
             },
             "matchCount": 2,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Инвестиции",
@@ -7274,7 +7415,7 @@
               "en": "https://internationalinvestment.biz/en/poland/8784-poland-poised-to-hold-rates-at-375.html"
             },
             "matchCount": 1,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Туризм",
@@ -7324,7 +7465,7 @@
               "en": "https://internationalinvestment.biz/en/real-estate/9087-portugal-leads-eu-rise-in-house-prices-relative-to-income.html"
             },
             "matchCount": 3,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Инвестиции",
@@ -7337,7 +7478,7 @@
               "en": "https://internationalinvestment.biz/en/real-estate/9087-portugal-leads-eu-rise-in-house-prices-relative-to-income.html"
             },
             "matchCount": 2,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Туризм",
@@ -7350,7 +7491,7 @@
               "en": "https://internationalinvestment.biz/en/tourism/8966-portugal-picks-lufthansa-to-buy-449-of-tap.html"
             },
             "matchCount": 1,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Отели и гостиничный бизнес",
@@ -7369,7 +7510,7 @@
               "en": "https://internationalinvestment.biz/en/portugal/8830-portugal-approves-pension-bonus-and-income-tax-cuts.html"
             },
             "matchCount": 1,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Налоги для инвесторов",
@@ -7382,7 +7523,7 @@
               "en": "https://internationalinvestment.biz/en/portugal/8830-portugal-approves-pension-bonus-and-income-tax-cuts.html"
             },
             "matchCount": 1,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Регулирование и правила для иностранных покупателей",
@@ -7409,7 +7550,7 @@
               "ru": "https://internationalinvestment.biz/real-estate/9065-it-ipoteku-v-rossii-mogut-zakryt-dosrochno.html"
             },
             "matchCount": 4,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Инвестиции",
@@ -7423,7 +7564,7 @@
               "ru": "https://internationalinvestment.biz/news/9112-v-rossii-predlozhili-limit-na-perevody-v-30-000-rublej.html"
             },
             "matchCount": 6,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Туризм",
@@ -7436,7 +7577,7 @@
               "en": "https://internationalinvestment.biz/en/tourism/8893-russia-targets-107-million-tourist-trips-as-bookings-decline.html"
             },
             "matchCount": 2,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Отели и гостиничный бизнес",
@@ -7480,7 +7621,7 @@
               "en": "https://internationalinvestment.biz/en/real-estate/8928-romania-property-market-splits-as-foreign-capital-grows.html"
             },
             "matchCount": 2,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Инвестиции",
@@ -7493,7 +7634,7 @@
               "en": "https://internationalinvestment.biz/en/real-estate/8928-romania-property-market-splits-as-foreign-capital-grows.html"
             },
             "matchCount": 1,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Туризм",
@@ -7543,7 +7684,7 @@
               "en": "https://internationalinvestment.biz/en/real-estate/9098-serbia-plans-unified-real-estate-listings-database.html"
             },
             "matchCount": 5,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Инвестиции",
@@ -7556,7 +7697,7 @@
               "en": "https://internationalinvestment.biz/en/real-estate/9098-serbia-plans-unified-real-estate-listings-database.html"
             },
             "matchCount": 3,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Туризм",
@@ -7655,7 +7796,7 @@
               "en": "https://internationalinvestment.biz/en/slovakia/8804-slovakia-reforms-building-rules-as-housing-starts-slide.html"
             },
             "matchCount": 2,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Инвестиции",
@@ -7668,7 +7809,7 @@
               "en": "https://internationalinvestment.biz/en/slovakia/8801-four-in-ten-companies-would-not-choose-slovakia.html"
             },
             "matchCount": 1,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Туризм",
@@ -7718,7 +7859,7 @@
               "en": "https://internationalinvestment.biz/en/slovenia/8785-ljubljanas-million-euro-deals-are-increasingly-about-land.html"
             },
             "matchCount": 1,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Инвестиции",
@@ -7737,7 +7878,7 @@
               "en": "https://internationalinvestment.biz/en/slovenia/8787-foreign-tourist-arrivals-to-slovenia-rise-74.html"
             },
             "matchCount": 1,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Отели и гостиничный бизнес",
@@ -7781,7 +7922,7 @@
               "en": "https://internationalinvestment.biz/en/usa/8861-us-mortgage-rates-climb-above-7-again.html"
             },
             "matchCount": 9,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Инвестиции",
@@ -7794,7 +7935,7 @@
               "en": "https://internationalinvestment.biz/en/investments/8904-eb-5-in-2026-how-much-does-a-us-investor-visa-cost.html"
             },
             "matchCount": 4,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Туризм",
@@ -7808,7 +7949,7 @@
               "ru": "https://internationalinvestment.biz/tourism/9123-tanker-protaranil-kruiznoe-sudno-v-ssha.html"
             },
             "matchCount": 6,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Отели и гостиничный бизнес",
@@ -7819,7 +7960,7 @@
           {
             "name": "ВНЖ и миграция",
             "lastPublished": "2026-11-02",
-            "status": "fresh",
+            "status": "watch",
             "lastUrl": "https://internationalinvestment.biz/en/news/9026-us-again-postpones-dv-2027-green-card-lottery.html",
             "articleId": "9026",
             "headline": "US Again Postpones DV-2027 Green Card Lottery",
@@ -7827,7 +7968,7 @@
               "en": "https://internationalinvestment.biz/en/news/9026-us-again-postpones-dv-2027-green-card-lottery.html"
             },
             "matchCount": 7,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Налоги для инвесторов",
@@ -7859,7 +8000,7 @@
               "en": "https://internationalinvestment.biz/en/real-estate/9006-villa-owners-in-thailand-could-lose-their-land.html"
             },
             "matchCount": 4,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Инвестиции",
@@ -7872,7 +8013,7 @@
               "en": "https://internationalinvestment.biz/en/real-estate/9006-villa-owners-in-thailand-could-lose-their-land.html"
             },
             "matchCount": 4,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Туризм",
@@ -7885,7 +8026,7 @@
               "en": "https://internationalinvestment.biz/en/thailand/8816-thailand-plans-new-domestic-travel-subsidies.html"
             },
             "matchCount": 3,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Отели и гостиничный бизнес",
@@ -7904,7 +8045,7 @@
               "en": "https://internationalinvestment.biz/en/business/8908-thailands-ltr-visas-generated-128-billion.html"
             },
             "matchCount": 2,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Налоги для инвесторов",
@@ -7923,7 +8064,7 @@
               "en": "https://internationalinvestment.biz/en/real-estate/8917-thailand-property-2026-foreign-buyers-shift-to-more-expensive-condos.html"
             },
             "matchCount": 1,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           }
         ]
       },
@@ -7943,7 +8084,7 @@
               "en": "https://internationalinvestment.biz/en/real-estate/9104-turkey-lowers-cap-on-residential-rent-increases.html"
             },
             "matchCount": 10,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Инвестиции",
@@ -7956,7 +8097,7 @@
               "en": "https://internationalinvestment.biz/en/real-estate/8975-turkey-changes-property-valuation-rules-for-citizenship.html"
             },
             "matchCount": 9,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Туризм",
@@ -7969,7 +8110,7 @@
               "en": "https://internationalinvestment.biz/en/turkey/8775-antalya-loses-665000-tourists-in-eight-months.html"
             },
             "matchCount": 2,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Отели и гостиничный бизнес",
@@ -7988,7 +8129,7 @@
               "en": "https://internationalinvestment.biz/en/real-estate/8945-turkey-revokes-investors-citizenship.html"
             },
             "matchCount": 3,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Налоги для инвесторов",
@@ -8007,7 +8148,7 @@
               "en": "https://internationalinvestment.biz/en/real-estate/8911-foreign-buyers-keep-retreating-from-turkiye-housing.html"
             },
             "matchCount": 1,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           }
         ]
       },
@@ -8028,7 +8169,7 @@
               "ru": "https://internationalinvestment.biz/business/9122-uzbekistan-menjaet-uslovija-investicij-v-nedvizhimost-lgoty-na-20-let.html"
             },
             "matchCount": 2,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Инвестиции",
@@ -8042,7 +8183,7 @@
               "ru": "https://internationalinvestment.biz/business/9122-uzbekistan-menjaet-uslovija-investicij-v-nedvizhimost-lgoty-na-20-let.html"
             },
             "matchCount": 1,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Туризм",
@@ -8074,7 +8215,7 @@
               "ru": "https://internationalinvestment.biz/business/9122-uzbekistan-menjaet-uslovija-investicij-v-nedvizhimost-lgoty-na-20-let.html"
             },
             "matchCount": 1,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Регулирование и правила для иностранных покупателей",
@@ -8100,7 +8241,7 @@
               "en": "https://internationalinvestment.biz/en/real-estate/8724-how-ukraines-new-build-housing-market-has-changed-over-four-years.html"
             },
             "matchCount": 1,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Инвестиции",
@@ -8113,7 +8254,7 @@
               "en": "https://internationalinvestment.biz/en/real-estate/8724-how-ukraines-new-build-housing-market-has-changed-over-four-years.html"
             },
             "matchCount": 1,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Туризм",
@@ -8163,7 +8304,7 @@
               "en": "https://internationalinvestment.biz/en/philippines/8714-manila-condo-inventory-hits-record-as-values-weaken.html"
             },
             "matchCount": 1,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Инвестиции",
@@ -8176,7 +8317,7 @@
               "en": "https://internationalinvestment.biz/en/philippines/8728-philippines-inflation-trap-forces-rates-higher.html"
             },
             "matchCount": 1,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Туризм",
@@ -8226,7 +8367,7 @@
               "en": "https://internationalinvestment.biz/en/real-estate/8937-finlands-housing-market-home-prices-fall-faster-than-anywhere-else-in-the-eu.html"
             },
             "matchCount": 4,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Инвестиции",
@@ -8239,7 +8380,7 @@
               "en": "https://internationalinvestment.biz/en/real-estate/8937-finlands-housing-market-home-prices-fall-faster-than-anywhere-else-in-the-eu.html"
             },
             "matchCount": 2,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Туризм",
@@ -8252,7 +8393,7 @@
               "en": "https://internationalinvestment.biz/en/finland/8831-lapland-holiday-home-demand-has-quadrupled.html"
             },
             "matchCount": 1,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Отели и гостиничный бизнес",
@@ -8265,7 +8406,7 @@
               "en": "https://internationalinvestment.biz/en/finland/8831-lapland-holiday-home-demand-has-quadrupled.html"
             },
             "matchCount": 1,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "ВНЖ и миграция",
@@ -8278,7 +8419,7 @@
               "en": "https://internationalinvestment.biz/en/migration/8638-finland-to-introduce-citizenship-examination.html"
             },
             "matchCount": 1,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Налоги для инвесторов",
@@ -8312,7 +8453,7 @@
               "ru": "https://internationalinvestment.biz/real-estate/9051-rynok-nedvizhimosti-francii-zamedljaetsja-pered-vyborami.html"
             },
             "matchCount": 2,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Инвестиции",
@@ -8327,7 +8468,7 @@
               "ru": "https://internationalinvestment.biz/real-estate/9051-rynok-nedvizhimosti-francii-zamedljaetsja-pered-vyborami.html"
             },
             "matchCount": 3,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Туризм",
@@ -8353,7 +8494,7 @@
               "ru": "https://internationalinvestment.biz/news/9117-francija-sokratila-sroki-rassmotrenija-vnzh.html"
             },
             "matchCount": 1,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Налоги для инвесторов",
@@ -8385,7 +8526,7 @@
               "en": "https://internationalinvestment.biz/en/croatia/8822-croatia-home-prices-rise-as-sales-collapse.html"
             },
             "matchCount": 2,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Инвестиции",
@@ -8398,7 +8539,7 @@
               "en": "https://internationalinvestment.biz/en/investments/8843-croatia-has-buyers-but-too-few-properties-for-sale.html"
             },
             "matchCount": 3,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Туризм",
@@ -8411,7 +8552,7 @@
               "en": "https://internationalinvestment.biz/en/croatia/8850-croatia-ends-summer-with-a-record-august.html"
             },
             "matchCount": 2,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Отели и гостиничный бизнес",
@@ -8455,7 +8596,7 @@
               "en": "https://internationalinvestment.biz/en/real-estate/8930-foreign-owners-sell-homes-in-budva.html"
             },
             "matchCount": 4,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Инвестиции",
@@ -8468,12 +8609,12 @@
               "en": "https://internationalinvestment.biz/en/real-estate/8930-foreign-owners-sell-homes-in-budva.html"
             },
             "matchCount": 4,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Туризм",
             "lastPublished": "2026-09-17",
-            "status": "stale",
+            "status": "urgent",
             "lastUrl": "https://internationalinvestment.biz/en/montenegro/8797-montenegro-tourism-grows-nearly-8.html",
             "articleId": "8797",
             "headline": "Montenegro Tourism Grows Nearly 8%",
@@ -8481,7 +8622,7 @@
               "en": "https://internationalinvestment.biz/en/montenegro/8797-montenegro-tourism-grows-nearly-8.html"
             },
             "matchCount": 2,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Отели и гостиничный бизнес",
@@ -8494,7 +8635,7 @@
               "en": "https://internationalinvestment.biz/en/montenegro/8794-montenegro-moves-to-rewrite-hotel-investment-rules.html"
             },
             "matchCount": 1,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "ВНЖ и миграция",
@@ -8532,7 +8673,7 @@
               "en": "https://internationalinvestment.biz/en/czech/8838-czech-mortgage-rates-rise-for-sixth-straight-month.html"
             },
             "matchCount": 1,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Инвестиции",
@@ -8545,7 +8686,7 @@
               "en": "https://internationalinvestment.biz/en/czech/8847-czechia-could-face-a-500000-worker-gap.html"
             },
             "matchCount": 1,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Туризм",
@@ -8570,7 +8711,7 @@
               "en": "https://internationalinvestment.biz/en/czech/8847-czechia-could-face-a-500000-worker-gap.html"
             },
             "matchCount": 1,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Налоги для инвесторов",
@@ -8602,7 +8743,7 @@
               "en": "https://internationalinvestment.biz/en/real-estate/8903-switzerland-prepares-restrictions-for-foreign-property-buyers.html"
             },
             "matchCount": 1,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Инвестиции",
@@ -8615,7 +8756,7 @@
               "en": "https://internationalinvestment.biz/en/real-estate/8903-switzerland-prepares-restrictions-for-foreign-property-buyers.html"
             },
             "matchCount": 2,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Туризм",
@@ -8628,7 +8769,7 @@
               "en": "https://internationalinvestment.biz/en/switzerland/8528-swiss-tourism-growth-remains-concentrated.html"
             },
             "matchCount": 1,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Отели и гостиничный бизнес",
@@ -8672,7 +8813,7 @@
               "en": "https://internationalinvestment.biz/en/business/9085-sweden-property-investment-climbs-40-in-nine-months.html"
             },
             "matchCount": 2,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Инвестиции",
@@ -8685,7 +8826,7 @@
               "en": "https://internationalinvestment.biz/en/business/9085-sweden-property-investment-climbs-40-in-nine-months.html"
             },
             "matchCount": 2,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Туризм",
@@ -8735,7 +8876,7 @@
               "en": "https://internationalinvestment.biz/en/estonia/8851-local-investors-gain-ground-in-estonia.html"
             },
             "matchCount": 2,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Инвестиции",
@@ -8748,7 +8889,7 @@
               "en": "https://internationalinvestment.biz/en/business/8855-estonia-scraps-part-of-planned-tax-hikes.html"
             },
             "matchCount": 3,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Туризм",
@@ -8761,7 +8902,7 @@
               "en": "https://internationalinvestment.biz/en/estonia/8580-foreign-stays-lift-estonias-tourism-recovery.html"
             },
             "matchCount": 2,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Отели и гостиничный бизнес",
@@ -8774,7 +8915,7 @@
               "en": "https://internationalinvestment.biz/en/estonia/8580-foreign-stays-lift-estonias-tourism-recovery.html"
             },
             "matchCount": 1,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "ВНЖ и миграция",
@@ -8793,7 +8934,7 @@
               "en": "https://internationalinvestment.biz/en/business/8855-estonia-scraps-part-of-planned-tax-hikes.html"
             },
             "matchCount": 1,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Регулирование и правила для иностранных покупателей",
@@ -8820,7 +8961,7 @@
               "ru": "https://internationalinvestment.biz/business/9086-seulu-ne-hvatit-gostinichnyh-nomerov-do-2032-goda.html"
             },
             "matchCount": 1,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Инвестиции",
@@ -8834,7 +8975,7 @@
               "ru": "https://internationalinvestment.biz/business/9086-seulu-ne-hvatit-gostinichnyh-nomerov-do-2032-goda.html"
             },
             "matchCount": 1,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Туризм",
@@ -8848,7 +8989,7 @@
               "ru": "https://internationalinvestment.biz/business/9086-seulu-ne-hvatit-gostinichnyh-nomerov-do-2032-goda.html"
             },
             "matchCount": 1,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "Отели и гостиничный бизнес",
@@ -8862,7 +9003,7 @@
               "ru": "https://internationalinvestment.biz/business/9086-seulu-ne-hvatit-gostinichnyh-nomerov-do-2032-goda.html"
             },
             "matchCount": 1,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-16"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
           },
           {
             "name": "ВНЖ и миграция",
@@ -8936,6 +9077,30 @@
     ],
     "crossBorderSignals": [
       {
+        "country": "Европа",
+        "theme": "Hotels: demand, supply and capital",
+        "status": "urgent",
+        "reason": "CBRE 16 Nov: RevPAR +5.0% YTD, investment €15.7bn, hotel nights CAGR forecast 4.0% vs pipeline 0.5% through 2031."
+      },
+      {
+        "country": "Европа / global hotels",
+        "theme": "AI search visibility",
+        "status": "high",
+        "reason": "Cendyn 16 Nov benchmark across 148 hotels: organic bookings +66%, revenue +116%, conversion +58%; vendor-study caveat applies."
+      },
+      {
+        "country": "ЕС",
+        "theme": "Affordable Housing Act",
+        "status": "high",
+        "reason": "EPRS 11 Nov clarifies housing-stress threshold and exclusions; update existing II Affordable Housing Act page."
+      },
+      {
+        "country": "ЕС",
+        "theme": "Asylum / migration",
+        "status": "high",
+        "reason": "Eurostat 16 Nov: first-time asylum applications -33% y/y; 71% concentrated in five countries; methodology changed July 2026."
+      },
+      {
         "country": "ЕС / global corporate network",
         "theme": "Outward FATS / foreign affiliates",
         "status": "urgent",
@@ -8968,25 +9133,25 @@
     ],
     "methodology": {
       "start": "2026-08-10",
-      "end": "2026-11-16",
+      "end": "2026-11-17",
       "engArchivesAttempted": 97,
       "engArchivesRead": 92,
       "multilingualWindow": "2026-10-26/2026-11-14",
       "multilingualPagesRead": 36,
-      "observedArticleVariants": 780,
-      "uniqueArticleIds": 511,
-      "countryScopedArticles": 394,
-      "partialCrossCountryArticles": 70,
+      "observedArticleVariants": 786,
+      "uniqueArticleIds": 514,
+      "countryScopedArticles": 396,
+      "partialCrossCountryArticles": 71,
       "limitations": "90+ day baseline retained from dated archive scans; 15–16 Nov increment verified directly in EN/RU. Absence from indexed search alone is not treated as proof of no historical coverage.",
-      "seoDataStatus": "Fresh GSC/GA4 unavailable on 16 Nov: subscription_required; historical metrics preserved.",
+      "seoDataStatus": "Fresh GSC/GA4 unavailable on 17 Nov: subscription_required; historical metrics preserved.",
       "corrections": [
         {
           "articleId": "9048",
           "note": "Vienna hotel article tagged Italy on EN site; classified as Austria in monitor based on article title."
         }
       ],
-      "auditAt": "2026-11-16",
-      "recentIncrementalWindow": "2026-11-15/2026-11-16",
+      "auditAt": "2026-11-17",
+      "recentIncrementalWindow": "2026-11-17/2026-11-17",
       "recentIncrementalMethod": "Direct EN/RU daily archive verification by article ID; multi-country pages retained for deduplication but not counted as country-specific coverage.",
       "recentLanguagesAudited": [
         "en",
@@ -9003,65 +9168,65 @@
       "gscLastMeasured": "10.10.2026",
       "ga4LastMeasured": "12.10.2026",
       "seoMetricsSource": "archive-only first-party snapshot; not current",
-      "sitePublicationsAudit": "Direct EN/RU daily archives checked through 16 Nov 2026; KA/HE incremental audit remains through 8 Nov."
+      "sitePublicationsAudit": "Direct EN/RU daily archives checked through 17 Nov 2026; KA/HE incremental audit remains through 8 Nov."
     }
   },
   "dailyUpdate": {
-    "date": "16 ноября 2026",
+    "date": "17 ноября 2026",
     "items": [
       {
-        "label": "4/5 ВЫСОКИЙ / NEW",
-        "title": "Eurostat: 60% оборота зарубежных филиалов компаний ЕС — вне ЕС",
-        "source": "Eurostat, 16 Nov",
-        "url": "https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20261116-2",
+        "label": "5/5 ГОРИТ / NEW",
+        "title": "Европейские отели: RevPAR +5%, инвестиции €15,7 млрд",
+        "source": "CBRE, 16 Nov",
+        "url": "https://www.cbre.co.uk/insights/figures/european-hotels-figures-november-2026",
         "priority": "urgent",
-        "signal": "Outside-EU affiliates account for 60.2% of net turnover and 61.1% of employment in EU-controlled foreign affiliates.",
-        "action": "NEW investment analysis; explain outward FATS separately from inward FDI."
+        "signal": "RevPAR +5.0% YTD; hotel investment €15.7bn; nights CAGR 4.0% vs pipeline 0.5%.",
+        "action": "NEW bilingual hotel-investment analysis."
       },
       {
         "label": "4/5 ВЫСОКИЙ / NEW",
-        "title": "Офисное строительство: глобальный pipeline на минимуме десятилетия",
-        "source": "Cushman & Wakefield, 10 Nov",
-        "url": "https://www.cushmanwakefield.com/en/insights/global-office-supply",
+        "title": "GEO и SEO: отели увеличили органическую выручку на 116%",
+        "source": "Cendyn, 16 Nov",
+        "url": "https://www.cendyn.com/news/cendyn-hotel-visibility-report-2026/",
         "priority": "high",
-        "signal": "580m sq ft under construction in Q3 2026, 45% below 2017 peak; European starts sharply below prior decade.",
-        "action": "NEW comparative office-investment story."
+        "signal": "148-hotel vendor benchmark: bookings +66%, organic revenue +116%, conversion +58%.",
+        "action": "NEW with explicit vendor-study methodology caveat."
+      },
+      {
+        "label": "4/5 ВЫСОКИЙ / UPDATE",
+        "title": "Affordable Housing Act: ЕС уточнил критерии housing stress",
+        "source": "EPRS, 11 Nov",
+        "url": "https://eprs.europarl.europa.eu/EPRS_BRI%282026%29797026",
+        "priority": "high",
+        "signal": "Price-to-income >=8 plus 10-year rise and no easing over 3 years; proposal still in legislative procedure.",
+        "action": "UPDATE existing #8812, no competing URL."
       },
       {
         "label": "4/5 ВЫСОКИЙ / NEW",
-        "title": "Мадрид лидирует в экспансии гостиничных операторов",
-        "source": "Cushman & Wakefield, 10 Nov",
-        "url": "https://www.cushmanwakefield.com/en/insights/hotel-operator-compass",
+        "title": "Заявления на убежище в ЕС упали на 33%",
+        "source": "Eurostat, 16 Nov",
+        "url": "https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20261116-1",
         "priority": "high",
-        "signal": "Madrid, Rome, Milan, London, Barcelona top expansion priorities; funding and permitting are major project barriers.",
-        "action": "NEW operator/owner investment analysis."
-      },
-      {
-        "label": "4/5 ВЫСОКИЙ / NEW",
-        "title": "Дублин приближается к 30 000 гостиничных номеров",
-        "source": "CBRE, 11 Nov",
-        "url": "https://www.cbre.com/insights/reports/irish-hotel-market-2026",
-        "priority": "high",
-        "signal": "3,505 rooms under construction to 2028; 84.7% occupancy YTD; rolling 12-month Irish hotel transactions EUR1.4bn.",
-        "action": "NEW Ireland hotel-investment article."
-      },
-      {
-        "label": "3/5 НА НЕДЕЛЕ / UPDATE",
-        "title": "Сербия: строительство +12,7% real в Q3",
-        "source": "Statistical Office of Serbia, 10 Nov",
-        "url": "https://www.stat.gov.rs/en-US/oblasti/gradjevinarstvo/gradjevinska-aktivnost",
-        "priority": "medium",
-        "signal": "Buildings +10.0% real, civil engineering +14.4%.",
-        "action": "UPDATE existing #8878; do not create competing URL."
+        "signal": "34,835 first-time applications; 71% in France, Italy, Greece, Germany and Spain.",
+        "action": "NEW migration analysis; separate asylum from temporary protection and permits."
       },
       {
         "label": "PUBLISHED / COVERED",
-        "title": "ETC: 76% европейцев планируют поездки, 40% используют AI",
-        "source": "International Investment, 16 Nov",
-        "url": "https://internationalinvestment.biz/en/tourism/9130-76-of-europeans-plan-trips-40-use-ai.html",
+        "title": "60% оборота зарубежных филиалов ЕС — вне Европы",
+        "source": "International Investment, 17 Nov",
+        "url": "https://internationalinvestment.biz/en/business/9138-60-of-eu-foreign-affiliate-turnover-comes-from-outside-eu.html",
         "priority": "covered",
-        "signal": "RU/EN article now live as ID 9130.",
-        "action": "Remove from NEW queue; keep as internal-link target."
+        "signal": "Published today as ID 9138.",
+        "action": "Remove from NEW queue."
+      },
+      {
+        "label": "HOLD / VERIFY",
+        "title": "Лондон: pipeline отелей смещается в limited-service",
+        "source": "CoStar, 17 Nov",
+        "url": "https://www.costar.com/news/hotels",
+        "priority": "medium",
+        "signal": "Open page confirms direction, not quantitative pipeline details.",
+        "action": "Hold until room counts/submarket split are verified."
       }
     ]
   }
