@@ -1,6 +1,6 @@
 {
-  "auditAt": "2026-11-16",
-  "window": "2026-08-10/2026-11-16",
+  "auditAt": "2026-11-17",
+  "window": "2026-08-10/2026-11-17",
   "language": "en",
   "source": "internationalinvestment.biz/en/YYYY/MM/DD date archives",
   "pagesAttempted": 97,
@@ -12492,6 +12492,114 @@
         "Туризм",
         "Отели и гостиничный бизнес"
       ]
+    },
+    {
+      "id": "9138",
+      "date": "2026-11-17",
+      "title": "60% of EU Foreign-Affiliate Turnover Comes From Outside EU",
+      "url": "https://internationalinvestment.biz/en/business/9138-60-of-eu-foreign-affiliate-turnover-comes-from-outside-eu.html",
+      "lang": "en",
+      "countries": [
+        "Ирландия",
+        "Нидерланды",
+        "Германия",
+        "Словакия",
+        "Латвия",
+        "Румыния",
+        "Испания",
+        "Болгария",
+        "Хорватия",
+        "Португалия",
+        "Греция",
+        "Словения"
+      ],
+      "scope": "multi-country",
+      "themes": [
+        "Инвестиции"
+      ]
+    },
+    {
+      "id": "9138",
+      "date": "2026-11-17",
+      "title": "60% оборота зарубежных филиалов ЕС — вне Европы",
+      "url": "https://internationalinvestment.biz/business/9138-60-oborota-zarubezhnyh-filialov-es-vne-evropy.html",
+      "lang": "ru",
+      "countries": [
+        "Ирландия",
+        "Нидерланды",
+        "Германия",
+        "Словакия",
+        "Латвия",
+        "Румыния",
+        "Испания",
+        "Болгария",
+        "Хорватия",
+        "Португалия",
+        "Греция",
+        "Словения"
+      ],
+      "scope": "multi-country",
+      "themes": [
+        "Инвестиции"
+      ]
+    },
+    {
+      "id": "9139",
+      "date": "2026-11-17",
+      "title": "Vienna Tightens Rules for Short-Term Apartment Rentals",
+      "url": "https://internationalinvestment.biz/en/real-estate/9139-vienna-tightens-rules-for-short-term-apartment-rentals.html",
+      "lang": "en",
+      "countries": [
+        "Австрия"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость",
+        "Инвестиции"
+      ]
+    },
+    {
+      "id": "9139",
+      "date": "2026-11-17",
+      "title": "Вена ужесточает правила краткосрочной аренды квартир",
+      "url": "https://internationalinvestment.biz/real-estate/9139-vena-uzhestochaet-pravila-kratkosrochnoj-arendy-kvartir.html",
+      "lang": "ru",
+      "countries": [
+        "Австрия"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость",
+        "Инвестиции"
+      ]
+    },
+    {
+      "id": "9140",
+      "date": "2026-11-17",
+      "title": "Germany Proposes Expanding Eligibility for Residence Permits",
+      "url": "https://internationalinvestment.biz/en/news/9140-germany-proposes-expanding-eligibility-for-residence-permits.html",
+      "lang": "en",
+      "countries": [
+        "Германия"
+      ],
+      "scope": "country",
+      "themes": [
+        "ВНЖ и миграция"
+      ]
+    },
+    {
+      "id": "9140",
+      "date": "2026-11-17",
+      "title": "В Германии предложили расширить основания для получения ВНЖ",
+      "url": "https://internationalinvestment.biz/news/9140-v-germanii-predlozhili-rasshirit-osnovanija-dlja-poluchenija-vnzh.html",
+      "lang": "ru",
+      "countries": [
+        "Германия"
+      ],
+      "scope": "country",
+      "themes": [
+        "ВНЖ и миграция"
+      ]
     }
   ],
   "errors": [
@@ -12587,7 +12695,7 @@
   "archiveYears": [
     "2026"
   ],
-  "multilingualWindow": "2026-10-26/2026-11-16",
+  "multilingualWindow": "2026-10-26/2026-11-17",
   "languagesAudited": [
     "en",
     "ru",
@@ -12595,8 +12703,8 @@
     "he"
   ],
   "multilingualPagesRead": 36,
-  "scanLimitations": "Direct EN/RU daily archives for 15–16 Nov 2026 reconciled by article ID. Multi-country ETC article 9130 is retained for deduplication but does not refresh country-specific matrix cells. KA/HE incremental audit remains through 8 Nov.",
-  "recentIncrementalWindow": "2026-11-15/2026-11-16",
+  "scanLimitations": "Direct EN/RU daily archives for 17 Nov 2026 reconciled by article ID. Multi-country outward-FATS article 9138 is retained for deduplication but does not refresh individual country matrix cells. KA/HE incremental audit remains through 8 Nov.",
+  "recentIncrementalWindow": "2026-11-17/2026-11-17",
   "recentLanguagesAudited": [
     "en",
     "ru"
