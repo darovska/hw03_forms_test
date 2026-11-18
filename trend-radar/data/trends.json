@@ -1,37 +1,37 @@
 {
   "meta": {
-    "period": "11–17 ноября 2026",
-    "updatedAt": "17 ноября 2026",
-    "reportUrl": "https://docs.google.com/document/d/11Cjhzu4fqAXJwYWPzbLhq9xpCKuk2jon0IEguPISd04/edit",
-    "editorialNote": "Trendwatch refreshed through 17 Nov 2026. Outward FATS, Vienna short-term-rental rules and Germany residence-permit proposal are already published on II today. New strongest candidates: CBRE European Hotels, Cendyn hotel GEO/SEO benchmark, EPRS Affordable Housing Act update, Eurostat asylum August. London hotel pipeline remains HOLD until open quantitative source is verified.",
-    "consolidatedDocUrl": "https://docs.google.com/document/d/1x1FAIw6HdUXHzXKeAyK7L_BM_2BpY3jxRj49BQ6ObF8/edit",
-    "weeklyFinalDocUrl": "https://docs.google.com/document/d/1h2GNjhMeDgK-eXH0uzcBeYf9shTlSFkh87EhA8glNF8/edit",
+    "period": "12–18 ноября 2026",
+    "updatedAt": "18 ноября 2026",
+    "reportUrl": "https://docs.google.com/document/d/1f8t7_u0WTbiy26X3yQNkNBiesbTQjet7wYx20GZvTg0/edit",
+    "editorialNote": "18 Nov: NEW Accor Ennismore €1.6bn (17 Nov); ONS Inner London house prices -7.2% and UK rents +3.8% (18 Nov); INE Spain registered home sales -13.4% (17 Nov); CBRE Europe hotels RevPAR +5.0%, investment €15.7bn YTD (16 Nov); Eurostat final October euro area HICP 4.0% (18 Nov). Already covered on II today: Spain short-let VAT, JLL living €44.6bn, OECD city homes. GSC/GA4 blocked subscription_required; do not refresh historical metrics.",
+    "consolidatedDocUrl": "https://docs.google.com/document/d/1f8t7_u0WTbiy26X3yQNkNBiesbTQjet7wYx20GZvTg0/edit",
+    "weeklyFinalDocUrl": "https://docs.google.com/document/d/1f8t7_u0WTbiy26X3yQNkNBiesbTQjet7wYx20GZvTg0/edit",
     "additionalViralBriefUrl": "https://docs.google.com/document/d/1noak5K9VJW3EaN1FZ9yRM_eoMe9cMRiXNPlOC6unumk/edit",
     "sourceAudit": {
-      "window": "2026-11-11/2026-11-17",
-      "updatedAt": "2026-11-17",
+      "window": "2026-11-12/2026-11-18",
+      "updatedAt": "2026-11-18",
       "verifiedPrimarySources": [
-        "CBRE European Hotels Figures November 2026, 16 Nov",
-        "Cendyn Hotel Visibility Report 2026, 16 Nov",
-        "European Parliament Research Service Affordable Housing Act briefing, updated 11 Nov",
-        "Eurostat asylum applications August 2026, published 16 Nov",
-        "Eurostat outward FATS 2024, published 16 Nov"
+        "Accor regulated announcement 17 Nov 2026 — Ennismore €1.6bn tranches",
+        "ONS Private rent and house prices UK 18 Nov 2026 — Inner London -7.2%, UK private rent +3.8%",
+        "HM Land Registry UK HPI 18 Nov 2026 — UK +1.2%, London -3.5%",
+        "INE Property Rights September 2026, 17 Nov — registered home sales -13.4%",
+        "Eurostat final HICP October 2026, 18 Nov — euro area 4.0%",
+        "CBRE European Hotels Figures, 16 Nov 2026 — RevPAR +5.0%, investment €15.7bn"
       ],
       "monitoredWithoutNewConfirmedLead": [
-        "CoStar/STR: London limited-service hotel pipeline signal 17 Nov; quantitative details not open, kept HOLD",
-        "TravelDailyNews: 16–17 Nov hospitality and regulation signal scan",
-        "Skift: no 11–17 Nov story stronger than selected verified priorities in current scan",
-        "UN Tourism: no newly indexed release changing current II radar in current scan",
-        "InternationalInvestment.biz EN/RU daily archive checked for 17 Nov"
+        "CoStar/STR 11–18 Nov: London pipeline signal lacks published room counts",
+        "Skift and TravelDailyNews 12–18 Nov headline scan: no stronger verified lead surfaced in this scan",
+        "UN Tourism: no stronger new verified release found in this scan",
+        "II RU/EN daily archives 17–18 November checked; published duplicates excluded"
       ],
       "blockedSources": [
-        "GSC Wizard / GA4 current check 17 Nov: payment_required / subscription_required"
+        "GSC Wizard/GA4 18 November: payment_required / subscription_required"
       ],
-      "publicationAudit": "Direct EN/RU daily archive 17 Nov: ID 9138 outward FATS multi-country, ID 9139 Vienna short-term rentals, ID 9140 Germany residence permits. These are removed from NEW queue.",
-      "seoAccess": "No fresh GSC/GA4 metrics loaded on 17 Nov because GSC Wizard returned subscription_required. Historical measurements retain their actual dates."
+      "publicationAudit": "18 Nov II IDs 9152 Spain VAT, 9150 India foreign investment, 9148 European living €44.6bn, 9147 OECD city homes; 17 Nov ID 9146 Adjara hotel sector and 9138 outward FATS. Do not duplicate.",
+      "seoAccess": "GSC/GA4 tools returned payment_required on 18 Nov; only historical 10 October rows are present."
     },
-    "latestDailyUpdateDate": "2026-11-17",
-    "nextEditorialPlanDate": "2026-11-18"
+    "latestDailyUpdateDate": "2026-11-18",
+    "nextEditorialPlanDate": "2026-11-19"
   },
   "categories": [
     "Все",
@@ -42,6 +42,102 @@
     "Инвестиции"
   ],
   "trends": [
+    {
+      "id": "accor-ennismore-stake-nov17-2026",
+      "title": "Accor выкупает доли Ennismore за €1,6 млрд",
+      "category": "Отели и гостиничный бизнес",
+      "priority": "urgent",
+      "status": "new_candidate",
+      "decision": "new_article",
+      "editorialUrgency": "5/5 — ГОРИТ / NEW",
+      "publishedAt": "2026-11-17",
+      "verifiedOn": "2026-11-18",
+      "signal": "Accor agreement to acquire 25.4%, 6.3%, 12.6% tranches of Ennismore by January 2028 for total approximately €1.6bn, implied equity valuation €3.7bn; group c.5% room share, c.20% recurring EBITDA.",
+      "why": "Material hotel-brand M&A with first-party corporate disclosure and strong investment angle.",
+      "editorialAngle": "Почему небольшой по номерному фонду lifestyle-портфель обеспечивает непропорционально большую долю прибыли Accor.",
+      "seoAngle": "Accor Ennismore 2026 deal; Ennismore hotel brands valuation; lifestyle hospitality investment",
+      "sources": [
+        {
+          "label": "Accor, 17 November 2026",
+          "url": "https://group.accor.com/files/accor-increases-stake-ennismore.pdf"
+        }
+      ],
+      "publishedCoverage": "NEW — not in checked II 17–18 Nov daily archives",
+      "reportUrl": "https://docs.google.com/document/d/1f8t7_u0WTbiy26X3yQNkNBiesbTQjet7wYx20GZvTg0/edit"
+    },
+    {
+      "id": "ons-inner-london-prices-nov18-2026",
+      "title": "Цены на жильё в центре Лондона упали на 7,2%",
+      "category": "Недвижимость",
+      "priority": "urgent",
+      "status": "new_candidate",
+      "decision": "new_article",
+      "editorialUrgency": "5/5 — ГОРИТ / NEW",
+      "publishedAt": "2026-11-18",
+      "verifiedOn": "2026-11-18",
+      "signal": "ONS UK HPI September: Inner London -7.2% YoY, biggest fall since August 2009; London -3.5% and flats -6.3%, UK +1.2%; UK private rents +3.8% to £1,411 October.",
+      "why": "Same-day official release combining sharply diverging capital-city property prices with resilient rental inflation.",
+      "editorialAngle": "Центр Лондона дешевеет быстрее остальной Британии; сравнить квартиры, дома и арендную динамику без расчёта несуществующего yield.",
+      "seoAngle": "Inner London house prices 2026; London property price crash 7.2%; UK rents October 2026",
+      "sources": [
+        {
+          "label": "ONS, 18 Nov 2026",
+          "url": "https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/privaterentandhousepricesuk/latest"
+        },
+        {
+          "label": "HM Land Registry, 18 Nov",
+          "url": "https://www.gov.uk/government/news/uk-house-price-index-for-september-2026"
+        }
+      ],
+      "publishedCoverage": "NEW — not in checked II 17–18 Nov daily archives",
+      "reportUrl": "https://docs.google.com/document/d/1f8t7_u0WTbiy26X3yQNkNBiesbTQjet7wYx20GZvTg0/edit"
+    },
+    {
+      "id": "ine-spain-housing-sales-september-nov17-2026",
+      "title": "В Испании продажи жилья сократились на 13,4%",
+      "category": "Недвижимость",
+      "priority": "high",
+      "status": "new_candidate",
+      "decision": "new_article",
+      "editorialUrgency": "4/5 — ВЫСОКИЙ / NEW",
+      "publishedAt": "2026-11-17",
+      "verifiedOn": "2026-11-18",
+      "signal": "INE registered housing purchase/sale September 2026: 54,548, -13.4% YoY, +10.6% MoM; full property transfers 182,813, -7.2% YoY.",
+      "why": "New national completed-deed registry signal with high Spain real-estate search intent, separate from Spain short-term rental VAT article #9152.",
+      "editorialAngle": "Сравнить сокращение зарегистрированных сделок и активность отдельных регионов, не приравнивая количество продаж к ценовой динамике.",
+      "seoAngle": "Spain home sales September 2026; Spain property transactions down 13.4%; compraventas viviendas septiembre 2026",
+      "sources": [
+        {
+          "label": "INE, 17 Nov 2026",
+          "url": "https://www.ine.es/dyngs/INEbase/en/operacion.htm?c=Estadistica_C&cid=1254736171438&idp=1254735576757&menu=ultiDatos"
+        }
+      ],
+      "publishedCoverage": "NEW — related but different from II #9152 Spain short-term VAT",
+      "reportUrl": "https://docs.google.com/document/d/1f8t7_u0WTbiy26X3yQNkNBiesbTQjet7wYx20GZvTg0/edit"
+    },
+    {
+      "id": "eurostat-final-hicp-october-nov18-2026",
+      "title": "Инфляция еврозоны 4%: окончательные данные Eurostat",
+      "category": "Инвестиции",
+      "priority": "high",
+      "status": "new_candidate",
+      "decision": "new_article",
+      "editorialUrgency": "4/5 — ВЫСОКИЙ / NEW",
+      "publishedAt": "2026-11-18",
+      "verifiedOn": "2026-11-18",
+      "signal": "Euro area final annual HICP October +4.0% vs +3.8% September. EU +4.0%; Sweden 0.6%, Romania 7.0%. Energy contribution 1.89pp.",
+      "why": "Fresh official country breakout useful for property financing and country guides; preliminary flash 4 Nov already gave headline.",
+      "editorialAngle": "Различия между странами и структура роста цен: что учитывать при оценке европейской недвижимости.",
+      "seoAngle": "euro area inflation October 2026; Eurostat HICP October 2026; inflation Europe property",
+      "sources": [
+        {
+          "label": "Eurostat, 18 Nov 2026",
+          "url": "https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-18112026-ap"
+        }
+      ],
+      "publishedCoverage": "NEW analytical comparison or UPDATE existing macro content after CMS check",
+      "reportUrl": "https://docs.google.com/document/d/1f8t7_u0WTbiy26X3yQNkNBiesbTQjet7wYx20GZvTg0/edit"
+    },
     {
       "id": "costar-london-limited-service-pipeline-nov17-2026",
       "title": "Лондон: pipeline отелей смещается в limited-service",
@@ -146,11 +242,11 @@
       "title": "Европейские отели: RevPAR +5%, инвестиции €15,7 млрд",
       "category": "Отели и гостиничный бизнес",
       "priority": "urgent",
-      "status": "new_candidate",
+      "status": "draft_ready",
       "decision": "new_article",
-      "editorialUrgency": "5/5 — ГОРИТ (24h)",
+      "editorialUrgency": "4/5 — ВЫСОКИЙ / NEW",
       "publishedAt": "2026-11-16",
-      "verifiedOn": "2026-11-17",
+      "verifiedOn": "2026-11-18",
       "signal": "CBRE: European hotel RevPAR +5.0% YTD September, ADR +4.1%; hotel investment €15.7bn YTD, below €17.1bn a year earlier but 18% above the 10-year Q1-Q3 average. Hotel pipeline CAGR 0.5% for 2026-2031 vs 4.0% CAGR for hotel nights.",
       "why": "Combines operations, capital and supply into a direct investment story; limited pipeline growth relative to nights is the strongest durable angle.",
       "editorialAngle": "Европейские отели: спрос растёт быстрее нового предложения — где формируется дефицит качественного номерного фонда.",
@@ -161,7 +257,9 @@
           "url": "https://www.cbre.co.uk/insights/figures/european-hotels-figures-november-2026"
         }
       ],
-      "publishedCoverage": "No exact 16 Nov CBRE European Hotels story found in II 17 Nov archive."
+      "publishedCoverage": "No exact 16 Nov CBRE European Hotels story found in II 17 Nov archive.",
+      "reportUrl": "https://docs.google.com/document/d/1f8t7_u0WTbiy26X3yQNkNBiesbTQjet7wYx20GZvTg0/edit",
+      "bilingualReady": true
     },
     {
       "id": "eurostat-outward-fats-nov16-2026",
@@ -419,8 +517,8 @@
       "trendStrength": 94,
       "editorialPotential": 97,
       "seoPotential": 96,
-      "status": "draft_ready",
-      "decision": "new_article",
+      "status": "covered",
+      "decision": "covered_published",
       "editorialUrgency": "5/5 — ГОРИТ (24h)",
       "publishedAt": "2026-11-04",
       "verifiedOn": "2026-11-09",
@@ -435,7 +533,11 @@
           "url": "https://www.oecd.org/en/publications/oecd-regions-and-cities-at-a-glance-2026_1fc64125-en/full-report/housing_1396cade.html"
         }
       ],
-      "publishedCoverage": "NEW; link https://internationalinvestment.biz/en/real-estate/8905-eu-prepares-new-rules-to-expand-housing-supply.html and https://internationalinvestment.biz/en/portugal/8781-portugal-secures-15-billion-for-social-housing.html",
+      "publishedCoverage": {
+        "en": "https://internationalinvestment.biz/en/real-estate/9147-urban-homes-cost-27-more-across-oecd.html",
+        "articleId": "9147",
+        "publishedAt": "2026-11-18"
+      },
       "reportUrl": "https://docs.google.com/document/d/10sLFnp0HD_I6UClnGl1KzvrgAUdP5vLRsjU1NSd5xLY/edit",
       "bilingualReady": true,
       "mediaReady": true,
@@ -620,7 +722,7 @@
       "trendStrength": 91,
       "editorialPotential": 94,
       "seoPotential": 95,
-      "status": "draft_ready",
+      "status": "covered",
       "signal": "JLL, 2 ноября 2026: инвестиции в multi-housing и PBSA за январь–сентябрь €44,6 млрд (+8% г/г), в III квартале €11 млрд (-12% г/г). Арендный рост 3,5% в III квартале; доходности multifamily расширились на 8 б.п. к предыдущему кварталу.",
       "why": "Сопоставление годового накопленного роста и квартального снижения помогает объяснить селективность институционального капитала и дефицит предложения.",
       "editorialAngle": "Капитал остаётся в европейском арендном жилье, но III квартал прошёл без крупных сделок. Где работают multifamily и student housing.",
@@ -635,7 +737,13 @@
         }
       ],
       "verifiedOn": "2026-11-07",
-      "publishedCoverage": "Topic not found in website's 1–7 Nov date-archive headlines; update existing European investment/living URLs after article"
+      "publishedCoverage": {
+        "en": "https://internationalinvestment.biz/en/business/9148-europe-living-investment-reaches-446bn.html",
+        "ru": "https://internationalinvestment.biz/business/9148-v-arendnoe-zhile-evropy-vlozhili-446-mlrd.html",
+        "articleId": "9148",
+        "publishedAt": "2026-11-18"
+      },
+      "decision": "covered_published"
     },
     {
       "id": "spain-tourism-frontur-egatur-september-nov4-2026",
@@ -3245,6 +3353,14 @@
     {
       "title": "Ireland hotels / Dublin pipeline",
       "description": "CBRE Irish hotel transactions, Dublin occupancy/ADR, 3,505-key pipeline, 30,000-room threshold and prime leased yield."
+    },
+    {
+      "title": "Лондон: цены и доходность жилья",
+      "description": "ONS Inner London -7.2% September 2026, rents and property types; focus on investor intent and location-specific data."
+    },
+    {
+      "title": "Сделки Accor и гостиничные бренды",
+      "description": "Ennismore €1.6bn acquisition announced 17 Nov; hospitality brand equity, EBITDA and owner returns distinguished."
     }
   ],
   "history": [
@@ -3501,6 +3617,18 @@
         "GSC/GA4 remained blocked by subscription_required"
       ],
       "reportUrl": "https://docs.google.com/document/d/1WQ6CrcFYnX_GTeeevP0T5VsMP8p2NWlBB79l6R6RSvY/edit"
+    },
+    {
+      "period": "11–17 ноября 2026",
+      "endDate": "2026-11-17",
+      "savedAt": "18 ноября 2026",
+      "summary": "Итог периода 11–17 ноября: CBRE European Hotels, Cendyn hotel visibility, Eurostat asylum, EU Affordable Housing Act. Outward FATS, Vienna, Germany residency covered in II.",
+      "keyPoints": [
+        "CBRE hotel RevPAR +5.0%, investment €15.7bn YTD September",
+        "Cendyn vendor benchmark hotel organic revenue +116% (association not causation)",
+        "New 18 November official figures and Accor transaction carried into next reporting period"
+      ],
+      "reportUrl": "https://docs.google.com/document/d/11Cjhzu4fqAXJwYWPzbLhq9xpCKuk2jon0IEguPISd04/edit"
     }
   ],
   "monitoringSources": [
@@ -4032,7 +4160,7 @@
     }
   ],
   "seoSignals": {
-    "updatedAt": "17 ноября 2026",
+    "updatedAt": "18 ноября 2026",
     "sourceStatus": {
       "yandexWebmaster": "not_loaded",
       "googleSearchConsole": "blocked_subscription_required",
@@ -4181,14 +4309,14 @@
         "currentPeriodDataLoaded": false
       }
     ],
-    "sourceNote": "17 Nov 2026: GSC Wizard returned payment_required / subscription_required; no fresh GSC or GA4 metrics loaded. Historical rows keep their actual measurement dates."
+    "sourceNote": "18 Nov 2026 GSC Wizard payment_required/subscription_required: no fresh metrics. All existing query dataAsOf dates remain unchanged (10 Oct 2026)."
   },
   "sourcePolicy": {
     "dynamicCountryStats": true,
     "rule": "Если в текущем трендрадаре или публикациях International Investment появляется страна, которой нет в списке локальных источников, найти ее официальный государственный статистический орган и релевантный регулятор/реестр недвижимости, проверить официальный домен и добавить их в мониторинг как verification-источники."
   },
   "coverageMonitoring": {
-    "updatedAt": "17 ноября 2026",
+    "updatedAt": "18 ноября 2026",
     "auditWindowDays": 90,
     "freshnessRules": {
       "freshMaxDays": 14,
@@ -4214,6 +4342,22 @@
     ],
     "gaps": [
       {
+        "country": "Испания",
+        "lastUpdate": "2026-11-18",
+        "priority": "high",
+        "reason": "INE 17 Nov September housing sales -13.4% YoY; new property-market story distinct from published #9152 short-term rental VAT.",
+        "topics": [
+          {
+            "name": "Недвижимость",
+            "lastPublished": "2026-11-18",
+            "status": "new_candidate"
+          }
+        ],
+        "signalAt": "2026-11-17",
+        "sourceUrl": "https://www.ine.es/dyngs/INEbase/en/operacion.htm?c=Estadistica_C&cid=1254736171438&idp=1254735576757&menu=ultiDatos",
+        "decision": "new"
+      },
+      {
         "country": "Франция",
         "lastUpdate": "2026-11-15",
         "priority": "urgent",
@@ -4233,7 +4377,7 @@
         "country": "Великобритания",
         "lastUpdate": "2026-11-07",
         "priority": "urgent",
-        "reason": "CoStar/STR 11 Nov: London posted its highest October RevPAR on record, GBP178.81 (+5.5%), with 86.0% occupancy. No exact monthly record story was verified in the 15–16 Nov site audit.",
+        "reason": "18 Nov ONS Inner London house prices -7.2% YoY and UK rents +3.8% official release; new bilingual draft available in weekly report. London hotel pipeline still HOLD pending numeric verification.",
         "topics": [
           {
             "name": "Отели и гостиничный бизнес",
@@ -4266,7 +4410,7 @@
         "country": "Ирландия",
         "lastUpdate": "2026-11-07",
         "priority": "high",
-        "reason": "CBRE 11 Nov: Dublin hotel occupancy 84.7% YTD, ADR EUR177.79, 3,505 rooms under construction to 2028 and rolling 12-month Irish hotel transactions of EUR1.4bn. No exact new CBRE market story was verified on II.",
+        "reason": "CBRE 11 Nov: Dublin hotel occupancy 84.7% YTD, ADR EUR177.79, 3,505 rooms under construction to 2028 and rolling 12-month Irish hotel transactions of EUR1.4bn. No exact new CBRE market story was verified on II. Continuing hotel pipeline candidate; no current replacement publication confirmed.",
         "topics": [
           {
             "name": "Отели и гостиничный бизнес",
@@ -9172,61 +9316,70 @@
     }
   },
   "dailyUpdate": {
-    "date": "17 ноября 2026",
+    "date": "18 ноября 2026",
     "items": [
       {
-        "label": "5/5 ГОРИТ / NEW",
+        "label": "5/5 — ГОРИТ / NEW",
+        "title": "Accor выкупает доли Ennismore за €1,6 млрд",
+        "source": "Accor, 17 November 2026",
+        "url": "https://group.accor.com/files/accor-increases-stake-ennismore.pdf",
+        "priority": "urgent",
+        "signal": "Accor agreement to acquire 25.4%, 6.3%, 12.6% tranches of Ennismore by January 2028 for total approximately €1.6bn, implied equity valuation €3.7bn; group c.5% room share, c.20% recurring EBITDA.",
+        "action": "NEW bilingual editorial draft in 18 Nov single Doc"
+      },
+      {
+        "label": "5/5 — ГОРИТ / NEW",
+        "title": "Цены на жильё в центре Лондона упали на 7,2%",
+        "source": "ONS, 18 Nov 2026",
+        "url": "https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/privaterentandhousepricesuk/latest",
+        "priority": "urgent",
+        "signal": "ONS UK HPI September: Inner London -7.2% YoY, biggest fall since August 2009; London -3.5% and flats -6.3%, UK +1.2%; UK private rents +3.8% to £1,411 October.",
+        "action": "NEW bilingual editorial draft in 18 Nov single Doc"
+      },
+      {
+        "label": "4/5 — ВЫСОКИЙ / NEW",
+        "title": "В Испании продажи жилья сократились на 13,4%",
+        "source": "INE, 17 Nov 2026",
+        "url": "https://www.ine.es/dyngs/INEbase/en/operacion.htm?c=Estadistica_C&cid=1254736171438&idp=1254735576757&menu=ultiDatos",
+        "priority": "high",
+        "signal": "INE registered housing purchase/sale September 2026: 54,548, -13.4% YoY, +10.6% MoM; full property transfers 182,813, -7.2% YoY.",
+        "action": "NEW bilingual editorial draft in 18 Nov single Doc"
+      },
+      {
+        "label": "4/5 — ВЫСОКИЙ / NEW",
+        "title": "Инфляция еврозоны 4%: окончательные данные Eurostat",
+        "source": "Eurostat, 18 Nov 2026",
+        "url": "https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-18112026-ap",
+        "priority": "high",
+        "signal": "Euro area final annual HICP October +4.0% vs +3.8% September. EU +4.0%; Sweden 0.6%, Romania 7.0%. Energy contribution 1.89pp.",
+        "action": "NEW bilingual editorial draft in 18 Nov single Doc"
+      },
+      {
+        "label": "4/5 ВЫСОКИЙ / NEW",
         "title": "Европейские отели: RevPAR +5%, инвестиции €15,7 млрд",
         "source": "CBRE, 16 Nov",
         "url": "https://www.cbre.co.uk/insights/figures/european-hotels-figures-november-2026",
-        "priority": "urgent",
-        "signal": "RevPAR +5.0% YTD; hotel investment €15.7bn; nights CAGR 4.0% vs pipeline 0.5%.",
-        "action": "NEW bilingual hotel-investment analysis."
-      },
-      {
-        "label": "4/5 ВЫСОКИЙ / NEW",
-        "title": "GEO и SEO: отели увеличили органическую выручку на 116%",
-        "source": "Cendyn, 16 Nov",
-        "url": "https://www.cendyn.com/news/cendyn-hotel-visibility-report-2026/",
         "priority": "high",
-        "signal": "148-hotel vendor benchmark: bookings +66%, organic revenue +116%, conversion +58%.",
-        "action": "NEW with explicit vendor-study methodology caveat."
+        "signal": "CBRE: European hotel RevPAR +5.0% YTD September, ADR +4.1%; hotel investment €15.7bn YTD, below €17.1bn a year earlier but 18% above the 10-year Q1-Q3 average. Hotel pipeline CAGR 0.5% for 2026-2031 vs 4.0% CAGR for hotel nights.",
+        "action": "NEW bilingual draft in same Doc"
       },
       {
-        "label": "4/5 ВЫСОКИЙ / UPDATE",
-        "title": "Affordable Housing Act: ЕС уточнил критерии housing stress",
-        "source": "EPRS, 11 Nov",
-        "url": "https://eprs.europarl.europa.eu/EPRS_BRI%282026%29797026",
-        "priority": "high",
-        "signal": "Price-to-income >=8 plus 10-year rise and no easing over 3 years; proposal still in legislative procedure.",
-        "action": "UPDATE existing #8812, no competing URL."
-      },
-      {
-        "label": "4/5 ВЫСОКИЙ / NEW",
-        "title": "Заявления на убежище в ЕС упали на 33%",
-        "source": "Eurostat, 16 Nov",
-        "url": "https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20261116-1",
-        "priority": "high",
-        "signal": "34,835 first-time applications; 71% in France, Italy, Greece, Germany and Spain.",
-        "action": "NEW migration analysis; separate asylum from temporary protection and permits."
-      },
-      {
-        "label": "PUBLISHED / COVERED",
-        "title": "60% оборота зарубежных филиалов ЕС — вне Европы",
-        "source": "International Investment, 17 Nov",
-        "url": "https://internationalinvestment.biz/en/business/9138-60-of-eu-foreign-affiliate-turnover-comes-from-outside-eu.html",
+        "label": "COVERED 18 Nov",
+        "title": "Europe Living investment €44.6bn",
+        "source": "International Investment",
+        "url": "https://internationalinvestment.biz/en/business/9148-europe-living-investment-reaches-446bn.html",
         "priority": "covered",
-        "signal": "Published today as ID 9138.",
-        "action": "Remove from NEW queue."
+        "signal": "Published as #9148",
+        "action": "Do not duplicate"
       },
       {
-        "label": "HOLD / VERIFY",
-        "title": "Лондон: pipeline отелей смещается в limited-service",
-        "source": "CoStar, 17 Nov",
+        "label": "HOLD",
+        "title": "London limited-service hotel pipeline",
+        "source": "CoStar",
         "url": "https://www.costar.com/news/hotels",
         "priority": "medium",
-        "signal": "Open page confirms direction, not quantitative pipeline details.",
-        "action": "Hold until room counts/submarket split are verified."
+        "signal": "Numerical details not available",
+        "action": "Wait for primary figures"
       }
     ]
   }
