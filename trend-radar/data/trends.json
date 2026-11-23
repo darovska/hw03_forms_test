@@ -1,37 +1,33 @@
 {
   "meta": {
-    "period": "12–18 ноября 2026",
-    "updatedAt": "18 ноября 2026",
-    "reportUrl": "https://docs.google.com/document/d/1f8t7_u0WTbiy26X3yQNkNBiesbTQjet7wYx20GZvTg0/edit",
-    "editorialNote": "18 Nov: NEW Accor Ennismore €1.6bn (17 Nov); ONS Inner London house prices -7.2% and UK rents +3.8% (18 Nov); INE Spain registered home sales -13.4% (17 Nov); CBRE Europe hotels RevPAR +5.0%, investment €15.7bn YTD (16 Nov); Eurostat final October euro area HICP 4.0% (18 Nov). Already covered on II today: Spain short-let VAT, JLL living €44.6bn, OECD city homes. GSC/GA4 blocked subscription_required; do not refresh historical metrics.",
-    "consolidatedDocUrl": "https://docs.google.com/document/d/1f8t7_u0WTbiy26X3yQNkNBiesbTQjet7wYx20GZvTg0/edit",
-    "weeklyFinalDocUrl": "https://docs.google.com/document/d/1f8t7_u0WTbiy26X3yQNkNBiesbTQjet7wYx20GZvTg0/edit",
+    "period": "16–22 ноября 2026",
+    "updatedAt": "23 ноября 2026",
+    "reportUrl": "https://docs.google.com/document/d/1j4jdX-Il2j5KlF34UiFbpSHod9oPCPGvj-Hl9J1MOdI/edit",
+    "editorialNote": "23 Nov: five sourced editorial candidates 18–20 Nov: EU tourism GVA, Eurostat construction, STR US hotel outlook, travel modes and debt holders. RU/EN drafts in single Doc; full visual production and complete site deduplication pending. No fresh GSC metrics loaded.",
+    "consolidatedDocUrl": "https://docs.google.com/document/d/1j4jdX-Il2j5KlF34UiFbpSHod9oPCPGvj-Hl9J1MOdI/edit",
+    "weeklyFinalDocUrl": "https://docs.google.com/document/d/1j4jdX-Il2j5KlF34UiFbpSHod9oPCPGvj-Hl9J1MOdI/edit",
     "additionalViralBriefUrl": "https://docs.google.com/document/d/1noak5K9VJW3EaN1FZ9yRM_eoMe9cMRiXNPlOC6unumk/edit",
     "sourceAudit": {
-      "window": "2026-11-12/2026-11-18",
-      "updatedAt": "2026-11-18",
+      "window": "2026-11-16/2026-11-22",
+      "updatedAt": "2026-11-23",
       "verifiedPrimarySources": [
-        "Accor regulated announcement 17 Nov 2026 — Ennismore €1.6bn tranches",
-        "ONS Private rent and house prices UK 18 Nov 2026 — Inner London -7.2%, UK private rent +3.8%",
-        "HM Land Registry UK HPI 18 Nov 2026 — UK +1.2%, London -3.5%",
-        "INE Property Rights September 2026, 17 Nov — registered home sales -13.4%",
-        "Eurostat final HICP October 2026, 18 Nov — euro area 4.0%",
-        "CBRE European Hotels Figures, 16 Nov 2026 — RevPAR +5.0%, investment €15.7bn"
+        "Туризм обеспечивает 10,1% добавленной стоимости ЕС — https://transport.ec.europa.eu/news-events/news/eu-tourism-dashboard-update-confirms-tourism-sectors-economic-impact-2026-11-18_en",
+        "Строительное производство в ЕС снизилось на 1,4% — https://ec.europa.eu/eurostat/web/products-euro-indicators/w/4-19112026-ap",
+        "STR: рост RevPAR отелей США замедлится до 2,7% — https://www.costar.com/products/str-benchmark/resources/data-insights-blog/us-hotel-forecast-assumptions-q4-2026",
+        "Eurostat: авиаперелёты составили 17,2% поездок европейцев — https://ec.europa.eu/eurostat/en/web/products-eurostat-news/w/ddn-20261119-2",
+        "Eurostat: кто владеет государственным долгом стран ЕС — https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20261120-1"
       ],
       "monitoredWithoutNewConfirmedLead": [
-        "CoStar/STR 11–18 Nov: London pipeline signal lacks published room counts",
-        "Skift and TravelDailyNews 12–18 Nov headline scan: no stronger verified lead surfaced in this scan",
-        "UN Tourism: no stronger new verified release found in this scan",
-        "II RU/EN daily archives 17–18 November checked; published duplicates excluded"
+        "Other monitoringSources not comprehensively audited in this pass"
       ],
       "blockedSources": [
-        "GSC Wizard/GA4 18 November: payment_required / subscription_required"
+        "Fresh GSC/GA4 not loaded"
       ],
-      "publicationAudit": "18 Nov II IDs 9152 Spain VAT, 9150 India foreign investment, 9148 European living €44.6bn, 9147 OECD city homes; 17 Nov ID 9146 Adjara hotel sector and 9138 outward FATS. Do not duplicate.",
-      "seoAccess": "GSC/GA4 tools returned payment_required on 18 Nov; only historical 10 October rows are present."
+      "publicationAudit": "Partial: prior radar read and selected International Investment searches. Recheck before publication.",
+      "seoAccess": "Historical metrics preserved; no new GSC rows loaded."
     },
-    "latestDailyUpdateDate": "2026-11-18",
-    "nextEditorialPlanDate": "2026-11-19"
+    "latestDailyUpdateDate": "2026-11-23",
+    "nextEditorialPlanDate": "2026-11-24"
   },
   "categories": [
     "Все",
@@ -42,6 +38,121 @@
     "Инвестиции"
   ],
   "trends": [
+    {
+      "id": "eurostat-eu-government-debt-holders-nov20-2026",
+      "title": "Eurostat: кто владеет государственным долгом стран ЕС",
+      "category": "Инвестиции",
+      "priority": "medium",
+      "status": "new_candidate",
+      "decision": "new_article",
+      "editorialUrgency": "3/5 — НА НЕДЕЛЕ / NEW",
+      "publishedAt": "2026-11-20",
+      "verifiedOn": "2026-11-23",
+      "signal": "At end-2025 resident financial corporations held 69% of government debt in Czechia and Sweden; non-residents 90% Cyprus, 78% Estonia, 74% Latvia.",
+      "why": "New primary-source release in the 16–22 November editorial window; investment/tourism audience and qualitative search opportunity.",
+      "editorialAngle": "Инвестиционная интерпретация первичных данных с разграничением рыночных показателей и доходности.",
+      "seoAngle": "Eurostat: кто владеет государственным долгом стран ЕС",
+      "sources": [
+        {
+          "label": "Primary source, 2026-11-20",
+          "url": "https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20261120-1"
+        }
+      ],
+      "publishedCoverage": "Publication deduplication incomplete; check II RU/EN before CMS publishing",
+      "reportUrl": "https://docs.google.com/document/d/1j4jdX-Il2j5KlF34UiFbpSHod9oPCPGvj-Hl9J1MOdI/edit"
+    },
+    {
+      "id": "eurostat-travel-modes-2025-nov19-2026",
+      "title": "Eurostat: авиаперелёты составили 17,2% поездок европейцев",
+      "category": "Туризм и путешествия",
+      "priority": "high",
+      "status": "new_candidate",
+      "decision": "new_article",
+      "editorialUrgency": "4/5 — ВЫСОКИЙ / NEW",
+      "publishedAt": "2026-11-19",
+      "verifiedOn": "2026-11-23",
+      "signal": "EU residents made 1.2bn tourism trips in 2025; land 81.4%, air 17.2%, waterways 1.4%; cars 63.3%.",
+      "why": "New primary-source release in the 16–22 November editorial window; investment/tourism audience and qualitative search opportunity.",
+      "editorialAngle": "Инвестиционная интерпретация первичных данных с разграничением рыночных показателей и доходности.",
+      "seoAngle": "Eurostat: авиаперелёты составили 17,2% поездок европейцев",
+      "sources": [
+        {
+          "label": "Primary source, 2026-11-19",
+          "url": "https://ec.europa.eu/eurostat/en/web/products-eurostat-news/w/ddn-20261119-2"
+        }
+      ],
+      "publishedCoverage": "Publication deduplication incomplete; check II RU/EN before CMS publishing",
+      "reportUrl": "https://docs.google.com/document/d/1j4jdX-Il2j5KlF34UiFbpSHod9oPCPGvj-Hl9J1MOdI/edit"
+    },
+    {
+      "id": "str-us-hotels-2027-forecast-nov20-2026",
+      "title": "STR: рост RevPAR отелей США замедлится до 2,7%",
+      "category": "Отели и гостиничный бизнес",
+      "priority": "high",
+      "status": "new_candidate",
+      "decision": "new_article",
+      "editorialUrgency": "4/5 — ВЫСОКИЙ / NEW",
+      "publishedAt": "2026-11-20",
+      "verifiedOn": "2026-11-23",
+      "signal": "STR/Tourism Economics project US RevPAR +2.7% in 2027, versus forecast +5.9% in 2026; ADR +1.8% and demand +1.3% in 2027.",
+      "why": "New primary-source release in the 16–22 November editorial window; investment/tourism audience and qualitative search opportunity.",
+      "editorialAngle": "Инвестиционная интерпретация первичных данных с разграничением рыночных показателей и доходности.",
+      "seoAngle": "STR: рост RevPAR отелей США замедлится до 2,7%",
+      "sources": [
+        {
+          "label": "Primary source, 2026-11-20",
+          "url": "https://www.costar.com/products/str-benchmark/resources/data-insights-blog/us-hotel-forecast-assumptions-q4-2026"
+        }
+      ],
+      "publishedCoverage": "Publication deduplication incomplete; check II RU/EN before CMS publishing",
+      "reportUrl": "https://docs.google.com/document/d/1j4jdX-Il2j5KlF34UiFbpSHod9oPCPGvj-Hl9J1MOdI/edit"
+    },
+    {
+      "id": "eurostat-eu-construction-sep-nov19-2026",
+      "title": "Строительное производство в ЕС снизилось на 1,4%",
+      "category": "Недвижимость",
+      "priority": "urgent",
+      "status": "new_candidate",
+      "decision": "new_article",
+      "editorialUrgency": "5/5 — ГОРИТ / NEW",
+      "publishedAt": "2026-11-19",
+      "verifiedOn": "2026-11-23",
+      "signal": "Eurostat September 2026 construction output EU -1.4% YoY, euro area -1.5%; EU -0.5% MoM, euro area +0.1%; Spain -9.7% YoY, Romania +13.1%.",
+      "why": "New primary-source release in the 16–22 November editorial window; investment/tourism audience and qualitative search opportunity.",
+      "editorialAngle": "Инвестиционная интерпретация первичных данных с разграничением рыночных показателей и доходности.",
+      "seoAngle": "Строительное производство в ЕС снизилось на 1,4%",
+      "sources": [
+        {
+          "label": "Primary source, 2026-11-19",
+          "url": "https://ec.europa.eu/eurostat/web/products-euro-indicators/w/4-19112026-ap"
+        }
+      ],
+      "publishedCoverage": "Publication deduplication incomplete; check II RU/EN before CMS publishing",
+      "reportUrl": "https://docs.google.com/document/d/1j4jdX-Il2j5KlF34UiFbpSHod9oPCPGvj-Hl9J1MOdI/edit"
+    },
+    {
+      "id": "eu-tourism-gva-nov18-2026",
+      "title": "Туризм обеспечивает 10,1% добавленной стоимости ЕС",
+      "category": "Туризм и путешествия",
+      "priority": "urgent",
+      "status": "new_candidate",
+      "decision": "new_article",
+      "editorialUrgency": "5/5 — ГОРИТ / NEW",
+      "publishedAt": "2026-11-18",
+      "verifiedOn": "2026-11-23",
+      "signal": "EU Tourism Dashboard estimates tourism total economic impact at 10.1% GVA, direct 4.1%, using direct, indirect, induced effects.",
+      "why": "New primary-source release in the 16–22 November editorial window; investment/tourism audience and qualitative search opportunity.",
+      "editorialAngle": "Инвестиционная интерпретация первичных данных с разграничением рыночных показателей и доходности.",
+      "seoAngle": "Туризм обеспечивает 10,1% добавленной стоимости ЕС",
+      "sources": [
+        {
+          "label": "Primary source, 2026-11-18",
+          "url": "https://transport.ec.europa.eu/news-events/news/eu-tourism-dashboard-update-confirms-tourism-sectors-economic-impact-2026-11-18_en"
+        }
+      ],
+      "publishedCoverage": "Publication deduplication incomplete; check II RU/EN before CMS publishing",
+      "reportUrl": "https://docs.google.com/document/d/1j4jdX-Il2j5KlF34UiFbpSHod9oPCPGvj-Hl9J1MOdI/edit"
+    },
     {
       "id": "accor-ennismore-stake-nov17-2026",
       "title": "Accor выкупает доли Ennismore за €1,6 млрд",
@@ -3361,6 +3472,14 @@
     {
       "title": "Сделки Accor и гостиничные бренды",
       "description": "Ennismore €1.6bn acquisition announced 17 Nov; hospitality brand equity, EBITDA and owner returns distinguished."
+    },
+    {
+      "title": "Туризм ЕС: экономический вклад и сезонность 2026",
+      "description": "EU Tourism Dashboard GVA 10.1%, direct vs total impact, regional winter tourism; qualitative SEO cluster; no measured query metrics."
+    },
+    {
+      "title": "Строительство ЕС: выпуск по странам, сентябрь 2026",
+      "description": "Eurostat production in construction, Spain/Poland/Romania; distinguish output vs property prices; qualitative SEO cluster."
     }
   ],
   "history": [
@@ -3629,6 +3748,20 @@
         "New 18 November official figures and Accor transaction carried into next reporting period"
       ],
       "reportUrl": "https://docs.google.com/document/d/11Cjhzu4fqAXJwYWPzbLhq9xpCKuk2jon0IEguPISd04/edit"
+    },
+    {
+      "period": "12–18 ноября 2026",
+      "endDate": "2026-11-18",
+      "savedAt": "23 ноября 2026",
+      "summary": "Предыдущий редакционный срез 12–18 ноября 2026 сохранён перед новой неделей.",
+      "keyPoints": [
+        "Accor выкупает доли Ennismore за €1,6 млрд",
+        "Цены на жильё в центре Лондона упали на 7,2%",
+        "В Испании продажи жилья сократились на 13,4%",
+        "Инфляция еврозоны 4%: окончательные данные Eurostat",
+        "Европейские отели: RevPAR +5%, инвестиции €15,7 млрд"
+      ],
+      "reportUrl": "https://docs.google.com/document/d/1f8t7_u0WTbiy26X3yQNkNBiesbTQjet7wYx20GZvTg0/edit"
     }
   ],
   "monitoringSources": [
@@ -4316,7 +4449,7 @@
     "rule": "Если в текущем трендрадаре или публикациях International Investment появляется страна, которой нет в списке локальных источников, найти ее официальный государственный статистический орган и релевантный регулятор/реестр недвижимости, проверить официальный домен и добавить их в мониторинг как verification-источники."
   },
   "coverageMonitoring": {
-    "updatedAt": "18 ноября 2026",
+    "updatedAt": "2026-11-23",
     "auditWindowDays": 90,
     "freshnessRules": {
       "freshMaxDays": 14,
@@ -4341,6 +4474,22 @@
       "Не предлагать материал только ради частоты публикаций, если существенного обновления рынка нет."
     ],
     "gaps": [
+      {
+        "country": "ЕС",
+        "lastUpdate": "2026-11-23",
+        "priority": "high",
+        "reason": "New Eurostat construction production September 2026; compare member states and building segment; site duplicate check pending.",
+        "topics": [
+          {
+            "name": "Строительство",
+            "lastPublished": null,
+            "status": "new_candidate"
+          }
+        ],
+        "signalAt": "2026-11-19",
+        "sourceUrl": "https://ec.europa.eu/eurostat/web/products-euro-indicators/w/4-19112026-ap",
+        "decision": "new"
+      },
       {
         "country": "Испания",
         "lastUpdate": "2026-11-18",
@@ -9316,70 +9465,52 @@
     }
   },
   "dailyUpdate": {
-    "date": "18 ноября 2026",
+    "date": "23 ноября 2026",
     "items": [
       {
         "label": "5/5 — ГОРИТ / NEW",
-        "title": "Accor выкупает доли Ennismore за €1,6 млрд",
-        "source": "Accor, 17 November 2026",
-        "url": "https://group.accor.com/files/accor-increases-stake-ennismore.pdf",
+        "title": "Туризм обеспечивает 10,1% добавленной стоимости ЕС",
+        "source": "Eurostat / European Commission",
+        "url": "https://transport.ec.europa.eu/news-events/news/eu-tourism-dashboard-update-confirms-tourism-sectors-economic-impact-2026-11-18_en",
         "priority": "urgent",
-        "signal": "Accor agreement to acquire 25.4%, 6.3%, 12.6% tranches of Ennismore by January 2028 for total approximately €1.6bn, implied equity valuation €3.7bn; group c.5% room share, c.20% recurring EBITDA.",
-        "action": "NEW bilingual editorial draft in 18 Nov single Doc"
+        "signal": "EU Tourism Dashboard estimates tourism total economic impact at 10.1% GVA, direct 4.1%, using direct, indirect, induced effects.",
+        "action": "RU/EN draft in new weekly Doc; images, editorial final check and publication dedupe pending"
       },
       {
         "label": "5/5 — ГОРИТ / NEW",
-        "title": "Цены на жильё в центре Лондона упали на 7,2%",
-        "source": "ONS, 18 Nov 2026",
-        "url": "https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/privaterentandhousepricesuk/latest",
+        "title": "Строительное производство в ЕС снизилось на 1,4%",
+        "source": "Eurostat / European Commission",
+        "url": "https://ec.europa.eu/eurostat/web/products-euro-indicators/w/4-19112026-ap",
         "priority": "urgent",
-        "signal": "ONS UK HPI September: Inner London -7.2% YoY, biggest fall since August 2009; London -3.5% and flats -6.3%, UK +1.2%; UK private rents +3.8% to £1,411 October.",
-        "action": "NEW bilingual editorial draft in 18 Nov single Doc"
+        "signal": "Eurostat September 2026 construction output EU -1.4% YoY, euro area -1.5%; EU -0.5% MoM, euro area +0.1%; Spain -9.7% YoY, Romania +13.1%.",
+        "action": "RU/EN draft in new weekly Doc; images, editorial final check and publication dedupe pending"
       },
       {
         "label": "4/5 — ВЫСОКИЙ / NEW",
-        "title": "В Испании продажи жилья сократились на 13,4%",
-        "source": "INE, 17 Nov 2026",
-        "url": "https://www.ine.es/dyngs/INEbase/en/operacion.htm?c=Estadistica_C&cid=1254736171438&idp=1254735576757&menu=ultiDatos",
+        "title": "STR: рост RevPAR отелей США замедлится до 2,7%",
+        "source": "STR/CoStar",
+        "url": "https://www.costar.com/products/str-benchmark/resources/data-insights-blog/us-hotel-forecast-assumptions-q4-2026",
         "priority": "high",
-        "signal": "INE registered housing purchase/sale September 2026: 54,548, -13.4% YoY, +10.6% MoM; full property transfers 182,813, -7.2% YoY.",
-        "action": "NEW bilingual editorial draft in 18 Nov single Doc"
+        "signal": "STR/Tourism Economics project US RevPAR +2.7% in 2027, versus forecast +5.9% in 2026; ADR +1.8% and demand +1.3% in 2027.",
+        "action": "RU/EN draft in new weekly Doc; images, editorial final check and publication dedupe pending"
       },
       {
         "label": "4/5 — ВЫСОКИЙ / NEW",
-        "title": "Инфляция еврозоны 4%: окончательные данные Eurostat",
-        "source": "Eurostat, 18 Nov 2026",
-        "url": "https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-18112026-ap",
+        "title": "Eurostat: авиаперелёты составили 17,2% поездок европейцев",
+        "source": "Eurostat / European Commission",
+        "url": "https://ec.europa.eu/eurostat/en/web/products-eurostat-news/w/ddn-20261119-2",
         "priority": "high",
-        "signal": "Euro area final annual HICP October +4.0% vs +3.8% September. EU +4.0%; Sweden 0.6%, Romania 7.0%. Energy contribution 1.89pp.",
-        "action": "NEW bilingual editorial draft in 18 Nov single Doc"
+        "signal": "EU residents made 1.2bn tourism trips in 2025; land 81.4%, air 17.2%, waterways 1.4%; cars 63.3%.",
+        "action": "RU/EN draft in new weekly Doc; images, editorial final check and publication dedupe pending"
       },
       {
-        "label": "4/5 ВЫСОКИЙ / NEW",
-        "title": "Европейские отели: RevPAR +5%, инвестиции €15,7 млрд",
-        "source": "CBRE, 16 Nov",
-        "url": "https://www.cbre.co.uk/insights/figures/european-hotels-figures-november-2026",
-        "priority": "high",
-        "signal": "CBRE: European hotel RevPAR +5.0% YTD September, ADR +4.1%; hotel investment €15.7bn YTD, below €17.1bn a year earlier but 18% above the 10-year Q1-Q3 average. Hotel pipeline CAGR 0.5% for 2026-2031 vs 4.0% CAGR for hotel nights.",
-        "action": "NEW bilingual draft in same Doc"
-      },
-      {
-        "label": "COVERED 18 Nov",
-        "title": "Europe Living investment €44.6bn",
-        "source": "International Investment",
-        "url": "https://internationalinvestment.biz/en/business/9148-europe-living-investment-reaches-446bn.html",
-        "priority": "covered",
-        "signal": "Published as #9148",
-        "action": "Do not duplicate"
-      },
-      {
-        "label": "HOLD",
-        "title": "London limited-service hotel pipeline",
-        "source": "CoStar",
-        "url": "https://www.costar.com/news/hotels",
+        "label": "3/5 — НА НЕДЕЛЕ / NEW",
+        "title": "Eurostat: кто владеет государственным долгом стран ЕС",
+        "source": "Eurostat / European Commission",
+        "url": "https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20261120-1",
         "priority": "medium",
-        "signal": "Numerical details not available",
-        "action": "Wait for primary figures"
+        "signal": "At end-2025 resident financial corporations held 69% of government debt in Czechia and Sweden; non-residents 90% Cyprus, 78% Estonia, 74% Latvia.",
+        "action": "RU/EN draft in new weekly Doc; images, editorial final check and publication dedupe pending"
       }
     ]
   }
