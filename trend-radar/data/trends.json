@@ -2,10 +2,10 @@
   "meta": {
     "period": "16–22 ноября 2026",
     "updatedAt": "23 ноября 2026",
-    "reportUrl": "https://docs.google.com/document/d/1j4jdX-Il2j5KlF34UiFbpSHod9oPCPGvj-Hl9J1MOdI/edit",
-    "editorialNote": "23 Nov: five sourced editorial candidates 18–20 Nov: EU tourism GVA, Eurostat construction, STR US hotel outlook, travel modes and debt holders. RU/EN drafts in single Doc; full visual production and complete site deduplication pending. No fresh GSC metrics loaded.",
-    "consolidatedDocUrl": "https://docs.google.com/document/d/1j4jdX-Il2j5KlF34UiFbpSHod9oPCPGvj-Hl9J1MOdI/edit",
-    "weeklyFinalDocUrl": "https://docs.google.com/document/d/1j4jdX-Il2j5KlF34UiFbpSHod9oPCPGvj-Hl9J1MOdI/edit",
+    "reportUrl": "https://docs.google.com/document/d/1vEk5eZyMUy_KmLECe0tdNZEvDWDBIyxihwhjdMhLkCo/edit",
+    "editorialNote": "23 Nov: five sourced editorial candidates 18–20 Nov: EU tourism GVA, Eurostat construction, STR US hotel outlook, travel modes and debt holders. RU/EN drafts in single Doc; full visual production and complete site deduplication pending. No fresh GSC metrics loaded. | 23 Nov revision: 5 expanded RU/EN narratives, 11 Google Docs tables, 5 verified charts, 5 illustrated covers, clickable sources. Previous draft archived at https://docs.google.com/document/d/1j4jdX-Il2j5KlF34UiFbpSHod9oPCPGvj-Hl9J1MOdI/edit",
+    "consolidatedDocUrl": "https://docs.google.com/document/d/1vEk5eZyMUy_KmLECe0tdNZEvDWDBIyxihwhjdMhLkCo/edit",
+    "weeklyFinalDocUrl": "https://docs.google.com/document/d/1vEk5eZyMUy_KmLECe0tdNZEvDWDBIyxihwhjdMhLkCo/edit",
     "additionalViralBriefUrl": "https://docs.google.com/document/d/1noak5K9VJW3EaN1FZ9yRM_eoMe9cMRiXNPlOC6unumk/edit",
     "sourceAudit": {
       "window": "2026-11-16/2026-11-22",
@@ -59,7 +59,7 @@
         }
       ],
       "publishedCoverage": "Publication deduplication incomplete; check II RU/EN before CMS publishing",
-      "reportUrl": "https://docs.google.com/document/d/1j4jdX-Il2j5KlF34UiFbpSHod9oPCPGvj-Hl9J1MOdI/edit"
+      "reportUrl": "https://docs.google.com/document/d/1vEk5eZyMUy_KmLECe0tdNZEvDWDBIyxihwhjdMhLkCo/edit"
     },
     {
       "id": "eurostat-travel-modes-2025-nov19-2026",
@@ -82,7 +82,7 @@
         }
       ],
       "publishedCoverage": "Publication deduplication incomplete; check II RU/EN before CMS publishing",
-      "reportUrl": "https://docs.google.com/document/d/1j4jdX-Il2j5KlF34UiFbpSHod9oPCPGvj-Hl9J1MOdI/edit"
+      "reportUrl": "https://docs.google.com/document/d/1vEk5eZyMUy_KmLECe0tdNZEvDWDBIyxihwhjdMhLkCo/edit"
     },
     {
       "id": "str-us-hotels-2027-forecast-nov20-2026",
@@ -105,7 +105,7 @@
         }
       ],
       "publishedCoverage": "Publication deduplication incomplete; check II RU/EN before CMS publishing",
-      "reportUrl": "https://docs.google.com/document/d/1j4jdX-Il2j5KlF34UiFbpSHod9oPCPGvj-Hl9J1MOdI/edit"
+      "reportUrl": "https://docs.google.com/document/d/1vEk5eZyMUy_KmLECe0tdNZEvDWDBIyxihwhjdMhLkCo/edit"
     },
     {
       "id": "eurostat-eu-construction-sep-nov19-2026",
@@ -128,7 +128,7 @@
         }
       ],
       "publishedCoverage": "Publication deduplication incomplete; check II RU/EN before CMS publishing",
-      "reportUrl": "https://docs.google.com/document/d/1j4jdX-Il2j5KlF34UiFbpSHod9oPCPGvj-Hl9J1MOdI/edit"
+      "reportUrl": "https://docs.google.com/document/d/1vEk5eZyMUy_KmLECe0tdNZEvDWDBIyxihwhjdMhLkCo/edit"
     },
     {
       "id": "eu-tourism-gva-nov18-2026",
@@ -151,7 +151,7 @@
         }
       ],
       "publishedCoverage": "Publication deduplication incomplete; check II RU/EN before CMS publishing",
-      "reportUrl": "https://docs.google.com/document/d/1j4jdX-Il2j5KlF34UiFbpSHod9oPCPGvj-Hl9J1MOdI/edit"
+      "reportUrl": "https://docs.google.com/document/d/1vEk5eZyMUy_KmLECe0tdNZEvDWDBIyxihwhjdMhLkCo/edit"
     },
     {
       "id": "accor-ennismore-stake-nov17-2026",
