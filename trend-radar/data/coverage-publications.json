@@ -24,7 +24,8 @@
         "Туризм",
         "Отели и гостиничный бизнес"
       ],
-      "excerptCategories": "Tourism & hospitality\n/\nResearch\n/\nUSA\n/\nUnited Kingdom\n/\nFrance\n/\nSpain\n/\nPortugal"
+      "excerptCategories": "Tourism & hospitality\n/\nResearch\n/\nUSA\n/\nUnited Kingdom\n/\nFrance\n/\nSpain\n/\nPortugal",
+      "auditCorrection": "2026-11-25: archived RU/EN headline and cross-language ID reconciliation; full page unavailable on recheck"
     },
     {
       "id": "9071",
@@ -80,16 +81,19 @@
       "url": "https://internationalinvestment.biz/he/tourism/9070-orhei-melonot-ktanim-yahlifu-hadarim-bedirot.html",
       "lang": "he",
       "countries": [
+        "Великобритания",
         "Испания",
-        "Франция",
-        "Великобритания"
+        "Португалия",
+        "США",
+        "Франция"
       ],
       "scope": "multi-country",
       "themes": [
         "Туризм",
         "Отели и гостиничный бизнес"
       ],
-      "excerptCategories": "תיירות ומלונאות\n/\nמחקרים\n/\nארצות הברית\n/\nבריטניה\n/\nצרפת\n/\nספרד\n/\nפורטוגל"
+      "excerptCategories": "תיירות ומלונאות\n/\nמחקרים\n/\nארצות הברית\n/\nבריטניה\n/\nצרפת\n/\nספרד\n/\nפורטוגל",
+      "auditCorrection": "2026-11-25: archived RU/EN headline and cross-language ID reconciliation; full page unavailable on recheck"
     },
     {
       "id": "9071",
@@ -140,14 +144,19 @@
       "url": "https://internationalinvestment.biz/ka/tourism/9070-patara-sastumroebis-stumrebi-mzad-arian-nomrebi-binebze-gatsvalon.html",
       "lang": "ka",
       "countries": [
-        "Испания"
+        "Великобритания",
+        "Испания",
+        "Португалия",
+        "США",
+        "Франция"
       ],
-      "scope": "country",
+      "scope": "multi-country",
       "themes": [
         "Туризм",
         "Отели и гостиничный бизнес"
       ],
-      "excerptCategories": "ა\nტურიზმი და სასტუმრო ბიზნესი\n/\nკვლევები\n/\nაშშ\n/\nდიდი ბრიტანეთი\n/\nსაფრანგეთი\n/\nესპანეთი\n/\nპორტუგალია"
+      "excerptCategories": "ა\nტურიზმი და სასტუმრო ბიზნესი\n/\nკვლევები\n/\nაშშ\n/\nდიდი ბრიტანეთი\n/\nსაფრანგეთი\n/\nესპანეთი\n/\nპორტუგალია",
+      "auditCorrection": "2026-11-25: archived RU/EN headline and cross-language ID reconciliation; full page unavailable on recheck"
     },
     {
       "id": "9071",
@@ -214,9 +223,10 @@
       "url": "https://internationalinvestment.biz/tourism/9070-gosti-nebolshih-otelej-gotovy-menjat-nomera-na-kvartiry.html",
       "lang": "ru",
       "countries": [
-        "Испания",
         "Великобритания",
+        "Испания",
         "Португалия",
+        "США",
         "Франция"
       ],
       "scope": "multi-country",
@@ -224,7 +234,8 @@
         "Туризм",
         "Отели и гостиничный бизнес"
       ],
-      "excerptCategories": "Туризм и отельный бизнес\n/\nИсследования\n/\nСША\n/\nВеликобритания\n/\nФранция\n/\nИспания\n/\nПортугалия"
+      "excerptCategories": "Туризм и отельный бизнес\n/\nИсследования\n/\nСША\n/\nВеликобритания\n/\nФранция\n/\nИспания\n/\nПортугалия",
+      "auditCorrection": "2026-11-25: archived RU/EN headline and cross-language ID reconciliation; full page unavailable on recheck"
     },
     {
       "id": "9071",
@@ -942,15 +953,15 @@
       "url": "https://internationalinvestment.biz/en/business/9048-vienna-hotel-nights-rise-as-august-revenue-falls.html",
       "lang": "en",
       "countries": [
-        "Италия"
+        "Австрия"
       ],
       "scope": "country",
       "themes": [
-        "Инвестиции",
         "Туризм",
         "Отели и гостиничный бизнес"
       ],
-      "excerptCategories": "Business\n/\nTourism & hospitality\n/\nInvestments\n/\nAnalytics\n/\nNews\n/\nItaly\n/\nTourism Italy"
+      "excerptCategories": "Business\n/\nTourism & hospitality\n/\nInvestments\n/\nAnalytics\n/\nNews\n/\nItaly\n/\nTourism Italy",
+      "auditCorrection": "2026-11-25: archived RU/EN headline and cross-language ID reconciliation; full page unavailable on recheck"
     },
     {
       "id": "9056",
@@ -1065,14 +1076,16 @@
       "title": "וינה מגדילה את תנועת התיירות, אך הכנסות המלונות בירידה",
       "url": "https://internationalinvestment.biz/he/business/9048-vina-magdila-tnuat-tayarut-akh-hakhnasot-yordot.html",
       "lang": "he",
-      "countries": [],
-      "scope": "unassigned",
+      "countries": [
+        "Австрия"
+      ],
+      "scope": "country",
       "themes": [
-        "Инвестиции",
         "Туризм",
         "Отели и гостиничный бизнес"
       ],
-      "excerptCategories": "עסקים\n/\nתיירות ומלונאות\n/\nהשקעות\n/\nאנליטיקה\n/\nחדשות\n/\nאיטליה\n/\nתיירות — איטליה"
+      "excerptCategories": "עסקים\n/\nתיירות ומלונאות\n/\nהשקעות\n/\nאנליטיקה\n/\nחדשות\n/\nאיטליה\n/\nתיירות — איטליה",
+      "auditCorrection": "2026-11-25: archived RU/EN headline and cross-language ID reconciliation; full page unavailable on recheck"
     },
     {
       "id": "9056",
@@ -1203,14 +1216,16 @@
       "title": "ვენა ტურისტულ ნაკადს ზრდის, თუმცა სასტუმროების შემოსავალი მცირდება",
       "url": "https://internationalinvestment.biz/ka/business/9048-vena-turistul-nakads-zrdis-tumtsa-sastumroebis-shemosavali-mtsirdeba.html",
       "lang": "ka",
-      "countries": [],
-      "scope": "unassigned",
+      "countries": [
+        "Австрия"
+      ],
+      "scope": "country",
       "themes": [
-        "Инвестиции",
         "Туризм",
         "Отели и гостиничный бизнес"
       ],
-      "excerptCategories": "ბიზნესი\n/\nტურიზმი და სასტუმრო ბიზნესი\n/\nინვესტიციები\n/\nანალიტიკა\n/\nსიახლეები\n/\nიტალია\n/\nტურიზმი — იტალია"
+      "excerptCategories": "ბიზნესი\n/\nტურიზმი და სასტუმრო ბიზნესი\n/\nინვესტიციები\n/\nანალიტიკა\n/\nსიახლეები\n/\nიტალია\n/\nტურიზმი — იტალია",
+      "auditCorrection": "2026-11-25: archived RU/EN headline and cross-language ID reconciliation; full page unavailable on recheck"
     },
     {
       "id": "9056",
@@ -1327,15 +1342,15 @@
       "url": "https://internationalinvestment.biz/business/9048-vena-naraschivaet-turpotok-no-vyruchka-otelej-prosedaet.html",
       "lang": "ru",
       "countries": [
-        "Италия"
+        "Австрия"
       ],
       "scope": "country",
       "themes": [
-        "Инвестиции",
         "Туризм",
         "Отели и гостиничный бизнес"
       ],
-      "excerptCategories": "Бизнес\n/\nТуризм и отельный бизнес\n/\nИнвестиции\n/\nАналитика\n/\nНовости\n/\nИталия\n/\nТуризм Италия"
+      "excerptCategories": "Бизнес\n/\nТуризм и отельный бизнес\n/\nИнвестиции\n/\nАналитика\n/\nНовости\n/\nИталия\n/\nТуризм Италия",
+      "auditCorrection": "2026-11-25: archived RU/EN headline and cross-language ID reconciliation; full page unavailable on recheck"
     },
     {
       "id": "9050",
@@ -4702,14 +4717,14 @@
       "url": "https://internationalinvestment.biz/en/news/8997-spain-leads-the-eu-in-growth-of-russian-residence-permit-holders.html",
       "lang": "en",
       "countries": [
-        "Испания",
-        "Россия"
+        "Испания"
       ],
-      "scope": "multi-country",
+      "scope": "country",
       "themes": [
         "ВНЖ и миграция"
       ],
-      "excerptCategories": "News\n/\nMigration\n/\nAnalytics\n/\nReviews\n/\nSpain\n/\nRussia"
+      "excerptCategories": "News\n/\nMigration\n/\nAnalytics\n/\nReviews\n/\nSpain\n/\nRussia",
+      "auditCorrection": "2026-11-25: archived RU/EN headline and cross-language ID reconciliation; full page unavailable on recheck"
     },
     {
       "id": "8910",
@@ -4818,10 +4833,10 @@
       ],
       "scope": "country",
       "themes": [
-        "ВНЖ и миграция",
-        "Налоги для инвесторов"
+        "ВНЖ и миграция"
       ],
-      "excerptCategories": "חדשות\n/\nהגירה\n/\nאנליטיקה\n/\nסקירות\n/\nספרד\n/\nרוסיה"
+      "excerptCategories": "חדשות\n/\nהגירה\n/\nאנליטיקה\n/\nסקירות\n/\nספרד\n/\nרוסיה",
+      "auditCorrection": "2026-11-25: archived RU/EN headline and cross-language ID reconciliation; full page unavailable on recheck"
     },
     {
       "id": "8910",
@@ -4929,7 +4944,8 @@
       "themes": [
         "ВНЖ и миграция"
       ],
-      "excerptCategories": "ა\nსიახლეები\n/\nმიგრაცია\n/\nანალიტიკა\n/\nმიმოხილვები\n/\nესპანეთი\n/\nრუსეთი"
+      "excerptCategories": "ა\nსიახლეები\n/\nმიგრაცია\n/\nანალიტიკა\n/\nმიმოხილვები\n/\nესპანეთი\n/\nრუსეთი",
+      "auditCorrection": "2026-11-25: archived RU/EN headline and cross-language ID reconciliation; full page unavailable on recheck"
     },
     {
       "id": "8910",
@@ -5029,14 +5045,14 @@
       "url": "https://internationalinvestment.biz/news/8997-ispanija-lidiruet-v-es-po-prirostu-rossijan-s-vnzh.html",
       "lang": "ru",
       "countries": [
-        "Испания",
-        "Россия"
+        "Испания"
       ],
-      "scope": "multi-country",
+      "scope": "country",
       "themes": [
         "ВНЖ и миграция"
       ],
-      "excerptCategories": "Новости\n/\nМиграция\n/\nАналитика\n/\nОбзоры\n/\nИспания\n/\nРоссия"
+      "excerptCategories": "Новости\n/\nМиграция\n/\nАналитика\n/\nОбзоры\n/\nИспания\n/\nРоссия",
+      "auditCorrection": "2026-11-25: archived RU/EN headline and cross-language ID reconciliation; full page unavailable on recheck"
     },
     {
       "id": "8910",
@@ -5616,71 +5632,14 @@
       "url": "https://internationalinvestment.biz/en/real-estate/8965-apartment-prices-in-israel-fell-18-over-the-year.html",
       "lang": "en",
       "countries": [
-        "Австралия",
-        "Австрия",
-        "Албания",
-        "Аргентина",
-        "Армения",
-        "Беларусь",
-        "Бельгия",
-        "Болгария",
-        "Босния и Герцеговина",
-        "Венгрия",
-        "Великобритания",
-        "Германия",
-        "Греция",
-        "Грузия",
-        "Дания",
-        "Египет",
-        "Индонезия",
-        "Индия",
-        "Израиль",
-        "Испания",
-        "Италия",
-        "Ирландия",
-        "Исландия",
-        "Казахстан",
-        "Канада",
-        "Кипр",
-        "Китай",
-        "Латвия",
-        "Литва",
-        "Норвегия",
-        "Нидерланды",
-        "ОАЭ",
-        "Парагвай",
-        "Польша",
-        "Португалия",
-        "Россия",
-        "Румыния",
-        "Сербия",
-        "Сингапур",
-        "Словакия",
-        "Словения",
-        "США",
-        "Таиланд",
-        "Турция",
-        "Узбекистан",
-        "Украина",
-        "Филиппины",
-        "Финляндия",
-        "Франция",
-        "Хорватия",
-        "Черногория",
-        "Чехия",
-        "Швейцария",
-        "Швеция",
-        "Эстония",
-        "Япония"
+        "Израиль"
       ],
-      "scope": "multi-country",
+      "scope": "country",
       "themes": [
-        "Недвижимость",
-        "Инвестиции",
-        "Туризм",
-        "ВНЖ и миграция"
+        "Недвижимость"
       ],
-      "excerptCategories": "ries\nBusiness\nReal estate\nInvestments\nTourism & hospitality\nAnalytics\nResearch\nRatings\nInvestment objects\nInterview\nReviews\nMigration\nExperts\nCountries\nAustralia\nAustria\nAlbania\nArgentina\nArmenia\nBelarus\nBelgium\nBulgaria"
+      "excerptCategories": "ries\nBusiness\nReal estate\nInvestments\nTourism & hospitality\nAnalytics\nResearch\nRatings\nInvestment objects\nInterview\nReviews\nMigration\nExperts\nCountries\nAustralia\nAustria\nAlbania\nArgentina\nArmenia\nBelarus\nBelgium\nBulgaria",
+      "auditCorrection": "2026-11-25: archived RU/EN headline and cross-language ID reconciliation; full page unavailable on recheck"
     },
     {
       "id": "8962",
@@ -5977,71 +5936,14 @@
       "url": "https://internationalinvestment.biz/en/real-estate/8949-israels-new-builds-86000-apartments-without-buyers.html",
       "lang": "en",
       "countries": [
-        "Австралия",
-        "Австрия",
-        "Албания",
-        "Аргентина",
-        "Армения",
-        "Беларусь",
-        "Бельгия",
-        "Болгария",
-        "Босния и Герцеговина",
-        "Венгрия",
-        "Великобритания",
-        "Германия",
-        "Греция",
-        "Грузия",
-        "Дания",
-        "Египет",
-        "Индонезия",
-        "Индия",
-        "Израиль",
-        "Испания",
-        "Италия",
-        "Ирландия",
-        "Исландия",
-        "Казахстан",
-        "Канада",
-        "Кипр",
-        "Китай",
-        "Латвия",
-        "Литва",
-        "Норвегия",
-        "Нидерланды",
-        "ОАЭ",
-        "Парагвай",
-        "Польша",
-        "Португалия",
-        "Россия",
-        "Румыния",
-        "Сербия",
-        "Сингапур",
-        "Словакия",
-        "Словения",
-        "США",
-        "Таиланд",
-        "Турция",
-        "Узбекистан",
-        "Украина",
-        "Филиппины",
-        "Финляндия",
-        "Франция",
-        "Хорватия",
-        "Черногория",
-        "Чехия",
-        "Швейцария",
-        "Швеция",
-        "Эстония",
-        "Япония"
+        "Израиль"
       ],
-      "scope": "multi-country",
+      "scope": "country",
       "themes": [
-        "Недвижимость",
-        "Инвестиции",
-        "Туризм",
-        "ВНЖ и миграция"
+        "Недвижимость"
       ],
-      "excerptCategories": "ries\nBusiness\nReal estate\nInvestments\nTourism & hospitality\nAnalytics\nResearch\nRatings\nInvestment objects\nInterview\nReviews\nMigration\nExperts\nCountries\nAustralia\nAustria\nAlbania\nArgentina\nArmenia\nBelarus\nBelgium\nBulgaria"
+      "excerptCategories": "ries\nBusiness\nReal estate\nInvestments\nTourism & hospitality\nAnalytics\nResearch\nRatings\nInvestment objects\nInterview\nReviews\nMigration\nExperts\nCountries\nAustralia\nAustria\nAlbania\nArgentina\nArmenia\nBelarus\nBelgium\nBulgaria",
+      "auditCorrection": "2026-11-25: archived RU/EN headline and cross-language ID reconciliation; full page unavailable on recheck"
     },
     {
       "id": "8905",
@@ -12691,7 +12593,7 @@
       }
     }
   ],
-  "limitations": "90+ day baseline retained from dated archive scans; 15–16 Nov increment verified directly in EN/RU. Absence from indexed search alone is not treated as proof of no historical coverage.",
+  "limitations": "90+ day baseline retained from dated archive scans; 15–16 Nov increment verified directly in EN/RU. Absence from indexed search alone is not treated as proof of no historical coverage. | 25 Nov: cross-language ID and archived headline corrections #9048, #9070, #8997, #8965, #8949; no new dated archive pages verified.",
   "archiveYears": [
     "2026"
   ],
