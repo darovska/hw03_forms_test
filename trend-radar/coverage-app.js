@@ -20,6 +20,7 @@ function renderMatrix(){
     tr.append(make("td","country",r.country),make("td",null,r.name));
     const date=make("td");date.append(make("strong",null,niceDate(r.lastPublished)));
     if(r.headline)date.append(make("div","notes",r.headline));
+    if(r.observedPublications?.length){for(const item of r.observedPublications){date.append(make("div","notes","Найден более новый кандидат: "+item.title+" · дата не подтверждена"));}}
     tr.append(date);
     const cell=make("td");cell.append(flag(r.status));tr.append(cell);
     const urls=make("td");
@@ -27,7 +28,7 @@ function renderMatrix(){
       for(const l of ["ru","en","ka","he"])if(loc[l])more.append(link(l.toUpperCase(),loc[l],"locale-link"));
       urls.append(more);
     }else urls.append(make("span","notes","Нет подтверждённой статьи за проверенный период"));
-    tr.append(urls);body.append(tr);
+    if(r.observedPublications?.length){for(const item of r.observedPublications){if(item.url)urls.append(make("br"),link("Наблюдаемый URL ↗",item.url));}}tr.append(urls);body.append(tr);
   }
   if(!records.length){const tr=make("tr"),td=make("td","empty","Совпадений нет. Попробуйте другой фильтр.");td.colSpan=5;tr.append(td);body.append(tr)}
   setText("shownCount",records.length+" пар");
@@ -37,12 +38,13 @@ function renderGaps(gaps){
   for(const [idx,g] of gaps.entries()){
     const card=make("article","gap"),head=make("div","gap-head");
     head.append(make("strong",null,(idx+1)+". "+g.country));
-    const t=g.topics?.[0];if(t)head.append(flag(t.status));
+    const t=g.topics?.[0];if(t)head.append(flag(t.coverageStatus||t.status));
     card.append(head);
     const theme=make("div","notes",t?.name||"Тема не уточнена");
     card.append(theme,make("p",null,g.reason||"Причина не указана"));
     const foot=make("div","links");if(g.sourceUrl)foot.append(link("Первичный источник",g.sourceUrl));if(g.additionalSourceUrl)foot.append(link("Другие данные",g.additionalSourceUrl));
-    if(t?.lastUrl)foot.append(link("Последняя статья",t.lastUrl));
+    if(t?.lastUrl)foot.append(link("Известная статья / кандидат",t.lastUrl));
+    for(const topic of g.topics||[]){for(const item of topic.observedPublications||[]){if(item.url)foot.append(link(item.title+" · дата уточняется",item.url));}}
     card.append(foot);
     const d=make("small","notes","Сигнал: "+(g.signalAt?niceDate(g.signalAt):"дата неизвестна")+". Решение: "+(g.decision||"проверить"));
     card.append(d);holder.append(card);
@@ -60,7 +62,7 @@ function renderLanguageScan(scan){
  }
  const note=$("#languageNote");if(note){const inc=scan.recentIncrementalWindow||"";const langs=(scan.recentLanguagesAudited||[]).map(x=>x.toUpperCase()).join("/");const kh=scan.kaHeThrough?niceDate(scan.kaHeThrough):null;note.textContent=(langs&&inc?langs+" проверены напрямую за "+inc.replace("/", " — ")+(kh?"; KA/HE — до "+kh:"")+". ":"")+"Числа отражают найденные ID в архиве и при неполном языковом скане не являются полностью сопоставимыми."; }
  const quality=$("#quality");quality.replaceChildren();
- const p=make("p","hint","Обнаружено "+(scan.articles||[]).length+" языковых URL, "+new Set(rec.map(x=>x.id)).size+" уникальных ID. Англоязычный архив: "+(scan.pagesRead||"—")+"/"+(scan.pagesAttempted||"—")+" дней. EN/RU за 9–14 ноября сверены напрямую по дневным архивам; multi-country материалы не обновляют страновые ячейки. Дополнительные страницы и даты с 404 не считаются доказательством отсутствия статьи.");
+ const p=make("p","hint","Обнаружено "+(scan.articles||[]).length+" языковых URL, "+new Set(rec.map(x=>x.id)).size+" уникальных ID. Англоязычный архив: "+(scan.pagesRead||"—")+"/"+(scan.pagesAttempted||"—")+" дней. EN/RU: последний доступный датированный архив по 17 ноября; последующая сверка неполная; multi-country материалы не обновляют страновые ячейки. Дополнительные страницы и даты с 404 не считаются доказательством отсутствия статьи.");
  quality.append(p);
  const info=make("p","hint");info.append(make("strong",null,"Редакционная проверка тегов: "));
  info.append("материал о гостиницах Вены от 05.11 (ID 9048) размечен в английском архиве как «Italy / Tourism Italy». В матрице исправлен на Австрию, тег CMS требует проверки.");
@@ -94,7 +96,7 @@ async function start(){
   if(ra.status==="fulfilled"){
     const j=ra.value,c=j.coverageMonitoring||{};state.data=j;
     state.matrix=(c.matrix||[]).flatMap(country=>(country.topics||[]).map(t=>({country:country.country,...t})));
-    setText("audit","Аудит: "+(c.updatedAt||"—"));setText("countries",(c.matrix||[]).length);
+    setText("audit","Архив публикаций: "+(c.methodology?.auditAt||"—")+" · сверка сигналов: "+(c.updatedAt||"—"));setText("countries",(c.matrix||[]).length);
     setText("signals",(c.gaps||[]).length);setText("verified",state.matrix.filter(x=>x.lastPublished).length);
     setText("unverified",state.matrix.filter(x=>!x.lastPublished).length);
     setText("totalTopics",state.matrix.length);renderGaps(c.gaps||[]);renderRadar(j);renderMatrix();
@@ -106,5 +108,6 @@ async function start(){
   }
   state.scan=sc.status==="fulfilled"?sc.value:null;renderLanguageScan(state.scan);
   state.analytics=an.status==="fulfilled"?an.value:null;renderAnalytics(state.analytics);
+  const evidence=state.data?.coverageMonitoring?.publicationEvidence; if(evidence){const el=$("#quality");const h=make("p","hint",evidence.note);el.append(h);for(const item of evidence.observations||[]){const p=make("p","hint",item.country+" · "+item.name+": "+item.title+" · "+item.basis+" ");if(item.url)p.append(link("URL ↗",item.url));el.append(p);}}
 }
 start();
