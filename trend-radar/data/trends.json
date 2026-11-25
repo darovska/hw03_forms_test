@@ -5296,9 +5296,9 @@
         "topics": [
           {
             "name": "Недвижимость",
-            "lastPublished": "2026-10-02",
+            "lastPublished": "2026-10-19",
             "status": "new_candidate",
-            "lastUrl": "https://internationalinvestment.biz/en/business/8890-mass-cancellations-of-new-build-home-deals-in-southern-israel.html",
+            "lastUrl": "https://internationalinvestment.biz/en/real-estate/8965-apartment-prices-in-israel-fell-18-over-the-year.html",
             "articleId": "8890",
             "signalAt": "2026-11-23",
             "sourceUrl": "https://www.boi.org.il/en/communication-and-publications/press-releases/the-monetary-committee-decides-on-november-23-2026-to-keep-the-interest-rate-unchanged-at-325-percent/",
@@ -5315,7 +5315,17 @@
               "israel",
               "israel-boi-policy-housing-nov23-2026"
             ],
-            "editorialNote": "RU/EN draft ready; exact CMS duplicate check pending."
+            "editorialNote": "RU/EN draft ready; exact CMS duplicate check pending.",
+            "coverageStatus": "watch",
+            "observedPublications": [
+              {
+                "country": "Израиль",
+                "name": "Недвижимость",
+                "title": "Строительство в Израиле: кризис и прогноз цен на жилье",
+                "basis": "Метрика 19–25.11: наблюдаемый заголовок, ID не подтверждён"
+              }
+            ],
+            "publicationCheck": "observed_not_date_verified"
           },
           {
             "name": "Инвестиции",
@@ -5362,7 +5372,7 @@
           },
           {
             "name": "Недвижимость",
-            "lastPublished": null,
+            "lastPublished": "2026-11-05",
             "status": "new_candidate",
             "signalAt": "2026-11-24",
             "sourceUrl": "https://www.insee.fr/en/statistiques/9156671",
@@ -5370,7 +5380,9 @@
             "trendRadarRef": "insee-france-existing-housing-q3-nov24-2026",
             "preparedAt": "2026-11-25",
             "publicationConfirmed": false,
-            "editorialNote": "RU/EN text prepared in earlier 25 Nov package; do not create a duplicate draft. CMS publication/update not verified in this run."
+            "editorialNote": "RU/EN text prepared in earlier 25 Nov package; do not create a duplicate draft. CMS publication/update not verified in this run.",
+            "lastUrl": "https://internationalinvestment.biz/en/real-estate/9051-frances-property-market-slows-ahead-of-the-2027-presidential-election.html",
+            "coverageStatus": "fresh"
           }
         ],
         "signalAt": "2026-11-24",
@@ -5426,13 +5438,13 @@
         "country": "Португалия",
         "lastUpdate": "2026-11-25",
         "priority": "urgent",
-        "reason": "Парламент одобрил бюджет OE2027 24 ноября. В принятую парламентом редакцию включена отмена льготной ставки IRS 10% на умеренную аренду жилья до €2300 в месяц. По данным RTP/ECO, предполагается прекращение льготы в 2027; окончательное опубликование, дата применения и переходные правила требуют сверки с Diário da República. Другие режимы аренды оценивать отдельно. | Turismo de Portugal/INE/Banco de Portugal: September accommodation 3.4m guests (+2.5% YoY), 8.7m nights (+2.0%); travel receipts €3.3bn (+3.9%). Jan–Sep 25.8m guests, 66.0m nights, receipts €24.3bn. September nights: Norte +6.6%, Centro and Grande Lisboa +2.8%; receipts are broader than accommodation revenue.",
+        "reason": "Парламент одобрил бюджет OE2027 24 ноября. В принятую парламентом редакцию включена отмена льготной ставки IRS 10% на умеренную аренду жилья до €2300 в месяц. По данным RTP/ECO, предполагается прекращение льготы в 2027; окончательное опубликование, дата применения и переходные правила требуют сверки с Diário da República. Другие режимы аренды оценивать отдельно. | Turismo de Portugal/INE/Banco de Portugal: September accommodation 3.4m guests (+2.5% YoY), 8.7m nights (+2.0%); travel receipts €3.3bn (+3.9%). Jan–Sep 25.8m guests, 66.0m nights, receipts €24.3bn. September nights: Norte +6.6%, Centro and Grande Lisboa +2.8%; receipts are broader than accommodation revenue. | #9183 уже известен; обновление существующего URL, не новый материал.",
         "topics": [
           {
             "name": "Налоги для инвесторов",
-            "lastPublished": null,
+            "lastPublished": "2026-09-18",
             "status": "update_candidate",
-            "lastUrl": "https://internationalinvestment.biz/real-estate/9183-portugalija-peresmatrivaet-lgotu-po-nalogu-na-arendu.html",
+            "lastUrl": "https://internationalinvestment.biz/en/portugal/8830-portugal-approves-pension-bonus-and-income-tax-cuts.html",
             "articleId": "9183",
             "signalAt": "2026-11-24",
             "sourceUrl": "https://www.parlamento.pt/Paginas/2026/novembro/OE2027_debate-votacao-especialidade-final-globa-23-24nov.aspx",
@@ -5440,11 +5452,23 @@
             "trendRadarRef": "portugal-oe2027-final-vote-rental-tax-nov24-2026",
             "preparedAt": "2026-11-25",
             "publicationConfirmed": false,
-            "editorialNote": "RU/EN text prepared in earlier 25 Nov package; do not create a duplicate draft. CMS publication/update not verified in this run."
+            "editorialNote": "RU/EN text prepared in earlier 25 Nov package; do not create a duplicate draft. CMS publication/update not verified in this run.",
+            "coverageStatus": "stale",
+            "observedPublications": [
+              {
+                "country": "Португалия",
+                "name": "Налоги для инвесторов",
+                "title": "Португалия пересматривает льготу по налогу на аренду",
+                "articleId": "9183",
+                "url": "https://internationalinvestment.biz/real-estate/9183-portugalija-peresmatrivaet-lgotu-po-nalogu-na-arendu.html",
+                "basis": "URL уже в очереди Coverage; дата публикации требует проверки"
+              }
+            ],
+            "publicationCheck": "observed_not_date_verified"
           },
           {
             "name": "Туризм",
-            "lastPublished": null,
+            "lastPublished": "2026-10-21",
             "status": "new_candidate",
             "signalAt": "2026-11-20",
             "sourceUrl": "https://travelbi.turismodeportugal.pt/en/tourism-in-portugal/tourism-outlook-september-2026/",
@@ -5452,7 +5476,9 @@
             "trendRadarRef": "portugal-tourism-outlook-sep-nov20-2026",
             "preparedAt": "2026-11-25",
             "publicationConfirmed": false,
-            "editorialNote": "RU/EN text prepared in earlier 25 Nov package; do not create a duplicate draft. CMS publication/update not verified in this run."
+            "editorialNote": "RU/EN text prepared in earlier 25 Nov package; do not create a duplicate draft. CMS publication/update not verified in this run.",
+            "lastUrl": "https://internationalinvestment.biz/en/tourism/8966-portugal-picks-lufthansa-to-buy-449-of-tap.html",
+            "coverageStatus": "watch"
           }
         ],
         "signalAt": "2026-11-24",
@@ -5576,23 +5602,59 @@
       {
         "country": "Испания",
         "lastUpdate": "2026-11-23",
-        "priority": "high",
-        "reason": "INE 17 Nov September housing sales -13.4% YoY; new property-market story distinct from published #9152 short-term rental VAT. 23 Nov INE: October hotel ADR EUR130.4 (+7.9%), RevPAR EUR93.9 (+9.0%), 34.7m+ hotel nights (+1.6%).",
+        "priority": "watch",
+        "reason": "INE 17 Nov September housing sales -13.4% YoY; new property-market story distinct from published #9152 short-term rental VAT. 23 Nov INE: October hotel ADR EUR130.4 (+7.9%), RevPAR EUR93.9 (+9.0%), 34.7m+ hotel nights (+1.6%). | #9168 и #9177 уже переданы редактором как опубликованные ссылки; не планировать повторную новость по тому же релизу без проверки URL. #9193 наблюдается в Метрике.",
         "topics": [
           {
             "name": "Недвижимость",
             "lastPublished": "2026-11-18",
-            "status": "new_candidate"
+            "status": "covered_candidate",
+            "observedPublications": [
+              {
+                "country": "Испания",
+                "name": "Недвижимость",
+                "title": "Spanish home sales drop 13.4% in September",
+                "url": "https://internationalinvestment.biz/en/real-estate/9168-spanish-home-sales-drop-134-in-september.html",
+                "articleId": "9168",
+                "dateHint": "2026-11-18 (дата в прежней очереди, не подтверждена повторно)",
+                "basis": "URL предоставлен редактором; прежняя очередь Coverage содержит дату"
+              },
+              {
+                "country": "Испания",
+                "name": "Недвижимость",
+                "title": "Жилищные протесты в Испании: цены и новые правила аренды",
+                "articleId": "9193",
+                "basis": "Метрика 19–25.11: заголовок и ID страницы, полный URL обрезан"
+              }
+            ],
+            "publicationCheck": "observed_not_date_verified",
+            "editorialStatus": "verify_existing_url",
+            "lastUrl": "https://internationalinvestment.biz/en/real-estate/9168-spanish-home-sales-drop-134-in-september.html"
           },
           {
             "name": "Отели и гостиничный бизнес",
-            "lastPublished": null,
-            "status": "new_candidate"
+            "lastPublished": "2026-11-03",
+            "status": "covered_candidate",
+            "lastUrl": "https://internationalinvestment.biz/tourism/9177-gostinicy-ispanii-revpar-vyros-na-9.html",
+            "coverageStatus": "fresh",
+            "observedPublications": [
+              {
+                "country": "Испания",
+                "name": "Отели и гостиничный бизнес",
+                "title": "Гостиницы Испании: RevPAR вырос на 9%",
+                "url": "https://internationalinvestment.biz/tourism/9177-gostinicy-ispanii-revpar-vyros-na-9.html",
+                "articleId": "9177",
+                "basis": "URL предоставлен редактором; совпадает с темой INE за октябрь"
+              }
+            ],
+            "publicationCheck": "observed_not_date_verified",
+            "editorialStatus": "verify_existing_url"
           }
         ],
         "signalAt": "2026-11-23",
         "sourceUrl": "https://www.ine.es/dyngs/Prensa/CTH1026.htm",
-        "decision": "new"
+        "decision": "verify_existing_or_update",
+        "previousDecision": "new"
       },
       {
         "country": "Ирландия",
@@ -5667,7 +5729,7 @@
         "topics": [
           {
             "name": "Туризм",
-            "lastPublished": null,
+            "lastPublished": "2026-11-16",
             "status": "new_candidate",
             "signalAt": "2026-11-23",
             "sourceUrl": "https://www.bankofgreece.gr/en/news-and-media/press-office/news-list/news?announcement=b2377b1d-1d1e-4380-8f23-eeb3d9a45250",
@@ -5675,7 +5737,9 @@
             "trendRadarRef": "greece-travel-receipts-sep-nov23-2026",
             "preparedAt": "2026-11-25",
             "publicationConfirmed": false,
-            "editorialNote": "RU/EN text prepared in earlier 25 Nov package; do not create a duplicate draft. CMS publication/update not verified in this run."
+            "editorialNote": "RU/EN text prepared in earlier 25 Nov package; do not create a duplicate draft. CMS publication/update not verified in this run.",
+            "lastUrl": "https://internationalinvestment.biz/en/real-estate/9128-short-term-rental-rates-in-greece-rise-by-8.html",
+            "coverageStatus": "fresh"
           }
         ],
         "signalAt": "2026-11-23",
@@ -5778,9 +5842,9 @@
         "topics": [
           {
             "name": "Туризм",
-            "lastPublished": "2026-08-26",
+            "lastPublished": "2026-11-05",
             "status": "watch",
-            "lastUrl": "https://internationalinvestment.biz/en/tourism/8709-drought-dries-barenschutzklamm-waterfalls-in-austria.html",
+            "lastUrl": "https://internationalinvestment.biz/business/9048-vena-naraschivaet-turpotok-no-vyruchka-otelej-prosedaet.html",
             "editorialStatus": "draft_ready",
             "expectedReleaseAt": "2026-11-25",
             "sourceUrl": "https://www.statistik.at/statistiken/tourismus-und-verkehr/tourismus/beherbergung/ankuenfte-naechtigungen",
@@ -5797,13 +5861,14 @@
             "relatedRadarIds": [
               "austria-tourism",
               "austria-summer-tourism-oct-nov25-2026"
-            ]
+            ],
+            "coverageStatus": "fresh"
           },
           {
             "name": "Отели и гостиничный бизнес",
-            "lastPublished": "2026-08-25",
+            "lastPublished": "2026-11-05",
             "status": "urgent",
-            "lastUrl": "https://internationalinvestment.biz/en/austria/8707-vienna-leads-rentals-alpine-resorts-earn-more.html",
+            "lastUrl": "https://internationalinvestment.biz/business/9048-vena-naraschivaet-turpotok-no-vyruchka-otelej-prosedaet.html",
             "signalAt": "2026-11-25",
             "sourceUrl": "https://www.statistik.at/statistiken/tourismus-und-verkehr/tourismus/beherbergung/ankuenfte-naechtigungen",
             "editorialStatus": "draft_ready",
@@ -5819,7 +5884,8 @@
               "austria-tourism",
               "austria-summer-tourism-oct-nov25-2026"
             ],
-            "editorialNote": "RU/EN draft ready; exact CMS duplicate check pending."
+            "editorialNote": "RU/EN draft ready; exact CMS duplicate check pending.",
+            "coverageStatus": "fresh"
           }
         ],
         "decision": "new",
@@ -6554,16 +6620,19 @@
           },
           {
             "name": "Туризм",
-            "lastPublished": "2026-08-26",
-            "status": "urgent",
-            "lastUrl": "https://internationalinvestment.biz/en/tourism/8709-drought-dries-barenschutzklamm-waterfalls-in-austria.html",
-            "articleId": "8709",
-            "headline": "Drought Dries Bärenschützklamm Waterfalls in Austria",
+            "lastPublished": "2026-11-05",
+            "status": "fresh",
+            "lastUrl": "https://internationalinvestment.biz/business/9048-vena-naraschivaet-turpotok-no-vyruchka-otelej-prosedaet.html",
+            "articleId": "9048",
+            "headline": "Вена наращивает турпоток, но выручка отелей проседает",
             "languageUrls": {
-              "en": "https://internationalinvestment.biz/en/tourism/8709-drought-dries-barenschutzklamm-waterfalls-in-austria.html"
+              "en": "https://internationalinvestment.biz/en/business/9048-vienna-hotel-nights-rise-as-august-revenue-falls.html",
+              "he": "https://internationalinvestment.biz/he/business/9048-vina-magdila-tnuat-tayarut-akh-hakhnasot-yordot.html",
+              "ka": "https://internationalinvestment.biz/ka/business/9048-vena-turistul-nakads-zrdis-tumtsa-sastumroebis-shemosavali-mtsirdeba.html",
+              "ru": "https://internationalinvestment.biz/business/9048-vena-naraschivaet-turpotok-no-vyruchka-otelej-prosedaet.html"
             },
-            "matchCount": 2,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17",
+            "matchCount": 3,
+            "auditBasis": "Dated archive through 2026-11-17; cross-language title/ID reconciliation on 2026-11-25; no new full-page verification",
             "editorialSignal": {
               "signalAt": "2026-11-25",
               "title": "В Австрии за летний сезон — более 85 млн ночёвок",
@@ -6586,16 +6655,19 @@
           },
           {
             "name": "Отели и гостиничный бизнес",
-            "lastPublished": "2026-08-25",
-            "status": "urgent",
-            "lastUrl": "https://internationalinvestment.biz/en/austria/8707-vienna-leads-rentals-alpine-resorts-earn-more.html",
-            "articleId": "8707",
-            "headline": "Vienna Leads Rentals, Alpine Resorts Earn More",
+            "lastPublished": "2026-11-05",
+            "status": "fresh",
+            "lastUrl": "https://internationalinvestment.biz/business/9048-vena-naraschivaet-turpotok-no-vyruchka-otelej-prosedaet.html",
+            "articleId": "9048",
+            "headline": "Вена наращивает турпоток, но выручка отелей проседает",
             "languageUrls": {
-              "en": "https://internationalinvestment.biz/en/austria/8707-vienna-leads-rentals-alpine-resorts-earn-more.html"
+              "en": "https://internationalinvestment.biz/en/business/9048-vienna-hotel-nights-rise-as-august-revenue-falls.html",
+              "he": "https://internationalinvestment.biz/he/business/9048-vina-magdila-tnuat-tayarut-akh-hakhnasot-yordot.html",
+              "ka": "https://internationalinvestment.biz/ka/business/9048-vena-turistul-nakads-zrdis-tumtsa-sastumroebis-shemosavali-mtsirdeba.html",
+              "ru": "https://internationalinvestment.biz/business/9048-vena-naraschivaet-turpotok-no-vyruchka-otelej-prosedaet.html"
             },
-            "matchCount": 1,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17",
+            "matchCount": 2,
+            "auditBasis": "Dated archive through 2026-11-17; cross-language title/ID reconciliation on 2026-11-25; no new full-page verification",
             "editorialSignal": {
               "signalAt": "2026-11-25",
               "title": "В Австрии за летний сезон — более 85 млн ночёвок",
@@ -7523,7 +7595,18 @@
               "ru": "https://internationalinvestment.biz/real-estate/9108-rynok-nedvizhimosti-tbilisi-ceny-arenda-dohodnost.html"
             },
             "matchCount": 47,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17",
+            "observedPublications": [
+              {
+                "country": "Грузия",
+                "name": "Недвижимость",
+                "title": "Иностранные инвесторы на рынке недвижимости Грузии: обзор",
+                "articleId": "9192",
+                "basis": "Метрика 19–25.11: заголовок и грузинский URL; соответствие ID заголовку не установлено",
+                "url": "https://internationalinvestment.biz/ka/real-estate/9192-.html"
+              }
+            ],
+            "needsPublicationDateCheck": true
           },
           {
             "name": "Инвестиции",
@@ -7549,7 +7632,18 @@
               "en": "https://internationalinvestment.biz/en/tourism/9118-bike-and-wine-italian-journalists-tour-georgia.html"
             },
             "matchCount": 47,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17",
+            "observedPublications": [
+              {
+                "country": "Грузия",
+                "name": "Туризм",
+                "title": "Грузия стала партнером года по версии Trip.com Group",
+                "articleId": "9189",
+                "url": "https://internationalinvestment.biz/ka/tourism/9189-tripcom-group.html",
+                "basis": "Метрика 19–25.11: наблюдаемый URL и заголовок"
+              }
+            ],
+            "needsPublicationDateCheck": true
           },
           {
             "name": "Отели и гостиничный бизнес",
@@ -7747,21 +7841,21 @@
       },
       {
         "country": "Израиль",
-        "lastUpdate": "2026-10-12",
+        "lastUpdate": "2026-10-19",
         "topicCount": 5,
         "topics": [
           {
             "name": "Недвижимость",
-            "lastPublished": "2026-10-02",
-            "status": "stale",
-            "lastUrl": "https://internationalinvestment.biz/en/business/8890-mass-cancellations-of-new-build-home-deals-in-southern-israel.html",
-            "articleId": "8890",
-            "headline": "Mass cancellations of new-build home deals in southern Israel",
+            "lastPublished": "2026-10-19",
+            "status": "watch",
+            "lastUrl": "https://internationalinvestment.biz/en/real-estate/8965-apartment-prices-in-israel-fell-18-over-the-year.html",
+            "articleId": "8965",
+            "headline": "Apartment Prices in Israel Fell 1.8% Over the Year",
             "languageUrls": {
-              "en": "https://internationalinvestment.biz/en/business/8890-mass-cancellations-of-new-build-home-deals-in-southern-israel.html"
+              "en": "https://internationalinvestment.biz/en/real-estate/8965-apartment-prices-in-israel-fell-18-over-the-year.html"
             },
-            "matchCount": 11,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17",
+            "matchCount": 13,
+            "auditBasis": "Dated archive through 2026-11-17; cross-language title/ID reconciliation on 2026-11-25; no new full-page verification",
             "editorialSignal": {
               "title": "Банк Израиля сохранил ставку 3,25%, жильё дешевеет",
               "signalAt": "2026-11-23",
@@ -7788,7 +7882,16 @@
               ],
               "preparedAt": "2026-11-25",
               "editorialNote": "RU/EN draft ready; CMS deduplication pending. Publication status unchanged."
-            }
+            },
+            "observedPublications": [
+              {
+                "country": "Израиль",
+                "name": "Недвижимость",
+                "title": "Строительство в Израиле: кризис и прогноз цен на жилье",
+                "basis": "Метрика 19–25.11: наблюдаемый заголовок, ID не подтверждён"
+              }
+            ],
+            "needsPublicationDateCheck": true
           },
           {
             "name": "Инвестиции",
@@ -8210,7 +8313,7 @@
       {
         "country": "Испания",
         "lastUpdate": "2026-11-12",
-        "topicCount": 6,
+        "topicCount": 5,
         "topics": [
           {
             "name": "Недвижимость",
@@ -8223,7 +8326,26 @@
               "en": "https://internationalinvestment.biz/en/news/9078-madrid-to-build-1-billion-city-of-health-complex.html"
             },
             "matchCount": 9,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17",
+            "observedPublications": [
+              {
+                "country": "Испания",
+                "name": "Недвижимость",
+                "title": "Spanish home sales drop 13.4% in September",
+                "url": "https://internationalinvestment.biz/en/real-estate/9168-spanish-home-sales-drop-134-in-september.html",
+                "articleId": "9168",
+                "dateHint": "2026-11-18 (дата в прежней очереди, не подтверждена повторно)",
+                "basis": "URL предоставлен редактором; прежняя очередь Coverage содержит дату"
+              },
+              {
+                "country": "Испания",
+                "name": "Недвижимость",
+                "title": "Жилищные протесты в Испании: цены и новые правила аренды",
+                "articleId": "9193",
+                "basis": "Метрика 19–25.11: заголовок и ID страницы, полный URL обрезан"
+              }
+            ],
+            "needsPublicationDateCheck": true
           },
           {
             "name": "Инвестиции",
@@ -8240,29 +8362,46 @@
           },
           {
             "name": "Туризм",
-            "lastPublished": "2026-11-08",
+            "lastPublished": "2026-11-07",
             "status": "fresh",
-            "lastUrl": "https://internationalinvestment.biz/ka/tourism/9070-patara-sastumroebis-stumrebi-mzad-arian-nomrebi-binebze-gatsvalon.html",
-            "articleId": "9070",
-            "headline": "პატარა სასტუმროების სტუმრები მზად არიან ნომრები ბინებზე გაცვალონ",
+            "lastUrl": "https://internationalinvestment.biz/business/9063-wizz-air-zapuskaet-vnutrennie-rejsy-po-ispanii.html",
+            "articleId": "9063",
+            "headline": "Wizz Air запускает внутренние рейсы по Испании",
             "languageUrls": {
-              "ka": "https://internationalinvestment.biz/ka/tourism/9070-patara-sastumroebis-stumrebi-mzad-arian-nomrebi-binebze-gatsvalon.html"
+              "en": "https://internationalinvestment.biz/en/business/9063-wizz-air-launches-domestic-flights-in-spain.html",
+              "he": "https://internationalinvestment.biz/he/business/9063-wizz-air-meshika-tisot-pnim-be-sfarad.html",
+              "ka": "https://internationalinvestment.biz/ka/business/9063-wizz-air-espanetshi-shida-reisebs-itskebs.html",
+              "ru": "https://internationalinvestment.biz/business/9063-wizz-air-zapuskaet-vnutrennie-rejsy-po-ispanii.html"
             },
-            "matchCount": 6,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
+            "matchCount": 5,
+            "auditBasis": "Dated archive through 2026-11-17; cross-language title/ID reconciliation on 2026-11-25; no new full-page verification"
           },
           {
             "name": "Отели и гостиничный бизнес",
-            "lastPublished": "2026-11-08",
+            "lastPublished": "2026-11-03",
             "status": "fresh",
-            "lastUrl": "https://internationalinvestment.biz/ka/tourism/9070-patara-sastumroebis-stumrebi-mzad-arian-nomrebi-binebze-gatsvalon.html",
-            "articleId": "9070",
-            "headline": "პატარა სასტუმროების სტუმრები მზად არიან ნომრები ბინებზე გაცვალონ",
+            "lastUrl": "https://internationalinvestment.biz/en/news/9033-madridbarcelona-high-speed-rail-line-could-close-for-two-years.html",
+            "articleId": "9033",
+            "headline": "Madrid–Barcelona High-Speed Rail Line Could Close for Two Years",
             "languageUrls": {
-              "ka": "https://internationalinvestment.biz/ka/tourism/9070-patara-sastumroebis-stumrebi-mzad-arian-nomrebi-binebze-gatsvalon.html"
+              "en": "https://internationalinvestment.biz/en/news/9033-madridbarcelona-high-speed-rail-line-could-close-for-two-years.html",
+              "he": "https://internationalinvestment.biz/he/news/9033-madrid-barcelona-kav-harakevet-hamehira-leshnataim.html",
+              "ka": "https://internationalinvestment.biz/ka/news/9033-madridi-barselona-chqarosnuli-magistrali-sheidzleba-daiketos.html",
+              "ru": "https://internationalinvestment.biz/news/9033-madridbarselona-skorostnuju-magistral-mogut-zakryt-na-dva-goda.html"
             },
-            "matchCount": 3,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
+            "matchCount": 2,
+            "auditBasis": "Dated archive through 2026-11-17; cross-language title/ID reconciliation on 2026-11-25; no new full-page verification",
+            "observedPublications": [
+              {
+                "country": "Испания",
+                "name": "Отели и гостиничный бизнес",
+                "title": "Гостиницы Испании: RevPAR вырос на 9%",
+                "url": "https://internationalinvestment.biz/tourism/9177-gostinicy-ispanii-revpar-vyros-na-9.html",
+                "articleId": "9177",
+                "basis": "URL предоставлен редактором; совпадает с темой INE за октябрь"
+              }
+            ],
+            "needsPublicationDateCheck": true
           },
           {
             "name": "ВНЖ и миграция",
@@ -8279,16 +8418,9 @@
           },
           {
             "name": "Налоги для инвесторов",
-            "lastPublished": "2026-10-26",
-            "status": "watch",
-            "lastUrl": "https://internationalinvestment.biz/he/news/8997-sefarad-movila-be-igud-ha-eropi-be-gidul-ashrot-shehiya.html",
-            "articleId": "8997",
-            "headline": "ספרד מובילה באיחוד האירופי בגידול במספר הרוסים בעלי אשרת שהייה",
-            "languageUrls": {
-              "he": "https://internationalinvestment.biz/he/news/8997-sefarad-movila-be-igud-ha-eropi-be-gidul-ashrot-shehiya.html"
-            },
-            "matchCount": 1,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
+            "lastPublished": null,
+            "status": "unverified",
+            "auditBasis": "Invalid cross-language match removed; no verified replacement in available archive"
           },
           {
             "name": "Регулирование и правила для иностранных покупателей",
@@ -9455,7 +9587,18 @@
               "en": "https://internationalinvestment.biz/en/portugal/8830-portugal-approves-pension-bonus-and-income-tax-cuts.html"
             },
             "matchCount": 1,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17",
+            "observedPublications": [
+              {
+                "country": "Португалия",
+                "name": "Налоги для инвесторов",
+                "title": "Португалия пересматривает льготу по налогу на аренду",
+                "articleId": "9183",
+                "url": "https://internationalinvestment.biz/real-estate/9183-portugalija-peresmatrivaet-lgotu-po-nalogu-na-arendu.html",
+                "basis": "URL уже в очереди Coverage; дата публикации требует проверки"
+              }
+            ],
+            "needsPublicationDateCheck": true
           },
           {
             "name": "Регулирование и правила для иностранных покупателей",
@@ -11254,12 +11397,28 @@
       "uniqueArticleIds": 514,
       "countryScopedArticles": 396,
       "partialCrossCountryArticles": 71,
-      "limitations": "90+ day baseline retained from dated archive scans; 15–16 Nov increment verified directly in EN/RU. Absence from indexed search alone is not treated as proof of no historical coverage. | 25 Nov: reviewed country signals and compared 134 radar cards; direct incremental archives unavailable/stale, so lastPublished and all historical coverage statuses remain unchanged. Country-specific archive labels require recheck for #9048 (Vienna/Italy), #8965 and #8949 (Israel, multi-country classifications); no speculative correction. | 25 Nov second pack: four primary-source drafts verified and Poland held on secondary reports; no newly published CMS articles inferred.",
-      "seoDataStatus": "25 Nov GSC Wizard payment_required/subscription_required; no fresh GSC/GA4/Yandex metrics. Historical measured rows unchanged; qualitative intent only.",
+      "limitations": "90+ day baseline retained from dated archive scans; 15–16 Nov increment verified directly in EN/RU. Absence from indexed search alone is not treated as proof of no historical coverage. | 25 Nov: reviewed country signals and compared 134 radar cards; direct incremental archives unavailable/stale, so lastPublished and all historical coverage statuses remain unchanged. Country-specific archive labels require recheck for #9048 (Vienna/Italy), #8965 and #8949 (Israel, multi-country classifications); no speculative correction. | 25 Nov second pack: four primary-source drafts verified and Poland held on secondary reports; no newly published CMS articles inferred. | 25 Nov: reconciled archive IDs #9048, #9070, #8997, #8965, #8949; additional observed URLs/titles from user-provided links and Metrica PDF separately marked, exact dates unavailable. Direct dated archives and sitemap unavailable.",
+      "seoDataStatus": "GSC/GA4 last-good historical; Yandex Metrica PDF through 25 Nov, partial day; not Webmaster click/position data.",
       "corrections": [
         {
           "articleId": "9048",
           "note": "Vienna hotel article tagged Italy on EN site; classified as Austria in monitor based on article title."
+        },
+        {
+          "articleId": "8949",
+          "note": "Cross-language archive headline/ID reconciliation; full page not reverified."
+        },
+        {
+          "articleId": "8965",
+          "note": "Cross-language archive headline/ID reconciliation; full page not reverified."
+        },
+        {
+          "articleId": "8997",
+          "note": "Cross-language archive headline/ID reconciliation; full page not reverified."
+        },
+        {
+          "articleId": "9070",
+          "note": "Cross-language archive headline/ID reconciliation; full page not reverified."
         }
       ],
       "auditAt": "2026-11-17",
@@ -11797,6 +11956,68 @@
           }
         ]
       }
+    },
+    "publicationEvidence": {
+      "reviewedAt": "2026-11-25",
+      "status": "partial",
+      "archiveThrough": "2026-11-17",
+      "note": "Дополнительные материалы обнаружены в предоставленных ссылках редактора и PDF Яндекс Метрики. Точная дата публикации не подтверждена; не заменяем датированный архив и не считаем доказанным отсутствие материалов.",
+      "observations": [
+        {
+          "country": "Испания",
+          "name": "Недвижимость",
+          "title": "Spanish home sales drop 13.4% in September",
+          "url": "https://internationalinvestment.biz/en/real-estate/9168-spanish-home-sales-drop-134-in-september.html",
+          "articleId": "9168",
+          "dateHint": "2026-11-18 (дата в прежней очереди, не подтверждена повторно)",
+          "basis": "URL предоставлен редактором; прежняя очередь Coverage содержит дату"
+        },
+        {
+          "country": "Испания",
+          "name": "Отели и гостиничный бизнес",
+          "title": "Гостиницы Испании: RevPAR вырос на 9%",
+          "url": "https://internationalinvestment.biz/tourism/9177-gostinicy-ispanii-revpar-vyros-na-9.html",
+          "articleId": "9177",
+          "basis": "URL предоставлен редактором; совпадает с темой INE за октябрь"
+        },
+        {
+          "country": "Испания",
+          "name": "Недвижимость",
+          "title": "Жилищные протесты в Испании: цены и новые правила аренды",
+          "articleId": "9193",
+          "basis": "Метрика 19–25.11: заголовок и ID страницы, полный URL обрезан"
+        },
+        {
+          "country": "Грузия",
+          "name": "Недвижимость",
+          "title": "Иностранные инвесторы на рынке недвижимости Грузии: обзор",
+          "articleId": "9192",
+          "basis": "Метрика 19–25.11: заголовок и грузинский URL; соответствие ID заголовку не установлено",
+          "url": "https://internationalinvestment.biz/ka/real-estate/9192-.html"
+        },
+        {
+          "country": "Грузия",
+          "name": "Туризм",
+          "title": "Грузия стала партнером года по версии Trip.com Group",
+          "articleId": "9189",
+          "url": "https://internationalinvestment.biz/ka/tourism/9189-tripcom-group.html",
+          "basis": "Метрика 19–25.11: наблюдаемый URL и заголовок"
+        },
+        {
+          "country": "Израиль",
+          "name": "Недвижимость",
+          "title": "Строительство в Израиле: кризис и прогноз цен на жилье",
+          "basis": "Метрика 19–25.11: наблюдаемый заголовок, ID не подтверждён"
+        },
+        {
+          "country": "Португалия",
+          "name": "Налоги для инвесторов",
+          "title": "Португалия пересматривает льготу по налогу на аренду",
+          "articleId": "9183",
+          "url": "https://internationalinvestment.biz/real-estate/9183-portugalija-peresmatrivaet-lgotu-po-nalogu-na-arendu.html",
+          "basis": "URL уже в очереди Coverage; дата публикации требует проверки"
+        }
+      ]
     }
   },
   "dailyUpdate": {
