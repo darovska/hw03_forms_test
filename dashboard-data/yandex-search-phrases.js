@@ -4,10 +4,11 @@ var target=document.getElementById("ymPhraseBody"),buttons=[].slice.call(documen
 if(!target)return;
 function esc(t){return String(t===null||t===undefined?"":t).replace(/[&<>"']/g,function(c){return {"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]})}
 function fmt(v){return v==null?"—":Number(v).toLocaleString("ru-RU",{maximumFractionDigits:2})}
-fetch("/dashboard-data/growth-analytics.json?phrase=20261109",{cache:"no-store"}).then(function(res){if(!res.ok)throw Error("HTTP "+res.status);return res.json()}).then(function(d){
-var data=d.yandex_search_phrases_pdf;if(!data||!data.snapshots||data.snapshots.length!==3)throw Error("не найдены три среза");
+fetch("/dashboard-data/growth-analytics.json?phrase=latest",{cache:"no-store"}).then(function(res){if(!res.ok)throw Error("HTTP "+res.status);return res.json()}).then(function(d){
+var data=d.yandex_search_phrases_pdf;if(!data||!Array.isArray(data.snapshots)||!data.snapshots.length)throw Error("нет срезов");
+var windows=[7,31,92].map(function(days){return data.snapshots.filter(function(x){var n=(Date.parse(x.end)-Date.parse(x.start))/86400000+1;return days===7?n<=8:days===31?n>8&&n<=35:n>35&&n<=100}).sort(function(a,b){return b.end.localeCompare(a.end)})[0]});
 function draw(index){
-var a=data.snapshots[index],totalSrc=d.yandex_metrica_pdf&&d.yandex_metrica_pdf.snapshots[index],whole=totalSrc&&totalSrc.sources.search||totalSrc&&totalSrc.sources.search_rounded;
+var a=windows[index];if(!a){target.textContent="Нет измеренного среза";return}var totalSrc=d.yandex_metrica_pdf&&d.yandex_metrica_pdf.snapshots.find(function(x){return x.start===a.start&&x.end===a.end}),whole=totalSrc&&totalSrc.sources.search||totalSrc&&totalSrc.sources.search_rounded;
 buttons.forEach(function(b){b.classList.toggle("active",Number(b.dataset.phraseWindow)===index)});
 var period=a.start+" — "+a.end;
 var kpi='<div class="grid kpis">'+
@@ -21,6 +22,6 @@ var table='<div class="tableWrap" style="margin-top:12px;max-height:370px;overfl
 var warnings=a.quality_flags.map(esc).join(" ");
 target.innerHTML=kpi+'<div class="grid twoCol" style="margin-top:12px"><div><div class="chartTitle">Частые видимые фразы · '+esc(period)+'</div><div class="bars" style="margin-top:10px">'+chart+'</div></div><div class="note info"><b>SEO-применение:</b> сверить каждую фразу с её URL в Яндекс Вебмастере, проверить интент и обновить полезный контент. Данных позиций и CTR этот отчёт не содержит; рост после правок измерять по query→URL, вовлечённым визитам и конверсиям.</div></div>'+table+'<div class="note warn" style="margin-top:12px"><b>Ограничения:</b> '+warnings+'</div>';
 }
-buttons.forEach(function(x){x.addEventListener("click",function(){draw(Number(x.dataset.phraseWindow))})});draw(0);
+buttons.forEach(function(x){x.addEventListener("click",function(){draw(Number(x.dataset.phraseWindow))})});draw(2);
 }).catch(function(e){target.textContent="Не удалось прочитать поисковые фразы: "+e.message});
 })();
