@@ -9,8 +9,8 @@
       "ga4": "last_good_2026-10-12; GSC Wizard subscription_required 2026-11-25",
       "gsc": "last_good_2026-10-10; GSC Wizard subscription_required 2026-11-25",
       "yandex_webmaster": "last_good_2026-09-24",
-      "yandex_metrica_pdf": "new snapshot to 2026-11-09, daily point table unavailable",
-      "yandex_search_phrases_pdf": "first_party_snapshot_2026-11-09; distinct filtered query report, NOT GSC/Yandex Webmaster clicks"
+      "yandex_metrica_pdf": "PDF snapshots through 2026-11-25 (partial current day); previous snapshots retained; daily subset only",
+      "yandex_search_phrases_pdf": "PDF 2026-11-25, known phrases only; not Webmaster clicks"
     },
     "rules": [
       "Do not sum GA4 and Yandex Metrica",
@@ -7218,7 +7218,7 @@
   ],
   "yandex_metrica_pdf": {
     "source": "Яндекс Метрика, счетчик 51465680, Page 335139 (internationalinvestment.biz)",
-    "received_date": "2026-11-09",
+    "received_date": "2026-11-25",
     "scope": "100% sample; source charts are screenshots, NOT downloadable per-day records",
     "snapshots": [
       {
@@ -7357,12 +7357,161 @@
           "Сводные значения округлены в PDF, не трактовать как точные.",
           "Панель новых и вернувшихся посетителей 389 и 18 не сопоставима с 76,5 тыс. итога."
         ]
+      },
+      {
+        "start": "2026-11-19",
+        "end": "2026-11-25",
+        "period_label": "7 дней · 19–25.11",
+        "views": 6300,
+        "visits": 5027,
+        "visitors": 4838,
+        "duration_seconds": 36,
+        "depth": 1.25,
+        "bounce_pct": 59.24,
+        "comparisons_pct": {
+          "views": -48.64,
+          "visits": -50.73,
+          "visitors": -51.48,
+          "duration": 23.94,
+          "depth": 4.23,
+          "bounce": -12.45
+        },
+        "sources": {
+          "direct": 2785,
+          "search": 1769,
+          "referral": 138,
+          "internal": 47,
+          "social": 189
+        },
+        "quality_flags": [
+          "25 ноября — возможен неполный день; сравнения из PDF.",
+          "Панели URL повторяются в разных периодах; не использовать как независимые месячные рейтинги."
+        ]
+      },
+      {
+        "start": "2026-10-26",
+        "end": "2026-11-25",
+        "period_label": "≈30 дней · 26.10–25.11",
+        "views_rounded": 33700,
+        "visits_rounded": 25400,
+        "visitors_rounded": 24300,
+        "duration_seconds": 42,
+        "depth": 1.33,
+        "bounce_pct": 59.29,
+        "comparisons_pct": {
+          "views": 43.75,
+          "visits": 45.38,
+          "visitors": 47.56,
+          "duration": -8.96,
+          "depth": -1.12,
+          "bounce": 9.39
+        },
+        "sources": {
+          "direct_rounded": 14100,
+          "search": 7591,
+          "social": 1811,
+          "referral": 1063,
+          "recommendations": 617
+        },
+        "quality_flags": [
+          "25 ноября — возможен неполный день; сравнения из PDF.",
+          "Панели URL повторяются в разных периодах; не использовать как независимые месячные рейтинги."
+        ]
+      },
+      {
+        "start": "2026-08-26",
+        "end": "2026-11-25",
+        "period_label": "≈90 дней · 26.08–25.11",
+        "views": 83690,
+        "visits": 61382,
+        "visitors": 57838,
+        "duration_seconds": 46,
+        "depth": 1.36,
+        "bounce_pct": 51.48,
+        "sources": {
+          "search": 22916
+        },
+        "quality_flags": [
+          "25 ноября — возможен неполный день; сравнения из PDF.",
+          "Панели URL повторяются в разных периодах; не использовать как независимые месячные рейтинги.",
+          "Сводка по источникам: 61,0 тыс. визитов, 83,3 тыс. просмотров, 57,6 тыс. посетителей; детальный отчёт посещаемости даёт другие итоги. Не смешивать знаменатели."
+        ]
       }
-    ]
+    ],
+    "daily_observations_partial": [
+      {
+        "date": "2026-11-18",
+        "visits": 5423,
+        "visitors": 5403,
+        "views": 5742,
+        "bounce_pct": 91.94,
+        "duration_seconds": 8,
+        "depth": 1.06
+      },
+      {
+        "date": "2026-11-17",
+        "visits": 1382,
+        "visitors": 1356,
+        "views": 1711,
+        "bounce_pct": 68.74,
+        "duration_seconds": 30,
+        "depth": 1.24
+      },
+      {
+        "date": "2026-11-23",
+        "visits": 1123,
+        "visitors": 1108,
+        "views": 1225,
+        "bounce_pct": 71.95,
+        "duration_seconds": 17,
+        "depth": 1.09
+      },
+      {
+        "date": "2026-11-24",
+        "visits": 1035,
+        "visitors": 1008,
+        "views": 1269,
+        "bounce_pct": 64.25,
+        "duration_seconds": 43,
+        "depth": 1.23
+      }
+    ],
+    "search_engine_report": {
+      "start": "2026-08-26",
+      "end": "2026-11-25",
+      "visits": 22916,
+      "visitors": 21016,
+      "bounce_pct": 19.42,
+      "depth": 1.47,
+      "duration_seconds": 71,
+      "undefined_phrase_rows": [
+        [
+          "Google",
+          15040
+        ],
+        [
+          "Яндекс",
+          3741
+        ],
+        [
+          "Bing",
+          664
+        ],
+        [
+          "DuckDuckGo",
+          159
+        ],
+        [
+          "Yahoo!",
+          75
+        ]
+      ],
+      "note": "Строки с неопределённой фразой, не полные итоги поисковиков."
+    }
   },
   "yandex_search_phrases_pdf": {
     "source": "Яндекс Метрика, счётчик 51465680; отчёт «Поисковая фраза › Поисковая система»; последний значимый переход, 100% выборка",
-    "received_date": "2026-11-09",
+    "received_date": "2026-11-25",
     "status": "first-party screenshots of filtered/grouped search phrase report; not all search visits; cannot infer full query distribution or organic clicks/CTR",
     "snapshots": [
       {
@@ -7691,6 +7840,100 @@
           "3985 — агрегат отчёта поисковых фраз, а не 23900 всех органических визитов за период.",
           "«казтест на внж пробный»: 68 визитов при одном посетителе; возможно необычное повторное поведение — гипотеза для проверки, не вывод о ботах.",
           "В PDF видны только первые строки списка; набор не полон."
+        ]
+      },
+      {
+        "start": "2026-08-26",
+        "end": "2026-11-25",
+        "visits": 3193,
+        "visitors": 3049,
+        "bounce_pct": 16.97,
+        "depth": 1.15,
+        "duration_seconds": 47,
+        "phrases": [
+          [
+            "казтест на внж пробный",
+            45,
+            1,
+            0,
+            1.42,
+            451
+          ],
+          [
+            "ввп стран мира 2026",
+            20,
+            19,
+            20,
+            1.1,
+            31
+          ],
+          [
+            "в каких городах можно найти средневековые кварталы",
+            15,
+            15,
+            66.67,
+            1.33,
+            4
+          ],
+          [
+            "Сколько евреев в германии",
+            14,
+            14,
+            0,
+            1.36,
+            22
+          ],
+          [
+            "нужна ли виза для транзитного проезда через латвию украинцам",
+            9,
+            9,
+            100,
+            1,
+            0
+          ],
+          [
+            "ввп по странам 2026",
+            5,
+            5,
+            40,
+            1,
+            10
+          ],
+          [
+            "консульство украины в грузии",
+            5,
+            5,
+            0,
+            1,
+            80
+          ],
+          [
+            "мамисони кпп",
+            4,
+            4,
+            25,
+            1,
+            11
+          ],
+          [
+            "погранпункт мамисони",
+            4,
+            4,
+            25,
+            1.25,
+            39
+          ],
+          [
+            "когда кипр вступит в шенген",
+            3,
+            3,
+            0,
+            1,
+            15
+          ]
+        ],
+        "quality_flags": [
+          "Отчёт известных поисковых фраз, не полный поисковый трафик. 45 визитов по казтесту от одного посетителя."
         ]
       }
     ],
