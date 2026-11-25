@@ -1,39 +1,45 @@
 {
   "meta": {
-    "period": "17–23 ноября 2026",
-    "updatedAt": "23 ноября 2026",
+    "period": "19–25 ноября 2026",
+    "updatedAt": "25 ноября 2026",
     "reportUrl": "https://docs.google.com/document/d/1vEk5eZyMUy_KmLECe0tdNZEvDWDBIyxihwhjdMhLkCo/edit",
-    "editorialNote": "23 Nov: five sourced editorial candidates 18–20 Nov: EU tourism GVA, Eurostat construction, STR US hotel outlook, travel modes and debt holders. RU/EN drafts in single Doc; full visual production and complete site deduplication pending. No fresh GSC metrics loaded. | 23 Nov revision: 5 expanded RU/EN narratives, 11 Google Docs tables, 5 verified charts, 5 illustrated covers, clickable sources. Previous draft archived at https://docs.google.com/document/d/1j4jdX-Il2j5KlF34UiFbpSHod9oPCPGvj-Hl9J1MOdI/edit | 23 Nov operational radar refresh: four additional primary-source cards (INE hotels, ECB housing risks, Eurostat fuel prices and mobility watch), 2 SEO clusters, old period archived. New full-text report not produced; reportLink retains existing 16–22 Nov complete weekly Doc. GSC Wizard subscription_required confirmed; 10 Oct measured SEO rows retained.",
+    "editorialNote": "23 Nov: five sourced editorial candidates 18–20 Nov: EU tourism GVA, Eurostat construction, STR US hotel outlook, travel modes and debt holders. RU/EN drafts in single Doc; full visual production and complete site deduplication pending. No fresh GSC metrics loaded. | 23 Nov revision: 5 expanded RU/EN narratives, 11 Google Docs tables, 5 verified charts, 5 illustrated covers, clickable sources. Previous draft archived at https://docs.google.com/document/d/1j4jdX-Il2j5KlF34UiFbpSHod9oPCPGvj-Hl9J1MOdI/edit | 23 Nov operational radar refresh: four additional primary-source cards (INE hotels, ECB housing risks, Eurostat fuel prices and mobility watch), 2 SEO clusters, old period archived. New full-text report not produced; reportLink retains existing 16–22 Nov complete weekly Doc. GSC Wizard subscription_required confirmed; 10 Oct measured SEO rows retained. | 25 Nov: operational story-selection update (5 new leads, 1 existing Portugal URL refresh, 1 watch). Full previous report remains linked; no new full bilingual article pack requested/created in this run. Recent site index stale; do not re-import already-covered CMS articles.",
     "consolidatedDocUrl": "https://docs.google.com/document/d/1vEk5eZyMUy_KmLECe0tdNZEvDWDBIyxihwhjdMhLkCo/edit",
     "weeklyFinalDocUrl": "https://docs.google.com/document/d/1vEk5eZyMUy_KmLECe0tdNZEvDWDBIyxihwhjdMhLkCo/edit",
     "additionalViralBriefUrl": "https://docs.google.com/document/d/1noak5K9VJW3EaN1FZ9yRM_eoMe9cMRiXNPlOC6unumk/edit",
     "sourceAudit": {
-      "window": "2026-11-17/2026-11-23",
-      "updatedAt": "2026-11-23",
+      "window": "2026-11-19/2026-11-25",
+      "updatedAt": "2026-11-25",
       "verifiedPrimarySources": [
-        "Туризм обеспечивает 10,1% добавленной стоимости ЕС — https://transport.ec.europa.eu/news-events/news/eu-tourism-dashboard-update-confirms-tourism-sectors-economic-impact-2026-11-18_en",
-        "Строительное производство в ЕС снизилось на 1,4% — https://ec.europa.eu/eurostat/web/products-euro-indicators/w/4-19112026-ap",
-        "STR: рост RevPAR отелей США замедлится до 2,7% — https://www.costar.com/products/str-benchmark/resources/data-insights-blog/us-hotel-forecast-assumptions-q4-2026",
-        "Eurostat: авиаперелёты составили 17,2% поездок европейцев — https://ec.europa.eu/eurostat/en/web/products-eurostat-news/w/ddn-20261119-2",
-        "Eurostat: кто владеет государственным долгом стран ЕС — https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20261120-1",
-        "INE, Испания, гостиничные ночёвки / ADR / RevPAR, 23 Nov — https://www.ine.es/dyngs/Prensa/CTH1026.htm",
-        "ЕЦБ, ноябрьский Financial Stability Review, рынок жилья, 18 Nov — https://www.ecb.europa.eu/press/financial-stability-publications/fsr/focus/2026/html/ecb.fsrbox202611_01~8b6869f30f.da.html",
-        "Eurostat, индекс цен на топливо и смазочные материалы, 23 Nov — https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20261123-2",
-        "Eurostat, основной вид транспорта жителей ЕС, 23 Nov — https://ec.europa.eu/eurostat/en/web/products-eurostat-news/w/ddn-20261123-1"
+        "Assembleia da República — календарь голосования — https://www.parlamento.pt/Paginas/2026/novembro/OE2027_debate-votacao-especialidade-final-globa-23-24nov.aspx",
+        "RTP — итог голосования и изменения 24.11.2026 — https://www.rtp.pt/noticias/politica/proposta-de-orcamento-do-estado-para-2027-aprovada-em-votacao-final-global_e1781227",
+        "ECO — принятые изменения бюджета — https://eco.sapo.pt/2026/11/24/da-garantia-publica-ao-arrendamento-as-carreiras-da-funcao-publica-o-que-muda-no-orcamento/",
+        "INSEE/Notaires 24 Nov 2026 — EN — https://www.insee.fr/en/statistiques/9156671",
+        "INSEE/Notaires — FR, tables — https://www.insee.fr/fr/statistiques/9149846",
+        "UK Parliament — Bill 4331 — https://bills.parliament.uk/bills/4331",
+        "MHCLG — press release — https://www.gov.uk/government/news/historic-move-to-dismantle-leasehold-and-transform-homeownership",
+        "MHCLG — implementation timeline — https://www.gov.uk/government/consultations/moving-to-commonhold-banning-leasehold-for-new-flats/outcome/moving-to-commonhold-banning-leasehold-for-new-flats-summary-of-consultation-responses-and-uk-government-response",
+        "Bank of Greece, travel services 23 Nov — https://www.bankofgreece.gr/en/news-and-media/press-office/news-list/news?announcement=b2377b1d-1d1e-4380-8f23-eeb3d9a45250",
+        "Bank of Greece, August comparison — https://www.bankofgreece.gr/en/news-and-media/press-office/news-list/news?announcement=7cc5e35f-f2ce-46c9-9ae1-9932edfaec40",
+        "Turismo de Portugal/TravelBI, 20 Nov — https://travelbi.turismodeportugal.pt/en/tourism-in-portugal/tourism-outlook-september-2026/",
+        "CoStar/STR Canada 19 Nov — https://www.costar.com/fr-ca/can/produits/str-benchmark/ressources/communiques-de-presse/canada-hotels-report-10-consecutive-months-revpar-growth",
+        "CoStar/STR September — https://www.costar.com/products/str-benchmark/resources/press-releases/canada-hotels-report-largest-occupancy-and-revpar"
       ],
       "monitoredWithoutNewConfirmedLead": [
-        "Eurostat release calendar checked on 23 Nov; publication dates separated from schedule display dates.",
-        "TravelDailyNews / Skift / CoStar: targeted November headline searches only, not exhaustive site-by-site audit.",
-        "Other monitoringSources and national statistical sources: not comprehensively checked this run."
+        "Eurostat calendar: Housing in Europe 2026 edition scheduled 25 Nov, actual release not confirmed; seasonality scheduled 26–27 Nov (calendar display dates can differ).",
+        "TravelDailyNews hospitality: 23–24 Nov headlines checked; CoStar US hotel forecast duplicates existing 20 Nov radar card, Canada October release verified.",
+        "Skift, UN Tourism, national statistical offices (Spain, Georgia, Cyprus, Türkiye, Portugal, UK, France, Greece) targeted search only; no comprehensive source-by-source audit.",
+        "Eurostat business profit share 39.8% in 2025 (24 Nov) noted, lower priority than property and hospitality leads."
       ],
       "blockedSources": [
-        "GSC Wizard Primary and GSC Wizard connections returned payment_required / subscription_required on 23 Nov 2026; no fresh GA4 or GSC figures loaded."
+        "25 Nov: GSC Wizard Primary payment_required / subscription_required. No new GSC/GA4 or Yandex data loaded.",
+        "Current public site snapshot is stale; URL 9183 returned cache miss; full anonymous deduplication unavailable. Existing CMS verification from previous session used only to exclude known duplicates."
       ],
-      "publicationAudit": "Partial: searched selected II RU/EN title/number/topic combinations and compared 123 existing radar cards; full CMS/site archive reconciliation still pending.",
-      "seoAccess": "Subscription_required (both available GSC Wizard accounts). Historical 10 Oct source metrics preserved."
+      "publicationAudit": "Partial: compared current 127 radar cards, previous CMS batch IDs 9177–9186, targeted searches against RU/EN site. Do not claim absence of duplicates; reconcile the latest CMS archive before new URLs.",
+      "seoAccess": "25 Nov GSC Wizard trial ended/subscription_required; historical query rows measured 10 Oct retained. Qualitative SEO priorities only."
     },
-    "latestDailyUpdateDate": "2026-11-23",
-    "nextEditorialPlanDate": "2026-11-24"
+    "latestDailyUpdateDate": "2026-11-25",
+    "nextEditorialPlanDate": "2026-11-26"
   },
   "categories": [
     "Все",
@@ -45,13 +51,200 @@
   ],
   "trends": [
     {
+      "id": "portugal-oe2027-final-vote-rental-tax-nov24-2026",
+      "title": "Португалия одобрила бюджет с отменой льготы для арендодателей",
+      "category": "Регулирование",
+      "priority": "urgent",
+      "status": "update_candidate",
+      "decision": "update_existing",
+      "editorialUrgency": "5/5 — ГОРИТ (24h) / UPDATE",
+      "publishedAt": "2026-11-24",
+      "verifiedOn": "2026-11-25",
+      "signal": "Парламент одобрил бюджет OE2027 24 ноября. В принятую парламентом редакцию включена отмена льготной ставки IRS 10% на умеренную аренду жилья до €2300 в месяц. По данным RTP/ECO, предполагается прекращение льготы в 2027; окончательное опубликование, дата применения и переходные правила требуют сверки с Diário da República. Другие режимы аренды оценивать отдельно.",
+      "why": "Новый правовой этап после предыдущей статьи о поправке. Срочная актуализация вместо конкурирующего URL.",
+      "editorialAngle": "Обновить заголовок, лид и FAQ статьи №9183: бюджет принят парламентом, льгота подлежит отмене; отдельно объяснить промульгацию и опубликование.",
+      "seoAngle": "Португалия налог на аренду 2027; Portugal rental income tax 10% repeal; OE2027 moderate rents; IRS Portugal landlords",
+      "sources": [
+        {
+          "label": "Assembleia da República — календарь голосования",
+          "url": "https://www.parlamento.pt/Paginas/2026/novembro/OE2027_debate-votacao-especialidade-final-globa-23-24nov.aspx"
+        },
+        {
+          "label": "RTP — итог голосования и изменения 24.11.2026",
+          "url": "https://www.rtp.pt/noticias/politica/proposta-de-orcamento-do-estado-para-2027-aprovada-em-votacao-final-global_e1781227"
+        },
+        {
+          "label": "ECO — принятые изменения бюджета",
+          "url": "https://eco.sapo.pt/2026/11/24/da-garantia-publica-ao-arrendamento-as-carreiras-da-funcao-publica-o-que-muda-no-orcamento/"
+        }
+      ],
+      "publishedCoverage": {
+        "ru": "https://internationalinvestment.biz/real-estate/9183-portugalija-peresmatrivaet-lgotu-po-nalogu-na-arendu.html",
+        "en": "https://internationalinvestment.biz/en/real-estate/9183-portugal-reconsiders-its-10-rental-income-tax-relief.html",
+        "articleId": "9183",
+        "verification": "URL из предыдущей подтвержденной CMS-сверки; текущий анонимный fetch cache miss; новый правовой текст не внесен в CMS."
+      }
+    },
+    {
+      "id": "insee-france-existing-housing-q3-nov24-2026",
+      "title": "Во Франции ускорилось падение цен на вторичное жильё",
+      "category": "Недвижимость",
+      "priority": "urgent",
+      "status": "new_candidate",
+      "decision": "new_article",
+      "editorialUrgency": "5/5 — ГОРИТ (24h) / NEW",
+      "publishedAt": "2026-11-24",
+      "verifiedOn": "2026-11-25",
+      "signal": "INSEE/Notaires, Q3 2026 provisional, France excluding Mayotte: existing-home prices -1.2% YoY vs -0.8% Q2 and 0.0% Q1; flats -1.0%, houses -1.3% YoY. Seasonally adjusted quarter-on-quarter -0.3% vs -1.0% Q2. 956,000 transactions in rolling 12 months ending September vs 959,000 ending June.",
+      "why": "Official transaction-based national index, fresh quarter with faster annual decline and broadly stable sales volume since early 2026.",
+      "editorialAngle": "Почему годовое снижение ускорилось, хотя квартальное смягчилось; сравнить квартиры и дома, динамику сделок, условия для покупателей без прогноза цен.",
+      "seoAngle": "France house prices Q3 2026; недвижимость Франции 2026; вторичный рынок Франции INSEE; цены домов и квартир",
+      "sources": [
+        {
+          "label": "INSEE/Notaires 24 Nov 2026 — EN",
+          "url": "https://www.insee.fr/en/statistiques/9156671"
+        },
+        {
+          "label": "INSEE/Notaires — FR, tables",
+          "url": "https://www.insee.fr/fr/statistiques/9149846"
+        }
+      ],
+      "publishedCoverage": "Новый квартальный релиз не найден среди 127 текущих карточек; выборочный RU/EN поиск не выявил точного дубликата. Индекс сайта устарел, полная сверка CMS обязательна перед созданием URL."
+    },
+    {
+      "id": "england-wales-commonhold-leasehold-reform-nov19-2026",
+      "title": "Англия и Уэльс готовятся отказаться от leasehold",
+      "category": "Регулирование",
+      "priority": "high",
+      "status": "new_candidate",
+      "decision": "new_article",
+      "editorialUrgency": "4/5 — ВЫСОКИЙ (48h) / NEW",
+      "publishedAt": "2026-11-19",
+      "verifiedOn": "2026-11-25",
+      "signal": "Commonhold and Leasehold Reform Bill introduced 19 Nov, Commons first reading. Government proposes £250 annual ground-rent cap, peppercorn after 40 years; 50% qualifying leaseholders threshold for conversion; restriction on new leasehold flats and transition to commonhold. Ground rent cap intended 6 months after Royal Assent, expected in 2028; most new-flat ban planned around 2031 subject to legislation and exemptions. England and Wales only; bill is not law.",
+      "why": "Structural change to ownership rights, ground rent and property purchase checks; strong durable search and AI-answer potential.",
+      "editorialAngle": "Разобрать leasehold, freehold и commonhold, очередность реформ, действующие договоры и новостройки, сервисные платежи; не выдавать проект за закон.",
+      "seoAngle": "leasehold reform bill 2026; commonhold vs leasehold; UK ground rent cap £250; покупка квартиры Англия Уэльс",
+      "sources": [
+        {
+          "label": "UK Parliament — Bill 4331",
+          "url": "https://bills.parliament.uk/bills/4331"
+        },
+        {
+          "label": "MHCLG — press release",
+          "url": "https://www.gov.uk/government/news/historic-move-to-dismantle-leasehold-and-transform-homeownership"
+        },
+        {
+          "label": "MHCLG — implementation timeline",
+          "url": "https://www.gov.uk/government/consultations/moving-to-commonhold-banning-leasehold-for-new-flats/outcome/moving-to-commonhold-banning-leasehold-for-new-flats-summary-of-consultation-responses-and-uk-government-response"
+        }
+      ],
+      "publishedCoverage": "Новый законопроект отсутствует среди текущих карточек. Выборочный поиск не выявил точного совпадения, но индекс сайта устарел; проверить CMS."
+    },
+    {
+      "id": "greece-travel-receipts-sep-nov23-2026",
+      "title": "Греция заработала на туристах почти €22 млрд",
+      "category": "Туризм",
+      "priority": "high",
+      "status": "new_candidate",
+      "decision": "new_article",
+      "editorialUrgency": "4/5 — ВЫСОКИЙ (48h) / NEW",
+      "publishedAt": "2026-11-23",
+      "verifiedOn": "2026-11-25",
+      "signal": "Bank of Greece provisional September 2026: travel receipts €3,760.6m (+11.1% YoY), inbound travellers 5.7161m (+0.6%), average expenditure per trip +10.2%. Jan–Sep receipts €21,958.1m (+9.7%), travellers 34.2254m (+8.3%). September German receipts +48.6%, UK -15.2%, US -15.1%; expenditure is travel receipts, not hotel room revenue; cruise exclusion as stated by source.",
+      "why": "New release reverses August spending-per-trip contraction; strong source-market comparison and travel investment implications.",
+      "editorialAngle": "Доходы растут быстрее потока, как изменились расходы туристов и роль Германии, Великобритании и США. Сопоставить августовскую карточку.",
+      "seoAngle": "Greece tourism receipts September 2026; туризм Греция 2026 доходы; Bank of Greece travel balance",
+      "sources": [
+        {
+          "label": "Bank of Greece, travel services 23 Nov",
+          "url": "https://www.bankofgreece.gr/en/news-and-media/press-office/news-list/news?announcement=b2377b1d-1d1e-4380-8f23-eeb3d9a45250"
+        },
+        {
+          "label": "Bank of Greece, August comparison",
+          "url": "https://www.bankofgreece.gr/en/news-and-media/press-office/news-list/news?announcement=7cc5e35f-f2ce-46c9-9ae1-9932edfaec40"
+        }
+      ],
+      "publishedCoverage": "Отдельный сентябрьский релиз; в радаре есть августовский материал, точного сентябрьского дубля выборочный поиск не выявил; CMS сверить."
+    },
+    {
+      "id": "portugal-tourism-outlook-sep-nov20-2026",
+      "title": "Туризм принёс Португалии €24,3 млрд за девять месяцев",
+      "category": "Туризм",
+      "priority": "medium",
+      "status": "new_candidate",
+      "decision": "new_article",
+      "editorialUrgency": "3/5 — НА НЕДЕЛЕ / NEW",
+      "publishedAt": "2026-11-20",
+      "verifiedOn": "2026-11-25",
+      "signal": "Turismo de Portugal/INE/Banco de Portugal: September accommodation 3.4m guests (+2.5% YoY), 8.7m nights (+2.0%); travel receipts €3.3bn (+3.9%). Jan–Sep 25.8m guests, 66.0m nights, receipts €24.3bn. September nights: Norte +6.6%, Centro and Grande Lisboa +2.8%; receipts are broader than accommodation revenue.",
+      "why": "Official monthly synthesis provides destination and source-market data for hospitality investment.",
+      "editorialAngle": "Сравнить географию ночёвок, туристические поступления и рынки происхождения; отделить гостиничные показатели от платёжного баланса.",
+      "seoAngle": "Portugal tourism September 2026; туризм Португалия статистика 2026; Portugal hotel nights revenue",
+      "sources": [
+        {
+          "label": "Turismo de Portugal/TravelBI, 20 Nov",
+          "url": "https://travelbi.turismodeportugal.pt/en/tourism-in-portugal/tourism-outlook-september-2026/"
+        }
+      ],
+      "publishedCoverage": "Точный релиз не найден в текущем радаре; выборочный поиск сайта не выявил совпадения; требуется CMS-сверка."
+    },
+    {
+      "id": "costar-canada-hotels-oct-nov19-2026",
+      "title": "Гостиничный RevPAR Канады растёт десятый месяц подряд",
+      "category": "Туризм",
+      "priority": "medium",
+      "status": "new_candidate",
+      "decision": "new_article",
+      "editorialUrgency": "3/5 — НА НЕДЕЛЕ / NEW",
+      "publishedAt": "2026-11-19",
+      "verifiedOn": "2026-11-25",
+      "signal": "CoStar October 2026: occupancy 71.4% (+2.4% relative YoY), ADR CAD227.75 (+6.5%), RevPAR CAD162.61 (+9.0%); tenth consecutive month of annual ADR and RevPAR growth. Manitoba RevPAR +22.6% to CAD151.37; Nova Scotia ADR +12.5% to CAD236.09.",
+      "why": "New month following September's 14.0% RevPAR growth; regional comparison for hotel investment.",
+      "editorialAngle": "Сравнить октябрь и сентябрь, Манитобу и другие провинции, динамику цен и загрузки; RevPAR не чистая доходность.",
+      "seoAngle": "Canada hotel RevPAR October 2026; гостиничный рынок Канады; hotel performance Manitoba Nova Scotia",
+      "sources": [
+        {
+          "label": "CoStar/STR Canada 19 Nov",
+          "url": "https://www.costar.com/fr-ca/can/produits/str-benchmark/ressources/communiques-de-presse/canada-hotels-report-10-consecutive-months-revpar-growth"
+        },
+        {
+          "label": "CoStar/STR September",
+          "url": "https://www.costar.com/products/str-benchmark/resources/press-releases/canada-hotels-report-largest-occupancy-and-revpar"
+        }
+      ],
+      "publishedCoverage": "Предыдущий сентябрьский релиз есть в радаре. Октябрь — новый набор данных, точный дубликат не найден при выборочном поиске; проверить CMS."
+    },
+    {
+      "id": "eurostat-housing-in-europe-2026-edition-watch-nov25",
+      "title": "Eurostat: новый ежегодник Housing in Europe 2026",
+      "category": "Недвижимость",
+      "priority": "medium",
+      "status": "watch",
+      "decision": "watch",
+      "editorialUrgency": "1/5 — НАБЛЮДАТЬ / HOLD",
+      "publishedAt": "2026-11-25",
+      "verifiedOn": "2026-11-25",
+      "signal": "Календарь Eurostat указывает выпуск Housing in Europe 2026 edition 25 ноября. На момент проверки сам новый релиз не найден. Не использовать цифры предыдущего ежегодника как новые.",
+      "why": "Сильный потенциальный сравнительный evergreen материал по доступности, ценам, арендным расходам и строительству.",
+      "editorialAngle": "После выхода сверить таблицы стран, единицы и версии рядов; проверить существующие статьи по доступности жилья.",
+      "seoAngle": "Housing in Europe 2026 Eurostat; стоимость и доступность жилья ЕС; аренда и расходы на жильё",
+      "sources": [
+        {
+          "label": "Eurostat release calendar",
+          "url": "https://ec.europa.eu/eurostat/en/news/release-calendar"
+        }
+      ],
+      "publishedCoverage": "WATCH, а не готовая статья; дата релиза в календаре не подтверждает публикацию."
+    },
+    {
       "id": "ine-spain-hotel-october-nov23-2026",
       "title": "Отели Испании: RevPAR вырос на 9% в октябре",
       "category": "Отели и гостиничный бизнес",
       "priority": "urgent",
-      "status": "new_candidate",
-      "decision": "new_article",
-      "editorialUrgency": "5/5 — ГОРИТ / NEW",
+      "status": "covered",
+      "decision": "covered_published",
+      "editorialUrgency": "2/5 — ОБНОВИТЬ ПРИ НОВЫХ ДАННЫХ",
       "publishedAt": "2026-11-23",
       "verifiedOn": "2026-11-23",
       "trendStrength": 5,
@@ -67,16 +260,19 @@
           "url": "https://www.ine.es/dyngs/Prensa/CTH1026.htm"
         }
       ],
-      "publishedCoverage": "Точечный поиск II RU/EN не выявил точного материала по октябрьскому INE; общий аудит публикаций перед CMS необходим."
+      "publishedCoverage": {
+        "articleId": "9177",
+        "verification": "Материал уже перенесён в CMS в предыдущей редакционной сессии; независимая текущая гостевая проверка не выполнена. Исключить из очереди новых статей."
+      }
     },
     {
       "id": "ecb-rre-divergence-nov18-2026",
       "title": "ЕЦБ: ипотечный кредит усиливает риски рынка жилья",
       "category": "Недвижимость",
       "priority": "high",
-      "status": "new_candidate",
-      "decision": "new_article",
-      "editorialUrgency": "4/5 — ВЫСОКИЙ / NEW",
+      "status": "covered",
+      "decision": "covered_published",
+      "editorialUrgency": "2/5 — ОБНОВИТЬ ПРИ НОВЫХ ДАННЫХ",
       "publishedAt": "2026-11-18",
       "verifiedOn": "2026-11-23",
       "trendStrength": 4,
@@ -96,16 +292,19 @@
           "url": "https://www.ecb.europa.eu/press/financial-stability-publications/fsr/html/index.en.html"
         }
       ],
-      "publishedCoverage": "Выборочный поиск II RU/EN: точный дубликат данного анализа не подтверждён; полная сверка CMS не выполнена."
+      "publishedCoverage": {
+        "articleId": "9180",
+        "verification": "Материал уже перенесён в CMS в предыдущей редакционной сессии; независимая текущая гостевая проверка не выполнена. Исключить из очереди новых статей."
+      }
     },
     {
       "id": "eurostat-eu-fuel-hicp-oct23nov-2026",
       "title": "Топливо для личного транспорта в ЕС подорожало на 29,5%",
       "category": "Туризм и путешествия",
       "priority": "high",
-      "status": "new_candidate",
-      "decision": "new_article",
-      "editorialUrgency": "4/5 — ВЫСОКИЙ / NEW",
+      "status": "covered",
+      "decision": "covered_published",
+      "editorialUrgency": "2/5 — ОБНОВИТЬ ПРИ НОВЫХ ДАННЫХ",
       "publishedAt": "2026-11-23",
       "verifiedOn": "2026-11-23",
       "trendStrength": 4,
@@ -121,7 +320,10 @@
           "url": "https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20261123-2"
         }
       ],
-      "publishedCoverage": "Точечный поиск II по релизу не дал точного совпадения; проверка всей базы перед публикацией остаётся."
+      "publishedCoverage": {
+        "articleId": "9179",
+        "verification": "Материал уже перенесён в CMS в предыдущей редакционной сессии; независимая текущая гостевая проверка не выполнена. Исключить из очереди новых статей."
+      }
     },
     {
       "id": "eurostat-main-transport-mode-nov23-2026",
@@ -176,9 +378,9 @@
       "title": "Eurostat: авиаперелёты составили 17,2% поездок европейцев",
       "category": "Туризм и путешествия",
       "priority": "high",
-      "status": "new_candidate",
-      "decision": "new_article",
-      "editorialUrgency": "4/5 — ВЫСОКИЙ / NEW",
+      "status": "covered",
+      "decision": "covered_published",
+      "editorialUrgency": "2/5 — ОБНОВИТЬ ПРИ НОВЫХ ДАННЫХ",
       "publishedAt": "2026-11-19",
       "verifiedOn": "2026-11-23",
       "signal": "EU residents made 1.2bn tourism trips in 2025; land 81.4%, air 17.2%, waterways 1.4%; cars 63.3%.",
@@ -191,7 +393,10 @@
           "url": "https://ec.europa.eu/eurostat/en/web/products-eurostat-news/w/ddn-20261119-2"
         }
       ],
-      "publishedCoverage": "Publication deduplication incomplete; check II RU/EN before CMS publishing",
+      "publishedCoverage": {
+        "articleId": "9181",
+        "verification": "Материал уже перенесён в CMS в предыдущей редакционной сессии; независимая текущая гостевая проверка не выполнена. Исключить из очереди новых статей."
+      },
       "reportUrl": "https://docs.google.com/document/d/1vEk5eZyMUy_KmLECe0tdNZEvDWDBIyxihwhjdMhLkCo/edit"
     },
     {
@@ -222,9 +427,9 @@
       "title": "Строительное производство в ЕС снизилось на 1,4%",
       "category": "Недвижимость",
       "priority": "urgent",
-      "status": "new_candidate",
-      "decision": "new_article",
-      "editorialUrgency": "5/5 — ГОРИТ / NEW",
+      "status": "covered",
+      "decision": "covered_published",
+      "editorialUrgency": "2/5 — ОБНОВИТЬ ПРИ НОВЫХ ДАННЫХ",
       "publishedAt": "2026-11-19",
       "verifiedOn": "2026-11-23",
       "signal": "Eurostat September 2026 construction output EU -1.4% YoY, euro area -1.5%; EU -0.5% MoM, euro area +0.1%; Spain -9.7% YoY, Romania +13.1%.",
@@ -237,7 +442,10 @@
           "url": "https://ec.europa.eu/eurostat/web/products-euro-indicators/w/4-19112026-ap"
         }
       ],
-      "publishedCoverage": "Publication deduplication incomplete; check II RU/EN before CMS publishing",
+      "publishedCoverage": {
+        "articleId": "9178",
+        "verification": "Материал уже перенесён в CMS в предыдущей редакционной сессии; независимая текущая гостевая проверка не выполнена. Исключить из очереди новых статей."
+      },
       "reportUrl": "https://docs.google.com/document/d/1vEk5eZyMUy_KmLECe0tdNZEvDWDBIyxihwhjdMhLkCo/edit"
     },
     {
@@ -3598,6 +3806,22 @@
     {
       "title": "Еврозона: цены на жильё и ипотечные риски",
       "description": "Сравнения национальных рынков, условия ипотечного предложения, долг домохозяйств, оценка кредитных рисков ЕЦБ, подтверждённые первичными данными."
+    },
+    {
+      "title": "Франция: вторичный рынок и нотариальные сделки",
+      "description": "INSEE/Notaires Q3 2026: квартальные и годовые индексы, квартиры и дома, число зарегистрированных сделок; отличать существующее жильё от новостроек."
+    },
+    {
+      "title": "Англия и Уэльс: leasehold и commonhold",
+      "description": "Commonhold and Leasehold Reform Bill 2026: стадии, ground rent £250, права собственников, переход на commonhold, сроки и исключения; не смешивать с действующим законом."
+    },
+    {
+      "title": "Португалия: налог на доходы от аренды в 2027",
+      "description": "Обновить существующую статью 9183 после голосования OE2027; отслеживать Diário da República, сроки применения, исключения и переходные нормы."
+    },
+    {
+      "title": "Греция и Португалия: туристические поступления",
+      "description": "Bank of Greece и Turismo de Portugal: потоки, расходы на поездку, география спроса, поступления платёжного баланса отдельно от ADR/RevPAR."
     }
   ],
   "history": [
@@ -3891,6 +4115,20 @@
         "Eurostat: авиаперелёты составили 17,2% поездок европейцев",
         "STR: рост RevPAR отелей США замедлится до 2,7%",
         "Строительное производство в ЕС снизилось на 1,4%",
+        "Туризм обеспечивает 10,1% добавленной стоимости ЕС"
+      ],
+      "reportUrl": "https://docs.google.com/document/d/1vEk5eZyMUy_KmLECe0tdNZEvDWDBIyxihwhjdMhLkCo/edit"
+    },
+    {
+      "period": "17–23 ноября 2026",
+      "endDate": "2026-11-23",
+      "savedAt": "25 ноября 2026",
+      "summary": "Сохранён предыдущий оперативный срез 17–23 ноября; INE hotels, ECB housing, Eurostat fuel and mobility. Старый полный отчёт сохранён.",
+      "keyPoints": [
+        "Отели Испании: RevPAR вырос на 9% в октябре",
+        "ЕЦБ: ипотечный кредит усиливает риски рынка жилья",
+        "Топливо для личного транспорта в ЕС подорожало на 29,5%",
+        "Eurostat: 61,7% жителей ЕС чаще пользуются личным транспортом",
         "Туризм обеспечивает 10,1% добавленной стоимости ЕС"
       ],
       "reportUrl": "https://docs.google.com/document/d/1vEk5eZyMUy_KmLECe0tdNZEvDWDBIyxihwhjdMhLkCo/edit"
@@ -4420,6 +4658,41 @@
           "use": "Узбекистан: государственный кадастр и регистрация прав на недвижимость.",
           "priority": "core",
           "role": "verification"
+        },
+        {
+          "name": "INSEE / Notaires de France",
+          "url": "https://www.insee.fr/",
+          "use": "Франция: индексы цен вторичного жилья, нотариальные сделки, экономика и население.",
+          "priority": "core",
+          "role": "verification"
+        },
+        {
+          "name": "Bank of Greece",
+          "url": "https://www.bankofgreece.gr/en/",
+          "use": "Греция: платёжный баланс, туристические поступления, банковский кредит и цены жилья.",
+          "priority": "core",
+          "role": "verification"
+        },
+        {
+          "name": "Turismo de Portugal / TravelBI",
+          "url": "https://travelbi.turismodeportugal.pt/en/",
+          "use": "Португалия: ежемесячные туристические поступления, ночёвки и география спроса.",
+          "priority": "core",
+          "role": "verification"
+        },
+        {
+          "name": "UK Parliament Bills",
+          "url": "https://bills.parliament.uk/",
+          "use": "Великобритания: стадии и тексты законопроектов о недвижимости.",
+          "priority": "core",
+          "role": "verification"
+        },
+        {
+          "name": "Assembleia da República (Portugal)",
+          "url": "https://www.parlamento.pt/",
+          "use": "Португалия: парламентские стадии, бюджетные поправки и голосования.",
+          "priority": "core",
+          "role": "verification"
         }
       ]
     }
@@ -4574,14 +4847,14 @@
         "currentPeriodDataLoaded": false
       }
     ],
-    "sourceNote": "18 Nov 2026 GSC Wizard payment_required/subscription_required: no fresh metrics. All existing query dataAsOf dates remain unchanged (10 Oct 2026). 23 Nov 2026: both linked GSC Wizard accounts returned payment_required/subscription_required; no new measured data. Rows retain 10 Oct dataAsOf."
+    "sourceNote": "18 Nov 2026 GSC Wizard payment_required/subscription_required: no fresh metrics. All existing query dataAsOf dates remain unchanged (10 Oct 2026). 23 Nov 2026: both linked GSC Wizard accounts returned payment_required/subscription_required; no new measured data. Rows retain 10 Oct dataAsOf. 25 Nov: Primary connector returned payment_required/subscription_required; no measured SEO refresh. Historical source dates and query rows unchanged."
   },
   "sourcePolicy": {
     "dynamicCountryStats": true,
     "rule": "Если в текущем трендрадаре или публикациях International Investment появляется страна, которой нет в списке локальных источников, найти ее официальный государственный статистический орган и релевантный регулятор/реестр недвижимости, проверить официальный домен и добавить их в мониторинг как verification-источники."
   },
   "coverageMonitoring": {
-    "updatedAt": "2026-11-23",
+    "updatedAt": "2026-11-25",
     "auditWindowDays": 90,
     "freshnessRules": {
       "freshMaxDays": 14,
@@ -4645,35 +4918,49 @@
       },
       {
         "country": "Франция",
-        "lastUpdate": "2026-11-15",
+        "lastUpdate": "2026-11-25",
         "priority": "urgent",
-        "reason": "CoStar/STR 11 Nov: Paris set a monthly ADR record at EUR474.64 (+13.5% y/y) and second-highest RevPAR EUR406.20 (+15.4%). France migration coverage was refreshed on 15 Nov, but the hotel-investment gap remains.",
+        "reason": "CoStar/STR 11 Nov: Paris set a monthly ADR record at EUR474.64 (+13.5% y/y) and second-highest RevPAR EUR406.20 (+15.4%). France migration coverage was refreshed on 15 Nov, but the hotel-investment gap remains. | INSEE/Notaires, Q3 2026 provisional, France excluding Mayotte: existing-home prices -1.2% YoY vs -0.8% Q2 and 0.0% Q1; flats -1.0%, houses -1.3% YoY. Seasonally adjusted quarter-on-quarter -0.3% vs -1.0% Q2. 956,000 transactions in rolling 12 months ending September vs 959,000 ending June.",
         "topics": [
           {
             "name": "Отели и гостиничный бизнес",
             "lastPublished": null,
             "status": "unverified"
+          },
+          {
+            "name": "Недвижимость",
+            "lastPublished": null,
+            "status": "new_candidate",
+            "signalAt": "2026-11-24",
+            "sourceUrl": "https://www.insee.fr/en/statistiques/9156671"
           }
         ],
-        "signalAt": "2026-11-11",
-        "sourceUrl": "https://www.costar.com/products/str-benchmark/resources/press-releases/london-hotels-posted-highest-october-revpar-record",
+        "signalAt": "2026-11-24",
+        "sourceUrl": "https://www.insee.fr/en/statistiques/9156671",
         "decision": "new"
       },
       {
         "country": "Великобритания",
-        "lastUpdate": "2026-11-07",
+        "lastUpdate": "2026-11-25",
         "priority": "urgent",
-        "reason": "18 Nov ONS Inner London house prices -7.2% YoY and UK rents +3.8% official release; new bilingual draft available in weekly report. London hotel pipeline still HOLD pending numeric verification.",
+        "reason": "18 Nov ONS Inner London house prices -7.2% YoY and UK rents +3.8% official release; new bilingual draft available in weekly report. London hotel pipeline still HOLD pending numeric verification. | Commonhold and Leasehold Reform Bill introduced 19 Nov, Commons first reading. Government proposes £250 annual ground-rent cap, peppercorn after 40 years; 50% qualifying leaseholders threshold for conversion; restriction on new leasehold flats and transition to commonhold. Ground rent cap intended 6 months after Royal Assent, expected in 2028; most new-flat ban planned around 2031 subject to legislation and exemptions. England and Wales only; bill is not law.",
         "topics": [
           {
             "name": "Отели и гостиничный бизнес",
             "lastPublished": "2026-10-26",
             "status": "watch",
             "lastUrl": "https://internationalinvestment.biz/en/business/8996-england-to-introduce-a-short-term-rental-register.html"
+          },
+          {
+            "name": "Регулирование и правила для иностранных покупателей",
+            "lastPublished": null,
+            "status": "new_candidate",
+            "signalAt": "2026-11-19",
+            "sourceUrl": "https://bills.parliament.uk/bills/4331"
           }
         ],
-        "signalAt": "2026-11-11",
-        "sourceUrl": "https://www.costar.com/products/str-benchmark/resources/press-releases/london-hotels-posted-highest-october-revpar-0",
+        "signalAt": "2026-11-19",
+        "sourceUrl": "https://bills.parliament.uk/bills/4331",
         "decision": "new"
       },
       {
@@ -4740,6 +5027,69 @@
         "signalAt": "2026-11-05",
         "sourceUrl": "https://etc-corporate.org/reports/european-tourism-trends-prospects-q3-2026/",
         "decision": "verify_then_new"
+      },
+      {
+        "country": "Греция",
+        "lastUpdate": "2026-11-25",
+        "priority": "high",
+        "reason": "Bank of Greece provisional September 2026: travel receipts €3,760.6m (+11.1% YoY), inbound travellers 5.7161m (+0.6%), average expenditure per trip +10.2%. Jan–Sep receipts €21,958.1m (+9.7%), travellers 34.2254m (+8.3%). September German receipts +48.6%, UK -15.2%, US -15.1%; expenditure is travel receipts, not hotel room revenue; cruise exclusion as stated by source.",
+        "topics": [
+          {
+            "name": "Туризм",
+            "lastPublished": null,
+            "status": "new_candidate",
+            "signalAt": "2026-11-23",
+            "sourceUrl": "https://www.bankofgreece.gr/en/news-and-media/press-office/news-list/news?announcement=b2377b1d-1d1e-4380-8f23-eeb3d9a45250"
+          }
+        ],
+        "signalAt": "2026-11-23",
+        "sourceUrl": "https://www.bankofgreece.gr/en/news-and-media/press-office/news-list/news?announcement=b2377b1d-1d1e-4380-8f23-eeb3d9a45250",
+        "decision": "new"
+      },
+      {
+        "country": "Португалия",
+        "lastUpdate": "2026-11-25",
+        "priority": "urgent",
+        "reason": "Парламент одобрил бюджет OE2027 24 ноября. В принятую парламентом редакцию включена отмена льготной ставки IRS 10% на умеренную аренду жилья до €2300 в месяц. По данным RTP/ECO, предполагается прекращение льготы в 2027; окончательное опубликование, дата применения и переходные правила требуют сверки с Diário da República. Другие режимы аренды оценивать отдельно. | Turismo de Portugal/INE/Banco de Portugal: September accommodation 3.4m guests (+2.5% YoY), 8.7m nights (+2.0%); travel receipts €3.3bn (+3.9%). Jan–Sep 25.8m guests, 66.0m nights, receipts €24.3bn. September nights: Norte +6.6%, Centro and Grande Lisboa +2.8%; receipts are broader than accommodation revenue.",
+        "topics": [
+          {
+            "name": "Налоги для инвесторов",
+            "lastPublished": null,
+            "status": "update_candidate",
+            "lastUrl": "https://internationalinvestment.biz/real-estate/9183-portugalija-peresmatrivaet-lgotu-po-nalogu-na-arendu.html",
+            "articleId": "9183",
+            "signalAt": "2026-11-24",
+            "sourceUrl": "https://www.parlamento.pt/Paginas/2026/novembro/OE2027_debate-votacao-especialidade-final-globa-23-24nov.aspx"
+          },
+          {
+            "name": "Туризм",
+            "lastPublished": null,
+            "status": "new_candidate",
+            "signalAt": "2026-11-20",
+            "sourceUrl": "https://travelbi.turismodeportugal.pt/en/tourism-in-portugal/tourism-outlook-september-2026/"
+          }
+        ],
+        "signalAt": "2026-11-24",
+        "sourceUrl": "https://travelbi.turismodeportugal.pt/en/tourism-in-portugal/tourism-outlook-september-2026/",
+        "decision": "update"
+      },
+      {
+        "country": "Канада",
+        "lastUpdate": "2026-11-25",
+        "priority": "medium",
+        "reason": "CoStar October 2026: occupancy 71.4% (+2.4% relative YoY), ADR CAD227.75 (+6.5%), RevPAR CAD162.61 (+9.0%); tenth consecutive month of annual ADR and RevPAR growth. Manitoba RevPAR +22.6% to CAD151.37; Nova Scotia ADR +12.5% to CAD236.09.",
+        "topics": [
+          {
+            "name": "Отели и гостиничный бизнес",
+            "lastPublished": null,
+            "status": "new_candidate",
+            "signalAt": "2026-11-19",
+            "sourceUrl": "https://www.costar.com/fr-ca/can/produits/str-benchmark/ressources/communiques-de-presse/canada-hotels-report-10-consecutive-months-revpar-growth"
+          }
+        ],
+        "signalAt": "2026-11-19",
+        "sourceUrl": "https://www.costar.com/fr-ca/can/produits/str-benchmark/ressources/communiques-de-presse/canada-hotels-report-10-consecutive-months-revpar-growth",
+        "decision": "new"
       }
     ],
     "previousSignalQueue": [
@@ -9602,52 +9952,70 @@
     }
   },
   "dailyUpdate": {
-    "date": "23 ноября 2026",
+    "date": "25 ноября 2026",
     "items": [
       {
-        "label": "5/5 — ГОРИТ / NEW",
-        "title": "Отели Испании: RevPAR вырос на 9% в октябре",
-        "source": "INE Spain",
-        "url": "https://www.ine.es/dyngs/Prensa/CTH1026.htm",
+        "label": "5/5 — ГОРИТ (24h) / UPDATE",
+        "title": "Португалия одобрила бюджет с отменой льготы для арендодателей",
+        "source": "Assembleia da República — календарь голосования",
+        "url": "https://www.parlamento.pt/Paginas/2026/novembro/OE2027_debate-votacao-especialidade-final-globa-23-24nov.aspx",
         "priority": "urgent",
-        "signal": "Октябрь 2026: RevPAR €93,9 (+9,0% год к году), ADR €130,4 (+7,9%), ночёвки более 34,7 млн (+1,6%), индекс гостиничных цен +7,4%.",
-        "action": "Подготовить новый RU/EN материал с раздельными ADR, RevPAR и ценовым индексом; сверить точные дубликаты в CMS."
+        "signal": "Парламент одобрил бюджет OE2027 24 ноября. В принятую парламентом редакцию включена отмена льготной ставки IRS 10% на умеренную аренду жилья до €2300 в месяц. По данным RTP/ECO, предполагается прекращение льготы в 2027; окончательное опубликование, дата применения и переходные правила требуют сверки с Diário da República. Другие режимы аренды оценивать отдельно.",
+        "action": "Обновить заголовок, лид и FAQ статьи №9183: бюджет принят парламентом, льгота подлежит отмене; отдельно объяснить промульгацию и опубликование."
       },
       {
-        "label": "4/5 — ВЫСОКИЙ / NEW",
-        "title": "ЕЦБ: ипотечный кредит усиливает риски рынка жилья",
-        "source": "ECB Financial Stability Review",
-        "url": "https://www.ecb.europa.eu/press/financial-stability-publications/fsr/focus/2026/html/ecb.fsrbox202611_01~8b6869f30f.da.html",
+        "label": "5/5 — ГОРИТ (24h) / NEW",
+        "title": "Во Франции ускорилось падение цен на вторичное жильё",
+        "source": "INSEE/Notaires 24 Nov 2026 — EN",
+        "url": "https://www.insee.fr/en/statistiques/9156671",
+        "priority": "urgent",
+        "signal": "INSEE/Notaires, Q3 2026 provisional, France excluding Mayotte: existing-home prices -1.2% YoY vs -0.8% Q2 and 0.0% Q1; flats -1.0%, houses -1.3% YoY. Seasonally adjusted quarter-on-quarter -0.3% vs -1.0% Q2. 956,000 transactions in rolling 12 months ending September vs 959,000 ending June.",
+        "action": "Почему годовое снижение ускорилось, хотя квартальное смягчилось; сравнить квартиры и дома, динамику сделок, условия для покупателей без прогноза цен."
+      },
+      {
+        "label": "4/5 — ВЫСОКИЙ (48h) / NEW",
+        "title": "Англия и Уэльс готовятся отказаться от leasehold",
+        "source": "UK Parliament — Bill 4331",
+        "url": "https://bills.parliament.uk/bills/4331",
         "priority": "high",
-        "signal": "ЕЦБ исследовал неоднородный рост жилья еврозоны после 2022 года и выделил риски кредитно стимулируемого роста стоимости недвижимости.",
-        "action": "Сравнительная статья о рынке жилья и кредитных рисках; данные на уровне стран не выводить из групповой модели."
+        "signal": "Commonhold and Leasehold Reform Bill introduced 19 Nov, Commons first reading. Government proposes £250 annual ground-rent cap, peppercorn after 40 years; 50% qualifying leaseholders threshold for conversion; restriction on new leasehold flats and transition to commonhold. Ground rent cap intended 6 months after Royal Assent, expected in 2028; most new-flat ban planned around 2031 subject to legislation and exemptions. England and Wales only; bill is not law.",
+        "action": "Разобрать leasehold, freehold и commonhold, очередность реформ, действующие договоры и новостройки, сервисные платежи; не выдавать проект за закон."
       },
       {
-        "label": "4/5 — ВЫСОКИЙ / NEW",
-        "title": "Топливо для личного транспорта в ЕС подорожало на 29,5%",
-        "source": "Eurostat",
-        "url": "https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20261123-2",
+        "label": "4/5 — ВЫСОКИЙ (48h) / NEW",
+        "title": "Греция заработала на туристах почти €22 млрд",
+        "source": "Bank of Greece, travel services 23 Nov",
+        "url": "https://www.bankofgreece.gr/en/news-and-media/press-office/news-list/news?announcement=b2377b1d-1d1e-4380-8f23-eeb3d9a45250",
         "priority": "high",
-        "signal": "В октябре 2026 цены категории «топливо и смазочные материалы для личного транспорта» +29,5% год к году по ЕС; Эстония +44,1%, Болгария +42,8%.",
-        "action": "Новая страновая сравнительная заметка; отделять годовую потребительскую инфляцию от месячных цен топлива."
+        "signal": "Bank of Greece provisional September 2026: travel receipts €3,760.6m (+11.1% YoY), inbound travellers 5.7161m (+0.6%), average expenditure per trip +10.2%. Jan–Sep receipts €21,958.1m (+9.7%), travellers 34.2254m (+8.3%). September German receipts +48.6%, UK -15.2%, US -15.1%; expenditure is travel receipts, not hotel room revenue; cruise exclusion as stated by source.",
+        "action": "Доходы растут быстрее потока, как изменились расходы туристов и роль Германии, Великобритании и США. Сопоставить августовскую карточку."
       },
       {
-        "label": "2/5 — НАБЛЮДАТЬ",
-        "title": "Eurostat: 61,7% жителей ЕС чаще пользуются личным транспортом",
-        "source": "Eurostat",
-        "url": "https://ec.europa.eu/eurostat/en/web/products-eurostat-news/w/ddn-20261123-1",
+        "label": "3/5 — НА НЕДЕЛЕ / NEW",
+        "title": "Туризм принёс Португалии €24,3 млрд за девять месяцев",
+        "source": "Turismo de Portugal/TravelBI, 20 Nov",
+        "url": "https://travelbi.turismodeportugal.pt/en/tourism-in-portugal/tourism-outlook-september-2026/",
         "priority": "medium",
-        "signal": "В 2025 году личный транспорт был основным видом перемещения для 61,7% жителей ЕС старше 16 лет.",
-        "action": "Держать как контекст для инфраструктуры, не смешивать с долей турпоездок в данных 19 ноября."
+        "signal": "Turismo de Portugal/INE/Banco de Portugal: September accommodation 3.4m guests (+2.5% YoY), 8.7m nights (+2.0%); travel receipts €3.3bn (+3.9%). Jan–Sep 25.8m guests, 66.0m nights, receipts €24.3bn. September nights: Norte +6.6%, Centro and Grande Lisboa +2.8%; receipts are broader than accommodation revenue.",
+        "action": "Сравнить географию ночёвок, туристические поступления и рынки происхождения; отделить гостиничные показатели от платёжного баланса."
       },
       {
-        "label": "5/5 — ГОРИТ / CONTINUING",
-        "title": "Туризм обеспечивает 10,1% добавленной стоимости ЕС",
-        "source": "Eurostat / European Commission",
-        "url": "https://transport.ec.europa.eu/news-events/news/eu-tourism-dashboard-update-confirms-tourism-sectors-economic-impact-2026-11-18_en",
-        "priority": "urgent",
-        "signal": "EU Tourism Dashboard estimates tourism total economic impact at 10.1% GVA, direct 4.1%, using direct, indirect, induced effects.",
-        "action": "Нужна проверка уже опубликованного International Investment перед новым URL; полный RU/EN черновик — в предыдущем недельном отчёте."
+        "label": "3/5 — НА НЕДЕЛЕ / NEW",
+        "title": "Гостиничный RevPAR Канады растёт десятый месяц подряд",
+        "source": "CoStar/STR Canada 19 Nov",
+        "url": "https://www.costar.com/fr-ca/can/produits/str-benchmark/ressources/communiques-de-presse/canada-hotels-report-10-consecutive-months-revpar-growth",
+        "priority": "medium",
+        "signal": "CoStar October 2026: occupancy 71.4% (+2.4% relative YoY), ADR CAD227.75 (+6.5%), RevPAR CAD162.61 (+9.0%); tenth consecutive month of annual ADR and RevPAR growth. Manitoba RevPAR +22.6% to CAD151.37; Nova Scotia ADR +12.5% to CAD236.09.",
+        "action": "Сравнить октябрь и сентябрь, Манитобу и другие провинции, динамику цен и загрузки; RevPAR не чистая доходность."
+      },
+      {
+        "label": "1/5 — НАБЛЮДАТЬ / HOLD",
+        "title": "Eurostat: новый ежегодник Housing in Europe 2026",
+        "source": "Eurostat release calendar",
+        "url": "https://ec.europa.eu/eurostat/en/news/release-calendar",
+        "priority": "medium",
+        "signal": "Календарь Eurostat указывает выпуск Housing in Europe 2026 edition 25 ноября. На момент проверки сам новый релиз не найден. Не использовать цифры предыдущего ежегодника как новые.",
+        "action": "После выхода сверить таблицы стран, единицы и версии рядов; проверить существующие статьи по доступности жилья."
       }
     ]
   }
