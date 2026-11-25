@@ -3,7 +3,7 @@
     "period": "19–25 ноября 2026",
     "updatedAt": "25 ноября 2026",
     "reportUrl": "https://docs.google.com/document/d/1vEk5eZyMUy_KmLECe0tdNZEvDWDBIyxihwhjdMhLkCo/edit",
-    "editorialNote": "23 Nov: five sourced editorial candidates 18–20 Nov: EU tourism GVA, Eurostat construction, STR US hotel outlook, travel modes and debt holders. RU/EN drafts in single Doc; full visual production and complete site deduplication pending. No fresh GSC metrics loaded. | 23 Nov revision: 5 expanded RU/EN narratives, 11 Google Docs tables, 5 verified charts, 5 illustrated covers, clickable sources. Previous draft archived at https://docs.google.com/document/d/1j4jdX-Il2j5KlF34UiFbpSHod9oPCPGvj-Hl9J1MOdI/edit | 23 Nov operational radar refresh: four additional primary-source cards (INE hotels, ECB housing risks, Eurostat fuel prices and mobility watch), 2 SEO clusters, old period archived. New full-text report not produced; reportLink retains existing 16–22 Nov complete weekly Doc. GSC Wizard subscription_required confirmed; 10 Oct measured SEO rows retained. | 25 Nov: operational story-selection update (5 new leads, 1 existing Portugal URL refresh, 1 watch). Full previous report remains linked; no new full bilingual article pack requested/created in this run. Recent site index stale; do not re-import already-covered CMS articles.",
+    "editorialNote": "23 Nov: five sourced editorial candidates 18–20 Nov: EU tourism GVA, Eurostat construction, STR US hotel outlook, travel modes and debt holders. RU/EN drafts in single Doc; full visual production and complete site deduplication pending. No fresh GSC metrics loaded. | 23 Nov revision: 5 expanded RU/EN narratives, 11 Google Docs tables, 5 verified charts, 5 illustrated covers, clickable sources. Previous draft archived at https://docs.google.com/document/d/1j4jdX-Il2j5KlF34UiFbpSHod9oPCPGvj-Hl9J1MOdI/edit | 23 Nov operational radar refresh: four additional primary-source cards (INE hotels, ECB housing risks, Eurostat fuel prices and mobility watch), 2 SEO clusters, old period archived. New full-text report not produced; reportLink retains existing 16–22 Nov complete weekly Doc. GSC Wizard subscription_required confirmed; 10 Oct measured SEO rows retained. | 25 Nov: operational story-selection update (5 new leads, 1 existing Portugal URL refresh, 1 watch). Full previous report remains linked; no new full bilingual article pack requested/created in this run. Recent site index stale; do not re-import already-covered CMS articles. | 25 Nov: synchronized both country draft packs with coverage and radar, including four rechecked primary-source stories and one HOLD (Poland). No new private document links; CMS publication not confirmed.",
     "consolidatedDocUrl": "https://docs.google.com/document/d/1vEk5eZyMUy_KmLECe0tdNZEvDWDBIyxihwhjdMhLkCo/edit",
     "weeklyFinalDocUrl": "https://docs.google.com/document/d/1vEk5eZyMUy_KmLECe0tdNZEvDWDBIyxihwhjdMhLkCo/edit",
     "additionalViralBriefUrl": "https://docs.google.com/document/d/1noak5K9VJW3EaN1FZ9yRM_eoMe9cMRiXNPlOC6unumk/edit",
@@ -23,7 +23,16 @@
         "Bank of Greece, August comparison — https://www.bankofgreece.gr/en/news-and-media/press-office/news-list/news?announcement=7cc5e35f-f2ce-46c9-9ae1-9932edfaec40",
         "Turismo de Portugal/TravelBI, 20 Nov — https://travelbi.turismodeportugal.pt/en/tourism-in-portugal/tourism-outlook-september-2026/",
         "CoStar/STR Canada 19 Nov — https://www.costar.com/fr-ca/can/produits/str-benchmark/ressources/communiques-de-presse/canada-hotels-report-10-consecutive-months-revpar-growth",
-        "CoStar/STR September — https://www.costar.com/products/str-benchmark/resources/press-releases/canada-hotels-report-largest-occupancy-and-revpar"
+        "CoStar/STR September — https://www.costar.com/products/str-benchmark/resources/press-releases/canada-hotels-report-largest-occupancy-and-revpar",
+        "SURS 2026-11-25 — https://www.stat.si/StatWeb/en/News/Index/14756",
+        "Statistics Austria 2026-11-25 — https://www.statistik.at/statistiken/tourismus-und-verkehr/tourismus/beherbergung/ankuenfte-naechtigungen",
+        "CSO Ireland — Housing Hub 2026-11-25 — https://www.cso.ie/en/csolatestnews/pressreleases/2026pressreleases/pressstatement-highlightsfromthehousinghubnovember2026/",
+        "JNTO 2026-11-18 — https://www.jnto.go.jp/news/press/20261118_monthly.html",
+        "Statistics Finland 2026-11-25 — https://stat.fi/en/publication/cmetmuvoskyag07uev9wi5i8t",
+        "Bank of Israel 2026-11-23 — https://www.boi.org.il/en/communication-and-publications/press-releases/the-monetary-committee-decides-on-november-23-2026-to-keep-the-interest-rate-unchanged-at-325-percent/",
+        "NSO Malta 2026-11-20 — https://nso.gov.mt/residential-building-permits-q3-2026/",
+        "CYSTAT 2026-11-17 — https://www.gov.cy/en/economy-and-finance/tourist-arrivals-and-returns-of-residents-of-cyprus-from-trips-abroad-october-2026/",
+        "Statistical Office of the Slovak Republic 2026-11-11 — https://slovak.statistics.sk/wps/portal/ext/products/informationmessages/inf_sprava_detail/%21ut/p/z0/fY5Lb8IwEIR_Sw8cHT8T7COpVAqtKlWoKvhS2YkDrokdYpM-fn0Nd3rZndGu5hso4RZKrya7V8kGr47Z72T18Tpf8brGC4TqZ4pW66fNy-P9A1m-lXBjPFxDaXVffDV9gQqGCOGkEmXJqBBUXCLs5-kkF1A2wSfzneA26KgOILoZiimjGnC9-JT98fyrf2YIY2DOYxiiU-D6E5N16oL6v89tmvHA-g4olylZhLHPqZM3IA6jmjJyiia5vOdc0860CrQV5YCJrLQWLA_GSYs7rBsBB7d8B3J39wfDAY7H/"
       ],
       "monitoredWithoutNewConfirmedLead": [
         "Eurostat calendar: Housing in Europe 2026 edition scheduled 25 Nov, actual release not confirmed; seasonality scheduled 26–27 Nov (calendar display dates can differ).",
@@ -33,10 +42,11 @@
       ],
       "blockedSources": [
         "25 Nov: GSC Wizard Primary payment_required / subscription_required. No new GSC/GA4 or Yandex data loaded.",
-        "Current public site snapshot is stale; URL 9183 returned cache miss; full anonymous deduplication unavailable. Existing CMS verification from previous session used only to exclude known duplicates."
+        "Current public site snapshot is stale; URL 9183 returned cache miss; full anonymous deduplication unavailable. Existing CMS verification from previous session used only to exclude known duplicates.",
+        "Poland GUS October standalone housing-construction release not retrieved; secondary numbers HOLD."
       ],
-      "publicationAudit": "Partial: compared current 127 radar cards, previous CMS batch IDs 9177–9186, targeted searches against RU/EN site. Do not claim absence of duplicates; reconcile the latest CMS archive before new URLs.",
-      "seoAccess": "25 Nov GSC Wizard trial ended/subscription_required; historical query rows measured 10 Oct retained. Qualitative SEO priorities only."
+      "publicationAudit": "Partial: compared current 127 radar cards, previous CMS batch IDs 9177–9186, targeted searches against RU/EN site. Do not claim absence of duplicates; reconcile the latest CMS archive before new URLs. | Both 25 Nov country packs reconciled to radar by event ID; no new live CMS publication confirmed; 17 Nov baseline unchanged.",
+      "seoAccess": "25 Nov: subscription_required confirmed; historical 10 Oct GSC measurements retained; qualitative intent only."
     },
     "latestDailyUpdateDate": "2026-11-25",
     "nextEditorialPlanDate": "2026-11-26"
@@ -50,6 +60,278 @@
     "Инвестиции"
   ],
   "trends": [
+    {
+      "id": "poland-housing-construction-oct-nov23-2026",
+      "title": "В Польше в октябре начали строить меньше жилья",
+      "category": "Недвижимость",
+      "priority": "medium",
+      "status": "hold_verify",
+      "decision": "hold",
+      "editorialUrgency": "2/5 — HOLD / сверить GUS",
+      "publishedAt": "2026-11-23",
+      "verifiedOn": "2026-11-25",
+      "signal": "HOLD: вторичные пересказы GUS приводят за октябрь 18 496 начатых жилых единиц, 20 042 завершённых, 23 572 разрешённых. Январь–октябрь: 192 053 начатых (+3,1%), 169 269 завершённых (+2,7%), 239 578 разрешённых (+10,4%). Отдельный октябрьский оригинал недоступен; первичные цифры не считаются подтверждёнными.",
+      "why": "Страновой сигнал. Редакционный черновик не является опубликованной статьёй.",
+      "editorialAngle": "Не публиковать до сверки оригинального октябрьского релиза GUS. Разделять начала, завершения и разрешения.",
+      "seoAngle": "строительство жилья Польша 2026; рынок новостроек Польши; Poland housing construction October 2026",
+      "sources": [
+        {
+          "label": "Statistics Poland — официальный макрообзор",
+          "url": "https://ssgk.stat.gov.pl/"
+        },
+        {
+          "label": "CEO.com.pl — вторичный пересказ GUS",
+          "url": "https://ceo.com.pl/en/poland-housing-starts-october-2026-developers-permits-gus-35495/"
+        },
+        {
+          "label": "Kredyt Polska — вторичный пересказ GUS",
+          "url": "https://kredytpolska.pl/aktualnosci/gus-budownictwo-mieszkaniowe-styczen-pazdziernik-2026/"
+        }
+      ],
+      "publishedCoverage": "Точное совпадение с актуальным CMS не подтверждено; до публикации требуется сверка. Страновой аудит по 17.11 сохранён.",
+      "relatedRadarIds": [],
+      "editorialStatus": "hold_verify",
+      "publicationConfirmed": false
+    },
+    {
+      "id": "jnto-japan-arrivals-oct-nov18-2026",
+      "title": "Япония зафиксировала рекордные 3,91 млн въездов в октябре",
+      "category": "Туризм",
+      "priority": "high",
+      "status": "draft_ready",
+      "decision": "new_article",
+      "editorialUrgency": "4/5 — RU/EN черновик",
+      "publishedAt": "2026-11-18",
+      "verifiedOn": "2026-11-25",
+      "signal": "Октябрь 3 912 500 въездов (+0,4% г/г), новый месячный максимум. Январь–октябрь 34 643 000 (−2,5%). Южная Корея 1 035 800 (+19,4%), материковый Китай 379 500 (−47%), Тайвань 634 600 (+6,5%).",
+      "why": "Страновой сигнал. Редакционный черновик не является опубликованной статьёй.",
+      "editorialAngle": "Сравнить рынки происхождения и динамику въездов, не смешивать с числом уникальных туристов или поисковым спросом Amadeus.",
+      "seoAngle": "туризм Японии 2026; турпоток Японии октябрь; Japan visitor arrivals October 2026",
+      "sources": [
+        {
+          "label": "JNTO",
+          "url": "https://www.jnto.go.jp/news/press/20261118_monthly.html"
+        },
+        {
+          "label": "JNTO — таблицы за октябрь",
+          "url": "https://www.jnto.go.jp/en/news/20261119.pdf"
+        }
+      ],
+      "publishedCoverage": "Точное совпадение с актуальным CMS не подтверждено; до публикации требуется сверка. Страновой аудит по 17.11 сохранён.",
+      "relatedRadarIds": [],
+      "editorialStatus": "draft_ready",
+      "publicationConfirmed": false
+    },
+    {
+      "id": "ireland-housing-hub-nov25-2026",
+      "title": "В Ирландии завершили строительство 26,8 тыс. домов за девять месяцев",
+      "category": "Недвижимость",
+      "priority": "urgent",
+      "status": "draft_ready",
+      "decision": "new_article",
+      "editorialUrgency": "5/5 — RU/EN черновик",
+      "publishedAt": "2026-11-25",
+      "verifiedOn": "2026-11-25",
+      "signal": "Январь–сентябрь 26 833 завершённых жилых единицы (+10,6% г/г); III квартал 10 154 (+10,4%), в том числе 3 464 квартиры (+9,8%). Январь–октябрь 29 092 начала строительства по уведомлениям. В октябре частная аренда +5,5% г/г, муниципальная +12,7%.",
+      "why": "Страновой сигнал. Редакционный черновик не является опубликованной статьёй.",
+      "editorialAngle": "Разделить ввод и уведомления о начале работ; показать квартиры, аренду и трудовые затраты без прогнозов цен.",
+      "seoAngle": "рынок жилья Ирландии 2026; строительство жилья Ирландия; Ireland housing completions Q3 2026",
+      "sources": [
+        {
+          "label": "CSO Ireland — Housing Hub",
+          "url": "https://www.cso.ie/en/csolatestnews/pressreleases/2026pressreleases/pressstatement-highlightsfromthehousinghubnovember2026/"
+        }
+      ],
+      "publishedCoverage": "Точное совпадение с актуальным CMS не подтверждено; до публикации требуется сверка. Страновой аудит по 17.11 сохранён.",
+      "relatedRadarIds": [
+        "ireland-cooling"
+      ],
+      "editorialStatus": "draft_ready",
+      "publicationConfirmed": false
+    },
+    {
+      "id": "austria-summer-tourism-oct-nov25-2026",
+      "title": "В Австрии за летний сезон — более 85 млн ночёвок",
+      "category": "Туризм",
+      "priority": "high",
+      "status": "draft_ready",
+      "decision": "new_article",
+      "editorialUrgency": "4/5 — RU/EN черновик",
+      "publishedAt": "2026-11-25",
+      "verifiedOn": "2026-11-25",
+      "signal": "Летний сезон май–октябрь: более 85 млн ночёвок. В октябре предварительно 9,2477 млн ночёвок (примерно без изменений), 3,3903 млн прибытий (+0,5%). Тироль: 2,2858 млн ночёвок (−2,8%). Вена: 1,8738 млн — подстановка прошлогодних данных из-за сбоя VIETOUR, не новое наблюдение.",
+      "why": "Страновой сигнал. Редакционный черновик не является опубликованной статьёй.",
+      "editorialAngle": "Объяснить сезон и региональный контраст; результат Вены не интерпретировать как фактическую динамику. Сверить окончательный выпуск 4 декабря.",
+      "seoAngle": "туризм Австрии 2026; летний туристический сезон Австрии; Austria tourism October 2026",
+      "sources": [
+        {
+          "label": "Statistics Austria",
+          "url": "https://www.statistik.at/statistiken/tourismus-und-verkehr/tourismus/beherbergung/ankuenfte-naechtigungen"
+        }
+      ],
+      "publishedCoverage": "Точное совпадение с актуальным CMS не подтверждено; до публикации требуется сверка. Страновой аудит по 17.11 сохранён.",
+      "relatedRadarIds": [
+        "austria-tourism"
+      ],
+      "editorialStatus": "draft_ready",
+      "publicationConfirmed": false
+    },
+    {
+      "id": "slovenia-tourism-oct-nov25-2026",
+      "title": "Число туристических ночёвок в Словении выросло на 7,1%",
+      "category": "Туризм",
+      "priority": "urgent",
+      "status": "draft_ready",
+      "decision": "new_article",
+      "editorialUrgency": "5/5 — RU/EN черновик",
+      "publishedAt": "2026-11-25",
+      "verifiedOn": "2026-11-25",
+      "signal": "Окончательные данные: январь–октябрь 17 390 094 ночёвки (+7,1% г/г); октябрь 1 317 490 (+7,1%). Горные курорты 299 855 (+17,1%), термальные 275 655 (+1,0%), Любляна 262 441 (+3,2%), побережье 260 665 (+9,8%).",
+      "why": "Страновой сигнал. Редакционный черновик не является опубликованной статьёй.",
+      "editorialAngle": "Сравнить направления, гостиницы и частное размещение; ночёвки не равны числу туристов.",
+      "seoAngle": "туризм Словении 2026; ночёвки в Словении; Slovenia tourism October 2026",
+      "sources": [
+        {
+          "label": "SURS",
+          "url": "https://www.stat.si/StatWeb/en/News/Index/14756"
+        }
+      ],
+      "publishedCoverage": "Точное совпадение с актуальным CMS не подтверждено; до публикации требуется сверка. Страновой аудит по 17.11 сохранён.",
+      "relatedRadarIds": [],
+      "editorialStatus": "draft_ready",
+      "publicationConfirmed": false
+    },
+    {
+      "id": "slovakia-tourism-sep-nov11-2026",
+      "title": "Словакия установила сентябрьский рекорд по числу гостей",
+      "category": "Туризм",
+      "priority": "medium",
+      "status": "draft_ready",
+      "decision": "new_article",
+      "editorialUrgency": "3/5 — RU/EN черновик",
+      "publishedAt": "2026-11-11",
+      "verifiedOn": "2026-11-25",
+      "signal": "ETC Q3: Slovakia +15% international arrivals. No new country-specific tourism article verified through 16 Nov. | Statistical Office: September ~604,000 accommodation guests (+7% YoY), ~1.5m nights (+5.5%); foreign nights ~558,000 (+14%). Six of eight regions reached guest-count records; separate from ETC arrivals measure.",
+      "why": "Страновой сигнал. Редакционный черновик не является опубликованной статьёй.",
+      "editorialAngle": "Сверить текущий CMS перед публикацией подготовленного RU/EN материала; не подменять данные публикационного аудита.",
+      "seoAngle": "туризм Словакии; гостиницы Словакии; Slovakia accommodation statistics September 2026",
+      "sources": [
+        {
+          "label": "Statistical Office of the Slovak Republic",
+          "url": "https://slovak.statistics.sk/wps/portal/ext/products/informationmessages/inf_sprava_detail/%21ut/p/z0/fY5Lb8IwEIR_Sw8cHT8T7COpVAqtKlWoKvhS2YkDrokdYpM-fn0Nd3rZndGu5hso4RZKrya7V8kGr47Z72T18Tpf8brGC4TqZ4pW66fNy-P9A1m-lXBjPFxDaXVffDV9gQqGCOGkEmXJqBBUXCLs5-kkF1A2wSfzneA26KgOILoZiimjGnC9-JT98fyrf2YIY2DOYxiiU-D6E5N16oL6v89tmvHA-g4olylZhLHPqZM3IA6jmjJyiia5vOdc0860CrQV5YCJrLQWLA_GSYs7rBsBB7d8B3J39wfDAY7H/"
+        }
+      ],
+      "publishedCoverage": "Точное совпадение с актуальным CMS не подтверждено; до публикации требуется сверка. Страновой аудит по 17.11 сохранён.",
+      "relatedRadarIds": [
+        "etc-europe-summer-arrivals-q3-nov5-2026"
+      ],
+      "editorialStatus": "draft_ready",
+      "publicationConfirmed": false
+    },
+    {
+      "id": "cyprus-arrivals-oct-nov17-2026",
+      "title": "Кипр потерял 5,6% туристов за десять месяцев",
+      "category": "Туризм",
+      "priority": "medium",
+      "status": "draft_ready",
+      "decision": "new_article",
+      "editorialUrgency": "3/5 — RU/EN черновик",
+      "publishedAt": "2026-11-17",
+      "verifiedOn": "2026-11-25",
+      "signal": "CYSTAT: Jan–Oct arrivals 3,909,839 (−5.6% YoY); October 508,301 (−5.5%). UK 164,512 (32.4%), Israel 49,091 (−17.5% YoY), Poland 40,070 (+10.5%). Arrivals are not hotel occupancy or receipts. | WATCH: CYSTAT August building permits release scheduled 26 Nov; not yet published/verified as of 25 Nov.",
+      "why": "Страновой сигнал. Редакционный черновик не является опубликованной статьёй.",
+      "editorialAngle": "Сверить текущий CMS перед публикацией подготовленного RU/EN материала; не подменять данные публикационного аудита.",
+      "seoAngle": "туризм Кипра 2026; отельный рынок Кипра; Cyprus tourist arrivals October 2026",
+      "sources": [
+        {
+          "label": "CYSTAT",
+          "url": "https://www.gov.cy/en/economy-and-finance/tourist-arrivals-and-returns-of-residents-of-cyprus-from-trips-abroad-october-2026/"
+        }
+      ],
+      "publishedCoverage": "Точное совпадение с актуальным CMS не подтверждено; до публикации требуется сверка. Страновой аудит по 17.11 сохранён.",
+      "relatedRadarIds": [],
+      "editorialStatus": "draft_ready",
+      "publicationConfirmed": false
+    },
+    {
+      "id": "malta-permits-q3-nov20-2026",
+      "title": "На Мальте одобрили на 37% меньше новых домов и квартир",
+      "category": "Недвижимость",
+      "priority": "high",
+      "status": "draft_ready",
+      "decision": "new_article",
+      "editorialUrgency": "4/5 — RU/EN черновик",
+      "publishedAt": "2026-11-20",
+      "verifiedOn": "2026-11-25",
+      "signal": "ETC Q3: Malta +18% international arrivals. The 16 Nov ETC article is multi-country autumn/winter demand and does not replace a country-specific Malta tourism page. | Malta NSO Q3: 444 permits (−25.1% YoY), 2,298 approved dwellings (−37.4% YoY); 1,608 apartments. Distinguish permit documents, dwellings and actual construction completions.",
+      "why": "Страновой сигнал. Редакционный черновик не является опубликованной статьёй.",
+      "editorialAngle": "Сверить текущий CMS перед публикацией подготовленного RU/EN материала; не подменять данные публикационного аудита.",
+      "seoAngle": "недвижимость Мальты; новостройки Мальты; Malta dwelling permits Q3 2026",
+      "sources": [
+        {
+          "label": "NSO Malta",
+          "url": "https://nso.gov.mt/residential-building-permits-q3-2026/"
+        }
+      ],
+      "publishedCoverage": "Точное совпадение с актуальным CMS не подтверждено; до публикации требуется сверка. Страновой аудит по 17.11 сохранён.",
+      "relatedRadarIds": [
+        "malta-tourism-intensity-2025-release-2026"
+      ],
+      "editorialStatus": "draft_ready",
+      "publicationConfirmed": false
+    },
+    {
+      "id": "israel-boi-policy-housing-nov23-2026",
+      "title": "Банк Израиля сохранил ставку 3,25%, жильё дешевеет",
+      "category": "Недвижимость",
+      "priority": "urgent",
+      "status": "draft_ready",
+      "decision": "new_article",
+      "editorialUrgency": "5/5 — RU/EN черновик",
+      "publishedAt": "2026-11-23",
+      "verifiedOn": "2026-11-25",
+      "signal": "Bank of Israel: policy rate 3.25%; October CPI +1.1% YoY, Aug–Sep home prices −1.5% YoY, October new mortgages ~NIS10bn seasonally adjusted; CPI housing +4.2% YoY, lease renewals +2.8%, new tenants +5.5%.",
+      "why": "Страновой сигнал. Редакционный черновик не является опубликованной статьёй.",
+      "editorialAngle": "Сверить текущий CMS перед публикацией подготовленного RU/EN материала; не подменять данные публикационного аудита.",
+      "seoAngle": "ипотека в Израиле; цены на недвижимость Израиля; Bank of Israel interest rate housing",
+      "sources": [
+        {
+          "label": "Bank of Israel",
+          "url": "https://www.boi.org.il/en/communication-and-publications/press-releases/the-monetary-committee-decides-on-november-23-2026-to-keep-the-interest-rate-unchanged-at-325-percent/"
+        }
+      ],
+      "publishedCoverage": "Точное совпадение с актуальным CMS не подтверждено; до публикации требуется сверка. Страновой аудит по 17.11 сохранён.",
+      "relatedRadarIds": [
+        "israel"
+      ],
+      "editorialStatus": "draft_ready",
+      "publicationConfirmed": false
+    },
+    {
+      "id": "finland-housing-oct-nov25-2026",
+      "title": "Жильё в Финляндии подешевело на 1,9% в октябре",
+      "category": "Недвижимость",
+      "priority": "urgent",
+      "status": "draft_ready",
+      "decision": "new_article",
+      "editorialUrgency": "5/5 — RU/EN черновик",
+      "publishedAt": "2026-11-25",
+      "verifiedOn": "2026-11-25",
+      "signal": "Statistics Finland: October existing-home prices −1.9% YoY and −0.2% MoM; Helsinki −3.3%, Oulu −4.0%, Espoo +1.1%; estate-agent sales −9.3% YoY. Preliminary release; inspect revised tables. | WATCH: Statistics Finland October accommodation statistics scheduled 26 Nov; confirm release, then assess regional hotel demand.",
+      "why": "Страновой сигнал. Редакционный черновик не является опубликованной статьёй.",
+      "editorialAngle": "Сверить текущий CMS перед публикацией подготовленного RU/EN материала; не подменять данные публикационного аудита.",
+      "seoAngle": "недвижимость Финляндии; цены на жильё в Хельсинки; Finland house prices October 2026",
+      "sources": [
+        {
+          "label": "Statistics Finland",
+          "url": "https://stat.fi/en/publication/cmetmuvoskyag07uev9wi5i8t"
+        }
+      ],
+      "publishedCoverage": "Точное совпадение с актуальным CMS не подтверждено; до публикации требуется сверка. Страновой аудит по 17.11 сохранён.",
+      "relatedRadarIds": [],
+      "editorialStatus": "draft_ready",
+      "publicationConfirmed": false
+    },
     {
       "id": "portugal-oe2027-final-vote-rental-tax-nov24-2026",
       "title": "Португалия одобрила бюджет с отменой льготы для арендодателей",
@@ -83,14 +365,16 @@
         "en": "https://internationalinvestment.biz/en/real-estate/9183-portugal-reconsiders-its-10-rental-income-tax-relief.html",
         "articleId": "9183",
         "verification": "URL из предыдущей подтвержденной CMS-сверки; текущий анонимный fetch cache miss; новый правовой текст не внесен в CMS."
-      }
+      },
+      "editorialStatus": "draft_ready",
+      "publicationConfirmed": false
     },
     {
       "id": "insee-france-existing-housing-q3-nov24-2026",
       "title": "Во Франции ускорилось падение цен на вторичное жильё",
       "category": "Недвижимость",
       "priority": "urgent",
-      "status": "new_candidate",
+      "status": "draft_ready",
       "decision": "new_article",
       "editorialUrgency": "5/5 — ГОРИТ (24h) / NEW",
       "publishedAt": "2026-11-24",
@@ -109,14 +393,16 @@
           "url": "https://www.insee.fr/fr/statistiques/9149846"
         }
       ],
-      "publishedCoverage": "Новый квартальный релиз не найден среди 127 текущих карточек; выборочный RU/EN поиск не выявил точного дубликата. Индекс сайта устарел, полная сверка CMS обязательна перед созданием URL."
+      "publishedCoverage": "Новый квартальный релиз не найден среди 127 текущих карточек; выборочный RU/EN поиск не выявил точного дубликата. Индекс сайта устарел, полная сверка CMS обязательна перед созданием URL.",
+      "editorialStatus": "draft_ready",
+      "publicationConfirmed": false
     },
     {
       "id": "england-wales-commonhold-leasehold-reform-nov19-2026",
       "title": "Англия и Уэльс готовятся отказаться от leasehold",
       "category": "Регулирование",
       "priority": "high",
-      "status": "new_candidate",
+      "status": "draft_ready",
       "decision": "new_article",
       "editorialUrgency": "4/5 — ВЫСОКИЙ (48h) / NEW",
       "publishedAt": "2026-11-19",
@@ -139,14 +425,16 @@
           "url": "https://www.gov.uk/government/consultations/moving-to-commonhold-banning-leasehold-for-new-flats/outcome/moving-to-commonhold-banning-leasehold-for-new-flats-summary-of-consultation-responses-and-uk-government-response"
         }
       ],
-      "publishedCoverage": "Новый законопроект отсутствует среди текущих карточек. Выборочный поиск не выявил точного совпадения, но индекс сайта устарел; проверить CMS."
+      "publishedCoverage": "Новый законопроект отсутствует среди текущих карточек. Выборочный поиск не выявил точного совпадения, но индекс сайта устарел; проверить CMS.",
+      "editorialStatus": "draft_ready",
+      "publicationConfirmed": false
     },
     {
       "id": "greece-travel-receipts-sep-nov23-2026",
       "title": "Греция заработала на туристах почти €22 млрд",
       "category": "Туризм",
       "priority": "high",
-      "status": "new_candidate",
+      "status": "draft_ready",
       "decision": "new_article",
       "editorialUrgency": "4/5 — ВЫСОКИЙ (48h) / NEW",
       "publishedAt": "2026-11-23",
@@ -165,14 +453,16 @@
           "url": "https://www.bankofgreece.gr/en/news-and-media/press-office/news-list/news?announcement=7cc5e35f-f2ce-46c9-9ae1-9932edfaec40"
         }
       ],
-      "publishedCoverage": "Отдельный сентябрьский релиз; в радаре есть августовский материал, точного сентябрьского дубля выборочный поиск не выявил; CMS сверить."
+      "publishedCoverage": "Отдельный сентябрьский релиз; в радаре есть августовский материал, точного сентябрьского дубля выборочный поиск не выявил; CMS сверить.",
+      "editorialStatus": "draft_ready",
+      "publicationConfirmed": false
     },
     {
       "id": "portugal-tourism-outlook-sep-nov20-2026",
       "title": "Туризм принёс Португалии €24,3 млрд за девять месяцев",
       "category": "Туризм",
       "priority": "medium",
-      "status": "new_candidate",
+      "status": "draft_ready",
       "decision": "new_article",
       "editorialUrgency": "3/5 — НА НЕДЕЛЕ / NEW",
       "publishedAt": "2026-11-20",
@@ -187,14 +477,16 @@
           "url": "https://travelbi.turismodeportugal.pt/en/tourism-in-portugal/tourism-outlook-september-2026/"
         }
       ],
-      "publishedCoverage": "Точный релиз не найден в текущем радаре; выборочный поиск сайта не выявил совпадения; требуется CMS-сверка."
+      "publishedCoverage": "Точный релиз не найден в текущем радаре; выборочный поиск сайта не выявил совпадения; требуется CMS-сверка.",
+      "editorialStatus": "draft_ready",
+      "publicationConfirmed": false
     },
     {
       "id": "costar-canada-hotels-oct-nov19-2026",
       "title": "Гостиничный RevPAR Канады растёт десятый месяц подряд",
       "category": "Туризм",
       "priority": "medium",
-      "status": "new_candidate",
+      "status": "draft_ready",
       "decision": "new_article",
       "editorialUrgency": "3/5 — НА НЕДЕЛЕ / NEW",
       "publishedAt": "2026-11-19",
@@ -213,7 +505,9 @@
           "url": "https://www.costar.com/products/str-benchmark/resources/press-releases/canada-hotels-report-largest-occupancy-and-revpar"
         }
       ],
-      "publishedCoverage": "Предыдущий сентябрьский релиз есть в радаре. Октябрь — новый набор данных, точный дубликат не найден при выборочном поиске; проверить CMS."
+      "publishedCoverage": "Предыдущий сентябрьский релиз есть в радаре. Октябрь — новый набор данных, точный дубликат не найден при выборочном поиске; проверить CMS.",
+      "editorialStatus": "draft_ready",
+      "publicationConfirmed": false
     },
     {
       "id": "eurostat-housing-in-europe-2026-edition-watch-nov25",
@@ -3822,6 +4116,30 @@
     {
       "title": "Греция и Португалия: туристические поступления",
       "description": "Bank of Greece и Turismo de Portugal: потоки, расходы на поездку, география спроса, поступления платёжного баланса отдельно от ADR/RevPAR."
+    },
+    {
+      "title": "Словения и Австрия: сезонность туризма",
+      "description": "SURS и Statistics Austria: ночёвки по регионам, размещение, сезон май–октябрь, отдельная проверка Вены."
+    },
+    {
+      "title": "Ирландия и Финляндия: рынок жилья",
+      "description": "CSO и Statistics Finland: ввод, начало строительства, сделки, цены и аренда; качественные SEO-интенты."
+    },
+    {
+      "title": "Япония и Кипр: география въездов",
+      "description": "JNTO и CYSTAT: въезды, страны происхождения и сопоставимые периоды, не уникальные туристы."
+    },
+    {
+      "title": "Мальта и Польша: жилищное строительство",
+      "description": "Разрешения, завершённые и начатые жилые единицы; Польша HOLD до первичного GUS."
+    },
+    {
+      "title": "Израиль: ставка, ипотека и цены жилья",
+      "description": "Bank of Israel: решение ставки и фактические ипотечные/жилищные показатели; без прогноза."
+    },
+    {
+      "title": "Словакия: туристический спрос и размещение",
+      "description": "Официальная статистика гостей и ночёвок; сопоставление с предыдущим периодом."
     }
   ],
   "history": [
@@ -4693,6 +5011,27 @@
           "use": "Португалия: парламентские стадии, бюджетные поправки и голосования.",
           "priority": "core",
           "role": "verification"
+        },
+        {
+          "name": "Statistical Office of Slovenia (SURS)",
+          "url": "https://www.stat.si/StatWeb/en",
+          "use": "Словения: размещение, туризм, цены жилья.",
+          "priority": "core",
+          "role": "verification"
+        },
+        {
+          "name": "Japan National Tourism Organization (JNTO)",
+          "url": "https://www.jnto.go.jp/",
+          "use": "Япония: въездная статистика и рынки происхождения.",
+          "priority": "core",
+          "role": "verification"
+        },
+        {
+          "name": "Statistics Poland (GUS)",
+          "url": "https://stat.gov.pl/en/",
+          "use": "Польша: жилищное строительство и официальная статистика.",
+          "priority": "core",
+          "role": "verification"
         }
       ]
     }
@@ -4902,8 +5241,10 @@
               "цены на жильё в Хельсинки",
               "Finland house prices October 2026"
             ],
-            "relatedRadarIds": [],
-            "editorialNote": "RU/EN draft prepared; exact duplicate check against live CMS pending. Publication freshness unchanged."
+            "relatedRadarIds": [
+              "finland-housing-oct-nov25-2026"
+            ],
+            "editorialNote": "RU/EN draft ready; exact CMS duplicate check pending."
           },
           {
             "name": "Инвестиции",
@@ -4922,8 +5263,10 @@
               "цены на жильё в Хельсинки",
               "Finland house prices October 2026"
             ],
-            "relatedRadarIds": [],
-            "editorialNote": "RU/EN draft prepared; exact duplicate check against live CMS pending. Publication freshness unchanged."
+            "relatedRadarIds": [
+              "finland-housing-oct-nov25-2026"
+            ],
+            "editorialNote": "RU/EN draft ready; exact CMS duplicate check pending."
           },
           {
             "name": "Отели и гостиничный бизнес",
@@ -4939,7 +5282,7 @@
         ],
         "signalAt": "2026-11-25",
         "sourceUrl": "https://stat.fi/en/publication/cmetmuvoskyag07uev9wi5i8t",
-        "decision": "verify_then_new",
+        "decision": "new",
         "editorialStatus": "draft_ready",
         "editorialTitle": "Жильё в Финляндии подешевело на 1,9% в октябре",
         "editorialScore": 5,
@@ -4969,9 +5312,10 @@
               "Bank of Israel interest rate housing"
             ],
             "relatedRadarIds": [
-              "israel"
+              "israel",
+              "israel-boi-policy-housing-nov23-2026"
             ],
-            "editorialNote": "RU/EN draft prepared; exact duplicate check against live CMS pending. Publication freshness unchanged."
+            "editorialNote": "RU/EN draft ready; exact CMS duplicate check pending."
           },
           {
             "name": "Инвестиции",
@@ -4991,14 +5335,15 @@
               "Bank of Israel interest rate housing"
             ],
             "relatedRadarIds": [
-              "israel"
+              "israel",
+              "israel-boi-policy-housing-nov23-2026"
             ],
-            "editorialNote": "RU/EN draft prepared; exact duplicate check against live CMS pending. Publication freshness unchanged."
+            "editorialNote": "RU/EN draft ready; exact CMS duplicate check pending."
           }
         ],
         "signalAt": "2026-11-23",
         "sourceUrl": "https://www.boi.org.il/en/communication-and-publications/press-releases/the-monetary-committee-decides-on-november-23-2026-to-keep-the-interest-rate-unchanged-at-325-percent/",
-        "decision": "verify_then_new",
+        "decision": "new",
         "editorialStatus": "draft_ready",
         "editorialTitle": "Банк Израиля сохранил ставку 3,25%, жильё дешевеет",
         "editorialScore": 5,
@@ -5141,14 +5486,15 @@
               "Malta dwelling permits Q3 2026"
             ],
             "relatedRadarIds": [
-              "malta-tourism-intensity-2025-release-2026"
+              "malta-tourism-intensity-2025-release-2026",
+              "malta-permits-q3-nov20-2026"
             ],
-            "editorialNote": "RU/EN draft prepared; exact duplicate check against live CMS pending. Publication freshness unchanged."
+            "editorialNote": "RU/EN draft ready; exact CMS duplicate check pending."
           }
         ],
         "signalAt": "2026-11-20",
         "sourceUrl": "https://nso.gov.mt/residential-building-permits-q3-2026/",
-        "decision": "verify_then_new",
+        "decision": "new",
         "editorialStatus": "draft_ready",
         "editorialTitle": "На Мальте одобрили на 37% меньше новых домов и квартир",
         "editorialScore": 4,
@@ -5157,7 +5503,7 @@
       {
         "country": "Словакия",
         "lastUpdate": "2026-11-25",
-        "priority": "high",
+        "priority": "medium",
         "reason": "ETC Q3: Slovakia +15% international arrivals. No new country-specific tourism article verified through 16 Nov. | Statistical Office: September ~604,000 accommodation guests (+7% YoY), ~1.5m nights (+5.5%); foreign nights ~558,000 (+14%). Six of eight regions reached guest-count records; separate from ETC arrivals measure.",
         "topics": [
           {
@@ -5176,9 +5522,10 @@
               "Slovakia accommodation statistics September 2026"
             ],
             "relatedRadarIds": [
-              "etc-europe-summer-arrivals-q3-nov5-2026"
+              "etc-europe-summer-arrivals-q3-nov5-2026",
+              "slovakia-tourism-sep-nov11-2026"
             ],
-            "editorialNote": "RU/EN draft prepared; exact duplicate check against live CMS pending. Publication freshness unchanged."
+            "editorialNote": "RU/EN draft ready; exact CMS duplicate check pending."
           },
           {
             "name": "Отели и гостиничный бизнес",
@@ -5196,14 +5543,15 @@
               "Slovakia accommodation statistics September 2026"
             ],
             "relatedRadarIds": [
-              "etc-europe-summer-arrivals-q3-nov5-2026"
+              "etc-europe-summer-arrivals-q3-nov5-2026",
+              "slovakia-tourism-sep-nov11-2026"
             ],
-            "editorialNote": "RU/EN draft prepared; exact duplicate check against live CMS pending. Publication freshness unchanged."
+            "editorialNote": "RU/EN draft ready; exact CMS duplicate check pending."
           }
         ],
         "signalAt": "2026-11-11",
         "sourceUrl": "https://slovak.statistics.sk/wps/portal/ext/products/informationmessages/inf_sprava_detail/%21ut/p/z0/fY5Lb8IwEIR_Sw8cHT8T7COpVAqtKlWoKvhS2YkDrokdYpM-fn0Nd3rZndGu5hso4RZKrya7V8kGr47Z72T18Tpf8brGC4TqZ4pW66fNy-P9A1m-lXBjPFxDaXVffDV9gQqGCOGkEmXJqBBUXCLs5-kkF1A2wSfzneA26KgOILoZiimjGnC9-JT98fyrf2YIY2DOYxiiU-D6E5N16oL6v89tmvHA-g4olylZhLHPqZM3IA6jmjJyiia5vOdc0860CrQV5YCJrLQWLA_GSYs7rBsBB7d8B3J39wfDAY7H/",
-        "decision": "verify_then_new",
+        "decision": "new",
         "editorialStatus": "draft_ready",
         "editorialTitle": "Словакия установила сентябрьский рекорд по числу гостей",
         "editorialScore": 3,
@@ -5248,20 +5596,68 @@
       },
       {
         "country": "Ирландия",
-        "lastUpdate": "2026-11-07",
-        "priority": "high",
-        "reason": "CBRE 11 Nov: Dublin hotel occupancy 84.7% YTD, ADR EUR177.79, 3,505 rooms under construction to 2028 and rolling 12-month Irish hotel transactions of EUR1.4bn. No exact new CBRE market story was verified on II. Continuing hotel pipeline candidate; no current replacement publication confirmed.",
+        "lastUpdate": "2026-11-25",
+        "priority": "urgent",
+        "reason": "Январь–сентябрь 26 833 завершённых жилых единицы (+10,6% г/г); III квартал 10 154 (+10,4%), в том числе 3 464 квартиры (+9,8%). Январь–октябрь 29 092 начала строительства по уведомлениям. В октябре частная аренда +5,5% г/г, муниципальная +12,7%.",
         "topics": [
           {
             "name": "Отели и гостиничный бизнес",
             "lastPublished": "2026-10-19",
             "status": "watch",
             "lastUrl": "https://internationalinvestment.biz/en/business/8959-ireland-plans-national-short-term-rental-register.html"
+          },
+          {
+            "name": "Недвижимость",
+            "lastPublished": "2026-11-07",
+            "status": "fresh",
+            "lastUrl": "https://internationalinvestment.biz/en/business/9047-dublin-warehouse-leasing-jumps-65-in-q3.html",
+            "signalAt": "2026-11-25",
+            "sourceUrl": "https://www.cso.ie/en/csolatestnews/pressreleases/2026pressreleases/pressstatement-highlightsfromthehousinghubnovember2026/",
+            "editorialStatus": "draft_ready",
+            "editorialScore": 5,
+            "preparedAt": "2026-11-25",
+            "publicationConfirmed": false,
+            "seoIntent": [
+              "рынок жилья Ирландии 2026",
+              "строительство жилья Ирландия",
+              "Ireland housing completions Q3 2026"
+            ],
+            "relatedRadarIds": [
+              "ireland-cooling",
+              "ireland-housing-hub-nov25-2026"
+            ],
+            "editorialNote": "RU/EN draft ready; exact CMS duplicate check pending."
+          },
+          {
+            "name": "Инвестиции",
+            "lastPublished": "2026-11-07",
+            "status": "fresh",
+            "lastUrl": "https://internationalinvestment.biz/en/business/9047-dublin-warehouse-leasing-jumps-65-in-q3.html",
+            "signalAt": "2026-11-25",
+            "sourceUrl": "https://www.cso.ie/en/csolatestnews/pressreleases/2026pressreleases/pressstatement-highlightsfromthehousinghubnovember2026/",
+            "editorialStatus": "draft_ready",
+            "editorialScore": 5,
+            "preparedAt": "2026-11-25",
+            "publicationConfirmed": false,
+            "seoIntent": [
+              "рынок жилья Ирландии 2026",
+              "строительство жилья Ирландия",
+              "Ireland housing completions Q3 2026"
+            ],
+            "relatedRadarIds": [
+              "ireland-cooling",
+              "ireland-housing-hub-nov25-2026"
+            ],
+            "editorialNote": "RU/EN draft ready; exact CMS duplicate check pending."
           }
         ],
-        "signalAt": "2026-11-11",
-        "sourceUrl": "https://www.cbre.com/insights/reports/irish-hotel-market-2026",
-        "decision": "new"
+        "signalAt": "2026-11-25",
+        "sourceUrl": "https://www.cso.ie/en/csolatestnews/pressreleases/2026pressreleases/pressstatement-highlightsfromthehousinghubnovember2026/",
+        "decision": "new",
+        "editorialStatus": "draft_ready",
+        "editorialTitle": "В Ирландии завершили строительство 26,8 тыс. домов за девять месяцев",
+        "editorialScore": 5,
+        "publicationConfirmed": false
       },
       {
         "country": "Греция",
@@ -5307,8 +5703,10 @@
               "отельный рынок Кипра",
               "Cyprus tourist arrivals October 2026"
             ],
-            "relatedRadarIds": [],
-            "editorialNote": "RU/EN draft prepared; exact duplicate check against live CMS pending. Publication freshness unchanged."
+            "relatedRadarIds": [
+              "cyprus-arrivals-oct-nov17-2026"
+            ],
+            "editorialNote": "RU/EN draft ready; exact CMS duplicate check pending."
           },
           {
             "name": "Отели и гостиничный бизнес",
@@ -5325,8 +5723,10 @@
               "отельный рынок Кипра",
               "Cyprus tourist arrivals October 2026"
             ],
-            "relatedRadarIds": [],
-            "editorialNote": "RU/EN draft prepared; exact duplicate check against live CMS pending. Publication freshness unchanged."
+            "relatedRadarIds": [
+              "cyprus-arrivals-oct-nov17-2026"
+            ],
+            "editorialNote": "RU/EN draft ready; exact CMS duplicate check pending."
           },
           {
             "name": "Недвижимость",
@@ -5341,7 +5741,7 @@
         ],
         "signalAt": "2026-11-17",
         "sourceUrl": "https://www.gov.cy/en/economy-and-finance/tourist-arrivals-and-returns-of-residents-of-cyprus-from-trips-abroad-october-2026/",
-        "decision": "verify_then_new",
+        "decision": "new",
         "editorialStatus": "draft_ready",
         "editorialTitle": "Кипр потерял 5,6% туристов за десять месяцев",
         "editorialScore": 3,
@@ -5373,24 +5773,230 @@
       {
         "country": "Австрия",
         "lastUpdate": "2026-11-25",
-        "priority": "medium",
-        "reason": "Statistics Austria October overnight stays / summer season: scheduled for 25 Nov; release not independently confirmed. Check actual figures and avoid duplicate.",
+        "priority": "high",
+        "reason": "Летний сезон май–октябрь: более 85 млн ночёвок. В октябре предварительно 9,2477 млн ночёвок (примерно без изменений), 3,3903 млн прибытий (+0,5%). Тироль: 2,2858 млн ночёвок (−2,8%). Вена: 1,8738 млн — подстановка прошлогодних данных из-за сбоя VIETOUR, не новое наблюдение.",
         "topics": [
           {
             "name": "Туризм",
             "lastPublished": "2026-08-26",
             "status": "watch",
             "lastUrl": "https://internationalinvestment.biz/en/tourism/8709-drought-dries-barenschutzklamm-waterfalls-in-austria.html",
-            "editorialStatus": "watch",
+            "editorialStatus": "draft_ready",
             "expectedReleaseAt": "2026-11-25",
-            "sourceUrl": "https://www.statistik.at/en/statistics/tourism-and-transport/tourism/accommodation/arrivals-overnight-stays",
-            "editorialNote": "Statistics Austria October overnight stays / summer season: scheduled for 25 Nov; release not independently confirmed. Check actual figures and avoid duplicate.",
-            "publicationConfirmed": false
+            "sourceUrl": "https://www.statistik.at/statistiken/tourismus-und-verkehr/tourismus/beherbergung/ankuenfte-naechtigungen",
+            "editorialNote": "RU/EN draft ready; exact CMS duplicate check pending.",
+            "publicationConfirmed": false,
+            "signalAt": "2026-11-25",
+            "editorialScore": 4,
+            "preparedAt": "2026-11-25",
+            "seoIntent": [
+              "туризм Австрии 2026",
+              "летний туристический сезон Австрии",
+              "Austria tourism October 2026"
+            ],
+            "relatedRadarIds": [
+              "austria-tourism",
+              "austria-summer-tourism-oct-nov25-2026"
+            ]
+          },
+          {
+            "name": "Отели и гостиничный бизнес",
+            "lastPublished": "2026-08-25",
+            "status": "urgent",
+            "lastUrl": "https://internationalinvestment.biz/en/austria/8707-vienna-leads-rentals-alpine-resorts-earn-more.html",
+            "signalAt": "2026-11-25",
+            "sourceUrl": "https://www.statistik.at/statistiken/tourismus-und-verkehr/tourismus/beherbergung/ankuenfte-naechtigungen",
+            "editorialStatus": "draft_ready",
+            "editorialScore": 4,
+            "preparedAt": "2026-11-25",
+            "publicationConfirmed": false,
+            "seoIntent": [
+              "туризм Австрии 2026",
+              "летний туристический сезон Австрии",
+              "Austria tourism October 2026"
+            ],
+            "relatedRadarIds": [
+              "austria-tourism",
+              "austria-summer-tourism-oct-nov25-2026"
+            ],
+            "editorialNote": "RU/EN draft ready; exact CMS duplicate check pending."
           }
         ],
-        "decision": "watch",
+        "decision": "new",
         "signalAt": "2026-11-25",
-        "sourceUrl": "https://www.statistik.at/en/statistics/tourism-and-transport/tourism/accommodation/arrivals-overnight-stays"
+        "sourceUrl": "https://www.statistik.at/statistiken/tourismus-und-verkehr/tourismus/beherbergung/ankuenfte-naechtigungen",
+        "editorialStatus": "draft_ready",
+        "editorialTitle": "В Австрии за летний сезон — более 85 млн ночёвок",
+        "editorialScore": 4,
+        "publicationConfirmed": false
+      },
+      {
+        "country": "Словения",
+        "topics": [
+          {
+            "name": "Туризм",
+            "lastPublished": "2026-09-11",
+            "status": "urgent",
+            "lastUrl": "https://internationalinvestment.biz/en/slovenia/8787-foreign-tourist-arrivals-to-slovenia-rise-74.html",
+            "signalAt": "2026-11-25",
+            "sourceUrl": "https://www.stat.si/StatWeb/en/News/Index/14756",
+            "editorialStatus": "draft_ready",
+            "editorialScore": 5,
+            "preparedAt": "2026-11-25",
+            "publicationConfirmed": false,
+            "seoIntent": [
+              "туризм Словении 2026",
+              "ночёвки в Словении",
+              "Slovenia tourism October 2026"
+            ],
+            "relatedRadarIds": [
+              "slovenia-tourism-oct-nov25-2026"
+            ],
+            "editorialNote": "RU/EN draft ready; exact CMS duplicate check pending."
+          },
+          {
+            "name": "Отели и гостиничный бизнес",
+            "lastPublished": null,
+            "status": "unverified",
+            "signalAt": "2026-11-25",
+            "sourceUrl": "https://www.stat.si/StatWeb/en/News/Index/14756",
+            "editorialStatus": "draft_ready",
+            "editorialScore": 5,
+            "preparedAt": "2026-11-25",
+            "publicationConfirmed": false,
+            "seoIntent": [
+              "туризм Словении 2026",
+              "ночёвки в Словении",
+              "Slovenia tourism October 2026"
+            ],
+            "relatedRadarIds": [
+              "slovenia-tourism-oct-nov25-2026"
+            ],
+            "editorialNote": "RU/EN draft ready; exact CMS duplicate check pending."
+          }
+        ],
+        "lastUpdate": "2026-11-25",
+        "priority": "urgent",
+        "signalAt": "2026-11-25",
+        "sourceUrl": "https://www.stat.si/StatWeb/en/News/Index/14756",
+        "decision": "new",
+        "editorialStatus": "draft_ready",
+        "editorialTitle": "Число туристических ночёвок в Словении выросло на 7,1%",
+        "editorialScore": 5,
+        "publicationConfirmed": false,
+        "reason": "Окончательные данные: январь–октябрь 17 390 094 ночёвки (+7,1% г/г); октябрь 1 317 490 (+7,1%). Горные курорты 299 855 (+17,1%), термальные 275 655 (+1,0%), Любляна 262 441 (+3,2%), побережье 260 665 (+9,8%)."
+      },
+      {
+        "country": "Япония",
+        "topics": [
+          {
+            "name": "Туризм",
+            "lastPublished": null,
+            "status": "unverified",
+            "signalAt": "2026-11-18",
+            "sourceUrl": "https://www.jnto.go.jp/news/press/20261118_monthly.html",
+            "editorialStatus": "draft_ready",
+            "editorialScore": 4,
+            "preparedAt": "2026-11-25",
+            "publicationConfirmed": false,
+            "seoIntent": [
+              "туризм Японии 2026",
+              "турпоток Японии октябрь",
+              "Japan visitor arrivals October 2026"
+            ],
+            "relatedRadarIds": [
+              "jnto-japan-arrivals-oct-nov18-2026"
+            ],
+            "editorialNote": "RU/EN draft ready; exact CMS duplicate check pending."
+          },
+          {
+            "name": "Отели и гостиничный бизнес",
+            "lastPublished": null,
+            "status": "unverified",
+            "signalAt": "2026-11-18",
+            "sourceUrl": "https://www.jnto.go.jp/news/press/20261118_monthly.html",
+            "editorialStatus": "draft_ready",
+            "editorialScore": 4,
+            "preparedAt": "2026-11-25",
+            "publicationConfirmed": false,
+            "seoIntent": [
+              "туризм Японии 2026",
+              "турпоток Японии октябрь",
+              "Japan visitor arrivals October 2026"
+            ],
+            "relatedRadarIds": [
+              "jnto-japan-arrivals-oct-nov18-2026"
+            ],
+            "editorialNote": "RU/EN draft ready; exact CMS duplicate check pending."
+          }
+        ],
+        "lastUpdate": "2026-11-25",
+        "priority": "high",
+        "signalAt": "2026-11-18",
+        "sourceUrl": "https://www.jnto.go.jp/news/press/20261118_monthly.html",
+        "decision": "new",
+        "editorialStatus": "draft_ready",
+        "editorialTitle": "Япония зафиксировала рекордные 3,91 млн въездов в октябре",
+        "editorialScore": 4,
+        "publicationConfirmed": false,
+        "reason": "Октябрь 3 912 500 въездов (+0,4% г/г), новый месячный максимум. Январь–октябрь 34 643 000 (−2,5%). Южная Корея 1 035 800 (+19,4%), материковый Китай 379 500 (−47%), Тайвань 634 600 (+6,5%)."
+      },
+      {
+        "country": "Польша",
+        "topics": [
+          {
+            "name": "Недвижимость",
+            "lastPublished": "2026-09-09",
+            "status": "urgent",
+            "lastUrl": "https://internationalinvestment.biz/en/poland/8784-poland-poised-to-hold-rates-at-375.html",
+            "signalAt": "2026-11-23",
+            "sourceUrl": "https://ssgk.stat.gov.pl/",
+            "editorialStatus": "hold_verify",
+            "editorialScore": 2,
+            "preparedAt": "2026-11-25",
+            "publicationConfirmed": false,
+            "seoIntent": [
+              "строительство жилья Польша 2026",
+              "рынок новостроек Польши",
+              "Poland housing construction October 2026"
+            ],
+            "relatedRadarIds": [
+              "poland-housing-construction-oct-nov23-2026"
+            ],
+            "editorialNote": "HOLD: сверить первичный релиз GUS."
+          },
+          {
+            "name": "Инвестиции",
+            "lastPublished": "2026-09-09",
+            "status": "urgent",
+            "lastUrl": "https://internationalinvestment.biz/en/poland/8784-poland-poised-to-hold-rates-at-375.html",
+            "signalAt": "2026-11-23",
+            "sourceUrl": "https://ssgk.stat.gov.pl/",
+            "editorialStatus": "hold_verify",
+            "editorialScore": 2,
+            "preparedAt": "2026-11-25",
+            "publicationConfirmed": false,
+            "seoIntent": [
+              "строительство жилья Польша 2026",
+              "рынок новостроек Польши",
+              "Poland housing construction October 2026"
+            ],
+            "relatedRadarIds": [
+              "poland-housing-construction-oct-nov23-2026"
+            ],
+            "editorialNote": "HOLD: сверить первичный релиз GUS."
+          }
+        ],
+        "lastUpdate": "2026-11-25",
+        "priority": "medium",
+        "signalAt": "2026-11-23",
+        "sourceUrl": "https://ssgk.stat.gov.pl/",
+        "decision": "hold",
+        "editorialStatus": "hold_verify",
+        "editorialTitle": "В Польше в октябре начали строить меньше жилья",
+        "editorialScore": 2,
+        "publicationConfirmed": false,
+        "reason": "HOLD: вторичные пересказы GUS приводят за октябрь 18 496 начатых жилых единиц, 20 042 завершённых, 23 572 разрешённых. Январь–октябрь: 192 053 начатых (+3,1%), 169 269 завершённых (+2,7%), 239 578 разрешённых (+10,4%). Отдельный октябрьский оригинал недоступен; первичные цифры не считаются подтверждёнными."
       }
     ],
     "previousSignalQueue": [
@@ -5957,7 +6563,26 @@
               "en": "https://internationalinvestment.biz/en/tourism/8709-drought-dries-barenschutzklamm-waterfalls-in-austria.html"
             },
             "matchCount": 2,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17",
+            "editorialSignal": {
+              "signalAt": "2026-11-25",
+              "title": "В Австрии за летний сезон — более 85 млн ночёвок",
+              "sourceUrl": "https://www.statistik.at/statistiken/tourismus-und-verkehr/tourismus/beherbergung/ankuenfte-naechtigungen",
+              "editorialStatus": "draft_ready",
+              "editorialScore": 4,
+              "preparedAt": "2026-11-25",
+              "publicationConfirmed": false,
+              "seoIntent": [
+                "туризм Австрии 2026",
+                "летний туристический сезон Австрии",
+                "Austria tourism October 2026"
+              ],
+              "relatedRadarIds": [
+                "austria-tourism",
+                "austria-summer-tourism-oct-nov25-2026"
+              ],
+              "editorialNote": "RU/EN draft ready; CMS deduplication pending. Publication status unchanged."
+            }
           },
           {
             "name": "Отели и гостиничный бизнес",
@@ -5970,7 +6595,26 @@
               "en": "https://internationalinvestment.biz/en/austria/8707-vienna-leads-rentals-alpine-resorts-earn-more.html"
             },
             "matchCount": 1,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17",
+            "editorialSignal": {
+              "signalAt": "2026-11-25",
+              "title": "В Австрии за летний сезон — более 85 млн ночёвок",
+              "sourceUrl": "https://www.statistik.at/statistiken/tourismus-und-verkehr/tourismus/beherbergung/ankuenfte-naechtigungen",
+              "editorialStatus": "draft_ready",
+              "editorialScore": 4,
+              "preparedAt": "2026-11-25",
+              "publicationConfirmed": false,
+              "seoIntent": [
+                "туризм Австрии 2026",
+                "летний туристический сезон Австрии",
+                "Austria tourism October 2026"
+              ],
+              "relatedRadarIds": [
+                "austria-tourism",
+                "austria-summer-tourism-oct-nov25-2026"
+              ],
+              "editorialNote": "RU/EN draft ready; CMS deduplication pending. Publication status unchanged."
+            }
           },
           {
             "name": "ВНЖ и миграция",
@@ -7133,14 +7777,17 @@
               ],
               "seoBasis": "qualitative; no fresh measured search data",
               "relatedRadarIds": [
-                "israel"
+                "israel",
+                "israel-boi-policy-housing-nov23-2026"
               ],
               "publicationConfirmed": false,
               "decision": "verify_then_new",
               "referenceArticleIds": [
                 "6739",
                 "8287"
-              ]
+              ],
+              "preparedAt": "2026-11-25",
+              "editorialNote": "RU/EN draft ready; CMS deduplication pending. Publication status unchanged."
             }
           },
           {
@@ -7170,14 +7817,17 @@
               ],
               "seoBasis": "qualitative; no fresh measured search data",
               "relatedRadarIds": [
-                "israel"
+                "israel",
+                "israel-boi-policy-housing-nov23-2026"
               ],
               "publicationConfirmed": false,
               "decision": "verify_then_new",
               "referenceArticleIds": [
                 "6739",
                 "8287"
-              ]
+              ],
+              "preparedAt": "2026-11-25",
+              "editorialNote": "RU/EN draft ready; CMS deduplication pending. Publication status unchanged."
             }
           },
           {
@@ -7385,7 +8035,26 @@
               "ru": "https://internationalinvestment.biz/business/9047-arenda-skladov-dublina-vyrosla-na-65.html"
             },
             "matchCount": 8,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17",
+            "editorialSignal": {
+              "signalAt": "2026-11-25",
+              "title": "В Ирландии завершили строительство 26,8 тыс. домов за девять месяцев",
+              "sourceUrl": "https://www.cso.ie/en/csolatestnews/pressreleases/2026pressreleases/pressstatement-highlightsfromthehousinghubnovember2026/",
+              "editorialStatus": "draft_ready",
+              "editorialScore": 5,
+              "preparedAt": "2026-11-25",
+              "publicationConfirmed": false,
+              "seoIntent": [
+                "рынок жилья Ирландии 2026",
+                "строительство жилья Ирландия",
+                "Ireland housing completions Q3 2026"
+              ],
+              "relatedRadarIds": [
+                "ireland-cooling",
+                "ireland-housing-hub-nov25-2026"
+              ],
+              "editorialNote": "RU/EN draft ready; CMS deduplication pending. Publication status unchanged."
+            }
           },
           {
             "name": "Инвестиции",
@@ -7401,7 +8070,26 @@
               "ru": "https://internationalinvestment.biz/business/9047-arenda-skladov-dublina-vyrosla-na-65.html"
             },
             "matchCount": 4,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17",
+            "editorialSignal": {
+              "signalAt": "2026-11-25",
+              "title": "В Ирландии завершили строительство 26,8 тыс. домов за девять месяцев",
+              "sourceUrl": "https://www.cso.ie/en/csolatestnews/pressreleases/2026pressreleases/pressstatement-highlightsfromthehousinghubnovember2026/",
+              "editorialStatus": "draft_ready",
+              "editorialScore": 5,
+              "preparedAt": "2026-11-25",
+              "publicationConfirmed": false,
+              "seoIntent": [
+                "рынок жилья Ирландии 2026",
+                "строительство жилья Ирландия",
+                "Ireland housing completions Q3 2026"
+              ],
+              "relatedRadarIds": [
+                "ireland-cooling",
+                "ireland-housing-hub-nov25-2026"
+              ],
+              "editorialNote": "RU/EN draft ready; CMS deduplication pending. Publication status unchanged."
+            }
           },
           {
             "name": "Туризм",
@@ -7880,13 +8568,17 @@
                 "Cyprus tourist arrivals October 2026"
               ],
               "seoBasis": "qualitative; no fresh measured search data",
-              "relatedRadarIds": [],
+              "relatedRadarIds": [
+                "cyprus-arrivals-oct-nov17-2026"
+              ],
               "publicationConfirmed": false,
               "decision": "verify_then_new",
               "referenceArticleIds": [
                 "7274",
                 "6801"
-              ]
+              ],
+              "preparedAt": "2026-11-25",
+              "editorialNote": "RU/EN draft ready; CMS deduplication pending. Publication status unchanged."
             }
           },
           {
@@ -7908,13 +8600,17 @@
                 "Cyprus tourist arrivals October 2026"
               ],
               "seoBasis": "qualitative; no fresh measured search data",
-              "relatedRadarIds": [],
+              "relatedRadarIds": [
+                "cyprus-arrivals-oct-nov17-2026"
+              ],
               "publicationConfirmed": false,
               "decision": "verify_then_new",
               "referenceArticleIds": [
                 "7274",
                 "6801"
-              ]
+              ],
+              "preparedAt": "2026-11-25",
+              "editorialNote": "RU/EN draft ready; CMS deduplication pending. Publication status unchanged."
             }
           },
           {
@@ -8236,14 +8932,17 @@
               ],
               "seoBasis": "qualitative; no fresh measured search data",
               "relatedRadarIds": [
-                "malta-tourism-intensity-2025-release-2026"
+                "malta-tourism-intensity-2025-release-2026",
+                "malta-permits-q3-nov20-2026"
               ],
               "publicationConfirmed": false,
               "decision": "verify_then_new",
               "referenceArticleIds": [
                 "7422",
                 "8921"
-              ]
+              ],
+              "preparedAt": "2026-11-25",
+              "editorialNote": "RU/EN draft ready; CMS deduplication pending. Publication status unchanged."
             }
           },
           {
@@ -8599,7 +9298,25 @@
               "en": "https://internationalinvestment.biz/en/poland/8784-poland-poised-to-hold-rates-at-375.html"
             },
             "matchCount": 2,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17",
+            "editorialSignal": {
+              "signalAt": "2026-11-23",
+              "title": "В Польше в октябре начали строить меньше жилья",
+              "sourceUrl": "https://ssgk.stat.gov.pl/",
+              "editorialStatus": "hold_verify",
+              "editorialScore": 2,
+              "preparedAt": "2026-11-25",
+              "publicationConfirmed": false,
+              "seoIntent": [
+                "строительство жилья Польша 2026",
+                "рынок новостроек Польши",
+                "Poland housing construction October 2026"
+              ],
+              "relatedRadarIds": [
+                "poland-housing-construction-oct-nov23-2026"
+              ],
+              "editorialNote": "HOLD: оригинал GUS недоступен."
+            }
           },
           {
             "name": "Инвестиции",
@@ -8612,7 +9329,25 @@
               "en": "https://internationalinvestment.biz/en/poland/8784-poland-poised-to-hold-rates-at-375.html"
             },
             "matchCount": 1,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17",
+            "editorialSignal": {
+              "signalAt": "2026-11-23",
+              "title": "В Польше в октябре начали строить меньше жилья",
+              "sourceUrl": "https://ssgk.stat.gov.pl/",
+              "editorialStatus": "hold_verify",
+              "editorialScore": 2,
+              "preparedAt": "2026-11-25",
+              "publicationConfirmed": false,
+              "seoIntent": [
+                "строительство жилья Польша 2026",
+                "рынок новостроек Польши",
+                "Poland housing construction October 2026"
+              ],
+              "relatedRadarIds": [
+                "poland-housing-construction-oct-nov23-2026"
+              ],
+              "editorialNote": "HOLD: оригинал GUS недоступен."
+            }
           },
           {
             "name": "Туризм",
@@ -9028,14 +9763,17 @@
               ],
               "seoBasis": "qualitative; no fresh measured search data",
               "relatedRadarIds": [
-                "etc-europe-summer-arrivals-q3-nov5-2026"
+                "etc-europe-summer-arrivals-q3-nov5-2026",
+                "slovakia-tourism-sep-nov11-2026"
               ],
               "publicationConfirmed": false,
               "decision": "verify_then_new",
               "referenceArticleIds": [
                 "6801",
                 "8122"
-              ]
+              ],
+              "preparedAt": "2026-11-25",
+              "editorialNote": "RU/EN draft ready; CMS deduplication pending. Publication status unchanged."
             }
           },
           {
@@ -9058,14 +9796,17 @@
               ],
               "seoBasis": "qualitative; no fresh measured search data",
               "relatedRadarIds": [
-                "etc-europe-summer-arrivals-q3-nov5-2026"
+                "etc-europe-summer-arrivals-q3-nov5-2026",
+                "slovakia-tourism-sep-nov11-2026"
               ],
               "publicationConfirmed": false,
               "decision": "verify_then_new",
               "referenceArticleIds": [
                 "6801",
                 "8122"
-              ]
+              ],
+              "preparedAt": "2026-11-25",
+              "editorialNote": "RU/EN draft ready; CMS deduplication pending. Publication status unchanged."
             }
           },
           {
@@ -9123,13 +9864,49 @@
               "en": "https://internationalinvestment.biz/en/slovenia/8787-foreign-tourist-arrivals-to-slovenia-rise-74.html"
             },
             "matchCount": 1,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17",
+            "editorialSignal": {
+              "signalAt": "2026-11-25",
+              "title": "Число туристических ночёвок в Словении выросло на 7,1%",
+              "sourceUrl": "https://www.stat.si/StatWeb/en/News/Index/14756",
+              "editorialStatus": "draft_ready",
+              "editorialScore": 5,
+              "preparedAt": "2026-11-25",
+              "publicationConfirmed": false,
+              "seoIntent": [
+                "туризм Словении 2026",
+                "ночёвки в Словении",
+                "Slovenia tourism October 2026"
+              ],
+              "relatedRadarIds": [
+                "slovenia-tourism-oct-nov25-2026"
+              ],
+              "editorialNote": "RU/EN draft ready; CMS deduplication pending. Publication status unchanged."
+            }
           },
           {
             "name": "Отели и гостиничный бизнес",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "no verified country-specific article in audited archive dataset"
+            "auditBasis": "no verified country-specific article in audited archive dataset",
+            "editorialSignal": {
+              "signalAt": "2026-11-25",
+              "title": "Число туристических ночёвок в Словении выросло на 7,1%",
+              "sourceUrl": "https://www.stat.si/StatWeb/en/News/Index/14756",
+              "editorialStatus": "draft_ready",
+              "editorialScore": 5,
+              "preparedAt": "2026-11-25",
+              "publicationConfirmed": false,
+              "seoIntent": [
+                "туризм Словении 2026",
+                "ночёвки в Словении",
+                "Slovenia tourism October 2026"
+              ],
+              "relatedRadarIds": [
+                "slovenia-tourism-oct-nov25-2026"
+              ],
+              "editorialNote": "RU/EN draft ready; CMS deduplication pending. Publication status unchanged."
+            }
           },
           {
             "name": "ВНЖ и миграция",
@@ -9627,14 +10404,18 @@
                 "Finland house prices October 2026"
               ],
               "seoBasis": "qualitative; no fresh measured search data",
-              "relatedRadarIds": [],
+              "relatedRadarIds": [
+                "finland-housing-oct-nov25-2026"
+              ],
               "publicationConfirmed": false,
               "decision": "verify_then_new",
               "referenceArticleIds": [
                 "8937",
                 "8832",
                 "5833"
-              ]
+              ],
+              "preparedAt": "2026-11-25",
+              "editorialNote": "RU/EN draft ready; CMS deduplication pending. Publication status unchanged."
             }
           },
           {
@@ -9663,14 +10444,18 @@
                 "Finland house prices October 2026"
               ],
               "seoBasis": "qualitative; no fresh measured search data",
-              "relatedRadarIds": [],
+              "relatedRadarIds": [
+                "finland-housing-oct-nov25-2026"
+              ],
               "publicationConfirmed": false,
               "decision": "verify_then_new",
               "referenceArticleIds": [
                 "8937",
                 "8832",
                 "5833"
-              ]
+              ],
+              "preparedAt": "2026-11-25",
+              "editorialNote": "RU/EN draft ready; CMS deduplication pending. Publication status unchanged."
             }
           },
           {
@@ -10337,13 +11122,49 @@
             "name": "Туризм",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "no verified country-specific article in audited archive dataset"
+            "auditBasis": "no verified country-specific article in audited archive dataset",
+            "editorialSignal": {
+              "signalAt": "2026-11-18",
+              "title": "Япония зафиксировала рекордные 3,91 млн въездов в октябре",
+              "sourceUrl": "https://www.jnto.go.jp/news/press/20261118_monthly.html",
+              "editorialStatus": "draft_ready",
+              "editorialScore": 4,
+              "preparedAt": "2026-11-25",
+              "publicationConfirmed": false,
+              "seoIntent": [
+                "туризм Японии 2026",
+                "турпоток Японии октябрь",
+                "Japan visitor arrivals October 2026"
+              ],
+              "relatedRadarIds": [
+                "jnto-japan-arrivals-oct-nov18-2026"
+              ],
+              "editorialNote": "RU/EN draft ready; CMS deduplication pending. Publication status unchanged."
+            }
           },
           {
             "name": "Отели и гостиничный бизнес",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "no verified country-specific article in audited archive dataset"
+            "auditBasis": "no verified country-specific article in audited archive dataset",
+            "editorialSignal": {
+              "signalAt": "2026-11-18",
+              "title": "Япония зафиксировала рекордные 3,91 млн въездов в октябре",
+              "sourceUrl": "https://www.jnto.go.jp/news/press/20261118_monthly.html",
+              "editorialStatus": "draft_ready",
+              "editorialScore": 4,
+              "preparedAt": "2026-11-25",
+              "publicationConfirmed": false,
+              "seoIntent": [
+                "туризм Японии 2026",
+                "турпоток Японии октябрь",
+                "Japan visitor arrivals October 2026"
+              ],
+              "relatedRadarIds": [
+                "jnto-japan-arrivals-oct-nov18-2026"
+              ],
+              "editorialNote": "RU/EN draft ready; CMS deduplication pending. Publication status unchanged."
+            }
           },
           {
             "name": "ВНЖ и миграция",
@@ -10433,7 +11254,7 @@
       "uniqueArticleIds": 514,
       "countryScopedArticles": 396,
       "partialCrossCountryArticles": 71,
-      "limitations": "90+ day baseline retained from dated archive scans; 15–16 Nov increment verified directly in EN/RU. Absence from indexed search alone is not treated as proof of no historical coverage. | 25 Nov: reviewed country signals and compared 134 radar cards; direct incremental archives unavailable/stale, so lastPublished and all historical coverage statuses remain unchanged. Country-specific archive labels require recheck for #9048 (Vienna/Italy), #8965 and #8949 (Israel, multi-country classifications); no speculative correction.",
+      "limitations": "90+ day baseline retained from dated archive scans; 15–16 Nov increment verified directly in EN/RU. Absence from indexed search alone is not treated as proof of no historical coverage. | 25 Nov: reviewed country signals and compared 134 radar cards; direct incremental archives unavailable/stale, so lastPublished and all historical coverage statuses remain unchanged. Country-specific archive labels require recheck for #9048 (Vienna/Italy), #8965 and #8949 (Israel, multi-country classifications); no speculative correction. | 25 Nov second pack: four primary-source drafts verified and Poland held on secondary reports; no newly published CMS articles inferred.",
       "seoDataStatus": "25 Nov GSC Wizard payment_required/subscription_required; no fresh GSC/GA4/Yandex metrics. Historical measured rows unchanged; qualitative intent only.",
       "corrections": [
         {
@@ -10465,12 +11286,12 @@
       "trendRadarData": "./data/trends.json",
       "sitePublications": "./data/coverage-publications.json",
       "analyticsDashboard": "../index.html",
-      "analyticsSourceUpdated": "17.10.2026",
+      "analyticsSourceUpdated": "25.11.2026",
       "analyticsLanguagePeriod": "20–26.09.2026",
       "gscLastMeasured": "10.10.2026",
       "ga4LastMeasured": "12.10.2026",
       "seoMetricsSource": "archive-only first-party snapshot; not current",
-      "sitePublicationsAudit": "Direct EN/RU daily archives checked through 17 Nov 2026; KA/HE incremental audit remains through 8 Nov. | 25 Nov reconciliation attempt: no new dated archive pages verified; 17 Nov baseline preserved. Editorial signal update is independent."
+      "sitePublicationsAudit": "Direct EN/RU daily archives checked through 17 Nov 2026; KA/HE incremental audit remains through 8 Nov. | 25 Nov reconciliation attempt: no new dated archive pages verified; 17 Nov baseline preserved. Editorial signal update is independent. | Second pack: editorial signals only; no new publication dates inferred."
     },
     "gapHistory": [
       {
@@ -10695,7 +11516,7 @@
     "trendRadarComparison": {
       "reviewedAt": "2026-11-25",
       "period": "19–25 ноября 2026",
-      "radarCardCount": 134,
+      "radarCardCount": 144,
       "previousPack": {
         "status": "draft_ready",
         "topics": [
@@ -10756,7 +11577,9 @@
               "цены на жильё в Хельсинки",
               "Finland house prices October 2026"
             ],
-            "relatedRadarIds": [],
+            "relatedRadarIds": [
+              "finland-housing-oct-nov25-2026"
+            ],
             "publicationConfirmed": false
           },
           {
@@ -10775,7 +11598,8 @@
               "Bank of Israel interest rate housing"
             ],
             "relatedRadarIds": [
-              "israel"
+              "israel",
+              "israel-boi-policy-housing-nov23-2026"
             ],
             "publicationConfirmed": false
           },
@@ -10794,7 +11618,8 @@
               "Malta dwelling permits Q3 2026"
             ],
             "relatedRadarIds": [
-              "malta-tourism-intensity-2025-release-2026"
+              "malta-tourism-intensity-2025-release-2026",
+              "malta-permits-q3-nov20-2026"
             ],
             "publicationConfirmed": false
           },
@@ -10813,7 +11638,9 @@
               "отельный рынок Кипра",
               "Cyprus tourist arrivals October 2026"
             ],
-            "relatedRadarIds": [],
+            "relatedRadarIds": [
+              "cyprus-arrivals-oct-nov17-2026"
+            ],
             "publicationConfirmed": false
           },
           {
@@ -10832,20 +11659,14 @@
               "Slovakia accommodation statistics September 2026"
             ],
             "relatedRadarIds": [
-              "etc-europe-summer-arrivals-q3-nov5-2026"
+              "etc-europe-summer-arrivals-q3-nov5-2026",
+              "slovakia-tourism-sep-nov11-2026"
             ],
             "publicationConfirmed": false
           }
         ]
       },
       "watch": [
-        {
-          "country": "Австрия",
-          "topic": "Туризм",
-          "date": "2026-11-25",
-          "url": "https://www.statistik.at/en/statistics/tourism-and-transport/tourism/accommodation/arrivals-overnight-stays",
-          "note": "Statistics Austria October overnight stays / summer season: scheduled for 25 Nov; release not independently confirmed. Check actual figures and avoid duplicate."
-        },
         {
           "country": "Кипр",
           "topic": "Недвижимость",
@@ -10861,7 +11682,121 @@
           "note": "Statistics Finland October accommodation statistics scheduled 26 Nov; confirm release, then assess regional hotel demand."
         }
       ],
-      "note": "No exact event match among reviewed 134 radar cards; thematic overlaps retained. New country signals are registered in Coverage Monitor, not a second duplicate trend radar refresh. Live CMS deduplication incomplete. No private draft links added to public repository."
+      "note": "10 страновых сигналов синхронизированы с радаром: 9 подготовленных RU/EN черновиков и 1 HOLD (Польша). Дата фактической публикации не менялась; полная CMS-сверка недоступна. Австрия: исходный watch закрыт релизом 25 ноября; финальные данные ожидаются 4 декабря.",
+      "secondPack": {
+        "status": "4 draft_ready, 1 hold_verify",
+        "count": 5,
+        "reviewedAt": "2026-11-25",
+        "topics": [
+          {
+            "country": "Словения",
+            "title": "Число туристических ночёвок в Словении выросло на 7,1%",
+            "topics": [
+              "Туризм",
+              "Отели и гостиничный бизнес"
+            ],
+            "signalAt": "2026-11-25",
+            "sourceUrl": "https://www.stat.si/StatWeb/en/News/Index/14756",
+            "editorialScore": 5,
+            "editorialStatus": "draft_ready",
+            "seoIntent": [
+              "туризм Словении 2026",
+              "ночёвки в Словении",
+              "Slovenia tourism October 2026"
+            ],
+            "relatedRadarIds": [
+              "slovenia-tourism-oct-nov25-2026"
+            ],
+            "publicationConfirmed": false
+          },
+          {
+            "country": "Австрия",
+            "title": "В Австрии за летний сезон — более 85 млн ночёвок",
+            "topics": [
+              "Туризм",
+              "Отели и гостиничный бизнес"
+            ],
+            "signalAt": "2026-11-25",
+            "sourceUrl": "https://www.statistik.at/statistiken/tourismus-und-verkehr/tourismus/beherbergung/ankuenfte-naechtigungen",
+            "editorialScore": 4,
+            "editorialStatus": "draft_ready",
+            "seoIntent": [
+              "туризм Австрии 2026",
+              "летний туристический сезон Австрии",
+              "Austria tourism October 2026"
+            ],
+            "relatedRadarIds": [
+              "austria-tourism",
+              "austria-summer-tourism-oct-nov25-2026"
+            ],
+            "publicationConfirmed": false
+          },
+          {
+            "country": "Ирландия",
+            "title": "В Ирландии завершили строительство 26,8 тыс. домов за девять месяцев",
+            "topics": [
+              "Недвижимость",
+              "Инвестиции"
+            ],
+            "signalAt": "2026-11-25",
+            "sourceUrl": "https://www.cso.ie/en/csolatestnews/pressreleases/2026pressreleases/pressstatement-highlightsfromthehousinghubnovember2026/",
+            "editorialScore": 5,
+            "editorialStatus": "draft_ready",
+            "seoIntent": [
+              "рынок жилья Ирландии 2026",
+              "строительство жилья Ирландия",
+              "Ireland housing completions Q3 2026"
+            ],
+            "relatedRadarIds": [
+              "ireland-cooling",
+              "ireland-housing-hub-nov25-2026"
+            ],
+            "publicationConfirmed": false
+          },
+          {
+            "country": "Япония",
+            "title": "Япония зафиксировала рекордные 3,91 млн въездов в октябре",
+            "topics": [
+              "Туризм",
+              "Отели и гостиничный бизнес"
+            ],
+            "signalAt": "2026-11-18",
+            "sourceUrl": "https://www.jnto.go.jp/news/press/20261118_monthly.html",
+            "editorialScore": 4,
+            "editorialStatus": "draft_ready",
+            "seoIntent": [
+              "туризм Японии 2026",
+              "турпоток Японии октябрь",
+              "Japan visitor arrivals October 2026"
+            ],
+            "relatedRadarIds": [
+              "jnto-japan-arrivals-oct-nov18-2026"
+            ],
+            "publicationConfirmed": false
+          },
+          {
+            "country": "Польша",
+            "title": "В Польше в октябре начали строить меньше жилья",
+            "topics": [
+              "Недвижимость",
+              "Инвестиции"
+            ],
+            "signalAt": "2026-11-23",
+            "sourceUrl": "https://ssgk.stat.gov.pl/",
+            "editorialScore": 2,
+            "editorialStatus": "hold_verify",
+            "seoIntent": [
+              "строительство жилья Польша 2026",
+              "рынок новостроек Польши",
+              "Poland housing construction October 2026"
+            ],
+            "relatedRadarIds": [
+              "poland-housing-construction-oct-nov23-2026"
+            ],
+            "publicationConfirmed": false
+          }
+        ]
+      }
     }
   },
   "dailyUpdate": {
@@ -10929,6 +11864,96 @@
         "priority": "medium",
         "signal": "Календарь Eurostat указывает выпуск Housing in Europe 2026 edition 25 ноября. На момент проверки сам новый релиз не найден. Не использовать цифры предыдущего ежегодника как новые.",
         "action": "После выхода сверить таблицы стран, единицы и версии рядов; проверить существующие статьи по доступности жилья."
+      },
+      {
+        "label": "5/5 — RU/EN черновик",
+        "title": "Жильё в Финляндии подешевело на 1,9% в октябре",
+        "source": "Statistics Finland",
+        "url": "https://stat.fi/en/publication/cmetmuvoskyag07uev9wi5i8t",
+        "priority": "urgent",
+        "signal": "Statistics Finland: October existing-home prices −1.9% YoY and −0.2% MoM; Helsinki −3.3%, Oulu −4.0%, Espoo +1.1%; estate-agent sales −9.3% YoY. Preliminary release; inspect revised tables. | WATCH: Statistics Finland October accommodation statistics scheduled 26 Nov; confirm release, then assess regional hotel demand.",
+        "action": "Сверить текущий CMS перед публикацией подготовленного RU/EN материала; не подменять данные публикационного аудита."
+      },
+      {
+        "label": "5/5 — RU/EN черновик",
+        "title": "Банк Израиля сохранил ставку 3,25%, жильё дешевеет",
+        "source": "Bank of Israel",
+        "url": "https://www.boi.org.il/en/communication-and-publications/press-releases/the-monetary-committee-decides-on-november-23-2026-to-keep-the-interest-rate-unchanged-at-325-percent/",
+        "priority": "urgent",
+        "signal": "Bank of Israel: policy rate 3.25%; October CPI +1.1% YoY, Aug–Sep home prices −1.5% YoY, October new mortgages ~NIS10bn seasonally adjusted; CPI housing +4.2% YoY, lease renewals +2.8%, new tenants +5.5%.",
+        "action": "Сверить текущий CMS перед публикацией подготовленного RU/EN материала; не подменять данные публикационного аудита."
+      },
+      {
+        "label": "4/5 — RU/EN черновик",
+        "title": "На Мальте одобрили на 37% меньше новых домов и квартир",
+        "source": "NSO Malta",
+        "url": "https://nso.gov.mt/residential-building-permits-q3-2026/",
+        "priority": "high",
+        "signal": "ETC Q3: Malta +18% international arrivals. The 16 Nov ETC article is multi-country autumn/winter demand and does not replace a country-specific Malta tourism page. | Malta NSO Q3: 444 permits (−25.1% YoY), 2,298 approved dwellings (−37.4% YoY); 1,608 apartments. Distinguish permit documents, dwellings and actual construction completions.",
+        "action": "Сверить текущий CMS перед публикацией подготовленного RU/EN материала; не подменять данные публикационного аудита."
+      },
+      {
+        "label": "3/5 — RU/EN черновик",
+        "title": "Кипр потерял 5,6% туристов за десять месяцев",
+        "source": "CYSTAT",
+        "url": "https://www.gov.cy/en/economy-and-finance/tourist-arrivals-and-returns-of-residents-of-cyprus-from-trips-abroad-october-2026/",
+        "priority": "medium",
+        "signal": "CYSTAT: Jan–Oct arrivals 3,909,839 (−5.6% YoY); October 508,301 (−5.5%). UK 164,512 (32.4%), Israel 49,091 (−17.5% YoY), Poland 40,070 (+10.5%). Arrivals are not hotel occupancy or receipts. | WATCH: CYSTAT August building permits release scheduled 26 Nov; not yet published/verified as of 25 Nov.",
+        "action": "Сверить текущий CMS перед публикацией подготовленного RU/EN материала; не подменять данные публикационного аудита."
+      },
+      {
+        "label": "3/5 — RU/EN черновик",
+        "title": "Словакия установила сентябрьский рекорд по числу гостей",
+        "source": "Statistical Office of the Slovak Republic",
+        "url": "https://slovak.statistics.sk/wps/portal/ext/products/informationmessages/inf_sprava_detail/%21ut/p/z0/fY5Lb8IwEIR_Sw8cHT8T7COpVAqtKlWoKvhS2YkDrokdYpM-fn0Nd3rZndGu5hso4RZKrya7V8kGr47Z72T18Tpf8brGC4TqZ4pW66fNy-P9A1m-lXBjPFxDaXVffDV9gQqGCOGkEmXJqBBUXCLs5-kkF1A2wSfzneA26KgOILoZiimjGnC9-JT98fyrf2YIY2DOYxiiU-D6E5N16oL6v89tmvHA-g4olylZhLHPqZM3IA6jmjJyiia5vOdc0860CrQV5YCJrLQWLA_GSYs7rBsBB7d8B3J39wfDAY7H/",
+        "priority": "medium",
+        "signal": "ETC Q3: Slovakia +15% international arrivals. No new country-specific tourism article verified through 16 Nov. | Statistical Office: September ~604,000 accommodation guests (+7% YoY), ~1.5m nights (+5.5%); foreign nights ~558,000 (+14%). Six of eight regions reached guest-count records; separate from ETC arrivals measure.",
+        "action": "Сверить текущий CMS перед публикацией подготовленного RU/EN материала; не подменять данные публикационного аудита."
+      },
+      {
+        "label": "5/5 — RU/EN черновик",
+        "title": "Число туристических ночёвок в Словении выросло на 7,1%",
+        "source": "SURS",
+        "url": "https://www.stat.si/StatWeb/en/News/Index/14756",
+        "priority": "urgent",
+        "signal": "Окончательные данные: январь–октябрь 17 390 094 ночёвки (+7,1% г/г); октябрь 1 317 490 (+7,1%). Горные курорты 299 855 (+17,1%), термальные 275 655 (+1,0%), Любляна 262 441 (+3,2%), побережье 260 665 (+9,8%).",
+        "action": "Сравнить направления, гостиницы и частное размещение; ночёвки не равны числу туристов."
+      },
+      {
+        "label": "4/5 — RU/EN черновик",
+        "title": "В Австрии за летний сезон — более 85 млн ночёвок",
+        "source": "Statistics Austria",
+        "url": "https://www.statistik.at/statistiken/tourismus-und-verkehr/tourismus/beherbergung/ankuenfte-naechtigungen",
+        "priority": "high",
+        "signal": "Летний сезон май–октябрь: более 85 млн ночёвок. В октябре предварительно 9,2477 млн ночёвок (примерно без изменений), 3,3903 млн прибытий (+0,5%). Тироль: 2,2858 млн ночёвок (−2,8%). Вена: 1,8738 млн — подстановка прошлогодних данных из-за сбоя VIETOUR, не новое наблюдение.",
+        "action": "Объяснить сезон и региональный контраст; результат Вены не интерпретировать как фактическую динамику. Сверить окончательный выпуск 4 декабря."
+      },
+      {
+        "label": "5/5 — RU/EN черновик",
+        "title": "В Ирландии завершили строительство 26,8 тыс. домов за девять месяцев",
+        "source": "CSO Ireland — Housing Hub",
+        "url": "https://www.cso.ie/en/csolatestnews/pressreleases/2026pressreleases/pressstatement-highlightsfromthehousinghubnovember2026/",
+        "priority": "urgent",
+        "signal": "Январь–сентябрь 26 833 завершённых жилых единицы (+10,6% г/г); III квартал 10 154 (+10,4%), в том числе 3 464 квартиры (+9,8%). Январь–октябрь 29 092 начала строительства по уведомлениям. В октябре частная аренда +5,5% г/г, муниципальная +12,7%.",
+        "action": "Разделить ввод и уведомления о начале работ; показать квартиры, аренду и трудовые затраты без прогнозов цен."
+      },
+      {
+        "label": "4/5 — RU/EN черновик",
+        "title": "Япония зафиксировала рекордные 3,91 млн въездов в октябре",
+        "source": "JNTO",
+        "url": "https://www.jnto.go.jp/news/press/20261118_monthly.html",
+        "priority": "high",
+        "signal": "Октябрь 3 912 500 въездов (+0,4% г/г), новый месячный максимум. Январь–октябрь 34 643 000 (−2,5%). Южная Корея 1 035 800 (+19,4%), материковый Китай 379 500 (−47%), Тайвань 634 600 (+6,5%).",
+        "action": "Сравнить рынки происхождения и динамику въездов, не смешивать с числом уникальных туристов или поисковым спросом Amadeus."
+      },
+      {
+        "label": "2/5 — HOLD / сверить GUS",
+        "title": "В Польше в октябре начали строить меньше жилья",
+        "source": "Statistics Poland — официальный макрообзор",
+        "url": "https://ssgk.stat.gov.pl/",
+        "priority": "medium",
+        "signal": "HOLD: вторичные пересказы GUS приводят за октябрь 18 496 начатых жилых единиц, 20 042 завершённых, 23 572 разрешённых. Январь–октябрь: 192 053 начатых (+3,1%), 169 269 завершённых (+2,7%), 239 578 разрешённых (+10,4%). Отдельный октябрьский оригинал недоступен; первичные цифры не считаются подтверждёнными.",
+        "action": "Не публиковать до сверки оригинального октябрьского релиза GUS. Разделять начала, завершения и разрешения."
       }
     ]
   }
