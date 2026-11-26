@@ -11631,8 +11631,11 @@
       "scope": "country",
       "themes": [
         "Недвижимость",
-        "Инвестиции"
-      ]
+        "Инвестиции",
+        "Регулирование и правила для иностранных покупателей"
+      ],
+      "auditBasis": "Indexed public article text with date and canonical URL; direct archive/open unavailable, targeted check 2026-11-26",
+      "editorialNote": "Редактор подтвердил недавнее покрытие регулирования/иностранных покупателей. #9116 от 13.11 подтверждён по индексированному тексту как материал об иностранных покупателях; отдельный точный URL о регулировании не найден. Тематическая классификация по редакционному подтверждению, не доказательство изменения законодательства."
     },
     {
       "id": "9114",
@@ -12502,6 +12505,208 @@
       "themes": [
         "ВНЖ и миграция"
       ]
+    },
+    {
+      "id": "9132",
+      "date": "2026-11-16",
+      "title": "Босния ограничила выдачу рабочих виз для четырех стран",
+      "url": "https://internationalinvestment.biz/news/9132-bosnija-ogranichila-vydachu-rabochih-viz-dlja-chetyreh-stran.html",
+      "lang": "ru",
+      "countries": [
+        "Босния и Герцеговина"
+      ],
+      "scope": "country",
+      "themes": [
+        "ВНЖ и миграция"
+      ],
+      "auditBasis": "Indexed public article text with date and canonical URL; direct archive/open unavailable, targeted check 2026-11-26"
+    },
+    {
+      "id": "9132",
+      "date": "2026-11-16",
+      "title": "Bosnia and Herzegovina Restricts Work Visas for Nationals of Four Countries",
+      "url": "https://internationalinvestment.biz/en/news/9132-bosnia-and-herzegovina-restricts-work-visas-for-nationals-of-four-countries.html",
+      "lang": "en",
+      "countries": [
+        "Босния и Герцеговина"
+      ],
+      "scope": "country",
+      "themes": [
+        "ВНЖ и миграция"
+      ],
+      "auditBasis": "Indexed public article text with date and canonical URL; direct archive/open unavailable, targeted check 2026-11-26"
+    },
+    {
+      "id": "9199",
+      "date": "2026-11-25",
+      "title": "Великобритания увеличит срок получения ПМЖ до 10 лет",
+      "url": "https://internationalinvestment.biz/news/9199-velikobritanija-uvelichit-srok-poluchenija-pmzh-do-10-let.html",
+      "lang": "ru",
+      "countries": [
+        "Великобритания"
+      ],
+      "scope": "country",
+      "themes": [
+        "ВНЖ и миграция"
+      ],
+      "auditBasis": "Indexed public article text with date and canonical URL; direct archive/open unavailable, targeted check 2026-11-26"
+    },
+    {
+      "id": "9198",
+      "date": "2026-11-25",
+      "title": "Венгрия одобрила новые налоги для инвесторов",
+      "url": "https://internationalinvestment.biz/business/9198-vengrija-odobrila-novye-nalogi-dlja-investorov.html",
+      "lang": "ru",
+      "countries": [
+        "Венгрия"
+      ],
+      "scope": "country",
+      "themes": [
+        "Налоги для инвесторов",
+        "Инвестиции"
+      ],
+      "auditBasis": "Indexed public article text with date and canonical URL; direct archive/open unavailable, targeted check 2026-11-26"
+    },
+    {
+      "id": "9198",
+      "date": "2026-11-25",
+      "title": "Hungary approves new taxes for investors",
+      "url": "https://internationalinvestment.biz/en/business/9198-hungary-approves-new-taxes-for-investors.html",
+      "lang": "en",
+      "countries": [
+        "Венгрия"
+      ],
+      "scope": "country",
+      "themes": [
+        "Налоги для инвесторов",
+        "Инвестиции"
+      ],
+      "auditBasis": "Indexed public article text with date and canonical URL; direct archive/open unavailable, targeted check 2026-11-26"
+    },
+    {
+      "id": "9150",
+      "date": "2026-11-18",
+      "title": "Иностранные инвестиции в недвижимость Индии выросли на 17%",
+      "url": "https://internationalinvestment.biz/business/9150-inostrannye-investicii-v-nedvizhimost-indii-vyrosli-na-17.html",
+      "lang": "ru",
+      "countries": [
+        "Индия"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость",
+        "Инвестиции"
+      ],
+      "auditBasis": "Indexed public article text with date and canonical URL; direct archive/open unavailable, targeted check 2026-11-26"
+    },
+    {
+      "id": "9150",
+      "date": "2026-11-18",
+      "title": "Foreign Investment in Indian Real Estate Rises 17%",
+      "url": "https://internationalinvestment.biz/en/business/9150-foreign-investment-in-indian-real-estate-rises-17.html",
+      "lang": "en",
+      "countries": [
+        "Индия"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость",
+        "Инвестиции"
+      ],
+      "auditBasis": "Indexed public article text with date and canonical URL; direct archive/open unavailable, targeted check 2026-11-26"
+    },
+    {
+      "id": "9192",
+      "date": "2026-11-24",
+      "title": "Иностранные инвесторы на рынке недвижимости Грузии — где самая высокая доля международных покупателей?",
+      "url": "https://internationalinvestment.biz/real-estate/9192-inostrannye-investory-nedvizhimost-gruzii.html",
+      "lang": "ru",
+      "countries": [
+        "Грузия"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость",
+        "Инвестиции"
+      ],
+      "auditBasis": "Indexed public article text with date and canonical URL; direct archive/open unavailable, targeted check 2026-11-26"
+    },
+    {
+      "id": "9189",
+      "date": "2026-11-24",
+      "title": "Грузия названа стратегическим туристическим направлением года по версии Trip.com Group",
+      "url": "https://internationalinvestment.biz/tourism/9189-tripcom-group.html",
+      "lang": "ru",
+      "countries": [
+        "Грузия"
+      ],
+      "scope": "country",
+      "themes": [
+        "Туризм"
+      ],
+      "auditBasis": "Indexed public article text with date and canonical URL; direct archive/open unavailable, targeted check 2026-11-26"
+    },
+    {
+      "id": "9193",
+      "date": "2026-11-24",
+      "title": "Жилищные протесты в Испании: арендаторы требуют реформ",
+      "url": "https://internationalinvestment.biz/business/9193-zhilischnye-protesty-v-ispanii-arendatory-trebujut-reform.html",
+      "lang": "ru",
+      "countries": [
+        "Испания"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость"
+      ],
+      "auditBasis": "Indexed public article text with date and canonical URL; direct archive/open unavailable, targeted check 2026-11-26"
+    },
+    {
+      "id": "9177",
+      "date": "2026-11-23",
+      "title": "Гостиницы Испании: RevPAR вырос на 9%",
+      "url": "https://internationalinvestment.biz/tourism/9177-gostinicy-ispanii-revpar-vyros-na-9.html",
+      "lang": "ru",
+      "countries": [
+        "Испания"
+      ],
+      "scope": "country",
+      "themes": [
+        "Туризм",
+        "Отели и гостиничный бизнес"
+      ],
+      "auditBasis": "Indexed public article text with date and canonical URL; direct archive/open unavailable, targeted check 2026-11-26"
+    },
+    {
+      "id": "9183",
+      "date": "2026-11-23",
+      "title": "Португалия пересматривает льготу по налогу на аренду",
+      "url": "https://internationalinvestment.biz/real-estate/9183-portugalija-peresmatrivaet-lgotu-po-nalogu-na-arendu.html",
+      "lang": "ru",
+      "countries": [
+        "Португалия"
+      ],
+      "scope": "country",
+      "themes": [
+        "Налоги для инвесторов",
+        "Недвижимость"
+      ],
+      "auditBasis": "Indexed public article text with date and canonical URL; direct archive/open unavailable, targeted check 2026-11-26"
+    },
+    {
+      "id": "9194",
+      "date": "2026-11-24",
+      "title": "В Израиле разорились более 800 строительных компаний",
+      "url": "https://internationalinvestment.biz/business/9194-v-izraile-razorilis-bolee-800-stroitelnyh-kompanij.html",
+      "lang": "ru",
+      "countries": [
+        "Израиль"
+      ],
+      "scope": "country",
+      "themes": [
+        "Недвижимость"
+      ],
+      "auditBasis": "Indexed public article text with date and canonical URL; direct archive/open unavailable, targeted check 2026-11-26"
     }
   ],
   "errors": [
@@ -12593,7 +12798,7 @@
       }
     }
   ],
-  "limitations": "90+ day baseline retained from dated archive scans; 15–16 Nov increment verified directly in EN/RU. Absence from indexed search alone is not treated as proof of no historical coverage. | 25 Nov: cross-language ID and archived headline corrections #9048, #9070, #8997, #8965, #8949; no new dated archive pages verified.",
+  "limitations": "90+ day baseline retained from dated archive scans; 15–16 Nov increment verified directly in EN/RU. Absence from indexed search alone is not treated as proof of no historical coverage. | 25 Nov: cross-language ID and archived headline corrections #9048, #9070, #8997, #8965, #8949; no new dated archive pages verified. | 26 Nov: targeted indexed article verification through 25.11; full archive baseline remains 17.11.",
   "archiveYears": [
     "2026"
   ],
@@ -12611,5 +12816,22 @@
     "en",
     "ru"
   ],
-  "kaHeThrough": "2026-11-08"
+  "kaHeThrough": "2026-11-08",
+  "targetedReconciliation": {
+    "checkedAt": "2026-11-26",
+    "articleIds": [
+      "9116",
+      "9132",
+      "9199",
+      "9198",
+      "9150",
+      "9192",
+      "9189",
+      "9193",
+      "9177",
+      "9183",
+      "9194"
+    ],
+    "method": "Indexed public article text with date and canonical URL; direct archive/open unavailable, targeted check 2026-11-26"
+  }
 }
