@@ -5305,7 +5305,7 @@
             "editorialStatus": "draft_ready",
             "editorialScore": 5,
             "preparedAt": "2026-11-25",
-            "publicationConfirmed": true,
+            "publicationConfirmed": false,
             "seoIntent": [
               "ипотека в Израиле",
               "цены на недвижимость Израиля",
@@ -5325,7 +5325,8 @@
                 "basis": "Метрика 19–25.11: наблюдаемый заголовок, ID не подтверждён"
               }
             ],
-            "publicationCheck": "indexed_article_verified"
+            "publicationCheck": "related_coverage_verified_not_draft_publication",
+            "coveragePublicationVerified": true
           },
           {
             "name": "Инвестиции",
@@ -5451,7 +5452,7 @@
             "editorialStatus": "update_existing",
             "trendRadarRef": "portugal-oe2027-final-vote-rental-tax-nov24-2026",
             "preparedAt": "2026-11-25",
-            "publicationConfirmed": true,
+            "publicationConfirmed": false,
             "editorialNote": "RU/EN text prepared in earlier 25 Nov package; do not create a duplicate draft. CMS publication/update not verified in this run.",
             "coverageStatus": "fresh",
             "observedPublications": [
@@ -5464,7 +5465,8 @@
                 "basis": "URL уже в очереди Coverage; дата публикации требует проверки"
               }
             ],
-            "publicationCheck": "indexed_article_verified"
+            "publicationCheck": "related_coverage_verified_not_draft_publication",
+            "coveragePublicationVerified": true
           },
           {
             "name": "Туризм",
@@ -5627,12 +5629,13 @@
                 "basis": "Метрика 19–25.11: заголовок и ID страницы, полный URL обрезан"
               }
             ],
-            "publicationCheck": "indexed_article_verified",
+            "publicationCheck": "related_coverage_verified_not_draft_publication",
             "editorialStatus": "published",
             "lastUrl": "https://internationalinvestment.biz/business/9193-zhilischnye-protesty-v-ispanii-arendatory-trebujut-reform.html",
             "articleId": "9193",
             "coverageStatus": "fresh",
-            "publicationConfirmed": true
+            "publicationConfirmed": false,
+            "coveragePublicationVerified": true
           },
           {
             "name": "Отели и гостиничный бизнес",
@@ -5653,7 +5656,8 @@
             "publicationCheck": "indexed_article_verified",
             "editorialStatus": "published",
             "articleId": "9177",
-            "publicationConfirmed": true
+            "publicationConfirmed": true,
+            "coveragePublicationVerified": true
           }
         ],
         "signalAt": "2026-11-23",
