@@ -1,9 +1,9 @@
 {
   "meta": {
-    "period": "19–25 ноября 2026",
-    "updatedAt": "25 ноября 2026",
-    "reportUrl": "https://docs.google.com/document/d/1vEk5eZyMUy_KmLECe0tdNZEvDWDBIyxihwhjdMhLkCo/edit",
-    "editorialNote": "23 Nov: five sourced editorial candidates 18–20 Nov: EU tourism GVA, Eurostat construction, STR US hotel outlook, travel modes and debt holders. RU/EN drafts in single Doc; full visual production and complete site deduplication pending. No fresh GSC metrics loaded. | 23 Nov revision: 5 expanded RU/EN narratives, 11 Google Docs tables, 5 verified charts, 5 illustrated covers, clickable sources. Previous draft archived at https://docs.google.com/document/d/1j4jdX-Il2j5KlF34UiFbpSHod9oPCPGvj-Hl9J1MOdI/edit | 23 Nov operational radar refresh: four additional primary-source cards (INE hotels, ECB housing risks, Eurostat fuel prices and mobility watch), 2 SEO clusters, old period archived. New full-text report not produced; reportLink retains existing 16–22 Nov complete weekly Doc. GSC Wizard subscription_required confirmed; 10 Oct measured SEO rows retained. | 25 Nov: operational story-selection update (5 new leads, 1 existing Portugal URL refresh, 1 watch). Full previous report remains linked; no new full bilingual article pack requested/created in this run. Recent site index stale; do not re-import already-covered CMS articles. | 25 Nov: synchronized both country draft packs with coverage and radar, including four rechecked primary-source stories and one HOLD (Poland). No new private document links; CMS publication not confirmed.",
+    "period": "20–26 ноября 2026",
+    "updatedAt": "26 ноября 2026",
+    "reportUrl": "https://docs.google.com/document/d/1n1cpDK-ONcDV3NaK64dvNoIT_Ws4mSV1xOFTqbjIHhw/edit",
+    "editorialNote": "23 Nov: five sourced editorial candidates 18–20 Nov: EU tourism GVA, Eurostat construction, STR US hotel outlook, travel modes and debt holders. RU/EN drafts in single Doc; full visual production and complete site deduplication pending. No fresh GSC metrics loaded. | 23 Nov revision: 5 expanded RU/EN narratives, 11 Google Docs tables, 5 verified charts, 5 illustrated covers, clickable sources. Previous draft archived at https://docs.google.com/document/d/1j4jdX-Il2j5KlF34UiFbpSHod9oPCPGvj-Hl9J1MOdI/edit | 23 Nov operational radar refresh: four additional primary-source cards (INE hotels, ECB housing risks, Eurostat fuel prices and mobility watch), 2 SEO clusters, old period archived. New full-text report not produced; reportLink retains existing 16–22 Nov complete weekly Doc. GSC Wizard subscription_required confirmed; 10 Oct measured SEO rows retained. | 25 Nov: operational story-selection update (5 new leads, 1 existing Portugal URL refresh, 1 watch). Full previous report remains linked; no new full bilingual article pack requested/created in this run. Recent site index stale; do not re-import already-covered CMS articles. | 25 Nov: synchronized both country draft packs with coverage and radar, including four rechecked primary-source stories and one HOLD (Poland). No new private document links; CMS publication not confirmed. | 26 Nov: 2 new RU/EN drafts (ONS UK migration, INE Spain mortgages), 2 embedded sourced charts, 4 SEO packs; author precheck separate from clean document. Independent MICH + current CMS reconciliation pending; Finland accommodation HOLD (direct release inaccessible). Previous weekly consolidated document retained.",
     "consolidatedDocUrl": "https://docs.google.com/document/d/1vEk5eZyMUy_KmLECe0tdNZEvDWDBIyxihwhjdMhLkCo/edit",
     "weeklyFinalDocUrl": "https://docs.google.com/document/d/1vEk5eZyMUy_KmLECe0tdNZEvDWDBIyxihwhjdMhLkCo/edit",
     "additionalViralBriefUrl": "https://docs.google.com/document/d/1noak5K9VJW3EaN1FZ9yRM_eoMe9cMRiXNPlOC6unumk/edit",
@@ -46,10 +46,25 @@
         "Poland GUS October standalone housing-construction release not retrieved; secondary numbers HOLD."
       ],
       "publicationAudit": "Partial: compared current 127 radar cards, previous CMS batch IDs 9177–9186, targeted searches against RU/EN site. Do not claim absence of duplicates; reconcile the latest CMS archive before new URLs. | Both 25 Nov country packs reconciled to radar by event ID; no new live CMS publication confirmed; 17 Nov baseline unchanged.",
-      "seoAccess": "25 Nov: subscription_required confirmed; historical 10 Oct GSC measurements retained; qualitative intent only."
+      "seoAccess": "25 Nov: subscription_required confirmed; historical 10 Oct GSC measurements retained; qualitative intent only.",
+      "latestTargetedReview": {
+        "date": "2026-11-26",
+        "verifiedPrimarySources": [
+          "https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/internationalmigration/bulletins/longterminternationalmigrationprovisional/yearendingjune2026/pdf",
+          "https://www.ine.es/dyngs/Prensa/H0926.htm"
+        ],
+        "blockedSources": [
+          "https://stat.fi/en/publication/cmg51epaqn2ye07w0ieeu4w1p",
+          "CYSTAT Cyprus permits: calendar only",
+          "MONSTAT Montenegro permits/accommodation: calendar only",
+          "Eurostat seasonal data: direct 2025 release not retrieved"
+        ],
+        "publicationAudit": "Partial targeted indexed search and current radar/archive comparison; no new live CMS publication inferred.",
+        "seoAccess": "No fresh measured data in this run; historical rows retained."
+      }
     },
-    "latestDailyUpdateDate": "2026-11-25",
-    "nextEditorialPlanDate": "2026-11-26"
+    "latestDailyUpdateDate": "2026-11-26",
+    "nextEditorialPlanDate": "2026-11-27"
   },
   "categories": [
     "Все",
@@ -60,6 +75,90 @@
     "Инвестиции"
   ],
   "trends": [
+    {
+      "id": "uk-ons-net-migration-june-nov26-2026",
+      "title": "Чистая миграция в Великобританию сократилась до 77 тысяч",
+      "category": "ВНЖ и миграция",
+      "priority": "urgent",
+      "status": "draft_ready",
+      "decision": "new",
+      "editorialUrgency": "5/5 — RU/EN черновик / независимая проверка pending",
+      "publishedAt": "2026-11-26",
+      "verifiedOn": "2026-11-26",
+      "signal": "ONS: 77 тыс. чистой миграции за 12 месяцев до июня 2026 против пересмотренных 204 тыс. годом ранее; снижение на 127 тыс. (~62%). Предварительная оценка. Прямой PDF прочитан.",
+      "why": "Новый статистический релиз, не повтор новости об изменении сроков ПМЖ #9199.",
+      "editorialAngle": "Разделить миграционные потоки и визовые основания; не приписывать сокращение конкретной реформе без доказательств.",
+      "seoAngle": "миграция Великобритания 2026; net migration UK June 2026; иммиграция Великобритания статистика",
+      "sources": [
+        {
+          "label": "ONS — Long-term international migration, provisional, year ending June 2026",
+          "url": "https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/internationalmigration/bulletins/longterminternationalmigrationprovisional/yearendingjune2026/pdf"
+        }
+      ],
+      "publishedCoverage": "Тематическое покрытие свежее: #9199 от 25.11. Новый статистический релиз отличается; актуальный полный CMS не проверен.",
+      "relatedRadarIds": [],
+      "editorialStatus": "draft_ready",
+      "publicationConfirmed": false,
+      "reviewStatus": "review_pending",
+      "reviewMode": "same_chat_preliminary",
+      "documentUrl": "https://docs.google.com/document/d/1n1cpDK-ONcDV3NaK64dvNoIT_Ws4mSV1xOFTqbjIHhw/edit"
+    },
+    {
+      "id": "spain-ine-mortgages-sep-nov25-2026",
+      "title": "Средняя ипотека в Испании достигла €178 352",
+      "category": "Недвижимость",
+      "priority": "high",
+      "status": "draft_ready",
+      "decision": "new",
+      "editorialUrgency": "4/5 — RU/EN черновик / независимая проверка pending",
+      "publishedAt": "2026-11-25",
+      "verifiedOn": "2026-11-26",
+      "signal": "INE: сентябрь 2026 — 46 469 ипотек на жильё (+2,3% г/г), средняя сумма €178 352 (+3,7%), средняя начальная ставка 3,05%, фиксированная ставка 62,5%. Наварра +33,3%, Балеарские острова −34,0%; разрыв 67,3 п.п. Прямой выпуск открыт; исторические абсолютные числа из устаревшего ряда исключены.",
+      "why": "Отдельный новый релиз об ипотеке; не дублирует продажи жилья #9168, аренду #9193 или гостиницы #9177.",
+      "editorialAngle": "Объём ипотек, ставки, разница регионов. Не отождествлять ипотечные регистрации и сделки купли-продажи.",
+      "seoAngle": "ипотека в Испании сентябрь 2026; ставки ипотеки Испания; Spain mortgage statistics",
+      "sources": [
+        {
+          "label": "INE — Estadística de Hipotecas, septiembre 2026, 25 Nov",
+          "url": "https://www.ine.es/dyngs/Prensa/H0926.htm"
+        }
+      ],
+      "publishedCoverage": "Недвижимость Испании покрыта #9193 от 24.11; новый релиз отличен, актуальная CMS-дедупликация pending.",
+      "relatedRadarIds": [],
+      "editorialStatus": "draft_ready",
+      "publicationConfirmed": false,
+      "reviewStatus": "review_pending",
+      "reviewMode": "same_chat_preliminary",
+      "documentUrl": "https://docs.google.com/document/d/1n1cpDK-ONcDV3NaK64dvNoIT_Ws4mSV1xOFTqbjIHhw/edit"
+    },
+    {
+      "id": "finland-accommodation-oct-nov26-2026",
+      "title": "Финляндия: октябрьская статистика гостиниц и ночёвок",
+      "category": "Отели и гостиничный бизнес",
+      "priority": "high",
+      "status": "hold_verify",
+      "decision": "hold",
+      "editorialUrgency": "4/5 — HOLD / открыть оригинал",
+      "publishedAt": "2026-11-26",
+      "verifiedOn": "2026-11-26",
+      "signal": "Индексированный выпуск Statistics Finland от 26.11 указывает 1,75 млн ночёвок (+3% г/г) и загрузку 54%; прямой текст финской и английской публикаций недоступен. Числа предварительно обнаружены, не подтверждены полным первоисточником.",
+      "why": "Датированное архивное покрытие размещения устарело; #8831 о курортных домах не равно полноценной гостиничной статистике. Отсутствие более свежего материала не доказано.",
+      "editorialAngle": "Проверить официальный выпуск, отдельно ночёвки, загрузку и цену номера; только затем писать и проверять CMS.",
+      "seoAngle": "туризм Финляндия октябрь 2026; гостиницы Финляндия; Finland accommodation statistics",
+      "sources": [
+        {
+          "label": "Statistics Finland — accommodation statistics, indexed release",
+          "url": "https://stat.fi/en/publication/cmg51epaqn2ye07w0ieeu4w1p"
+        }
+      ],
+      "publishedCoverage": "Историческая датировка 19.09 сохранена. Актуальная полнота архива не проверена.",
+      "relatedRadarIds": [
+        "finland-housing-oct-nov25-2026"
+      ],
+      "editorialStatus": "hold_verify",
+      "publicationConfirmed": false,
+      "reviewStatus": "source_pending"
+    },
     {
       "id": "poland-housing-construction-oct-nov23-2026",
       "title": "В Польше в октябре начали строить меньше жилья",
@@ -4140,6 +4239,14 @@
     {
       "title": "Словакия: туристический спрос и размещение",
       "description": "Официальная статистика гостей и ночёвок; сопоставление с предыдущим периодом."
+    },
+    {
+      "title": "Ипотека и кредитование жилья в Испании",
+      "description": "INE September 2026: mortgage registration volumes, rates, average amount and regional comparison. Qualitative search intent; no fresh measured SEO."
+    },
+    {
+      "title": "Миграционные потоки Великобритании",
+      "description": "ONS year ending June 2026: net migration, work/study and EUSS. Qualitative search intent; no fresh measured SEO."
     }
   ],
   "history": [
@@ -4448,6 +4555,18 @@
         "Топливо для личного транспорта в ЕС подорожало на 29,5%",
         "Eurostat: 61,7% жителей ЕС чаще пользуются личным транспортом",
         "Туризм обеспечивает 10,1% добавленной стоимости ЕС"
+      ],
+      "reportUrl": "https://docs.google.com/document/d/1vEk5eZyMUy_KmLECe0tdNZEvDWDBIyxihwhjdMhLkCo/edit"
+    },
+    {
+      "period": "19–25 ноября 2026",
+      "endDate": "2026-11-25",
+      "savedAt": "26 ноября 2026",
+      "summary": "Предыдущий недельный радар: 25 ноября, подбор источников, страновые черновики, мониторинг покрытия; без подтверждения новых CMS-публикаций.",
+      "keyPoints": [
+        "Отдельные новые сигналы и черновики сохранены в карточках.",
+        "Публикационный аудит по 17 ноября; адресные исправления 26 ноября.",
+        "Измеренные SEO-данные не обновлялись."
       ],
       "reportUrl": "https://docs.google.com/document/d/1vEk5eZyMUy_KmLECe0tdNZEvDWDBIyxihwhjdMhLkCo/edit"
     }
@@ -5199,17 +5318,22 @@
       "required": "Read both complete canonical documents before drafting or reviewing. For every RU/EN locale require separate author self-check and independent five-step reviewer report in a clean context; reviewer does not rewrite. No live CMS publication without independent PUBLISH, exact source verification and explicit editorial approval. Same-chat review is provisional; review_pending blocks publication. Respect all original thresholds and preserve history. For analyses require two independent sources and factual added value, not derivative summaries. For coverage separate existing publications, new signals, drafts and review status.",
       "latestPreliminaryReview": {
         "checkedAt": "2026-11-26",
-        "reportUrl": "https://docs.google.com/document/d/1lN-nrvgw0IW0pDYy99DF7UEBd23nrL6nZv_psI82weo/edit",
+        "reportUrl": "https://docs.google.com/document/d/1MJ3ATQIflzEK_BafiQz7y27S_1YiffoD4twx56lPfuw/edit",
         "reviewerMode": "same_chat_preliminary",
         "reviewStatus": "review_pending",
-        "locales": 6,
-        "verdicts": {
-          "publish": 0,
-          "revise": 2,
-          "rewrite": 4
-        },
-        "cmsPublished": false
+        "locales": 4,
+        "cmsPublished": false,
+        "independentVerdict": null
       }
+    },
+    "editorialHandoff": {
+      "effectiveFrom": "2026-11-26",
+      "pipeline": "trend-radar/ANALYTICS_DASHBOARD_PIPELINE.md",
+      "newArticle": "Full RU/EN article + sources + visuals + SEO pack.",
+      "revision": "Direct existing article/editable document link; full old text; full new text; updated SEO pack.",
+      "addition": "Direct existing article link, exact whole-paragraph insertion anchor, new fragment only; updated SEO when needed.",
+      "cleanWorkingDocument": "Only publication material, brief readiness labels. MICH and technical audit in separate internal document.",
+      "publicationGate": "Independent MICH review in clean context and current CMS deduplication required before publication."
     }
   },
   "coverageMonitoring": {
@@ -5240,9 +5364,9 @@
     "gaps": [
       {
         "country": "Финляндия",
-        "lastUpdate": "2026-11-25",
+        "lastUpdate": "2026-11-26",
         "priority": "urgent",
-        "reason": "Statistics Finland: October existing-home prices −1.9% YoY and −0.2% MoM; Helsinki −3.3%, Oulu −4.0%, Espoo +1.1%; estate-agent sales −9.3% YoY. Preliminary release; inspect revised tables. | WATCH: Statistics Finland October accommodation statistics scheduled 26 Nov; confirm release, then assess regional hotel demand.",
+        "reason": "Statistics Finland: October existing-home prices −1.9% YoY and −0.2% MoM; Helsinki −3.3%, Oulu −4.0%, Espoo +1.1%; estate-agent sales −9.3% YoY. Preliminary release; inspect revised tables. | WATCH: Statistics Finland October accommodation statistics scheduled 26 Nov; confirm release, then assess regional hotel demand. | 26 Nov: Индексированный выпуск Statistics Finland от 26.11 указывает 1,75 млн ночёвок (+3% г/г) и загрузку 54%; прямой текст финской и английской публикаций недоступен. Числа предварительно обнаружены, не подтверждены полным первоисточником. | 26 Nov: Индексированный выпуск Statistics Finland от 26.11 указывает 1,75 млн ночёвок (+3% г/г) и загрузку 54%; прямой текст финской и английской публикаций недоступен. Числа предварительно обнаружены, не подтверждены полным первоисточником.",
         "topics": [
           {
             "name": "Недвижимость",
@@ -5293,11 +5417,36 @@
             "lastPublished": "2026-09-19",
             "status": "watch",
             "lastUrl": "https://internationalinvestment.biz/en/finland/8831-lapland-holiday-home-demand-has-quadrupled.html",
-            "editorialStatus": "watch",
+            "editorialStatus": "hold_verify",
             "expectedReleaseAt": "2026-11-26",
-            "sourceUrl": "https://stat.fi/en/statistics/matk",
-            "editorialNote": "Statistics Finland October accommodation statistics scheduled 26 Nov; confirm release, then assess regional hotel demand.",
-            "publicationConfirmed": false
+            "sourceUrl": "https://stat.fi/en/publication/cmg51epaqn2ye07w0ieeu4w1p",
+            "editorialNote": "Историческая датировка 19.09 сохранена. Актуальная полнота архива не проверена.",
+            "publicationConfirmed": false,
+            "signalAt": "2026-11-26",
+            "editorialScore": 4,
+            "relatedRadarIds": [
+              "finland-accommodation-oct-nov26-2026"
+            ],
+            "reviewStatus": "source_pending",
+            "coverageStatus": "stale"
+          },
+          {
+            "name": "Туризм",
+            "lastPublished": "2026-09-19",
+            "lastUrl": "https://internationalinvestment.biz/en/finland/8831-lapland-holiday-home-demand-has-quadrupled.html",
+            "articleId": "8831",
+            "status": "stale",
+            "signalAt": "2026-11-26",
+            "sourceUrl": "https://stat.fi/en/publication/cmg51epaqn2ye07w0ieeu4w1p",
+            "editorialStatus": "hold_verify",
+            "editorialScore": 4,
+            "relatedRadarIds": [
+              "finland-accommodation-oct-nov26-2026"
+            ],
+            "publicationConfirmed": false,
+            "reviewStatus": "source_pending",
+            "coverageStatus": "stale",
+            "editorialNote": "Историческая датировка 19.09 сохранена. Актуальная полнота архива не проверена."
           }
         ],
         "signalAt": "2026-11-25",
@@ -5412,9 +5561,9 @@
       },
       {
         "country": "Великобритания",
-        "lastUpdate": "2026-11-25",
+        "lastUpdate": "2026-11-26",
         "priority": "urgent",
-        "reason": "18 Nov ONS Inner London house prices -7.2% YoY and UK rents +3.8% official release; new bilingual draft available in weekly report. London hotel pipeline still HOLD pending numeric verification. | Commonhold and Leasehold Reform Bill introduced 19 Nov, Commons first reading. Government proposes £250 annual ground-rent cap, peppercorn after 40 years; 50% qualifying leaseholders threshold for conversion; restriction on new leasehold flats and transition to commonhold. Ground rent cap intended 6 months after Royal Assent, expected in 2028; most new-flat ban planned around 2031 subject to legislation and exemptions. England and Wales only; bill is not law.",
+        "reason": "18 Nov ONS Inner London house prices -7.2% YoY and UK rents +3.8% official release; new bilingual draft available in weekly report. London hotel pipeline still HOLD pending numeric verification. | Commonhold and Leasehold Reform Bill introduced 19 Nov, Commons first reading. Government proposes £250 annual ground-rent cap, peppercorn after 40 years; 50% qualifying leaseholders threshold for conversion; restriction on new leasehold flats and transition to commonhold. Ground rent cap intended 6 months after Royal Assent, expected in 2028; most new-flat ban planned around 2031 subject to legislation and exemptions. England and Wales only; bill is not law. | 26 Nov: ONS: 77 тыс. чистой миграции за 12 месяцев до июня 2026 против пересмотренных 204 тыс. годом ранее; снижение на 127 тыс. (~62%). Предварительная оценка. Прямой PDF прочитан.",
         "topics": [
           {
             "name": "Отели и гостиничный бизнес",
@@ -5433,6 +5582,24 @@
             "preparedAt": "2026-11-25",
             "publicationConfirmed": false,
             "editorialNote": "RU/EN text prepared in earlier 25 Nov package; do not create a duplicate draft. CMS publication/update not verified in this run."
+          },
+          {
+            "name": "ВНЖ и миграция",
+            "lastPublished": "2026-11-25",
+            "lastUrl": "https://internationalinvestment.biz/news/9199-velikobritanija-uvelichit-srok-poluchenija-pmzh-do-10-let.html",
+            "articleId": "9199",
+            "status": "fresh",
+            "signalAt": "2026-11-26",
+            "sourceUrl": "https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/internationalmigration/bulletins/longterminternationalmigrationprovisional/yearendingjune2026/pdf",
+            "editorialStatus": "draft_ready",
+            "editorialScore": 5,
+            "relatedRadarIds": [
+              "uk-ons-net-migration-june-nov26-2026"
+            ],
+            "publicationConfirmed": false,
+            "reviewStatus": "review_pending",
+            "coverageStatus": "fresh",
+            "editorialNote": "Тематическое покрытие свежее: #9199 от 25.11. Новый статистический релиз отличается; актуальный полный CMS не проверен."
           }
         ],
         "signalAt": "2026-11-19",
@@ -5623,9 +5790,9 @@
       },
       {
         "country": "Испания",
-        "lastUpdate": "2026-11-23",
+        "lastUpdate": "2026-11-26",
         "priority": "watch",
-        "reason": "INE 17 Nov September housing sales -13.4% YoY; new property-market story distinct from published #9152 short-term rental VAT. 23 Nov INE: October hotel ADR EUR130.4 (+7.9%), RevPAR EUR93.9 (+9.0%), 34.7m+ hotel nights (+1.6%). | #9168 и #9177 уже переданы редактором как опубликованные ссылки; не планировать повторную новость по тому же релизу без проверки URL. #9193 наблюдается в Метрике. | 26.11: опубликованные #9177 (23.11) и #9193 (24.11) подтверждены по датированным страницам; не повторять.",
+        "reason": "INE 17 Nov September housing sales -13.4% YoY; new property-market story distinct from published #9152 short-term rental VAT. 23 Nov INE: October hotel ADR EUR130.4 (+7.9%), RevPAR EUR93.9 (+9.0%), 34.7m+ hotel nights (+1.6%). | #9168 и #9177 уже переданы редактором как опубликованные ссылки; не планировать повторную новость по тому же релизу без проверки URL. #9193 наблюдается в Метрике. | 26.11: опубликованные #9177 (23.11) и #9193 (24.11) подтверждены по датированным страницам; не повторять. | 26 Nov: INE: сентябрь 2026 — 46 469 ипотек на жильё (+2,3% г/г), средняя сумма €178 352 (+3,7%), средняя начальная ставка 3,05%, фиксированная ставка 62,5%. Наварра +33,3%, Балеарские острова −34,0%; разрыв 67,3 п.п. Прямой выпуск открыт; исторические абсолютные числа из устаревшего ряда исключены.",
         "topics": [
           {
             "name": "Недвижимость",
@@ -5650,12 +5817,20 @@
               }
             ],
             "publicationCheck": "related_coverage_verified_not_draft_publication",
-            "editorialStatus": "published",
+            "editorialStatus": "draft_ready",
             "lastUrl": "https://internationalinvestment.biz/business/9193-zhilischnye-protesty-v-ispanii-arendatory-trebujut-reform.html",
             "articleId": "9193",
             "coverageStatus": "fresh",
             "publicationConfirmed": false,
-            "coveragePublicationVerified": true
+            "coveragePublicationVerified": true,
+            "signalAt": "2026-11-25",
+            "sourceUrl": "https://www.ine.es/dyngs/Prensa/H0926.htm",
+            "editorialScore": 4,
+            "relatedRadarIds": [
+              "spain-ine-mortgages-sep-nov25-2026"
+            ],
+            "reviewStatus": "review_pending",
+            "editorialNote": "Недвижимость Испании покрыта #9193 от 24.11; новый релиз отличен, актуальная CMS-дедупликация pending."
           },
           {
             "name": "Отели и гостиничный бизнес",
@@ -7361,7 +7536,23 @@
               "headline": "Reform UK Reworks Its Offer to Wealthy Foreigners",
               "status": "urgent"
             },
-            "verifiedAt": "2026-11-26"
+            "verifiedAt": "2026-11-26",
+            "editorialSignal": {
+              "title": "Чистая миграция в Великобританию сократилась до 77 тысяч",
+              "signalAt": "2026-11-26",
+              "reviewedAt": "2026-11-26",
+              "sourceUrl": "https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/internationalmigration/bulletins/longterminternationalmigrationprovisional/yearendingjune2026/pdf",
+              "editorialStatus": "draft_ready",
+              "priority": "urgent",
+              "editorialScore": 5,
+              "relatedRadarIds": [
+                "uk-ons-net-migration-june-nov26-2026"
+              ],
+              "publicationConfirmed": false,
+              "decision": "new",
+              "reviewStatus": "review_pending",
+              "editorialNote": "Тематическое покрытие свежее: #9199 от 25.11. Новый статистический релиз отличается; актуальный полный CMS не проверен."
+            }
           },
           {
             "name": "Налоги для инвесторов",
@@ -8453,7 +8644,23 @@
               "headline": "Madrid to Build EUR1 Billion City of Health Complex",
               "status": "fresh"
             },
-            "verifiedAt": "2026-11-26"
+            "verifiedAt": "2026-11-26",
+            "editorialSignal": {
+              "title": "Средняя ипотека в Испании достигла €178 352",
+              "signalAt": "2026-11-25",
+              "reviewedAt": "2026-11-26",
+              "sourceUrl": "https://www.ine.es/dyngs/Prensa/H0926.htm",
+              "editorialStatus": "draft_ready",
+              "priority": "high",
+              "editorialScore": 4,
+              "relatedRadarIds": [
+                "spain-ine-mortgages-sep-nov25-2026"
+              ],
+              "publicationConfirmed": false,
+              "decision": "new",
+              "reviewStatus": "review_pending",
+              "editorialNote": "Недвижимость Испании покрыта #9193 от 24.11; новый релиз отличен, актуальная CMS-дедупликация pending."
+            }
           },
           {
             "name": "Инвестиции",
@@ -10724,7 +10931,23 @@
               "en": "https://internationalinvestment.biz/en/finland/8831-lapland-holiday-home-demand-has-quadrupled.html"
             },
             "matchCount": 1,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17",
+            "editorialSignal": {
+              "title": "Финляндия: октябрьская статистика гостиниц и ночёвок",
+              "signalAt": "2026-11-26",
+              "reviewedAt": "2026-11-26",
+              "sourceUrl": "https://stat.fi/en/publication/cmg51epaqn2ye07w0ieeu4w1p",
+              "editorialStatus": "hold_verify",
+              "priority": "high",
+              "editorialScore": 4,
+              "relatedRadarIds": [
+                "finland-accommodation-oct-nov26-2026"
+              ],
+              "publicationConfirmed": false,
+              "decision": "hold",
+              "reviewStatus": "source_pending",
+              "editorialNote": "Историческая датировка 19.09 сохранена. Актуальная полнота архива не проверена."
+            }
           },
           {
             "name": "Отели и гостиничный бизнес",
@@ -10737,12 +10960,28 @@
               "en": "https://internationalinvestment.biz/en/finland/8831-lapland-holiday-home-demand-has-quadrupled.html"
             },
             "matchCount": 1,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17",
+            "editorialSignal": {
+              "title": "Финляндия: октябрьская статистика гостиниц и ночёвок",
+              "signalAt": "2026-11-26",
+              "reviewedAt": "2026-11-26",
+              "sourceUrl": "https://stat.fi/en/publication/cmg51epaqn2ye07w0ieeu4w1p",
+              "editorialStatus": "hold_verify",
+              "priority": "high",
+              "editorialScore": 4,
+              "relatedRadarIds": [
+                "finland-accommodation-oct-nov26-2026"
+              ],
+              "publicationConfirmed": false,
+              "decision": "hold",
+              "reviewStatus": "source_pending",
+              "editorialNote": "Историческая датировка 19.09 сохранена. Актуальная полнота архива не проверена."
+            }
           },
           {
             "name": "ВНЖ и миграция",
             "lastPublished": "2026-08-14",
-            "status": "urgent",
+            "status": "unverified",
             "lastUrl": "https://internationalinvestment.biz/en/migration/8638-finland-to-introduce-citizenship-examination.html",
             "articleId": "8638",
             "headline": "Finland to Introduce Citizenship Examination",
@@ -10750,7 +10989,9 @@
               "en": "https://internationalinvestment.biz/en/migration/8638-finland-to-introduce-citizenship-examination.html"
             },
             "matchCount": 1,
-            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17"
+            "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17",
+            "previousAuditStatus": "urgent",
+            "auditNote": "Indexed site headline «Финляндия нарушает сроки выдачи ВНЖ» suggests later publication around 18 Nov; exact canonical URL/date not verified. Retain dated archive evidence, do not assert absence of newer article."
           },
           {
             "name": "Налоги для инвесторов",
@@ -11509,7 +11750,7 @@
       "uniqueArticleIds": 524,
       "countryScopedArticles": 396,
       "partialCrossCountryArticles": 71,
-      "limitations": "90+ day baseline retained from dated archive scans; 15–16 Nov increment verified directly in EN/RU. Absence from indexed search alone is not treated as proof of no historical coverage. | 25 Nov: reviewed country signals and compared 134 radar cards; direct incremental archives unavailable/stale, so lastPublished and all historical coverage statuses remain unchanged. Country-specific archive labels require recheck for #9048 (Vienna/Italy), #8965 and #8949 (Israel, multi-country classifications); no speculative correction. | 25 Nov second pack: four primary-source drafts verified and Poland held on secondary reports; no newly published CMS articles inferred. | 25 Nov: reconciled archive IDs #9048, #9070, #8997, #8965, #8949; additional observed URLs/titles from user-provided links and Metrica PDF separately marked, exact dates unavailable. Direct dated archives and sitemap unavailable. | 26 Nov: targeted reconciliation of 11 article IDs by indexed public text and explicit dates; direct date archives blocked. Armenia #9116 foreign-buyer thematic classification confirmed by editor; separate exact regulation article not verified. Other historical statuses retain audit basis.",
+      "limitations": "90+ day baseline retained from dated archive scans; 15–16 Nov increment verified directly in EN/RU. Absence from indexed search alone is not treated as proof of no historical coverage. | 25 Nov: reviewed country signals and compared 134 radar cards; direct incremental archives unavailable/stale, so lastPublished and all historical coverage statuses remain unchanged. Country-specific archive labels require recheck for #9048 (Vienna/Italy), #8965 and #8949 (Israel, multi-country classifications); no speculative correction. | 25 Nov second pack: four primary-source drafts verified and Poland held on secondary reports; no newly published CMS articles inferred. | 25 Nov: reconciled archive IDs #9048, #9070, #8997, #8965, #8949; additional observed URLs/titles from user-provided links and Metrica PDF separately marked, exact dates unavailable. Direct dated archives and sitemap unavailable. | 26 Nov: targeted reconciliation of 11 article IDs by indexed public text and explicit dates; direct date archives blocked. Armenia #9116 foreign-buyer thematic classification confirmed by editor; separate exact regulation article not verified. Other historical statuses retain audit basis. | 26 Nov targeted new signals: UK migration and Spain mortgage drafts, Finland lodging HOLD. Publication dates and archive baseline unchanged; full CMS unavailable. Finland residence permit indexed headline suggests newer coverage; canonical article not verified.",
       "seoDataStatus": "GSC/GA4 last-good historical; Yandex Metrica PDF through 25 Nov, partial day; not Webmaster click/position data.",
       "corrections": [
         {
@@ -11541,8 +11782,8 @@
         "ru"
       ],
       "kaHeThrough": "2026-11-08",
-      "signalReviewAt": "2026-11-25",
-      "signalReviewWindow": "2026-11-11/2026-11-25",
+      "signalReviewAt": "2026-11-26",
+      "signalReviewWindow": "2026-11-20/2026-11-26",
       "incrementalArchiveAttempt": {
         "attemptedAt": "2026-11-25",
         "window": "2026-11-18/2026-11-25",
@@ -12174,8 +12415,38 @@
     }
   },
   "dailyUpdate": {
-    "date": "25 ноября 2026",
+    "date": "26 ноября 2026",
     "items": [
+      {
+        "label": "5/5 — RU/EN черновик / независимая проверка pending",
+        "title": "Чистая миграция в Великобританию сократилась до 77 тысяч",
+        "source": "ONS — Long-term international migration, provisional, year ending June 2026",
+        "url": "https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/internationalmigration/bulletins/longterminternationalmigrationprovisional/yearendingjune2026/pdf",
+        "priority": "urgent",
+        "signal": "ONS: 77 тыс. чистой миграции за 12 месяцев до июня 2026 против пересмотренных 204 тыс. годом ранее; снижение на 127 тыс. (~62%). Предварительная оценка. Прямой PDF прочитан.",
+        "action": "RU/EN черновики готовы, проверить независимым агентом и сверить CMS до публикации."
+      },
+      {
+        "label": "4/5 — RU/EN черновик / независимая проверка pending",
+        "title": "Средняя ипотека в Испании достигла €178 352",
+        "source": "INE — Estadística de Hipotecas, septiembre 2026, 25 Nov",
+        "url": "https://www.ine.es/dyngs/Prensa/H0926.htm",
+        "priority": "high",
+        "signal": "INE: сентябрь 2026 — 46 469 ипотек на жильё (+2,3% г/г), средняя сумма €178 352 (+3,7%), средняя начальная ставка 3,05%, фиксированная ставка 62,5%. Наварра +33,3%, Балеарские острова −34,0%; разрыв 67,3 п.п. Прямой выпуск открыт; исторические абсолютные числа из устаревшего ряда исключены.",
+        "action": "RU/EN черновики готовы, проверить независимым агентом и сверить CMS до публикации."
+      },
+      {
+        "label": "4/5 — HOLD / открыть оригинал",
+        "title": "Финляндия: октябрьская статистика гостиниц и ночёвок",
+        "source": "Statistics Finland — accommodation statistics, indexed release",
+        "url": "https://stat.fi/en/publication/cmg51epaqn2ye07w0ieeu4w1p",
+        "priority": "high",
+        "signal": "Индексированный выпуск Statistics Finland от 26.11 указывает 1,75 млн ночёвок (+3% г/г) и загрузку 54%; прямой текст финской и английской публикаций недоступен. Числа предварительно обнаружены, не подтверждены полным первоисточником.",
+        "action": "Получить полный оригинальный выпуск, затем писать."
+      }
+    ],
+    "previousDate": "25 ноября 2026",
+    "previousItems": [
       {
         "label": "5/5 — ГОРИТ (24h) / UPDATE",
         "title": "Португалия одобрила бюджет с отменой льготы для арендодателей",
