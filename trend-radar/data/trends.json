@@ -5190,7 +5190,27 @@
   },
   "sourcePolicy": {
     "dynamicCountryStats": true,
-    "rule": "Если в текущем трендрадаре или публикациях International Investment появляется страна, которой нет в списке локальных источников, найти ее официальный государственный статистический орган и релевантный регулятор/реестр недвижимости, проверить официальный домен и добавить их в мониторинг как verification-источники."
+    "rule": "Если в текущем трендрадаре или публикациях International Investment появляется страна, которой нет в списке локальных источников, найти ее официальный государственный статистический орган и релевантный регулятор/реестр недвижимости, проверить официальный домен и добавить их в мониторинг как verification-источники.",
+    "editorialQualityGate": {
+      "effectiveFrom": "2026-11-26",
+      "authorRules": "trend-radar/MICH_EDITORIAL_RULES.md",
+      "independentReviewerRules": "trend-radar/MICH_REVIEW_AGENT.md",
+      "pipeline": "trend-radar/ANALYTICS_DASHBOARD_PIPELINE.md",
+      "required": "Read both complete canonical documents before drafting or reviewing. For every RU/EN locale require separate author self-check and independent five-step reviewer report in a clean context; reviewer does not rewrite. No live CMS publication without independent PUBLISH, exact source verification and explicit editorial approval. Same-chat review is provisional; review_pending blocks publication. Respect all original thresholds and preserve history. For analyses require two independent sources and factual added value, not derivative summaries. For coverage separate existing publications, new signals, drafts and review status.",
+      "latestPreliminaryReview": {
+        "checkedAt": "2026-11-26",
+        "reportUrl": "https://docs.google.com/document/d/1lN-nrvgw0IW0pDYy99DF7UEBd23nrL6nZv_psI82weo/edit",
+        "reviewerMode": "same_chat_preliminary",
+        "reviewStatus": "review_pending",
+        "locales": 6,
+        "verdicts": {
+          "publish": 0,
+          "revise": 2,
+          "rewrite": 4
+        },
+        "cmsPublished": false
+      }
+    }
   },
   "coverageMonitoring": {
     "updatedAt": "2026-11-26",
