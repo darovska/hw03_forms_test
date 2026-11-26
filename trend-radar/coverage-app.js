@@ -20,9 +20,12 @@ function renderMatrix(){
     tr.append(make("td","country",r.country),make("td",null,r.name));
     const date=make("td");date.append(make("strong",null,niceDate(r.lastPublished)));
     if(r.headline)date.append(make("div","notes",r.headline));
+    if(r.verifiedAt)date.append(make("div","notes","Адресная сверка: "+niceDate(r.verifiedAt)));
+    else if(r.lastPublished)date.append(make("div","notes","Архивная сверка: "+niceDate(state.data?.coverageMonitoring?.methodology?.auditAt)));
+    if(r.editorialNote)date.append(make("div","notes",r.editorialNote));
     if(r.observedPublications?.length){for(const item of r.observedPublications){date.append(make("div","notes","Найден более новый кандидат: "+item.title+" · дата не подтверждена"));}}
     tr.append(date);
-    const cell=make("td");cell.append(flag(r.status));tr.append(cell);
+    const cell=make("td");cell.append(flag(r.status));if(r.status==="urgent"&&!r.verifiedAt)cell.append(make("div","notes","Требует повторной проверки сайта; это не подтверждение актуального пробела."));tr.append(cell);
     const urls=make("td");
     if(r.lastUrl){urls.append(link("Материал ↗",r.lastUrl));const loc=r.languageUrls||{};const more=make("div","locale");
       for(const l of ["ru","en","ka","he"])if(loc[l])more.append(link(l.toUpperCase(),loc[l],"locale-link"));
@@ -44,7 +47,7 @@ function renderGaps(gaps){
     card.append(theme,make("p",null,g.reason||"Причина не указана"));
     const foot=make("div","links");if(g.sourceUrl)foot.append(link("Первичный источник",g.sourceUrl));if(g.additionalSourceUrl)foot.append(link("Другие данные",g.additionalSourceUrl));
     if(t?.lastUrl)foot.append(link("Известная статья / кандидат",t.lastUrl));
-    for(const topic of g.topics||[]){for(const item of topic.observedPublications||[]){if(item.url)foot.append(link(item.title+" · дата уточняется",item.url));}}
+    for(const topic of g.topics||[]){for(const item of topic.observedPublications||[]){if(item.url)foot.append(link(item.title+(item.dateVerified?" · "+niceDate(item.dateVerified):" · дата уточняется"),item.url));}}
     card.append(foot);
     const d=make("small","notes","Сигнал: "+(g.signalAt?niceDate(g.signalAt):"дата неизвестна")+". Решение: "+(g.decision||"проверить"));
     card.append(d);holder.append(card);
@@ -96,7 +99,7 @@ async function start(){
   if(ra.status==="fulfilled"){
     const j=ra.value,c=j.coverageMonitoring||{};state.data=j;
     state.matrix=(c.matrix||[]).flatMap(country=>(country.topics||[]).map(t=>({country:country.country,...t})));
-    setText("audit","Архив публикаций: "+(c.methodology?.auditAt||"—")+" · сверка сигналов: "+(c.updatedAt||"—"));setText("countries",(c.matrix||[]).length);
+    setText("audit","Архив публикаций: "+(c.methodology?.auditAt||"—")+" · адресная сверка: "+(c.methodology?.targetedReconciliation?.checkedAt||"—")+" · сигналы: "+(c.updatedAt||"—"));setText("countries",(c.matrix||[]).length);
     setText("signals",(c.gaps||[]).length);setText("verified",state.matrix.filter(x=>x.lastPublished).length);
     setText("unverified",state.matrix.filter(x=>!x.lastPublished).length);
     setText("totalTopics",state.matrix.length);renderGaps(c.gaps||[]);renderRadar(j);renderMatrix();
@@ -108,6 +111,6 @@ async function start(){
   }
   state.scan=sc.status==="fulfilled"?sc.value:null;renderLanguageScan(state.scan);
   state.analytics=an.status==="fulfilled"?an.value:null;renderAnalytics(state.analytics);
-  const evidence=state.data?.coverageMonitoring?.publicationEvidence; if(evidence){const el=$("#quality");const h=make("p","hint",evidence.note);el.append(h);for(const item of evidence.observations||[]){const p=make("p","hint",item.country+" · "+item.name+": "+item.title+" · "+item.basis+" ");if(item.url)p.append(link("URL ↗",item.url));el.append(p);}}
+  const evidence=state.data?.coverageMonitoring?.publicationEvidence; if(evidence){const el=$("#quality");const h=make("p","hint",evidence.note);el.append(h);for(const item of evidence.observations||[]){const p=make("p","hint",item.country+" · "+item.name+": "+item.title+" · "+(item.dateVerified?niceDate(item.dateVerified)+" · ":"")+item.basis+" ");if(item.url)p.append(link("URL ↗",item.url));el.append(p);}}
 }
 start();
