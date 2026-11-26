@@ -2,9 +2,9 @@
   "meta": {
     "period": "20–26 ноября 2026",
     "updatedAt": "26 ноября 2026",
-    "reportUrl": "https://docs.google.com/document/d/1n1cpDK-ONcDV3NaK64dvNoIT_Ws4mSV1xOFTqbjIHhw/edit",
-    "editorialNote": "23 Nov: five sourced editorial candidates 18–20 Nov: EU tourism GVA, Eurostat construction, STR US hotel outlook, travel modes and debt holders. RU/EN drafts in single Doc; full visual production and complete site deduplication pending. No fresh GSC metrics loaded. | 23 Nov revision: 5 expanded RU/EN narratives, 11 Google Docs tables, 5 verified charts, 5 illustrated covers, clickable sources. Previous draft archived at https://docs.google.com/document/d/1j4jdX-Il2j5KlF34UiFbpSHod9oPCPGvj-Hl9J1MOdI/edit | 23 Nov operational radar refresh: four additional primary-source cards (INE hotels, ECB housing risks, Eurostat fuel prices and mobility watch), 2 SEO clusters, old period archived. New full-text report not produced; reportLink retains existing 16–22 Nov complete weekly Doc. GSC Wizard subscription_required confirmed; 10 Oct measured SEO rows retained. | 25 Nov: operational story-selection update (5 new leads, 1 existing Portugal URL refresh, 1 watch). Full previous report remains linked; no new full bilingual article pack requested/created in this run. Recent site index stale; do not re-import already-covered CMS articles. | 25 Nov: synchronized both country draft packs with coverage and radar, including four rechecked primary-source stories and one HOLD (Poland). No new private document links; CMS publication not confirmed. | 26 Nov: 2 new RU/EN drafts (ONS UK migration, INE Spain mortgages), 2 embedded sourced charts, 4 SEO packs; author precheck separate from clean document. Independent MICH + current CMS reconciliation pending; Finland accommodation HOLD (direct release inaccessible). Previous weekly consolidated document retained.",
-    "consolidatedDocUrl": "https://docs.google.com/document/d/1vEk5eZyMUy_KmLECe0tdNZEvDWDBIyxihwhjdMhLkCo/edit",
+    "reportUrl": "https://docs.google.com/document/d/18ZHY6KF28r8DPJvETSKHYcaetU1POX8Yzx9h_EPW74Q/edit",
+    "editorialNote": "23 Nov: five sourced editorial candidates 18–20 Nov: EU tourism GVA, Eurostat construction, STR US hotel outlook, travel modes and debt holders. RU/EN drafts in single Doc; full visual production and complete site deduplication pending. No fresh GSC metrics loaded. | 23 Nov revision: 5 expanded RU/EN narratives, 11 Google Docs tables, 5 verified charts, 5 illustrated covers, clickable sources. Previous draft archived at https://docs.google.com/document/d/1j4jdX-Il2j5KlF34UiFbpSHod9oPCPGvj-Hl9J1MOdI/edit | 23 Nov operational radar refresh: four additional primary-source cards (INE hotels, ECB housing risks, Eurostat fuel prices and mobility watch), 2 SEO clusters, old period archived. New full-text report not produced; reportLink retains existing 16–22 Nov complete weekly Doc. GSC Wizard subscription_required confirmed; 10 Oct measured SEO rows retained. | 25 Nov: operational story-selection update (5 new leads, 1 existing Portugal URL refresh, 1 watch). Full previous report remains linked; no new full bilingual article pack requested/created in this run. Recent site index stale; do not re-import already-covered CMS articles. | 25 Nov: synchronized both country draft packs with coverage and radar, including four rechecked primary-source stories and one HOLD (Poland). No new private document links; CMS publication not confirmed. | 26 Nov: 2 new RU/EN drafts (ONS UK migration, INE Spain mortgages), 2 embedded sourced charts, 4 SEO packs; author precheck separate from clean document. Independent MICH + current CMS reconciliation pending; Finland accommodation HOLD (direct release inaccessible). Previous weekly consolidated document retained. | 26 Nov: completed targeted Finland/Cyprus/Paphos article pack: 3 RU/EN pairs, 6 SEO packages, 3 diagrams. Previous reports retained. Direct source access/independent MICH/CMS duplicate confirmation pending; not a complete new source or 90-day archive audit.",
+    "consolidatedDocUrl": "https://docs.google.com/document/d/18ZHY6KF28r8DPJvETSKHYcaetU1POX8Yzx9h_EPW74Q/edit",
     "weeklyFinalDocUrl": "https://docs.google.com/document/d/1vEk5eZyMUy_KmLECe0tdNZEvDWDBIyxihwhjdMhLkCo/edit",
     "additionalViralBriefUrl": "https://docs.google.com/document/d/1noak5K9VJW3EaN1FZ9yRM_eoMe9cMRiXNPlOC6unumk/edit",
     "sourceAudit": {
@@ -61,10 +61,62 @@
         ],
         "publicationAudit": "Partial targeted indexed search and current radar/archive comparison; no new live CMS publication inferred.",
         "seoAccess": "No fresh measured data in this run; historical rows retained."
+      },
+      "latestTargetedRun": {
+        "window": "2026-11-20/2026-11-26",
+        "checkedAt": "2026-11-26",
+        "sources": [
+          {
+            "label": "Statistics Finland — 26 Nov",
+            "url": "https://stat.fi/en/publication/cmg51epaqn2ye07w0ieeu4w1p"
+          },
+          {
+            "label": "Tilastokeskus — FI",
+            "url": "https://stat.fi/fi/julkaisu/cmg51epaqn2ye07w0ieeu4w1p"
+          },
+          {
+            "label": "Statistics Finland — September",
+            "url": "https://stat.fi/en/publication/cmg50eyeampza07w7de4yj5gc"
+          },
+          {
+            "label": "Visit Finland",
+            "url": "https://www.visitfinland.fi/matkailun-pulssi/"
+          },
+          {
+            "label": "CYSTAT — August headline",
+            "url": "https://www.cystat.gov.cy/el/PressRelease?id=73483"
+          },
+          {
+            "label": "Cyprus Inform — secondary",
+            "url": "https://www.kiprinform.com/en/news/cyprus-building-permits-fall-13-8-in-august-2026-to-558-statistical-service-says/"
+          },
+          {
+            "label": "CYSTAT July — official indexed table",
+            "url": "https://www.gov.cy/en/economy-and-finance/building-permits-july-2026/"
+          },
+          {
+            "label": "ANT1 — 20 Nov, ETAP report",
+            "url": "https://www.ant1live.com/kypros/koinonia/705545_i-pafos-enishyei-ton-heimerino-toyrismo-kai-periorizei-tin-epohikotita-12500"
+          },
+          {
+            "label": "Cyprus Mail — 25 Nov, same ETAP signal",
+            "url": "https://cyprus-mail.com/2026/11/25/paphos-hotels-lift-winter-capacity-to-12500-beds-call-for-airline-incentives-despite-150-weekly-flights"
+          },
+          {
+            "label": "CYSTAT — October arrivals",
+            "url": "https://www.gov.cy/en/economy-and-finance/tourist-arrivals-and-returns-of-residents-of-cyprus-from-trips-abroad-october-2026/"
+          }
+        ],
+        "scope": "Finland and Cyprus/Paphos targeted recheck only; not comprehensive core source audit.",
+        "publicationAudit": "Compared existing trend IDs, country matrix, available archive and targeted public-site search. Full dated RU/EN CMS archive remains unavailable; absence of duplicate not proven. No publication cells promoted.",
+        "seoAccess": "GSC Wizard Primary payment_required/subscription_required confirmed 26 Nov; preserve measured 10 Oct rows. No new GSC/GA4 or Webmaster data.",
+        "docUrl": "https://docs.google.com/document/d/18ZHY6KF28r8DPJvETSKHYcaetU1POX8Yzx9h_EPW74Q/edit",
+        "qaUrl": "https://github.com/darovska/hw03_forms_test/blob/main/trend-radar/qa/2026-11-26-editorial-review.md"
       }
     },
     "latestDailyUpdateDate": "2026-11-26",
-    "nextEditorialPlanDate": "2026-11-27"
+    "nextEditorialPlanDate": "2026-11-27",
+    "previousReportUrl": "https://docs.google.com/document/d/1n1cpDK-ONcDV3NaK64dvNoIT_Ws4mSV1xOFTqbjIHhw/edit"
   },
   "categories": [
     "Все",
@@ -75,6 +127,108 @@
     "Инвестиции"
   ],
   "trends": [
+    {
+      "id": "paphos-winter-accommodation-nov20-2026",
+      "title": "Пафос планирует сохранить 12 500 мест размещения зимой",
+      "titleEn": "Paphos expects 12,500 accommodation beds this winter",
+      "category": "Туризм",
+      "priority": "high",
+      "status": "hold_verify",
+      "decision": "hold",
+      "editorialUrgency": "4/5 — HOLD / черновик RU/EN",
+      "publishedAt": "2026-11-20",
+      "verifiedOn": "2026-11-26",
+      "signal": "ETAP, первое найденное сообщение ANT1 20.11, повтор Cyprus Mail 25.11: 12 500 лицензированных мест размещения на декабрь–март, +2 000 к прошлой зиме (~19% расчёт), около 45% мест района. Оценка 150 прибывающих рейсов еженедельно из 42 аэропортов; цель 17 тыс. мест круглый год. Первичный документ ETAP не получен.",
+      "why": "Новый адресный инфоповод, не опубликованная статья; точное отсутствие дублей не подтверждено.",
+      "editorialAngle": "Отделить план зимней доступности от загрузки. Сопоставить 10 500 прошлой зимой и 12 500 планируемых; CYSTAT: 3 909 839 прибытий на Кипр за 10 месяцев (−5,6%).",
+      "seoAngle": "отели Пафоса зимой; зимний туризм Кипр; Paphos winter accommodation",
+      "sources": [
+        {
+          "label": "ANT1 — 20 Nov, ETAP report",
+          "url": "https://www.ant1live.com/kypros/koinonia/705545_i-pafos-enishyei-ton-heimerino-toyrismo-kai-periorizei-tin-epohikotita-12500"
+        },
+        {
+          "label": "Cyprus Mail — 25 Nov, same ETAP signal",
+          "url": "https://cyprus-mail.com/2026/11/25/paphos-hotels-lift-winter-capacity-to-12500-beds-call-for-airline-incentives-despite-150-weekly-flights"
+        },
+        {
+          "label": "CYSTAT — October arrivals",
+          "url": "https://www.gov.cy/en/economy-and-finance/tourist-arrivals-and-returns-of-residents-of-cyprus-from-trips-abroad-october-2026/"
+        }
+      ],
+      "publishedCoverage": "Архивный статус покрытия не меняется; точная сверка CMS и оригиналов pending.",
+      "relatedRadarIds": [
+        "cyprus-arrivals-oct-nov17-2026"
+      ],
+      "editorialStatus": "hold_verify",
+      "publicationConfirmed": false,
+      "proposedType": "new_article",
+      "draftUrl": "https://docs.google.com/document/d/18ZHY6KF28r8DPJvETSKHYcaetU1POX8Yzx9h_EPW74Q/edit",
+      "localeDraftUrls": {
+        "ru": "https://docs.google.com/document/d/18ZHY6KF28r8DPJvETSKHYcaetU1POX8Yzx9h_EPW74Q/edit#heading=h.ilnjc2nx1nyf",
+        "en": "https://docs.google.com/document/d/18ZHY6KF28r8DPJvETSKHYcaetU1POX8Yzx9h_EPW74Q/edit#heading=h.bebax7s3jg9t"
+      },
+      "sourceAccess": "attributed_etap_secondary_direct_blocked",
+      "review": {
+        "reviewStatus": "review_pending",
+        "reviewerMode": "same_chat_preliminary",
+        "checkedAt": "2026-11-26",
+        "verdict": "revise",
+        "reportUrl": "https://github.com/darovska/hw03_forms_test/blob/main/trend-radar/qa/2026-11-26-editorial-review.md",
+        "cmsPublished": false
+      }
+    },
+    {
+      "id": "cyprus-building-permits-aug-nov26-2026",
+      "title": "Кипр разрешил строительство 14 728 единиц жилья",
+      "titleEn": "Cyprus permits 14,728 dwellings through August 2026",
+      "category": "Недвижимость",
+      "priority": "high",
+      "status": "hold_verify",
+      "decision": "hold",
+      "editorialUrgency": "4/5 — HOLD / черновик RU/EN",
+      "publishedAt": "2026-11-26",
+      "verifiedOn": "2026-11-26",
+      "signal": "CYSTAT подтвердил датированный заголовок: −13,8% разрешений в августе. По атрибутированному пересказу Cyprus Inform: январь–август 14 728 предусмотренных жилищ (+58,8%; 9 275 годом ранее); 5 731 разрешение (+18,4%); август 558 разрешений, 1 684 жилища. Прямой августовский оригинал не получен.",
+      "why": "Новый адресный инфоповод, не опубликованная статья; точное отсутствие дублей не подтверждено.",
+      "editorialAngle": "Сравнить объём жилья в разрешённых проектах и число разрешений; официальная июльская таблица даёт 9 298 жилищ в многоквартирных домах из 13 044 (~71%). Не считать разрешения вводом.",
+      "seoAngle": "разрешения на строительство Кипр; строительство жилья Кипр 2026; Cyprus building permits",
+      "sources": [
+        {
+          "label": "CYSTAT — August headline",
+          "url": "https://www.cystat.gov.cy/el/PressRelease?id=73483"
+        },
+        {
+          "label": "Cyprus Inform — secondary",
+          "url": "https://www.kiprinform.com/en/news/cyprus-building-permits-fall-13-8-in-august-2026-to-558-statistical-service-says/"
+        },
+        {
+          "label": "CYSTAT July — official indexed table",
+          "url": "https://www.gov.cy/en/economy-and-finance/building-permits-july-2026/"
+        }
+      ],
+      "publishedCoverage": "Архивный статус покрытия не меняется; точная сверка CMS и оригиналов pending.",
+      "relatedRadarIds": [
+        "cyprus-arrivals-oct-nov17-2026"
+      ],
+      "editorialStatus": "hold_verify",
+      "publicationConfirmed": false,
+      "proposedType": "new_article",
+      "draftUrl": "https://docs.google.com/document/d/18ZHY6KF28r8DPJvETSKHYcaetU1POX8Yzx9h_EPW74Q/edit",
+      "localeDraftUrls": {
+        "ru": "https://docs.google.com/document/d/18ZHY6KF28r8DPJvETSKHYcaetU1POX8Yzx9h_EPW74Q/edit#heading=h.l20jkr57cdwm",
+        "en": "https://docs.google.com/document/d/18ZHY6KF28r8DPJvETSKHYcaetU1POX8Yzx9h_EPW74Q/edit#heading=h.yii9ehn443ie"
+      },
+      "sourceAccess": "primary_headline_secondary_details_direct_blocked",
+      "review": {
+        "reviewStatus": "review_pending",
+        "reviewerMode": "same_chat_preliminary",
+        "checkedAt": "2026-11-26",
+        "verdict": "revise",
+        "reportUrl": "https://github.com/darovska/hw03_forms_test/blob/main/trend-radar/qa/2026-11-26-editorial-review.md",
+        "cmsPublished": false
+      }
+    },
     {
       "id": "uk-ons-net-migration-june-nov26-2026",
       "title": "Чистая миграция в Великобританию сократилась до 77 тысяч",
@@ -133,31 +287,59 @@
     },
     {
       "id": "finland-accommodation-oct-nov26-2026",
-      "title": "Финляндия: октябрьская статистика гостиниц и ночёвок",
-      "category": "Отели и гостиничный бизнес",
-      "priority": "high",
+      "title": "Загрузка отелей Финляндии в октябре достигла 54%",
+      "category": "Туризм",
+      "priority": "urgent",
       "status": "hold_verify",
       "decision": "hold",
-      "editorialUrgency": "4/5 — HOLD / открыть оригинал",
+      "editorialUrgency": "5/5 — HOLD / черновик RU/EN",
       "publishedAt": "2026-11-26",
       "verifiedOn": "2026-11-26",
-      "signal": "Индексированный выпуск Statistics Finland от 26.11 указывает 1,75 млн ночёвок (+3% г/г) и загрузку 54%; прямой текст финской и английской публикаций недоступен. Числа предварительно обнаружены, не подтверждены полным первоисточником.",
-      "why": "Датированное архивное покрытие размещения устарело; #8831 о курортных домах не равно полноценной гостиничной статистике. Отсутствие более свежего материала не доказано.",
-      "editorialAngle": "Проверить официальный выпуск, отдельно ночёвки, загрузку и цену номера; только затем писать и проверять CMS.",
-      "seoAngle": "туризм Финляндия октябрь 2026; гостиницы Финляндия; Finland accommodation statistics",
+      "signal": "Statistics Finland, предварительный октябрь: 1,75 млн ночёвок (+3% г/г), резиденты 1,34 млн (+2%), нерезиденты 0,41 млн (+4%). Загрузка гостиниц 54% (+1 п.п.), средняя цена номера €113, Лапландия €129. Сентябрь: 61%, €121. Полный официальный индексированный текст FI/EN получен, прямой оригинал недоступен.",
+      "why": "Новый адресный инфоповод, не опубликованная статья; точное отсутствие дублей не подтверждено.",
+      "editorialAngle": "Сравнение загрузки сентября и октября (−7 п.п.) и цен номера Лапландии/Финляндии (+€16). Не приравнивать ночёвки к туристам.",
+      "seoAngle": "отели Финляндии 2026; загрузка гостиниц Финляндия; Lapland hotel rates",
       "sources": [
         {
-          "label": "Statistics Finland — accommodation statistics, indexed release",
+          "label": "Statistics Finland — 26 Nov",
           "url": "https://stat.fi/en/publication/cmg51epaqn2ye07w0ieeu4w1p"
+        },
+        {
+          "label": "Tilastokeskus — FI",
+          "url": "https://stat.fi/fi/julkaisu/cmg51epaqn2ye07w0ieeu4w1p"
+        },
+        {
+          "label": "Statistics Finland — September",
+          "url": "https://stat.fi/en/publication/cmg50eyeampza07w7de4yj5gc"
+        },
+        {
+          "label": "Visit Finland",
+          "url": "https://www.visitfinland.fi/matkailun-pulssi/"
         }
       ],
-      "publishedCoverage": "Историческая датировка 19.09 сохранена. Актуальная полнота архива не проверена.",
+      "publishedCoverage": "Архивный статус покрытия не меняется; точная сверка CMS и оригиналов pending.",
       "relatedRadarIds": [
         "finland-housing-oct-nov25-2026"
       ],
       "editorialStatus": "hold_verify",
       "publicationConfirmed": false,
-      "reviewStatus": "source_pending"
+      "reviewStatus": "source_pending",
+      "titleEn": "Finnish hotel occupancy reached 54% in October",
+      "proposedType": "new_article",
+      "draftUrl": "https://docs.google.com/document/d/18ZHY6KF28r8DPJvETSKHYcaetU1POX8Yzx9h_EPW74Q/edit",
+      "localeDraftUrls": {
+        "ru": "https://docs.google.com/document/d/18ZHY6KF28r8DPJvETSKHYcaetU1POX8Yzx9h_EPW74Q/edit#heading=h.mmmrifpj026g",
+        "en": "https://docs.google.com/document/d/18ZHY6KF28r8DPJvETSKHYcaetU1POX8Yzx9h_EPW74Q/edit#heading=h.nq1dx7b56l1f"
+      },
+      "sourceAccess": "indexed_primary_full_direct_blocked",
+      "review": {
+        "reviewStatus": "review_pending",
+        "reviewerMode": "same_chat_preliminary",
+        "checkedAt": "2026-11-26",
+        "verdict": "revise",
+        "reportUrl": "https://github.com/darovska/hw03_forms_test/blob/main/trend-radar/qa/2026-11-26-editorial-review.md",
+        "cmsPublished": false
+      }
     },
     {
       "id": "poland-housing-construction-oct-nov23-2026",
@@ -4247,6 +4429,14 @@
     {
       "title": "Миграционные потоки Великобритании",
       "description": "ONS year ending June 2026: net migration, work/study and EUSS. Qualitative search intent; no fresh measured SEO."
+    },
+    {
+      "title": "Финляндия: отели и зимний туризм",
+      "description": "Октябрьские ночёвки, загрузка 54%, цены номеров Лапландии; качественный SEO-интент, без свежих GSC данных."
+    },
+    {
+      "title": "Кипр: разрешения на строительство и зимний туризм Пафоса",
+      "description": "Разрешённое жильё и зимняя ёмкость размещения — разные события; SEO-интенты качественные, метрики не загружены."
     }
   ],
   "history": [
@@ -5305,7 +5495,13 @@
         "currentPeriodDataLoaded": false
       }
     ],
-    "sourceNote": "18 Nov 2026 GSC Wizard payment_required/subscription_required: no fresh metrics. All existing query dataAsOf dates remain unchanged (10 Oct 2026). 23 Nov 2026: both linked GSC Wizard accounts returned payment_required/subscription_required; no new measured data. Rows retain 10 Oct dataAsOf. 25 Nov: Primary connector returned payment_required/subscription_required; no measured SEO refresh. Historical source dates and query rows unchanged."
+    "sourceNote": "18 Nov 2026 GSC Wizard payment_required/subscription_required: no fresh metrics. All existing query dataAsOf dates remain unchanged (10 Oct 2026). 23 Nov 2026: both linked GSC Wizard accounts returned payment_required/subscription_required; no new measured data. Rows retain 10 Oct dataAsOf. 25 Nov: Primary connector returned payment_required/subscription_required; no measured SEO refresh. Historical source dates and query rows unchanged.",
+    "lastAccessAttempt": {
+      "date": "2026-11-26",
+      "source": "GSC Wizard Primary",
+      "status": "payment_required / subscription_required",
+      "measuredRowsPreserved": true
+    }
   },
   "sourcePolicy": {
     "dynamicCountryStats": true,
@@ -5318,13 +5514,30 @@
       "required": "Read both complete canonical documents before drafting or reviewing. For every RU/EN locale require separate author self-check and independent five-step reviewer report in a clean context; reviewer does not rewrite. No live CMS publication without independent PUBLISH, exact source verification and explicit editorial approval. Same-chat review is provisional; review_pending blocks publication. Respect all original thresholds and preserve history. For analyses require two independent sources and factual added value, not derivative summaries. For coverage separate existing publications, new signals, drafts and review status.",
       "latestPreliminaryReview": {
         "checkedAt": "2026-11-26",
-        "reportUrl": "https://docs.google.com/document/d/1MJ3ATQIflzEK_BafiQz7y27S_1YiffoD4twx56lPfuw/edit",
+        "reportUrl": "https://github.com/darovska/hw03_forms_test/blob/main/trend-radar/qa/2026-11-26-editorial-review.md",
+        "articleDocUrl": "https://docs.google.com/document/d/18ZHY6KF28r8DPJvETSKHYcaetU1POX8Yzx9h_EPW74Q/edit",
         "reviewerMode": "same_chat_preliminary",
         "reviewStatus": "review_pending",
-        "locales": 4,
+        "locales": 6,
+        "verdicts": {
+          "publish": 0,
+          "revise": 6,
+          "rewrite": 0
+        },
         "cmsPublished": false,
-        "independentVerdict": null
-      }
+        "sourceAccess": "indexed primary/secondary evidence; direct originals not fully accessible"
+      },
+      "priorPreliminaryReviews": [
+        {
+          "checkedAt": "2026-11-26",
+          "reportUrl": "https://docs.google.com/document/d/1MJ3ATQIflzEK_BafiQz7y27S_1YiffoD4twx56lPfuw/edit",
+          "reviewerMode": "same_chat_preliminary",
+          "reviewStatus": "review_pending",
+          "locales": 4,
+          "cmsPublished": false,
+          "independentVerdict": null
+        }
+      ]
     },
     "editorialHandoff": {
       "effectiveFrom": "2026-11-26",
@@ -5334,6 +5547,15 @@
       "addition": "Direct existing article link, exact whole-paragraph insertion anchor, new fragment only; updated SEO when needed.",
       "cleanWorkingDocument": "Only publication material, brief readiness labels. MICH and technical audit in separate internal document.",
       "publicationGate": "Independent MICH review in clean context and current CMS deduplication required before publication."
+    },
+    "finalMaterialDelivery": {
+      "effectiveFrom": "2026-11-26",
+      "pipeline": "trend-radar/ANALYTICS_DASHBOARD_PIPELINE.md",
+      "newArticle": "Full copy-ready RU and EN articles with source hyperlinks, real visuals and separate SEO title/description/keywords/tags/slug.",
+      "revision": "Exact existing article URL (or Google Doc heading anchor); complete unmodified old text and complete new replacement; updated SEO for each locale; no fragments or instructions.",
+      "addition": "Exact existing URL, full neighbouring paragraph identifying insertion point, only the ready added text, SEO update when needed.",
+      "layout": "One clean editorial Google Doc, clear headings and short source links; no process instructions or full MICH reports inside final material; independent QA kept separately. Preserve canonical slug for updates.",
+      "gate": "Same-chat provisional checks never satisfy independent PUBLISH; do not publish with inaccessible originals or unresolved duplicate."
     }
   },
   "coverageMonitoring": {
@@ -5366,7 +5588,7 @@
         "country": "Финляндия",
         "lastUpdate": "2026-11-26",
         "priority": "urgent",
-        "reason": "Statistics Finland: October existing-home prices −1.9% YoY and −0.2% MoM; Helsinki −3.3%, Oulu −4.0%, Espoo +1.1%; estate-agent sales −9.3% YoY. Preliminary release; inspect revised tables. | WATCH: Statistics Finland October accommodation statistics scheduled 26 Nov; confirm release, then assess regional hotel demand. | 26 Nov: Индексированный выпуск Statistics Finland от 26.11 указывает 1,75 млн ночёвок (+3% г/г) и загрузку 54%; прямой текст финской и английской публикаций недоступен. Числа предварительно обнаружены, не подтверждены полным первоисточником. | 26 Nov: Индексированный выпуск Statistics Finland от 26.11 указывает 1,75 млн ночёвок (+3% г/г) и загрузку 54%; прямой текст финской и английской публикаций недоступен. Числа предварительно обнаружены, не подтверждены полным первоисточником.",
+        "reason": "Statistics Finland: October existing-home prices −1.9% YoY and −0.2% MoM; Helsinki −3.3%, Oulu −4.0%, Espoo +1.1%; estate-agent sales −9.3% YoY. Preliminary release; inspect revised tables. | WATCH: Statistics Finland October accommodation statistics scheduled 26 Nov; confirm release, then assess regional hotel demand. | 26 Nov: Индексированный выпуск Statistics Finland от 26.11 указывает 1,75 млн ночёвок (+3% г/г) и загрузку 54%; прямой текст финской и английской публикаций недоступен. Числа предварительно обнаружены, не подтверждены полным первоисточником. | 26 Nov: Индексированный выпуск Statistics Finland от 26.11 указывает 1,75 млн ночёвок (+3% г/г) и загрузку 54%; прямой текст финской и английской публикаций недоступен. Числа предварительно обнаружены, не подтверждены полным первоисточником. | 26.11 finland-accommodation-oct-nov26-2026: Statistics Finland, предварительный октябрь: 1,75 млн ночёвок (+3% г/г), резиденты 1,34 млн (+2%), нерезиденты 0,41 млн (+4%). Загрузка гостиниц 54% (+1 п.п.), средняя цена номера €113, Лапландия €129. Сентябрь: 61%, €121. Полный официальный индексированный текст FI/EN получен, прямой оригинал недоступен. Черновики созданы, HOLD, не закрывает покрытие.",
         "topics": [
           {
             "name": "Недвижимость",
@@ -5420,33 +5642,37 @@
             "editorialStatus": "hold_verify",
             "expectedReleaseAt": "2026-11-26",
             "sourceUrl": "https://stat.fi/en/publication/cmg51epaqn2ye07w0ieeu4w1p",
-            "editorialNote": "Историческая датировка 19.09 сохранена. Актуальная полнота архива не проверена.",
+            "editorialNote": "Черновик RU/EN; HOLD до первоисточника и независимой проверки.",
             "publicationConfirmed": false,
             "signalAt": "2026-11-26",
-            "editorialScore": 4,
+            "editorialScore": 5,
             "relatedRadarIds": [
               "finland-accommodation-oct-nov26-2026"
             ],
-            "reviewStatus": "source_pending",
-            "coverageStatus": "stale"
+            "reviewStatus": "review_pending",
+            "coverageStatus": "stale",
+            "preparedAt": "2026-11-26",
+            "draftUrl": "https://docs.google.com/document/d/18ZHY6KF28r8DPJvETSKHYcaetU1POX8Yzx9h_EPW74Q/edit"
           },
           {
             "name": "Туризм",
             "lastPublished": "2026-09-19",
             "lastUrl": "https://internationalinvestment.biz/en/finland/8831-lapland-holiday-home-demand-has-quadrupled.html",
             "articleId": "8831",
-            "status": "stale",
+            "status": "watch",
             "signalAt": "2026-11-26",
             "sourceUrl": "https://stat.fi/en/publication/cmg51epaqn2ye07w0ieeu4w1p",
             "editorialStatus": "hold_verify",
-            "editorialScore": 4,
+            "editorialScore": 5,
             "relatedRadarIds": [
               "finland-accommodation-oct-nov26-2026"
             ],
             "publicationConfirmed": false,
-            "reviewStatus": "source_pending",
+            "reviewStatus": "review_pending",
             "coverageStatus": "stale",
-            "editorialNote": "Историческая датировка 19.09 сохранена. Актуальная полнота архива не проверена."
+            "editorialNote": "Черновик RU/EN; HOLD до первоисточника и независимой проверки.",
+            "preparedAt": "2026-11-26",
+            "draftUrl": "https://docs.google.com/document/d/18ZHY6KF28r8DPJvETSKHYcaetU1POX8Yzx9h_EPW74Q/edit"
           }
         ],
         "signalAt": "2026-11-25",
@@ -5455,7 +5681,8 @@
         "editorialStatus": "draft_ready",
         "editorialTitle": "Жильё в Финляндии подешевело на 1,9% в октябре",
         "editorialScore": 5,
-        "publicationConfirmed": false
+        "publicationConfirmed": false,
+        "latestEditorialSignalDate": "2026-11-26"
       },
       {
         "country": "Израиль",
@@ -5952,9 +6179,9 @@
       },
       {
         "country": "Кипр",
-        "lastUpdate": "2026-11-25",
+        "lastUpdate": "2026-11-26",
         "priority": "medium",
-        "reason": "CYSTAT: Jan–Oct arrivals 3,909,839 (−5.6% YoY); October 508,301 (−5.5%). UK 164,512 (32.4%), Israel 49,091 (−17.5% YoY), Poland 40,070 (+10.5%). Arrivals are not hotel occupancy or receipts. | WATCH: CYSTAT August building permits release scheduled 26 Nov; not yet published/verified as of 25 Nov.",
+        "reason": "CYSTAT: Jan–Oct arrivals 3,909,839 (−5.6% YoY); October 508,301 (−5.5%). UK 164,512 (32.4%), Israel 49,091 (−17.5% YoY), Poland 40,070 (+10.5%). Arrivals are not hotel occupancy or receipts. | WATCH: CYSTAT August building permits release scheduled 26 Nov; not yet published/verified as of 25 Nov. | 26.11 cyprus-building-permits-aug-nov26-2026: CYSTAT подтвердил датированный заголовок: −13,8% разрешений в августе. По атрибутированному пересказу Cyprus Inform: январь–август 14 728 предусмотренных жилищ (+58,8%; 9 275 годом ранее); 5 731 разрешение (+18,4%); август 558 разрешений, 1 684 жилища. Прямой августовский оригинал не получен. Черновики созданы, HOLD, не закрывает покрытие. | 26.11 paphos-winter-accommodation-nov20-2026: ETAP, первое найденное сообщение ANT1 20.11, повтор Cyprus Mail 25.11: 12 500 лицензированных мест размещения на декабрь–март, +2 000 к прошлой зиме (~19% расчёт), около 45% мест района. Оценка 150 прибывающих рейсов еженедельно из 42 аэропортов; цель 17 тыс. мест круглый год. Первичный документ ETAP не получен. Черновики созданы, HOLD, не закрывает покрытие.",
         "topics": [
           {
             "name": "Туризм",
@@ -5979,12 +6206,12 @@
           {
             "name": "Отели и гостиничный бизнес",
             "lastPublished": null,
-            "status": "new_candidate",
-            "signalAt": "2026-11-17",
-            "sourceUrl": "https://www.gov.cy/en/economy-and-finance/tourist-arrivals-and-returns-of-residents-of-cyprus-from-trips-abroad-october-2026/",
-            "editorialStatus": "draft_ready",
-            "editorialScore": 3,
-            "preparedAt": "2026-11-25",
+            "status": "watch",
+            "signalAt": "2026-11-20",
+            "sourceUrl": "https://www.ant1live.com/kypros/koinonia/705545_i-pafos-enishyei-ton-heimerino-toyrismo-kai-periorizei-tin-epohikotita-12500",
+            "editorialStatus": "hold_verify",
+            "editorialScore": 4,
+            "preparedAt": "2026-11-26",
             "publicationConfirmed": false,
             "seoIntent": [
               "туризм Кипра 2026",
@@ -5992,19 +6219,40 @@
               "Cyprus tourist arrivals October 2026"
             ],
             "relatedRadarIds": [
-              "cyprus-arrivals-oct-nov17-2026"
+              "paphos-winter-accommodation-nov20-2026"
             ],
-            "editorialNote": "RU/EN draft ready; exact CMS duplicate check pending."
+            "editorialNote": "Черновик RU/EN; HOLD до первоисточника и независимой проверки.",
+            "priorSignal": {
+              "signalAt": "2026-11-17",
+              "editorialStatus": "draft_ready",
+              "sourceUrl": "https://www.gov.cy/en/economy-and-finance/tourist-arrivals-and-returns-of-residents-of-cyprus-from-trips-abroad-october-2026/",
+              "relatedRadarIds": [
+                "cyprus-arrivals-oct-nov17-2026"
+              ],
+              "editorialNote": "RU/EN draft ready; exact CMS duplicate check pending."
+            },
+            "coverageStatus": "unverified",
+            "draftUrl": "https://docs.google.com/document/d/18ZHY6KF28r8DPJvETSKHYcaetU1POX8Yzx9h_EPW74Q/edit",
+            "reviewStatus": "review_pending"
           },
           {
             "name": "Недвижимость",
             "lastPublished": null,
             "status": "watch",
-            "editorialStatus": "watch",
+            "editorialStatus": "hold_verify",
             "expectedReleaseAt": "2026-11-26",
-            "sourceUrl": "https://www.cystat.gov.cy/en/AnnouncementList?p=0",
-            "editorialNote": "CYSTAT August building permits release scheduled 26 Nov; not yet published/verified as of 25 Nov.",
-            "publicationConfirmed": false
+            "sourceUrl": "https://www.cystat.gov.cy/el/PressRelease?id=73483",
+            "editorialNote": "Черновик RU/EN; HOLD до первоисточника и независимой проверки.",
+            "publicationConfirmed": false,
+            "coverageStatus": "unverified",
+            "signalAt": "2026-11-26",
+            "editorialScore": 4,
+            "preparedAt": "2026-11-26",
+            "relatedRadarIds": [
+              "cyprus-building-permits-aug-nov26-2026"
+            ],
+            "draftUrl": "https://docs.google.com/document/d/18ZHY6KF28r8DPJvETSKHYcaetU1POX8Yzx9h_EPW74Q/edit",
+            "reviewStatus": "review_pending"
           }
         ],
         "signalAt": "2026-11-17",
@@ -6013,7 +6261,8 @@
         "editorialStatus": "draft_ready",
         "editorialTitle": "Кипр потерял 5,6% туристов за десять месяцев",
         "editorialScore": 3,
-        "publicationConfirmed": false
+        "publicationConfirmed": false,
+        "latestEditorialSignalDate": "2026-11-20"
       },
       {
         "country": "Канада",
@@ -8987,7 +9236,31 @@
             "name": "Недвижимость",
             "lastPublished": null,
             "status": "unverified",
-            "auditBasis": "no verified country-specific article in audited archive dataset"
+            "auditBasis": "no verified country-specific article in audited archive dataset",
+            "editorialSignal": {
+              "title": "Кипр разрешил строительство 14 728 единиц жилья",
+              "signalAt": "2026-11-26",
+              "reviewedAt": "2026-11-26",
+              "sourceUrl": "https://www.cystat.gov.cy/el/PressRelease?id=73483",
+              "editorialStatus": "hold_verify",
+              "priority": "high",
+              "editorialScore": 4,
+              "seoIntent": [
+                "разрешения на строительство Кипр",
+                "строительство жилья Кипр 2026",
+                "Cyprus building permits"
+              ],
+              "seoBasis": "qualitative; no fresh measured search data",
+              "relatedRadarIds": [
+                "cyprus-building-permits-aug-nov26-2026"
+              ],
+              "publicationConfirmed": false,
+              "decision": "hold",
+              "preparedAt": "2026-11-26",
+              "draftUrl": "https://docs.google.com/document/d/18ZHY6KF28r8DPJvETSKHYcaetU1POX8Yzx9h_EPW74Q/edit",
+              "reviewStatus": "review_pending",
+              "editorialNote": "RU/EN draft complete; source originals and independent MICH pending."
+            }
           },
           {
             "name": "Инвестиции",
@@ -9033,31 +9306,57 @@
             "status": "unverified",
             "auditBasis": "no verified country-specific article in audited archive dataset",
             "editorialSignal": {
-              "title": "Кипр потерял 5,6% туристов за десять месяцев",
-              "signalAt": "2026-11-17",
-              "reviewedAt": "2026-11-25",
-              "sourceUrl": "https://www.gov.cy/en/economy-and-finance/tourist-arrivals-and-returns-of-residents-of-cyprus-from-trips-abroad-october-2026/",
-              "editorialStatus": "draft_ready",
-              "priority": "medium",
-              "editorialScore": 3,
+              "title": "Пафос планирует сохранить 12 500 мест размещения зимой",
+              "signalAt": "2026-11-20",
+              "reviewedAt": "2026-11-26",
+              "sourceUrl": "https://www.ant1live.com/kypros/koinonia/705545_i-pafos-enishyei-ton-heimerino-toyrismo-kai-periorizei-tin-epohikotita-12500",
+              "editorialStatus": "hold_verify",
+              "priority": "high",
+              "editorialScore": 4,
               "seoIntent": [
-                "туризм Кипра 2026",
-                "отельный рынок Кипра",
-                "Cyprus tourist arrivals October 2026"
+                "отели Пафоса зимой",
+                "зимний туризм Кипр",
+                "Paphos winter accommodation"
               ],
               "seoBasis": "qualitative; no fresh measured search data",
               "relatedRadarIds": [
-                "cyprus-arrivals-oct-nov17-2026"
+                "paphos-winter-accommodation-nov20-2026"
               ],
               "publicationConfirmed": false,
-              "decision": "verify_then_new",
-              "referenceArticleIds": [
-                "7274",
-                "6801"
-              ],
-              "preparedAt": "2026-11-25",
-              "editorialNote": "RU/EN draft ready; CMS deduplication pending. Publication status unchanged."
-            }
+              "decision": "hold",
+              "preparedAt": "2026-11-26",
+              "draftUrl": "https://docs.google.com/document/d/18ZHY6KF28r8DPJvETSKHYcaetU1POX8Yzx9h_EPW74Q/edit",
+              "reviewStatus": "review_pending",
+              "editorialNote": "RU/EN draft complete; source originals and independent MICH pending."
+            },
+            "editorialSignalHistory": [
+              {
+                "title": "Кипр потерял 5,6% туристов за десять месяцев",
+                "signalAt": "2026-11-17",
+                "reviewedAt": "2026-11-25",
+                "sourceUrl": "https://www.gov.cy/en/economy-and-finance/tourist-arrivals-and-returns-of-residents-of-cyprus-from-trips-abroad-october-2026/",
+                "editorialStatus": "draft_ready",
+                "priority": "medium",
+                "editorialScore": 3,
+                "seoIntent": [
+                  "туризм Кипра 2026",
+                  "отельный рынок Кипра",
+                  "Cyprus tourist arrivals October 2026"
+                ],
+                "seoBasis": "qualitative; no fresh measured search data",
+                "relatedRadarIds": [
+                  "cyprus-arrivals-oct-nov17-2026"
+                ],
+                "publicationConfirmed": false,
+                "decision": "verify_then_new",
+                "referenceArticleIds": [
+                  "7274",
+                  "6801"
+                ],
+                "preparedAt": "2026-11-25",
+                "editorialNote": "RU/EN draft ready; CMS deduplication pending. Publication status unchanged."
+              }
+            ]
           },
           {
             "name": "ВНЖ и миграция",
@@ -10933,21 +11232,47 @@
             "matchCount": 1,
             "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17",
             "editorialSignal": {
-              "title": "Финляндия: октябрьская статистика гостиниц и ночёвок",
+              "title": "Загрузка отелей Финляндии в октябре достигла 54%",
               "signalAt": "2026-11-26",
               "reviewedAt": "2026-11-26",
               "sourceUrl": "https://stat.fi/en/publication/cmg51epaqn2ye07w0ieeu4w1p",
               "editorialStatus": "hold_verify",
-              "priority": "high",
-              "editorialScore": 4,
+              "priority": "urgent",
+              "editorialScore": 5,
+              "seoIntent": [
+                "отели Финляндии 2026",
+                "загрузка гостиниц Финляндия",
+                "Lapland hotel rates"
+              ],
+              "seoBasis": "qualitative; no fresh measured search data",
               "relatedRadarIds": [
                 "finland-accommodation-oct-nov26-2026"
               ],
               "publicationConfirmed": false,
               "decision": "hold",
-              "reviewStatus": "source_pending",
-              "editorialNote": "Историческая датировка 19.09 сохранена. Актуальная полнота архива не проверена."
-            }
+              "preparedAt": "2026-11-26",
+              "draftUrl": "https://docs.google.com/document/d/18ZHY6KF28r8DPJvETSKHYcaetU1POX8Yzx9h_EPW74Q/edit",
+              "reviewStatus": "review_pending",
+              "editorialNote": "RU/EN draft complete; source originals and independent MICH pending."
+            },
+            "editorialSignalHistory": [
+              {
+                "title": "Финляндия: октябрьская статистика гостиниц и ночёвок",
+                "signalAt": "2026-11-26",
+                "reviewedAt": "2026-11-26",
+                "sourceUrl": "https://stat.fi/en/publication/cmg51epaqn2ye07w0ieeu4w1p",
+                "editorialStatus": "hold_verify",
+                "priority": "high",
+                "editorialScore": 4,
+                "relatedRadarIds": [
+                  "finland-accommodation-oct-nov26-2026"
+                ],
+                "publicationConfirmed": false,
+                "decision": "hold",
+                "reviewStatus": "source_pending",
+                "editorialNote": "Историческая датировка 19.09 сохранена. Актуальная полнота архива не проверена."
+              }
+            ]
           },
           {
             "name": "Отели и гостиничный бизнес",
@@ -10962,21 +11287,47 @@
             "matchCount": 1,
             "auditBasis": "coverage-publications.json country-specific archive reconciliation through 2026-11-17",
             "editorialSignal": {
-              "title": "Финляндия: октябрьская статистика гостиниц и ночёвок",
+              "title": "Загрузка отелей Финляндии в октябре достигла 54%",
               "signalAt": "2026-11-26",
               "reviewedAt": "2026-11-26",
               "sourceUrl": "https://stat.fi/en/publication/cmg51epaqn2ye07w0ieeu4w1p",
               "editorialStatus": "hold_verify",
-              "priority": "high",
-              "editorialScore": 4,
+              "priority": "urgent",
+              "editorialScore": 5,
+              "seoIntent": [
+                "отели Финляндии 2026",
+                "загрузка гостиниц Финляндия",
+                "Lapland hotel rates"
+              ],
+              "seoBasis": "qualitative; no fresh measured search data",
               "relatedRadarIds": [
                 "finland-accommodation-oct-nov26-2026"
               ],
               "publicationConfirmed": false,
               "decision": "hold",
-              "reviewStatus": "source_pending",
-              "editorialNote": "Историческая датировка 19.09 сохранена. Актуальная полнота архива не проверена."
-            }
+              "preparedAt": "2026-11-26",
+              "draftUrl": "https://docs.google.com/document/d/18ZHY6KF28r8DPJvETSKHYcaetU1POX8Yzx9h_EPW74Q/edit",
+              "reviewStatus": "review_pending",
+              "editorialNote": "RU/EN draft complete; source originals and independent MICH pending."
+            },
+            "editorialSignalHistory": [
+              {
+                "title": "Финляндия: октябрьская статистика гостиниц и ночёвок",
+                "signalAt": "2026-11-26",
+                "reviewedAt": "2026-11-26",
+                "sourceUrl": "https://stat.fi/en/publication/cmg51epaqn2ye07w0ieeu4w1p",
+                "editorialStatus": "hold_verify",
+                "priority": "high",
+                "editorialScore": 4,
+                "relatedRadarIds": [
+                  "finland-accommodation-oct-nov26-2026"
+                ],
+                "publicationConfirmed": false,
+                "decision": "hold",
+                "reviewStatus": "source_pending",
+                "editorialNote": "Историческая датировка 19.09 сохранена. Актуальная полнота архива не проверена."
+              }
+            ]
           },
           {
             "name": "ВНЖ и миграция",
@@ -11812,6 +12163,20 @@
         "cellsChanged": 18,
         "source": "Indexed public article text with date and canonical URL; direct archive/open unavailable, targeted check 2026-11-26",
         "note": "Исправления по замечаниям редактора, включая Боснию/Боснию и Герцеговину. 26.11 проведена адресная сверка, не полный новый аудит 90 дней."
+      },
+      "latestEditorialSignalAudit": {
+        "checkedAt": "2026-11-26",
+        "countries": [
+          "Финляндия",
+          "Кипр"
+        ],
+        "articleIds": [
+          "finland-accommodation-oct-nov26-2026",
+          "cyprus-building-permits-aug-nov26-2026",
+          "paphos-winter-accommodation-nov20-2026"
+        ],
+        "publicationAuditChanged": false,
+        "note": "Только сверка сигналов и черновиков. Датированный архив публикаций и исторические статусы сохранены; не полный аудит 59 стран."
       }
     },
     "sync": {
@@ -12415,8 +12780,41 @@
     }
   },
   "dailyUpdate": {
-    "date": "26 ноября 2026",
+    "date": "2026-11-26",
     "items": [
+      {
+        "label": "5/5 — HOLD / RU+EN",
+        "title": "Загрузка отелей Финляндии в октябре достигла 54%",
+        "source": "Statistics Finland — 26 Nov",
+        "url": "https://stat.fi/en/publication/cmg51epaqn2ye07w0ieeu4w1p",
+        "priority": "urgent",
+        "signal": "Statistics Finland, предварительный октябрь: 1,75 млн ночёвок (+3% г/г), резиденты 1,34 млн (+2%), нерезиденты 0,41 млн (+4%). Загрузка гостиниц 54% (+1 п.п.), средняя цена номера €113, Лапландия €129. Сентябрь: 61%, €121. Полный официальный индексированный текст FI/EN получен, прямой оригинал недоступен.",
+        "action": "Новая статья: RU/EN + SEO + диаграмма; прямая сверка и независимый МИЧ pending.",
+        "draftUrl": "https://docs.google.com/document/d/18ZHY6KF28r8DPJvETSKHYcaetU1POX8Yzx9h_EPW74Q/edit",
+        "reviewStatus": "review_pending"
+      },
+      {
+        "label": "4/5 — HOLD / RU+EN",
+        "title": "Кипр разрешил строительство 14 728 единиц жилья",
+        "source": "CYSTAT — August headline",
+        "url": "https://www.cystat.gov.cy/el/PressRelease?id=73483",
+        "priority": "high",
+        "signal": "CYSTAT подтвердил датированный заголовок: −13,8% разрешений в августе. По атрибутированному пересказу Cyprus Inform: январь–август 14 728 предусмотренных жилищ (+58,8%; 9 275 годом ранее); 5 731 разрешение (+18,4%); август 558 разрешений, 1 684 жилища. Прямой августовский оригинал не получен.",
+        "action": "Новая статья: RU/EN + SEO + диаграмма; прямая сверка и независимый МИЧ pending.",
+        "draftUrl": "https://docs.google.com/document/d/18ZHY6KF28r8DPJvETSKHYcaetU1POX8Yzx9h_EPW74Q/edit",
+        "reviewStatus": "review_pending"
+      },
+      {
+        "label": "4/5 — HOLD / RU+EN",
+        "title": "Пафос планирует сохранить 12 500 мест размещения зимой",
+        "source": "ANT1 — 20 Nov, ETAP report",
+        "url": "https://www.ant1live.com/kypros/koinonia/705545_i-pafos-enishyei-ton-heimerino-toyrismo-kai-periorizei-tin-epohikotita-12500",
+        "priority": "high",
+        "signal": "ETAP, первое найденное сообщение ANT1 20.11, повтор Cyprus Mail 25.11: 12 500 лицензированных мест размещения на декабрь–март, +2 000 к прошлой зиме (~19% расчёт), около 45% мест района. Оценка 150 прибывающих рейсов еженедельно из 42 аэропортов; цель 17 тыс. мест круглый год. Первичный документ ETAP не получен.",
+        "action": "Новая статья: RU/EN + SEO + диаграмма; прямая сверка и независимый МИЧ pending.",
+        "draftUrl": "https://docs.google.com/document/d/18ZHY6KF28r8DPJvETSKHYcaetU1POX8Yzx9h_EPW74Q/edit",
+        "reviewStatus": "review_pending"
+      },
       {
         "label": "5/5 — RU/EN черновик / независимая проверка pending",
         "title": "Чистая миграция в Великобританию сократилась до 77 тысяч",
@@ -12448,157 +12846,31 @@
     "previousDate": "25 ноября 2026",
     "previousItems": [
       {
-        "label": "5/5 — ГОРИТ (24h) / UPDATE",
-        "title": "Португалия одобрила бюджет с отменой льготы для арендодателей",
-        "source": "Assembleia da República — календарь голосования",
-        "url": "https://www.parlamento.pt/Paginas/2026/novembro/OE2027_debate-votacao-especialidade-final-globa-23-24nov.aspx",
+        "label": "5/5 — RU/EN черновик / независимая проверка pending",
+        "title": "Чистая миграция в Великобританию сократилась до 77 тысяч",
+        "source": "ONS — Long-term international migration, provisional, year ending June 2026",
+        "url": "https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/internationalmigration/bulletins/longterminternationalmigrationprovisional/yearendingjune2026/pdf",
         "priority": "urgent",
-        "signal": "Парламент одобрил бюджет OE2027 24 ноября. В принятую парламентом редакцию включена отмена льготной ставки IRS 10% на умеренную аренду жилья до €2300 в месяц. По данным RTP/ECO, предполагается прекращение льготы в 2027; окончательное опубликование, дата применения и переходные правила требуют сверки с Diário da República. Другие режимы аренды оценивать отдельно.",
-        "action": "Обновить заголовок, лид и FAQ статьи №9183: бюджет принят парламентом, льгота подлежит отмене; отдельно объяснить промульгацию и опубликование."
+        "signal": "ONS: 77 тыс. чистой миграции за 12 месяцев до июня 2026 против пересмотренных 204 тыс. годом ранее; снижение на 127 тыс. (~62%). Предварительная оценка. Прямой PDF прочитан.",
+        "action": "RU/EN черновики готовы, проверить независимым агентом и сверить CMS до публикации."
       },
       {
-        "label": "5/5 — ГОРИТ (24h) / NEW",
-        "title": "Во Франции ускорилось падение цен на вторичное жильё",
-        "source": "INSEE/Notaires 24 Nov 2026 — EN",
-        "url": "https://www.insee.fr/en/statistiques/9156671",
-        "priority": "urgent",
-        "signal": "INSEE/Notaires, Q3 2026 provisional, France excluding Mayotte: existing-home prices -1.2% YoY vs -0.8% Q2 and 0.0% Q1; flats -1.0%, houses -1.3% YoY. Seasonally adjusted quarter-on-quarter -0.3% vs -1.0% Q2. 956,000 transactions in rolling 12 months ending September vs 959,000 ending June.",
-        "action": "Почему годовое снижение ускорилось, хотя квартальное смягчилось; сравнить квартиры и дома, динамику сделок, условия для покупателей без прогноза цен."
-      },
-      {
-        "label": "4/5 — ВЫСОКИЙ (48h) / NEW",
-        "title": "Англия и Уэльс готовятся отказаться от leasehold",
-        "source": "UK Parliament — Bill 4331",
-        "url": "https://bills.parliament.uk/bills/4331",
+        "label": "4/5 — RU/EN черновик / независимая проверка pending",
+        "title": "Средняя ипотека в Испании достигла €178 352",
+        "source": "INE — Estadística de Hipotecas, septiembre 2026, 25 Nov",
+        "url": "https://www.ine.es/dyngs/Prensa/H0926.htm",
         "priority": "high",
-        "signal": "Commonhold and Leasehold Reform Bill introduced 19 Nov, Commons first reading. Government proposes £250 annual ground-rent cap, peppercorn after 40 years; 50% qualifying leaseholders threshold for conversion; restriction on new leasehold flats and transition to commonhold. Ground rent cap intended 6 months after Royal Assent, expected in 2028; most new-flat ban planned around 2031 subject to legislation and exemptions. England and Wales only; bill is not law.",
-        "action": "Разобрать leasehold, freehold и commonhold, очередность реформ, действующие договоры и новостройки, сервисные платежи; не выдавать проект за закон."
+        "signal": "INE: сентябрь 2026 — 46 469 ипотек на жильё (+2,3% г/г), средняя сумма €178 352 (+3,7%), средняя начальная ставка 3,05%, фиксированная ставка 62,5%. Наварра +33,3%, Балеарские острова −34,0%; разрыв 67,3 п.п. Прямой выпуск открыт; исторические абсолютные числа из устаревшего ряда исключены.",
+        "action": "RU/EN черновики готовы, проверить независимым агентом и сверить CMS до публикации."
       },
       {
-        "label": "4/5 — ВЫСОКИЙ (48h) / NEW",
-        "title": "Греция заработала на туристах почти €22 млрд",
-        "source": "Bank of Greece, travel services 23 Nov",
-        "url": "https://www.bankofgreece.gr/en/news-and-media/press-office/news-list/news?announcement=b2377b1d-1d1e-4380-8f23-eeb3d9a45250",
+        "label": "4/5 — HOLD / открыть оригинал",
+        "title": "Финляндия: октябрьская статистика гостиниц и ночёвок",
+        "source": "Statistics Finland — accommodation statistics, indexed release",
+        "url": "https://stat.fi/en/publication/cmg51epaqn2ye07w0ieeu4w1p",
         "priority": "high",
-        "signal": "Bank of Greece provisional September 2026: travel receipts €3,760.6m (+11.1% YoY), inbound travellers 5.7161m (+0.6%), average expenditure per trip +10.2%. Jan–Sep receipts €21,958.1m (+9.7%), travellers 34.2254m (+8.3%). September German receipts +48.6%, UK -15.2%, US -15.1%; expenditure is travel receipts, not hotel room revenue; cruise exclusion as stated by source.",
-        "action": "Доходы растут быстрее потока, как изменились расходы туристов и роль Германии, Великобритании и США. Сопоставить августовскую карточку."
-      },
-      {
-        "label": "3/5 — НА НЕДЕЛЕ / NEW",
-        "title": "Туризм принёс Португалии €24,3 млрд за девять месяцев",
-        "source": "Turismo de Portugal/TravelBI, 20 Nov",
-        "url": "https://travelbi.turismodeportugal.pt/en/tourism-in-portugal/tourism-outlook-september-2026/",
-        "priority": "medium",
-        "signal": "Turismo de Portugal/INE/Banco de Portugal: September accommodation 3.4m guests (+2.5% YoY), 8.7m nights (+2.0%); travel receipts €3.3bn (+3.9%). Jan–Sep 25.8m guests, 66.0m nights, receipts €24.3bn. September nights: Norte +6.6%, Centro and Grande Lisboa +2.8%; receipts are broader than accommodation revenue.",
-        "action": "Сравнить географию ночёвок, туристические поступления и рынки происхождения; отделить гостиничные показатели от платёжного баланса."
-      },
-      {
-        "label": "3/5 — НА НЕДЕЛЕ / NEW",
-        "title": "Гостиничный RevPAR Канады растёт десятый месяц подряд",
-        "source": "CoStar/STR Canada 19 Nov",
-        "url": "https://www.costar.com/fr-ca/can/produits/str-benchmark/ressources/communiques-de-presse/canada-hotels-report-10-consecutive-months-revpar-growth",
-        "priority": "medium",
-        "signal": "CoStar October 2026: occupancy 71.4% (+2.4% relative YoY), ADR CAD227.75 (+6.5%), RevPAR CAD162.61 (+9.0%); tenth consecutive month of annual ADR and RevPAR growth. Manitoba RevPAR +22.6% to CAD151.37; Nova Scotia ADR +12.5% to CAD236.09.",
-        "action": "Сравнить октябрь и сентябрь, Манитобу и другие провинции, динамику цен и загрузки; RevPAR не чистая доходность."
-      },
-      {
-        "label": "1/5 — НАБЛЮДАТЬ / HOLD",
-        "title": "Eurostat: новый ежегодник Housing in Europe 2026",
-        "source": "Eurostat release calendar",
-        "url": "https://ec.europa.eu/eurostat/en/news/release-calendar",
-        "priority": "medium",
-        "signal": "Календарь Eurostat указывает выпуск Housing in Europe 2026 edition 25 ноября. На момент проверки сам новый релиз не найден. Не использовать цифры предыдущего ежегодника как новые.",
-        "action": "После выхода сверить таблицы стран, единицы и версии рядов; проверить существующие статьи по доступности жилья."
-      },
-      {
-        "label": "5/5 — RU/EN черновик",
-        "title": "Жильё в Финляндии подешевело на 1,9% в октябре",
-        "source": "Statistics Finland",
-        "url": "https://stat.fi/en/publication/cmetmuvoskyag07uev9wi5i8t",
-        "priority": "urgent",
-        "signal": "Statistics Finland: October existing-home prices −1.9% YoY and −0.2% MoM; Helsinki −3.3%, Oulu −4.0%, Espoo +1.1%; estate-agent sales −9.3% YoY. Preliminary release; inspect revised tables. | WATCH: Statistics Finland October accommodation statistics scheduled 26 Nov; confirm release, then assess regional hotel demand.",
-        "action": "Сверить текущий CMS перед публикацией подготовленного RU/EN материала; не подменять данные публикационного аудита."
-      },
-      {
-        "label": "5/5 — RU/EN черновик",
-        "title": "Банк Израиля сохранил ставку 3,25%, жильё дешевеет",
-        "source": "Bank of Israel",
-        "url": "https://www.boi.org.il/en/communication-and-publications/press-releases/the-monetary-committee-decides-on-november-23-2026-to-keep-the-interest-rate-unchanged-at-325-percent/",
-        "priority": "urgent",
-        "signal": "Bank of Israel: policy rate 3.25%; October CPI +1.1% YoY, Aug–Sep home prices −1.5% YoY, October new mortgages ~NIS10bn seasonally adjusted; CPI housing +4.2% YoY, lease renewals +2.8%, new tenants +5.5%.",
-        "action": "Сверить текущий CMS перед публикацией подготовленного RU/EN материала; не подменять данные публикационного аудита."
-      },
-      {
-        "label": "4/5 — RU/EN черновик",
-        "title": "На Мальте одобрили на 37% меньше новых домов и квартир",
-        "source": "NSO Malta",
-        "url": "https://nso.gov.mt/residential-building-permits-q3-2026/",
-        "priority": "high",
-        "signal": "ETC Q3: Malta +18% international arrivals. The 16 Nov ETC article is multi-country autumn/winter demand and does not replace a country-specific Malta tourism page. | Malta NSO Q3: 444 permits (−25.1% YoY), 2,298 approved dwellings (−37.4% YoY); 1,608 apartments. Distinguish permit documents, dwellings and actual construction completions.",
-        "action": "Сверить текущий CMS перед публикацией подготовленного RU/EN материала; не подменять данные публикационного аудита."
-      },
-      {
-        "label": "3/5 — RU/EN черновик",
-        "title": "Кипр потерял 5,6% туристов за десять месяцев",
-        "source": "CYSTAT",
-        "url": "https://www.gov.cy/en/economy-and-finance/tourist-arrivals-and-returns-of-residents-of-cyprus-from-trips-abroad-october-2026/",
-        "priority": "medium",
-        "signal": "CYSTAT: Jan–Oct arrivals 3,909,839 (−5.6% YoY); October 508,301 (−5.5%). UK 164,512 (32.4%), Israel 49,091 (−17.5% YoY), Poland 40,070 (+10.5%). Arrivals are not hotel occupancy or receipts. | WATCH: CYSTAT August building permits release scheduled 26 Nov; not yet published/verified as of 25 Nov.",
-        "action": "Сверить текущий CMS перед публикацией подготовленного RU/EN материала; не подменять данные публикационного аудита."
-      },
-      {
-        "label": "3/5 — RU/EN черновик",
-        "title": "Словакия установила сентябрьский рекорд по числу гостей",
-        "source": "Statistical Office of the Slovak Republic",
-        "url": "https://slovak.statistics.sk/wps/portal/ext/products/informationmessages/inf_sprava_detail/%21ut/p/z0/fY5Lb8IwEIR_Sw8cHT8T7COpVAqtKlWoKvhS2YkDrokdYpM-fn0Nd3rZndGu5hso4RZKrya7V8kGr47Z72T18Tpf8brGC4TqZ4pW66fNy-P9A1m-lXBjPFxDaXVffDV9gQqGCOGkEmXJqBBUXCLs5-kkF1A2wSfzneA26KgOILoZiimjGnC9-JT98fyrf2YIY2DOYxiiU-D6E5N16oL6v89tmvHA-g4olylZhLHPqZM3IA6jmjJyiia5vOdc0860CrQV5YCJrLQWLA_GSYs7rBsBB7d8B3J39wfDAY7H/",
-        "priority": "medium",
-        "signal": "ETC Q3: Slovakia +15% international arrivals. No new country-specific tourism article verified through 16 Nov. | Statistical Office: September ~604,000 accommodation guests (+7% YoY), ~1.5m nights (+5.5%); foreign nights ~558,000 (+14%). Six of eight regions reached guest-count records; separate from ETC arrivals measure.",
-        "action": "Сверить текущий CMS перед публикацией подготовленного RU/EN материала; не подменять данные публикационного аудита."
-      },
-      {
-        "label": "5/5 — RU/EN черновик",
-        "title": "Число туристических ночёвок в Словении выросло на 7,1%",
-        "source": "SURS",
-        "url": "https://www.stat.si/StatWeb/en/News/Index/14756",
-        "priority": "urgent",
-        "signal": "Окончательные данные: январь–октябрь 17 390 094 ночёвки (+7,1% г/г); октябрь 1 317 490 (+7,1%). Горные курорты 299 855 (+17,1%), термальные 275 655 (+1,0%), Любляна 262 441 (+3,2%), побережье 260 665 (+9,8%).",
-        "action": "Сравнить направления, гостиницы и частное размещение; ночёвки не равны числу туристов."
-      },
-      {
-        "label": "4/5 — RU/EN черновик",
-        "title": "В Австрии за летний сезон — более 85 млн ночёвок",
-        "source": "Statistics Austria",
-        "url": "https://www.statistik.at/statistiken/tourismus-und-verkehr/tourismus/beherbergung/ankuenfte-naechtigungen",
-        "priority": "high",
-        "signal": "Летний сезон май–октябрь: более 85 млн ночёвок. В октябре предварительно 9,2477 млн ночёвок (примерно без изменений), 3,3903 млн прибытий (+0,5%). Тироль: 2,2858 млн ночёвок (−2,8%). Вена: 1,8738 млн — подстановка прошлогодних данных из-за сбоя VIETOUR, не новое наблюдение.",
-        "action": "Объяснить сезон и региональный контраст; результат Вены не интерпретировать как фактическую динамику. Сверить окончательный выпуск 4 декабря."
-      },
-      {
-        "label": "5/5 — RU/EN черновик",
-        "title": "В Ирландии завершили строительство 26,8 тыс. домов за девять месяцев",
-        "source": "CSO Ireland — Housing Hub",
-        "url": "https://www.cso.ie/en/csolatestnews/pressreleases/2026pressreleases/pressstatement-highlightsfromthehousinghubnovember2026/",
-        "priority": "urgent",
-        "signal": "Январь–сентябрь 26 833 завершённых жилых единицы (+10,6% г/г); III квартал 10 154 (+10,4%), в том числе 3 464 квартиры (+9,8%). Январь–октябрь 29 092 начала строительства по уведомлениям. В октябре частная аренда +5,5% г/г, муниципальная +12,7%.",
-        "action": "Разделить ввод и уведомления о начале работ; показать квартиры, аренду и трудовые затраты без прогнозов цен."
-      },
-      {
-        "label": "4/5 — RU/EN черновик",
-        "title": "Япония зафиксировала рекордные 3,91 млн въездов в октябре",
-        "source": "JNTO",
-        "url": "https://www.jnto.go.jp/news/press/20261118_monthly.html",
-        "priority": "high",
-        "signal": "Октябрь 3 912 500 въездов (+0,4% г/г), новый месячный максимум. Январь–октябрь 34 643 000 (−2,5%). Южная Корея 1 035 800 (+19,4%), материковый Китай 379 500 (−47%), Тайвань 634 600 (+6,5%).",
-        "action": "Сравнить рынки происхождения и динамику въездов, не смешивать с числом уникальных туристов или поисковым спросом Amadeus."
-      },
-      {
-        "label": "2/5 — HOLD / сверить GUS",
-        "title": "В Польше в октябре начали строить меньше жилья",
-        "source": "Statistics Poland — официальный макрообзор",
-        "url": "https://ssgk.stat.gov.pl/",
-        "priority": "medium",
-        "signal": "HOLD: вторичные пересказы GUS приводят за октябрь 18 496 начатых жилых единиц, 20 042 завершённых, 23 572 разрешённых. Январь–октябрь: 192 053 начатых (+3,1%), 169 269 завершённых (+2,7%), 239 578 разрешённых (+10,4%). Отдельный октябрьский оригинал недоступен; первичные цифры не считаются подтверждёнными.",
-        "action": "Не публиковать до сверки оригинального октябрьского релиза GUS. Разделять начала, завершения и разрешения."
+        "signal": "Индексированный выпуск Statistics Finland от 26.11 указывает 1,75 млн ночёвок (+3% г/г) и загрузку 54%; прямой текст финской и английской публикаций недоступен. Числа предварительно обнаружены, не подтверждены полным первоисточником.",
+        "action": "Получить полный оригинальный выпуск, затем писать."
       }
     ]
   }
